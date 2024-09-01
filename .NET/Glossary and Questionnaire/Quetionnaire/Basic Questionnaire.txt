@@ -1739,4 +1739,10 @@ Ans- Shellsort can be added as an option in the sorting animator by implementing
 
 (------------------------------------------------------------------------)
 
+292- What are the advantages of using the State pattern in a frequent flyer program?
+
+Ans- It allows for dynamic behavior changes based on the membership tier, such as different benefits and rules, by encapsulating tier-specific behaviors in state objects.
+
+(------------------------------------------------------------------------)
+
 
