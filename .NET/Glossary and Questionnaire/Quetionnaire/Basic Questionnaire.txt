@@ -190,3 +190,9 @@ Ans- The Strategy pattern defines a family of algorithms, encapsulates each one,
 
 (-----------------------------------------------------------------------)
 
+33- What is the Adapter pattern?
+
+Ans- The Adapter pattern allows objects with incompatible interfaces to work together by converting the interface of a class into another interface expected by clients.
+
+(-----------------------------------------------------------------------)
+
