@@ -304,6 +304,12 @@ Ans- Passes a request along a chain of handlers, where each handler has the oppo
 
 (------------------------------------------------------------------------)
 
+52- How do design patterns relate to language features in C#?
+
+Ans- The implementation of patterns in C# often involves advanced features such as generics, indexers, and delegates.
+
+(------------------------------------------------------------------------)
+
 
 
 
