@@ -388,6 +388,12 @@ Ans- Implicit typing, which infers variable types from initializer expressions.
 
 (-----------------------------------------------------------------------)
 
+66- What feature in C# 3.0 allows you to add methods to existing types without modifying their definitions?
+
+Ans- Extension methods.
+
+(-----------------------------------------------------------------------)
+
 
 
 
