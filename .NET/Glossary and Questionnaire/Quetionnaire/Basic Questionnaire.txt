@@ -358,6 +358,12 @@ Ans- Generics, allowing parameterization of classes, structs, and methods by dat
 
 (-----------------------------------------------------------------------)
 
+61- What feature in C# 2.0 enables inline code blocks for delegate values?
+
+Ans- Anonymous methods.
+
+(-----------------------------------------------------------------------)
+
 
 
 
