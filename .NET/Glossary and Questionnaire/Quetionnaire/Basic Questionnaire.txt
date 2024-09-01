@@ -1301,4 +1301,10 @@ Ans- Limitations include potential complexity in managing multiple interfaces an
 
 (------------------------------------------------------------------------)
 
+219- How does a Two-Way Adapter handle properties and methods differently compared to a regular Adapter?
+
+Ans- A Two-Way Adapter must handle both properties and methods from multiple interfaces, ensuring proper adaptation in both directions, while a regular Adapter typically manages only one direction of adaptation.
+
+(------------------------------------------------------------------------)
+
 
