@@ -1096,3 +1096,9 @@ Ans- Interfaces allow defining operations that components and composites must im
 
 (-----------------------------------------------------------------------)
 
+185- How does the Composite pattern handle operations on both single objects and groups?
+
+Ans- It delegates operations to either single objects or recursively to composite objects.
+
+(-----------------------------------------------------------------------)
+
