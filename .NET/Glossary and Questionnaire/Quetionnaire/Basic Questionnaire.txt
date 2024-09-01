@@ -1409,3 +1409,9 @@ Ans- They simplify object creation and manage complex construction processes by 
 
 (------------------------------------------------------------------------)
 
+237- What is the Prototype pattern?
+
+Ans- It creates new objects by copying an existing prototype rather than through direct instantiation.
+
+(------------------------------------------------------------------------)
+
