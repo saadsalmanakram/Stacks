@@ -634,3 +634,10 @@ Ans- It allows mobile apps to create display objects tailored for smaller screen
 
 (-----------------------------------------------------------------------)
 
+107- When is the Decorator pattern generally recommended?
+
+Ans- The Decorator pattern is recommended when you need to add behavior to objects dynamically and flexibly without modifying the original object’s code.
+
+(-----------------------------------------------------------------------)
+
+
