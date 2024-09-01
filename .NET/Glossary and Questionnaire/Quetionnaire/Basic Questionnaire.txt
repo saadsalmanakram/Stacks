@@ -1030,3 +1030,9 @@ Ans- By sharing identical components across composites to reduce memory usage.
 
 (-----------------------------------------------------------------------)
 
+174- What is the main benefit of using the Flyweight pattern?
+
+Ans- It saves memory by sharing objects that are identical in value.
+
+(-----------------------------------------------------------------------)
+
