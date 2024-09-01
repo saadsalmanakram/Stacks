@@ -16,3 +16,9 @@ Ans- ASP.NET Core is a cross-platform framework for building modern, cloud-based
 
 (-------------------------------------------------------------------------)
 
+4- What is the role of Visual Studio in .NET development?
+
+Ans- Visual Studio is an integrated development environment (IDE) used to build .NET applications, providing tools for coding, debugging, and testing.
+
+(-------------------------------------------------------------------------)
+
