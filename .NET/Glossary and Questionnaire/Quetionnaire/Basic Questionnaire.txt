@@ -1469,4 +1469,10 @@ Ans- When a class cannot anticipate the type of objects it needs to create or wh
 
 (------------------------------------------------------------------------)
 
+247- What is the Singleton pattern?
+
+Ans- It ensures that only one instance of a class is created and provides a global point of access to that instance.
+
+(------------------------------------------------------------------------)
+
 
