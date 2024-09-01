@@ -382,6 +382,12 @@ Ans- Types that represent values that can be unknown and include an additional n
 
 (-----------------------------------------------------------------------)
 
+65- What was a significant addition to C# 3.0 related to local variables?
+
+Ans- Implicit typing, which infers variable types from initializer expressions.
+
+(-----------------------------------------------------------------------)
+
 
 
 
