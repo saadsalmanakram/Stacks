@@ -268,4 +268,16 @@ Ans- The Memento pattern captures and externalizes an object's internal state wi
 
 (-----------------------------------------------------------------------)
 
+46- How does the Abstract Factory pattern differ from the Factory Method pattern?
+
+Ans- The Abstract Factory pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes, whereas the Factory Method pattern provides an interface for creating a single object.
+
+(-----------------------------------------------------------------------)
+
+47- What is the purpose of design pattern diagrams?
+
+Ans- Design pattern diagrams illustrate the roles and relationships of pattern elements, aiding in understanding and communication.
+
+(-----------------------------------------------------------------------)
+
 
