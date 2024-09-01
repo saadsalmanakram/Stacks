@@ -58,3 +58,9 @@ Ans- Common front-end frameworks include ASP.NET Core, Blazor, Angular, and Reac
 
 (-------------------------------------------------------------------------)
 
+11- What is SQL Server, and why is it relevant?
+
+Ans- SQL Server is a relational database management system by Microsoft, widely used for backend database management in .NET applications.
+
+(-------------------------------------------------------------------------)
+
