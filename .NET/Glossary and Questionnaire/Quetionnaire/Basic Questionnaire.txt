@@ -562,3 +562,9 @@ Ans- Façade, Subsystem Classes.
 
 (------------------------------------------------------------------------)
 
+95- Can there be multiple decorators in the Decorator pattern?
+
+Ans- Yes, different types of decorators like tags, borders, or invisibility can be applied.
+
+(------------------------------------------------------------------------)
+
