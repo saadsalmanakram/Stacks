@@ -1114,3 +1114,8 @@ Ans- Typically, an error is raised, as adding or removing is meant for composite
 
 (-----------------------------------------------------------------------)
 
+188- How can you model a manager who leads various employees using the Composite pattern?
+
+Ans- Use the Composite pattern to treat individual employees and groups of employees (managers) uniformly, where both are treated as components in a tree structure.
+
+(-----------------------------------------------------------------------)
