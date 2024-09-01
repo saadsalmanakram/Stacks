@@ -160,3 +160,9 @@ Ans- Design patterns provide a common language for discussing solutions and enha
 
 (-----------------------------------------------------------------------)
 
+28- What is the Observer pattern used for?
+
+Ans- The Observer pattern is used for defining a one-to-many dependency between objects, so when one object changes state, all its dependents are notified.
+
+(-----------------------------------------------------------------------)
+
