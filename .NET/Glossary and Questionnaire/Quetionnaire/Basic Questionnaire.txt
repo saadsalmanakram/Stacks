@@ -1661,3 +1661,10 @@ Ans- The Template Method pattern defines the skeleton of an algorithm in a base 
 
 (------------------------------------------------------------------------)
 
+279- What are the benefits of using the Template Method pattern?
+
+Ans- It promotes code reuse and ensures a consistent algorithm structure while allowing flexibility in specific steps.
+
+(------------------------------------------------------------------------)
+
+
