@@ -1733,4 +1733,10 @@ Ans- Use cases include different algorithms for sorting, validation strategies i
 
 (------------------------------------------------------------------------)
 
+291- How can Shellsort be integrated into a sorting animator?
+
+Ans- Shellsort can be added as an option in the sorting animator by implementing it as a new sorting strategy and adding corresponding UI elements for user selection.
+
+(------------------------------------------------------------------------)
+
 
