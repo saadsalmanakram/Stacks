@@ -1048,3 +1048,9 @@ Ans- They allow the creation of flexible components and composites that can work
 
 (-----------------------------------------------------------------------)
 
+177- What is the role of properties in C# when implementing the Composite pattern?
+
+Ans- Properties provide controlled access to component data, ensuring encapsulation.
+
+(-----------------------------------------------------------------------)
+
