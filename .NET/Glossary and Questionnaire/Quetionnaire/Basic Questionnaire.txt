@@ -69,3 +69,10 @@ Ans- SQL Server is a relational database management system by Microsoft, widely 
 Ans- RESTful APIs are web services that follow REST principles, allowing communication between client and server; crucial for building scalable web applications.
 
 (-------------------------------------------------------------------------)
+
+13- What is CI/CD in the context of .NET development?
+
+Ans- CI/CD stands for Continuous Integration and Continuous Deployment, essential practices for automating the software delivery process.
+
+(-------------------------------------------------------------------------)
+
