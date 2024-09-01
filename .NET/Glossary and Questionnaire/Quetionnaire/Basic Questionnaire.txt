@@ -1132,3 +1132,9 @@ Ans- Changing to a Dictionary will make the Find operation more efficient by all
 
 (-----------------------------------------------------------------------)
 
+191- How can you reprogram the Composite pattern with separate interfaces for components and composites?
+
+Ans- Define IComponent for common operations and IComposite<T> for operations specific to composites, separating the concerns and reducing generic complexity.
+
+(------------------------------------------------------------------------)
+
