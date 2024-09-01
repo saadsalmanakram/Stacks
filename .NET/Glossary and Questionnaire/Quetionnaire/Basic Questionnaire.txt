@@ -100,3 +100,9 @@ Ans- The key products are .NET Framework (Windows), .NET Core (cross-platform), 
 
 (------------------------------------------------------------------------)
 
+18- What are some productivity features of .NET?
+
+Ans- Key productivity features include Generics, Language Integrated Query (LINQ), and asynchronous programming.
+
+(------------------------------------------------------------------------)
+
