@@ -448,7 +448,11 @@ Ans- Decorators add functionality without modifying the original class, whereas 
 
 (-----------------------------------------------------------------------)
 
+76- What are the main components of the Decorator pattern?
 
+Ans- Component, IComponent, Decorator.
+
+(-----------------------------------------------------------------------)
 
 
 
