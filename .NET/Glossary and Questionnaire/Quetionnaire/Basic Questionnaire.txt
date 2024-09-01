@@ -1349,4 +1349,10 @@ Ans- An opaque Façade hides all subsystem details, only exposing high-level ope
 
 (------------------------------------------------------------------------)
 
+227- What is a "transparent" Façade?
+
+Ans- A transparent Façade allows clients to access subsystem operations directly in addition to through the Façade.
+
+(------------------------------------------------------------------------)
+
 
