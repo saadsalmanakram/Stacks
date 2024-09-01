@@ -256,3 +256,10 @@ Ans- The Flyweight pattern is used for minimizing memory usage by sharing as muc
 
 (-----------------------------------------------------------------------)
 
+44- What is the Bridge pattern?
+
+Ans- The Bridge pattern separates abstraction from implementation, allowing both to evolve independently.
+
+(-----------------------------------------------------------------------)
+
+
