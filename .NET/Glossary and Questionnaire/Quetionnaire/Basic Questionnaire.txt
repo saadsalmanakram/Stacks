@@ -1078,3 +1078,9 @@ Ans- Initializers allow for the straightforward creation and setup of composite 
 
 (-----------------------------------------------------------------------)
 
+182- What role do anonymous types play in these structural patterns?
+
+Ans- They enable the quick creation of temporary objects without explicitly defining a class.
+
+(-----------------------------------------------------------------------)
+
