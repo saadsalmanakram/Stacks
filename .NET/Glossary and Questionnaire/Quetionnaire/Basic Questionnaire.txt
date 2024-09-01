@@ -1439,4 +1439,10 @@ Ans- When creating objects is expensive and only a few variations are needed, or
 
 (------------------------------------------------------------------------)
 
+242- What C# features support the implementation of the Prototype pattern?
+
+Ans- Cloning through MemberwiseClone and serialization for deep copying.
+
+(------------------------------------------------------------------------)
+
 
