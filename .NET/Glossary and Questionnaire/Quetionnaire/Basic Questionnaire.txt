@@ -1222,3 +1222,10 @@ Ans- It enables integration of components with incompatible interfaces and promo
 Ans- The Façade pattern provides a simplified, unified interface to a set of complex subsystems.
 
 (------------------------------------------------------------------------)
+
+206- How does the Façade pattern simplify interactions with complex systems?
+
+Ans- By offering a higher-level interface that hides the complexities of the subsystem interactions.
+
+(------------------------------------------------------------------------)
+
