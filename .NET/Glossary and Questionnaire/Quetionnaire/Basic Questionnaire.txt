@@ -1445,4 +1445,10 @@ Ans- Cloning through MemberwiseClone and serialization for deep copying.
 
 (------------------------------------------------------------------------)
 
+243- How is deep copying implemented in C#?
+
+Ans- By serializing the object to a memory stream and then deserializing it to create a complete copy.
+
+(------------------------------------------------------------------------)
+
 
