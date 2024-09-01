@@ -1829,3 +1829,9 @@ Ans- By including player attributes like strength or stamina in the context, sta
 
 (------------------------------------------------------------------------)
 
+307- Can the IState class be implemented without virtual methods?
+
+Ans- Yes, using interfaces without virtual methods is an alternative, but it requires all state-specific behavior to be implemented in concrete classes rather than allowing overrides.
+
+(------------------------------------------------------------------------)
+
