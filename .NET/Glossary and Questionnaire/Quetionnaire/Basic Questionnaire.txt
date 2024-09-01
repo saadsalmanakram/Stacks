@@ -766,5 +766,11 @@ Ans- Use a virtual proxy when object creation is expensive or resource-intensive
 
 (-----------------------------------------------------------------------)
 
+130- Describe a situation where an authentication proxy is useful.
+
+Ans- An authentication proxy is useful in scenarios requiring user authentication before accessing sensitive resources, like logging into a secure website.
+
+(-----------------------------------------------------------------------)
+
 
 
