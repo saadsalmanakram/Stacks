@@ -1186,4 +1186,17 @@ Ans- It allows old code with different interfaces to be used with new systems wi
 
 (------------------------------------------------------------------------)
 
+200- What role does the ITarget interface play in the Adapter pattern?
+
+Ans- The ITarget interface defines the expected interface that the client works with, which the adapter conforms to.
+
+(------------------------------------------------------------------------)
+
+
+201- What is the difference between a class adapter and an object adapter?
+
+Ans- A class adapter uses inheritance to adapt the interface, while an object adapter uses composition.
+
+(------------------------------------------------------------------------)
+
 
