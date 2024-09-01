@@ -880,3 +880,9 @@ Ans- The Bridge in this context refers to the environment path variable, which a
 
 (-----------------------------------------------------------------------)
 
+149- How does the Bridge pattern differ from traditional inheritance?
+
+Ans- Unlike traditional inheritance, where the implementation is tightly bound to the abstraction, the Bridge pattern allows them to vary independently.
+
+(-----------------------------------------------------------------------)
+
