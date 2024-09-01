@@ -1217,4 +1217,8 @@ Ans- It enables integration of components with incompatible interfaces and promo
 
 (------------------------------------------------------------------------)
 
+205- What is the purpose of the Façade pattern?
 
+Ans- The Façade pattern provides a simplified, unified interface to a set of complex subsystems.
+
+(------------------------------------------------------------------------)
