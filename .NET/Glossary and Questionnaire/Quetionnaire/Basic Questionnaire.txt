@@ -1259,3 +1259,16 @@ Ans- The Façade class provides a simple interface and delegates requests to the
 
 (------------------------------------------------------------------------)
 
+212- How does the Façade pattern contribute to code maintenance?
+
+Ans- It centralizes and simplifies subsystem interactions, making code easier to maintain and extend.
+
+(------------------------------------------------------------------------)
+
+213- What is a Two-Way Adapter in design patterns?
+
+Ans- A Two-Way Adapter allows objects to interact with systems or components that have incompatible interfaces by adapting methods and properties between them.
+
+(------------------------------------------------------------------------)
+
+
