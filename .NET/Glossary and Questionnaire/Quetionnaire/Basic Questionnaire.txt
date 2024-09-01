@@ -454,5 +454,11 @@ Ans- Component, IComponent, Decorator.
 
 (-----------------------------------------------------------------------)
 
+77- In the Decorator pattern, what is the role of the IComponent interface?
+
+Ans- It defines the interface for objects that can have additional behavior added by decorators.
+
+(-----------------------------------------------------------------------)
+
 
 
