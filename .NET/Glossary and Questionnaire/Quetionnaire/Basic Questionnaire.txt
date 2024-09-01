@@ -1499,4 +1499,10 @@ Ans- The Factory Method pattern focuses on creating objects of a single type, wh
 
 (------------------------------------------------------------------------)
 
+252- What are the main components of the Factory Method pattern?
+
+Ans- Creator, Product, ConcreteProduct, and FactoryMethod.
+
+(------------------------------------------------------------------------)
+
 
