@@ -418,6 +418,12 @@ Ans- Implicit typing of arrays, which infers the element type from the initializ
 
 (-----------------------------------------------------------------------)
 
+71- What are query expressions in C# 3.0?
+
+Ans- Language-integrated syntax for queries similar to SQL and XQuery.
+
+(-----------------------------------------------------------------------)
+
 
 
 
