@@ -502,3 +502,9 @@ Ans- It allows clients to work with individual objects and compositions of objec
 
 (-----------------------------------------------------------------------)
 
+85- What are the main components of the Composite pattern?
+
+Ans- Component, Leaf, Composite.
+
+(------------------------------------------------------------------------)
+
