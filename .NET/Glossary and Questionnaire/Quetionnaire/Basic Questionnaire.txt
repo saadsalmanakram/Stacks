@@ -904,3 +904,9 @@ Ans- Use the Bridge pattern when you need to hide implementations from clients a
 
 (-----------------------------------------------------------------------)
 
+153- Can the Bridge pattern be used in real-time applications?
+
+Ans- The Bridge pattern might introduce overhead due to rerouting operations, which may not be suitable for time-sensitive applications.
+
+(-----------------------------------------------------------------------)
+
