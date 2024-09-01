@@ -1066,3 +1066,9 @@ Ans- Indexers allow collection-like access to the composite's components.
 
 (-----------------------------------------------------------------------)
 
+180- Why is implicit typing (var) useful in the implementation of these patterns?
+
+Ans- It simplifies code by inferring the type, making the code more readable and flexible.
+
+(-----------------------------------------------------------------------)
+
