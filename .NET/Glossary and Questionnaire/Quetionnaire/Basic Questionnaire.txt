@@ -862,3 +862,8 @@ Ans- Implement a custom MyStream class as a proxy that intercepts, monitors, and
 
 (-----------------------------------------------------------------------)
 
+146- What is the purpose of the Bridge pattern?
+
+Ans- The Bridge pattern decouples an abstraction from its implementation, allowing both to vary independently.
+
+(-----------------------------------------------------------------------)
