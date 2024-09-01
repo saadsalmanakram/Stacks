@@ -820,4 +820,10 @@ Ans- Common use cases include access control, lazy loading, remote object manage
 
 (-----------------------------------------------------------------------)
 
+139- Can you explain how a Proxy pattern might be used in an image-drawing system?
+
+Ans- In an image-drawing system, a proxy could display a placeholder image while the actual image is being fetched and rendered.
+
+(-----------------------------------------------------------------------)
+
 
