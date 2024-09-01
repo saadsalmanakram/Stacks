@@ -1102,3 +1102,9 @@ Ans- It delegates operations to either single objects or recursively to composit
 
 (-----------------------------------------------------------------------)
 
+186- Why is the client code simplified in the Composite pattern?
+
+Ans- The client interacts only with the common interface, unaware of whether it's dealing with a single object or a composite.
+
+(-----------------------------------------------------------------------)
+
