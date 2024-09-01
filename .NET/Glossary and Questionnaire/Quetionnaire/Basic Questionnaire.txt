@@ -196,3 +196,9 @@ Ans- The Adapter pattern allows objects with incompatible interfaces to work tog
 
 (-----------------------------------------------------------------------)
 
+34- What is the Decorator pattern used for?
+
+Ans- The Decorator pattern is used for adding new responsibilities to objects dynamically without altering their structure.
+
+(-----------------------------------------------------------------------)
+
