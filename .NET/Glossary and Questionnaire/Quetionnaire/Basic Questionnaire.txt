@@ -838,4 +838,10 @@ Ans- A remote proxy represents an object that resides in a different address spa
 
 (-----------------------------------------------------------------------)
 
+142- How can you change a design so that a Client does not inherit from a Program in the Proxy pattern?
+
+Ans- The Client can instantiate the Program instead of inheriting from it.
+
+(-----------------------------------------------------------------------)
+
 
