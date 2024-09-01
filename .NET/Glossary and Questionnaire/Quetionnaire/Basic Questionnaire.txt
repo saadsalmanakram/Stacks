@@ -106,3 +106,9 @@ Ans- Key productivity features include Generics, Language Integrated Query (LINQ
 
 (------------------------------------------------------------------------)
 
+19- Why is .NET considered fast for web development?
+
+Ans- .NET offers performance tools like Visual Studio Performance Analysis and Windows Performance Analyzer to optimize application speed.
+
+(------------------------------------------------------------------------)
+
