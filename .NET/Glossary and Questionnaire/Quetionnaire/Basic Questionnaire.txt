@@ -1211,4 +1211,10 @@ Ans- The Accelerate framework on macOS, which adapts old PowerPC code to run on 
 
 (------------------------------------------------------------------------)
 
+204- What is the advantage of using an Adapter pattern?
+
+Ans- It enables integration of components with incompatible interfaces and promotes code reusability.
+
+(------------------------------------------------------------------------)
+
 
