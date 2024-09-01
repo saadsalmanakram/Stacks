@@ -124,3 +124,9 @@ Ans- Mastery in C#, ASP.NET, SQL Server, HTML/CSS, JavaScript, and familiarity w
 
 (------------------------------------------------------------------------)
 
+22- What is the role of SQL Server in .NET development?
+
+Ans- SQL Server is used for managing and querying databases, a critical component of back-end development in .NET.
+
+(-----------------------------------------------------------------------)
+
