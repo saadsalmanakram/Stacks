@@ -64,3 +64,8 @@ Ans- SQL Server is a relational database management system by Microsoft, widely 
 
 (-------------------------------------------------------------------------)
 
+12- What are RESTful APIs, and why are they important?
+
+Ans- RESTful APIs are web services that follow REST principles, allowing communication between client and server; crucial for building scalable web applications.
+
+(-------------------------------------------------------------------------)
