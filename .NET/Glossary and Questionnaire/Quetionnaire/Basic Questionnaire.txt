@@ -250,3 +250,9 @@ Ans- The State pattern allows an object to alter its behavior when its internal 
 
 (-----------------------------------------------------------------------)
 
+43- What is the Flyweight pattern used for?
+
+Ans- The Flyweight pattern is used for minimizing memory usage by sharing as much data as possible with similar objects.
+
+(-----------------------------------------------------------------------)
+
