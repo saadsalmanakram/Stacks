@@ -1235,3 +1235,27 @@ Ans- It reduces dependencies on subsystems, makes code easier to understand, and
 
 (------------------------------------------------------------------------)
 
+208- Can you give an example of a Façade pattern in use?
+
+Ans- A SmartHomeFacade that controls various home automation systems like lighting, security, and climate with a single interface.
+
+(------------------------------------------------------------------------)
+
+209- How does the Façade pattern differ from the Adapter pattern?
+
+Ans- The Façade pattern simplifies access to a set of interfaces, while the Adapter pattern converts one interface to another.
+
+(------------------------------------------------------------------------)
+
+210- In what situations is the Façade pattern particularly useful?
+
+Ans- When you need to provide a simple interface to a complex subsystem or when integrating multiple complex systems.
+
+(------------------------------------------------------------------------)
+
+211- What role does the Façade class play in the Façade pattern?
+
+Ans- The Façade class provides a simple interface and delegates requests to the appropriate subsystems.
+
+(------------------------------------------------------------------------)
+
