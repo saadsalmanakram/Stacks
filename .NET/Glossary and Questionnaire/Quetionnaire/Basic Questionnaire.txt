@@ -1727,4 +1727,10 @@ Ans- State transitions are managed by assigning a new State object to the Contex
 
 (------------------------------------------------------------------------)
 
+290- What are some typical use cases for the Strategy pattern?
+
+Ans- Use cases include different algorithms for sorting, validation strategies in dialog boxes, and varied drawing algorithms in graphics programs.
+
+(------------------------------------------------------------------------)
+
 
