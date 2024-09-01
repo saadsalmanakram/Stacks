@@ -615,3 +615,10 @@ Ans- The second-level decorator does not hold a reference to the original object
 Ans- The Strategy pattern is a better fit when the Decorator pattern does not allow for sufficient manipulation of an object’s properties.
 
 (-----------------------------------------------------------------------)
+
+104- What is a common use case for the Decorator pattern in graphics programming?
+
+Ans- The Decorator pattern is commonly used to add layers of functionality in graphics, video streaming, and sound processing.
+
+(-----------------------------------------------------------------------)
+
