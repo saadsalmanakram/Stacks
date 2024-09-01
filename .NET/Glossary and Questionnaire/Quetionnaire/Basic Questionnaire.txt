@@ -604,3 +604,9 @@ Ans- The Decorator pattern creates new objects with their own set of operations,
 
 (-----------------------------------------------------------------------)
 
+102- Why might altering properties in a second-level decorator fail in the Decorator pattern?
+
+Ans- The second-level decorator does not hold a reference to the original object, so changes do not propagate beyond the first-level decorator.
+
+(-----------------------------------------------------------------------)
+
