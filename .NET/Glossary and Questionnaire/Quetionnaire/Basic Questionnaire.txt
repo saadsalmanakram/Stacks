@@ -814,4 +814,10 @@ Ans- Use the Proxy pattern when you need to control access to an object, perform
 
 (-----------------------------------------------------------------------)
 
+138- What are some common use cases for the Proxy pattern?
+
+Ans- Common use cases include access control, lazy loading, remote object management, and logging.
+
+(-----------------------------------------------------------------------)
+
 
