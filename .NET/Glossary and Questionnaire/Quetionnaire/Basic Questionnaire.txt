@@ -1355,4 +1355,10 @@ Ans- A transparent Façade allows clients to access subsystem operations directl
 
 (------------------------------------------------------------------------)
 
+228- When should you use the Façade Pattern?
+
+Ans- When you need to provide a simpler interface to a complex subsystem or to offer different interfaces for different types of users.
+
+(------------------------------------------------------------------------)
+
 
