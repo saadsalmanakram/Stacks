@@ -892,3 +892,9 @@ Ans- You could implement new methods like SuperPoke on top of existing ones by a
 
 (-----------------------------------------------------------------------)
 
+151- What is the Bridge pattern?
+
+Ans- The Bridge pattern decouples an abstraction from its implementation, allowing them to vary independently.
+
+(-----------------------------------------------------------------------)
+
