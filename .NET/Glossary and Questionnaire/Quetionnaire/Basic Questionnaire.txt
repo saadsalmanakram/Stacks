@@ -976,3 +976,9 @@ Ans- The Bridge pattern allows new implementations to be added without modifying
 
 (-----------------------------------------------------------------------)
 
+165- What is a common real-world example of the Bridge pattern?
+
+Ans- A common example is a graphics rendering system where different rendering engines are abstracted through a unified interface.
+
+(-----------------------------------------------------------------------)
+
