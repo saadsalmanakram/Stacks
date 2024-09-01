@@ -208,3 +208,9 @@ Ans- The Command pattern encapsulates a request as an object, thereby allowing f
 
 (-----------------------------------------------------------------------)
 
+36- What is the Prototype pattern used for?
+
+Ans- The Prototype pattern is used for creating new objects by copying an existing object, known as the prototype.
+
+(-----------------------------------------------------------------------)
+
