@@ -1685,4 +1685,10 @@ Ans- Yes, it ensures that a fixed sequence of steps is followed, with certain st
 
 (------------------------------------------------------------------------)
 
+283- What is the difference between the Strategy pattern and the State pattern?
+
+Ans- The Strategy pattern focuses on selecting an algorithm dynamically at runtime, while the State pattern allows an object to change its behavior when its internal state changes.
+
+(------------------------------------------------------------------------)
+
 
