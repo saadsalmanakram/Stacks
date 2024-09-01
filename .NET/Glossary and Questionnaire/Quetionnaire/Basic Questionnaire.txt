@@ -508,3 +508,9 @@ Ans- Component, Leaf, Composite.
 
 (------------------------------------------------------------------------)
 
+86- What is the Flyweight pattern used for?
+
+Ans- To reduce the cost of creating and managing large numbers of small objects by sharing common states.
+
+(------------------------------------------------------------------------)
+
