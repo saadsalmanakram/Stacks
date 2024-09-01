@@ -1168,3 +1168,22 @@ Ans- By using thumbnail images (intrinsic state) to represent large images (extr
 
 (------------------------------------------------------------------------)
 
+197- What is the purpose of the Adapter pattern?
+
+Ans- The Adapter pattern allows incompatible interfaces to work together by converting the interface of a class into another interface expected by the client.
+
+(------------------------------------------------------------------------)
+
+198- Can you name the different types of adapters?
+
+Ans- Class Adapter, Object Adapter, Two-Way Adapter, and Pluggable Adapter.
+
+(------------------------------------------------------------------------)
+
+199- How does the Adapter pattern help with legacy code?
+
+Ans- It allows old code with different interfaces to be used with new systems without modifying the existing code.
+
+(------------------------------------------------------------------------)
+
+
