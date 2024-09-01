@@ -478,3 +478,8 @@ Ans- Virtual Proxy, Remote Proxy, and Protective Proxy.
 
 (-----------------------------------------------------------------------)
 
+81- How does the Bridge pattern support the decoupling of abstraction and implementation?
+
+Ans- By providing an interface (abstraction) and a separate implementation interface, enabling them to be changed independently.
+
+(-----------------------------------------------------------------------)
