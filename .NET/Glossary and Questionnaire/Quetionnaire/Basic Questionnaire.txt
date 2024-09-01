@@ -412,6 +412,12 @@ Ans- Tuple types automatically inferred from object initializers.
 
 (-----------------------------------------------------------------------)
 
+70- What feature allows for implicit typing of arrays in C# 3.0?
+
+Ans- Implicit typing of arrays, which infers the element type from the initializer.
+
+(-----------------------------------------------------------------------)
+
 
 
 
