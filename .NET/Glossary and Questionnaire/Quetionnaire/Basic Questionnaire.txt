@@ -1619,4 +1619,10 @@ Ans- It defines the common interface for all concrete strategies, ensuring they 
 
 (------------------------------------------------------------------------)
 
+272- How does the Strategy pattern facilitate the addition of new algorithms?
+
+Ans- By adding new Strategy implementations without modifying the Context or existing strategies.
+
+(------------------------------------------------------------------------)
+
 
