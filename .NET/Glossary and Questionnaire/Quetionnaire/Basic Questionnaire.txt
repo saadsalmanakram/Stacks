@@ -718,4 +718,10 @@ Ans- A virtual proxy delays the creation of an object until it is needed, optimi
 
 (-----------------------------------------------------------------------)
 
+122- What is an authentication proxy?
+
+Ans- An authentication proxy checks access permissions before allowing a request to proceed to the Subject.
+
+(-----------------------------------------------------------------------)
+
 
