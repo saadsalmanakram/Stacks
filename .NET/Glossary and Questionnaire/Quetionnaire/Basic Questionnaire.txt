@@ -874,3 +874,9 @@ Ans- The Bridge allows different versions of an abstraction to coexist without c
 
 (-----------------------------------------------------------------------)
 
+148- Can you explain the role of the Bridge in the context of a .NET Framework update?
+
+Ans- The Bridge in this context refers to the environment path variable, which acts as a bridge between the application and the specific .NET Framework version it should use.
+
+(-----------------------------------------------------------------------)
+
