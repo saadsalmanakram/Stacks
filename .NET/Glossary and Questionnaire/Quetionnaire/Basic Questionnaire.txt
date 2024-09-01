@@ -952,3 +952,9 @@ Ans- The Bridge pattern allows combining different parts of a system at runtime 
 
 (-----------------------------------------------------------------------)
 
+161- What role does the Client play in the Bridge pattern?
+
+Ans- The Client interacts with the Abstraction, which in turn delegates operations to the appropriate Implementation.
+
+(-----------------------------------------------------------------------)
+
