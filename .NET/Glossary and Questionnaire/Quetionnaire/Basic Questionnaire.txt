@@ -280,4 +280,15 @@ Ans- Design pattern diagrams illustrate the roles and relationships of pattern e
 
 (-----------------------------------------------------------------------)
 
+48- Why is it important to understand the context and implementation of design patterns?
+
+Ans- Understanding the context and implementation helps in selecting the most appropriate pattern and adapting it effectively to specific programming languages and scenarios.
+
+(-----------------------------------------------------------------------)
+
+
+
+
+
+
 
