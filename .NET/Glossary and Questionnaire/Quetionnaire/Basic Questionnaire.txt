@@ -1793,3 +1793,9 @@ Ans- It defines the structure of an algorithm in a base class but lets subclasse
 
 (------------------------------------------------------------------------)
 
+301- When should you use the Template Method pattern?
+
+Ans- When you have an algorithm with invariant parts and variable parts that can be customized by subclasses.
+
+(------------------------------------------------------------------------)
+
