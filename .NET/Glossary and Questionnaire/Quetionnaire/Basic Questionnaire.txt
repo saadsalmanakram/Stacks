@@ -1138,3 +1138,9 @@ Ans- Define IComponent for common operations and IComposite<T> for operations sp
 
 (------------------------------------------------------------------------)
 
+192- What is the primary benefit of the Flyweight pattern?
+
+Ans- The Flyweight pattern reduces memory usage by sharing common intrinsic state among many objects while storing only the unique extrinsic state separately.
+
+(------------------------------------------------------------------------)
+
