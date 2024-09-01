@@ -40,3 +40,9 @@ Ans- Full-stack developers need to create responsive and interactive user interf
 
 (-------------------------------------------------------------------------)
 
+8- What is the importance of learning HTML, CSS, and JavaScript?
+
+Ans- These are foundational technologies for building the structure, styling, and interactivity of web pages.
+
+(-------------------------------------------------------------------------)
+
