@@ -244,3 +244,9 @@ Ans- The Chain of Responsibility pattern allows multiple objects to handle a req
 
 (-----------------------------------------------------------------------)
 
+42- What is the State pattern?
+
+Ans- The State pattern allows an object to alter its behavior when its internal state changes, appearing as if the object changed its class.
+
+(-----------------------------------------------------------------------)
+
