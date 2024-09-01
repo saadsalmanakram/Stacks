@@ -928,3 +928,9 @@ Ans- The 'Bridge-down' approach starts with an abstraction and builds implementa
 
 (-----------------------------------------------------------------------)
 
+157- How does the Bridge pattern achieve flexibility in design?
+
+Ans- The Bridge pattern achieves flexibility by allowing changes to implementations without affecting the abstraction.
+
+(-----------------------------------------------------------------------)
+
