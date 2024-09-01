@@ -706,4 +706,10 @@ Ans- The main components are the Subject, Proxy, and ISubject interface.
 
 (-----------------------------------------------------------------------)
 
+120- What is the role of the Proxy class?
+
+Ans- The Proxy class controls and manages access to the Subject object, often adding additional functionality.
+
+(-----------------------------------------------------------------------)
+
 
