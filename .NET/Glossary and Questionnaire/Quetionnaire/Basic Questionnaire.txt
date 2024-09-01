@@ -1511,4 +1511,9 @@ Ans- It can lead to a proliferation of subclasses if there are many different ty
 
 (------------------------------------------------------------------------)
 
+254- What is the benefit of using the Abstract Factory Pattern?
+
+Ans- It isolates product creation and allows clients to work with abstract products rather than concrete implementations.
+
+(------------------------------------------------------------------------)
 
