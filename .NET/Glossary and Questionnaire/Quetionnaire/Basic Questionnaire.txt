@@ -592,3 +592,9 @@ Ans- It refers to the ability to perform various operations on components, which
 
 (------------------------------------------------------------------------)
 
+100- What is the Decorator pattern?
+
+Ans- The Decorator pattern allows behavior to be added to individual objects dynamically without affecting the behavior of other objects from the same class.
+
+(------------------------------------------------------------------------)
+
