@@ -598,3 +598,9 @@ Ans- The Decorator pattern allows behavior to be added to individual objects dyn
 
 (------------------------------------------------------------------------)
 
+101- How does the Decorator pattern handle object creation?
+
+Ans- The Decorator pattern creates new objects with their own set of operations, some of which may be inherited but typically only down one level.
+
+(-----------------------------------------------------------------------)
+
