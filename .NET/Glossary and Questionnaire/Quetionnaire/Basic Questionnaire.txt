@@ -1547,4 +1547,9 @@ Ans- IBuilder, Director, Builder, and Product.
 
 (------------------------------------------------------------------------)
 
+260- How does the Builder Pattern help with object construction?
+
+Ans- It allows for the step-by-step construction of an object, providing the flexibility to create different representations using the same construction process.
+
+(------------------------------------------------------------------------)
 
