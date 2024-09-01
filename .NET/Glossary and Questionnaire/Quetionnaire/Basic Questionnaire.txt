@@ -1781,4 +1781,9 @@ Ans- Managing different game states such as playing, paused, or game over, with 
 
 (------------------------------------------------------------------------)
 
+299- What is the role of the Context in the State pattern?
+
+Ans- It maintains a reference to the current State object and delegates state-specific behavior to this object.
+
+(------------------------------------------------------------------------)
 
