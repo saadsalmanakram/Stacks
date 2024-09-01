@@ -832,4 +832,10 @@ Ans- A Proxy can initiate buffering and manage data flow before the full video i
 
 (-----------------------------------------------------------------------)
 
+141- What is a remote proxy and where is it commonly used?
+
+Ans- A remote proxy represents an object that resides in a different address space and is commonly used in client/server architectures like .NET Framework.
+
+(-----------------------------------------------------------------------)
+
 
