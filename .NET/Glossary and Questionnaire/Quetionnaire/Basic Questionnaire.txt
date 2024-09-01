@@ -1631,4 +1631,16 @@ Ans- The State pattern allows an object to change its behavior when its internal
 
 (------------------------------------------------------------------------)
 
+274- How does the State pattern simplify state management?
+
+Ans- By encapsulating state-specific behavior in separate state classes, reducing the need for complex conditional logic.
+
+(------------------------------------------------------------------------)
+
+275- What are the key roles in the State pattern?
+
+Ans- Context, State, and ConcreteState classes.
+
+(------------------------------------------------------------------------)
+
 
