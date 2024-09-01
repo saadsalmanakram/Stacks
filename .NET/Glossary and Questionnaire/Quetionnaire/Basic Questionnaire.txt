@@ -934,3 +934,9 @@ Ans- The Bridge pattern achieves flexibility by allowing changes to implementati
 
 (-----------------------------------------------------------------------)
 
+158- What is the main advantage of using the Bridge pattern in a graphics system?
+
+Ans- The Bridge pattern allows different display drivers to be used interchangeably by abstracting their capabilities.
+
+(-----------------------------------------------------------------------)
+
