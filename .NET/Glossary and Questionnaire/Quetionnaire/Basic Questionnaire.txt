@@ -970,3 +970,9 @@ Ans- The Bridge pattern is less effective in scenarios where the overhead of rer
 
 (-----------------------------------------------------------------------)
 
+164- How does the Bridge pattern facilitate system extensibility?
+
+Ans- The Bridge pattern allows new implementations to be added without modifying existing abstractions.
+
+(-----------------------------------------------------------------------)
+
