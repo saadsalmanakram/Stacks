@@ -172,3 +172,9 @@ Ans- The Proxy pattern is used for providing a surrogate or placeholder to contr
 
 (-----------------------------------------------------------------------)
 
+30- How does the Singleton pattern ensure a class has only one instance?
+
+Ans- The Singleton pattern restricts instantiation of a class to a single instance and provides a global point of access to that instance.
+
+(-----------------------------------------------------------------------)
+
