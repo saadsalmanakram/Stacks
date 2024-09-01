@@ -376,6 +376,12 @@ Ans- They allow classes, structs, and interfaces to be split into multiple files
 
 (-----------------------------------------------------------------------)
 
+64- What are nullable types in C#?
+
+Ans- Types that represent values that can be unknown and include an additional null state.
+
+(-----------------------------------------------------------------------)
+
 
 
 
