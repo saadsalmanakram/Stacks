@@ -46,3 +46,9 @@ Ans- These are foundational technologies for building the structure, styling, an
 
 (-------------------------------------------------------------------------)
 
+9- How does ASP.NET Core facilitate web development?
+
+Ans- ASP.NET Core allows developers to build web applications using a robust, modular framework that supports modern web standards.
+
+(-------------------------------------------------------------------------)
+
