@@ -238,3 +238,9 @@ Ans- The Builder pattern separates the construction of a complex object from its
 
 (-----------------------------------------------------------------------)
 
+41- What is the Chain of Responsibility pattern?
+
+Ans- The Chain of Responsibility pattern allows multiple objects to handle a request without the sender needing to know which object will handle it.
+
+(-----------------------------------------------------------------------)
+
