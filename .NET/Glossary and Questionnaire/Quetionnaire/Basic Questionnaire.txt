@@ -1108,3 +1108,9 @@ Ans- The client interacts only with the common interface, unaware of whether it'
 
 (-----------------------------------------------------------------------)
 
+187- In the Composite pattern, what happens when you try to add or remove an item from a Component?
+
+Ans- Typically, an error is raised, as adding or removing is meant for composites.
+
+(-----------------------------------------------------------------------)
+
