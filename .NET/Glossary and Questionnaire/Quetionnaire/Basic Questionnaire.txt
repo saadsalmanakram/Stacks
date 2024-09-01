@@ -652,3 +652,10 @@ Ans- Subclassing can lead to a large number of classes, making the system harder
 
 (-----------------------------------------------------------------------)
 
+110- When should you consider using the Adapter pattern instead of the Decorator pattern?
+
+Ans- Consider the Adapter pattern when you need to set up an interface between different classes.
+
+(-----------------------------------------------------------------------)
+
+
