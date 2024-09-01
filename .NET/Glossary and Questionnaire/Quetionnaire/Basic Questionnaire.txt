@@ -1144,3 +1144,9 @@ Ans- The Flyweight pattern reduces memory usage by sharing common intrinsic stat
 
 (------------------------------------------------------------------------)
 
+193- In the Photo Group application, what is the role of the intrinsic and extrinsic states?
+
+Ans- The intrinsic state is the thumbnail image (shared), while the extrinsic state is the full-size image (computed on demand) and the group information.
+
+(------------------------------------------------------------------------)
+
