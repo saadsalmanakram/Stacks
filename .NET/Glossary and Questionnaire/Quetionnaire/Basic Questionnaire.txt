@@ -334,6 +334,18 @@ Ans- Attributes are private by default, and operations are public by default.
 
 (------------------------------------------------------------------------)
 
+57- When might types associated with attributes and operations be shown in UML diagrams?
+
+Ans- When they are important to the pattern under consideration.
+
+(------------------------------------------------------------------------)
+
+58- Why are notes used in UML diagrams?
+
+Ans- To explain relationships or important details about method interactions between classes.
+
+(-----------------------------------------------------------------------)
+
 
 
 
