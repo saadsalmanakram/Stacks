@@ -1810,3 +1810,10 @@ Ans- Algorithm (base class), TemplateMethod (defined in base class), IPrimitives
 Ans- Template Method encapsulates an algorithm with some steps deferred to subclasses, while Strategy encapsulates interchangeable algorithms.
 
 (------------------------------------------------------------------------)
+
+304- What is the advantage of using the Template Method pattern?
+
+Ans- It allows you to define a common algorithm structure while permitting subclasses to customize specific steps.
+
+(------------------------------------------------------------------------)
+
