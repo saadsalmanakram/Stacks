@@ -1523,4 +1523,10 @@ Ans- Yes, because the client interacts only with abstract interfaces, allowing f
 
 (------------------------------------------------------------------------)
 
+256- What is an example of the Abstract Factory Pattern in real life?
+
+Ans- Different brands of handbags (e.g., Gucci, Poochy) where each brand has its own factory producing bags and shoes.
+
+(------------------------------------------------------------------------)
+
 
