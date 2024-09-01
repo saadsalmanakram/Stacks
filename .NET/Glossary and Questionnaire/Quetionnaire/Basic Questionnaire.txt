@@ -1721,4 +1721,10 @@ Ans- The IState interface defines the methods that all concrete state classes mu
 
 (------------------------------------------------------------------------)
 
+289- How does the State pattern handle state transitions?
+
+Ans- State transitions are managed by assigning a new State object to the Context, which then changes the behavior of the Context according to the new state.
+
+(------------------------------------------------------------------------)
+
 
