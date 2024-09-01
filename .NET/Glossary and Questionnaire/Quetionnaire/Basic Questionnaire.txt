@@ -754,5 +754,11 @@ Ans- Yes, a proxy can be designed to handle multiple Subject objects, though it 
 
 (-----------------------------------------------------------------------)
 
+128- How is the Proxy Pattern used in social networking systems like Facebook?
+
+Ans- Proxies manage user sessions, control access to user pages, and route actions across the network.
+
+(-----------------------------------------------------------------------)
+
 
 
