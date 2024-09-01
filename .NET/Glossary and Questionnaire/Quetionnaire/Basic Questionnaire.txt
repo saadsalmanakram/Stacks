@@ -1817,3 +1817,9 @@ Ans- It allows you to define a common algorithm structure while permitting subcl
 
 (------------------------------------------------------------------------)
 
+305- What is a "hook" in the context of the Template Method pattern?
+
+Ans- A method with a default implementation in the base class that can be optionally overridden by subclasses.
+
+(------------------------------------------------------------------------)
+
