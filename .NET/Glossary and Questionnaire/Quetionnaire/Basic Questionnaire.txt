@@ -483,3 +483,16 @@ Ans- Virtual Proxy, Remote Proxy, and Protective Proxy.
 Ans- By providing an interface (abstraction) and a separate implementation interface, enabling them to be changed independently.
 
 (-----------------------------------------------------------------------)
+
+82- What are the key components of the Bridge pattern?
+
+Ans- Abstraction, RefinedAbstraction, Implementor, ConcreteImplementor.
+
+(-----------------------------------------------------------------------)
+
+83- What is the Composite pattern used for?
+
+Ans- To treat individual objects and compositions of objects uniformly.
+
+(-----------------------------------------------------------------------)
+
