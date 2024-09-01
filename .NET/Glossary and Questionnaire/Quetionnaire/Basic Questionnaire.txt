@@ -736,4 +736,11 @@ Ans- A smart proxy adds additional actions or modifications to requests before t
 
 (-----------------------------------------------------------------------)
 
+125- How does the Proxy Pattern enhance security?
+
+Ans- By controlling access and adding authentication layers, the Proxy Pattern can prevent unauthorized actions.
+
+(-----------------------------------------------------------------------)
+
+
 
