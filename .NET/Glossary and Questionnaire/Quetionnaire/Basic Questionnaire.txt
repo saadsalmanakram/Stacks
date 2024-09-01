@@ -262,4 +262,10 @@ Ans- The Bridge pattern separates abstraction from implementation, allowing both
 
 (-----------------------------------------------------------------------)
 
+45- What is the Memento pattern used for?
+
+Ans- The Memento pattern captures and externalizes an object's internal state without violating encapsulation, allowing the object to be restored to that state later.
+
+(-----------------------------------------------------------------------)
+
 
