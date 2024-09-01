@@ -1162,3 +1162,9 @@ Ans- Structs are used for Flyweights due to their lightweight nature and value s
 
 (------------------------------------------------------------------------)
 
+196- How can you enhance the Flyweight pattern's performance in the context of large numbers of images?
+
+Ans- By using thumbnail images (intrinsic state) to represent large images (extrinsic state), the pattern efficiently manages memory and improves performance for large image sets.
+
+(------------------------------------------------------------------------)
+
