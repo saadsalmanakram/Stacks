@@ -580,3 +580,9 @@ Ans- Yes, decorators can add new state and behavior, including new operations.
 
 (------------------------------------------------------------------------)
 
+98- How does the Decorator pattern prevent objects from becoming too heavyweight?
+
+Ans- By using composition instead of inheritance, decorators remain lean and only add necessary behavior.
+
+(------------------------------------------------------------------------)
+
