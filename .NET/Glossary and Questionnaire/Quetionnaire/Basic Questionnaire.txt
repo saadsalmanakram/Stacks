@@ -1709,4 +1709,10 @@ Ans- The State pattern allows an object to alter its behavior when its internal 
 
 (------------------------------------------------------------------------)
 
+287- How does the Context class interact with the State pattern?
+
+Ans- The Context class maintains a reference to a State object and delegates requests to this State object, which can change the Context’s state when needed.
+
+(------------------------------------------------------------------------)
+
 
