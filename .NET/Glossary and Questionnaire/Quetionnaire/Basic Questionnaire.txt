@@ -4,3 +4,9 @@ Ans- The .NET framework is a software development platform developed by Microsof
 
 (-------------------------------------------------------------------------)
 
+2- What languages are typically used in the .NET stack?
+
+Ans- C# is the primary language used in the .NET stack, though VB.NET and F# are also supported.
+
+(-------------------------------------------------------------------------)
+
