@@ -22,3 +22,9 @@ Ans- Visual Studio is an integrated development environment (IDE) used to build 
 
 (-------------------------------------------------------------------------)
 
+5- What are some key features of C#?
+
+Ans- Key features include strong typing, garbage collection, exception handling, and support for object-oriented programming.
+
+(-------------------------------------------------------------------------)
+
