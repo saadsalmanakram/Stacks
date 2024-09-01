@@ -1799,3 +1799,9 @@ Ans- When you have an algorithm with invariant parts and variable parts that can
 
 (------------------------------------------------------------------------)
 
+302- What are the components of the Template Method pattern?
+
+Ans- Algorithm (base class), TemplateMethod (defined in base class), IPrimitives (interface), and AnyClass (concrete implementations).
+
+(------------------------------------------------------------------------)
+
