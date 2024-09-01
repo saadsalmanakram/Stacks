@@ -1655,4 +1655,9 @@ Ans- By allowing state transitions to be managed within state classes, which upd
 
 (------------------------------------------------------------------------)
 
+278- What is the Template Method pattern?
+
+Ans- The Template Method pattern defines the skeleton of an algorithm in a base class but lets subclasses override specific steps of the algorithm.
+
+(------------------------------------------------------------------------)
 
