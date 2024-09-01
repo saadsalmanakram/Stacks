@@ -946,3 +946,9 @@ Ans- Rerouting operations might introduce latency, making it unsuitable for perf
 
 (-----------------------------------------------------------------------)
 
+160- How does the Bridge pattern support runtime flexibility?
+
+Ans- The Bridge pattern allows combining different parts of a system at runtime by separating concerns.
+
+(-----------------------------------------------------------------------)
+
