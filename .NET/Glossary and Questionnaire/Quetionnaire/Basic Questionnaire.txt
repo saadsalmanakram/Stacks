@@ -1571,4 +1571,10 @@ Ans- Building a custom house where different parts of the house (e.g., rooms, fl
 
 (------------------------------------------------------------------------)
 
+264- What are behavioral patterns?
+
+Ans- Behavioral patterns focus on communication between objects and the delegation of responsibilities.
+
+(------------------------------------------------------------------------)
+
 
