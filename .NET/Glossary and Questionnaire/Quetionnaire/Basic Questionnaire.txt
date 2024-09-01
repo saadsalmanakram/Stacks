@@ -1553,3 +1553,10 @@ Ans- It allows for the step-by-step construction of an object, providing the fle
 
 (------------------------------------------------------------------------)
 
+261- What is the advantage of using the Builder Pattern over the Abstract Factory Pattern?
+
+Ans- The Builder Pattern provides more flexibility in constructing complex objects and allows for different representations, whereas the Abstract Factory focuses on families of related objects.
+
+(------------------------------------------------------------------------)
+
+
