@@ -622,3 +622,9 @@ Ans- The Decorator pattern is commonly used to add layers of functionality in gr
 
 (-----------------------------------------------------------------------)
 
+105- Can you provide an example of the Decorator pattern in .NET?
+
+Ans- In .NET, decorators are used in the I/O APIs, such as System.IO.BufferedStream and System.Security.Cryptography.CryptoStream.
+
+(-----------------------------------------------------------------------)
+
