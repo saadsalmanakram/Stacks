@@ -316,6 +316,12 @@ Ans- Patterns like Façade and Adapter are used in practical scenarios like comp
 
 (------------------------------------------------------------------------)
 
+54- What is the significance of understanding pattern interactions in large systems?
+
+Ans- Patterns often work together in large systems, and understanding their interactions helps in designing robust and flexible architectures.
+
+(------------------------------------------------------------------------)
+
 
 
 
