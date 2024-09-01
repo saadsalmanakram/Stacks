@@ -154,3 +154,9 @@ Ans- There are 23 classic design patterns.
 
 (-----------------------------------------------------------------------)
 
+27- What is the purpose of design patterns?
+
+Ans- Design patterns provide a common language for discussing solutions and enhancing code reusability and maintainability.
+
+(-----------------------------------------------------------------------)
+
