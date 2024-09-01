@@ -1487,4 +1487,10 @@ Ans- It can create global state and reduce testability due to the implicit coupl
 
 (------------------------------------------------------------------------)
 
+250- How do you ensure thread safety in a Singleton implementation?
+
+Ans- By using techniques such as double-checked locking or the initialization-on-demand holder idiom.
+
+(------------------------------------------------------------------------)
+
 
