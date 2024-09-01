@@ -442,6 +442,12 @@ Ans- To define how objects and classes are composed to form larger structures, e
 
 (-----------------------------------------------------------------------)
 
+75- How does the Decorator pattern differ from subclassing?
+
+Ans- Decorators add functionality without modifying the original class, whereas subclassing creates a new class with additional behavior.
+
+(-----------------------------------------------------------------------)
+
 
 
 
