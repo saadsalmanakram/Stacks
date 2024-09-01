@@ -118,3 +118,9 @@ Ans- Debugging can be improved by grouping related errors together and tracking 
 
 (------------------------------------------------------------------------)
 
+21- What are the key skills required to become a Full Stack .NET Developer?
+
+Ans- Mastery in C#, ASP.NET, SQL Server, HTML/CSS, JavaScript, and familiarity with IIS and XML Web Services.
+
+(------------------------------------------------------------------------)
+
