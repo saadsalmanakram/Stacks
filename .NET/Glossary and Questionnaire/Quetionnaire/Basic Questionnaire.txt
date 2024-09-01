@@ -1126,3 +1126,9 @@ Ans- Implement errors using exceptions and ensure they are part of the IComponen
 
 (-----------------------------------------------------------------------)
 
+190- What is the impact of changing a List to a Dictionary in the Composite class?
+
+Ans- Changing to a Dictionary will make the Find operation more efficient by allowing O(1) lookup times compared to O(n) with a List.
+
+(-----------------------------------------------------------------------)
+
