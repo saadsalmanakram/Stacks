@@ -466,5 +466,15 @@ Ans- It allows for dynamic addition of behavior and state to objects, making it 
 
 (-----------------------------------------------------------------------)
 
+79- How does a Proxy differ from the real object it represents?
 
+Ans- A Proxy controls access and may add additional functionality or manage access, while the real object provides the core functionality.
+
+(-----------------------------------------------------------------------)
+
+80- What are the types of Proxies?
+
+Ans- Virtual Proxy, Remote Proxy, and Protective Proxy.
+
+(-----------------------------------------------------------------------)
 
