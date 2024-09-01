@@ -1000,3 +1000,9 @@ Ans- To treat individual objects and compositions of objects uniformly.
 
 (-----------------------------------------------------------------------)
 
+169- How does the Composite pattern benefit a system?
+
+Ans- It simplifies client code by allowing single objects and collections to be treated identically.
+
+(-----------------------------------------------------------------------)
+
