@@ -1625,4 +1625,10 @@ Ans- By adding new Strategy implementations without modifying the Context or exi
 
 (------------------------------------------------------------------------)
 
+273- What is the State pattern?
+
+Ans- The State pattern allows an object to change its behavior when its internal state changes, appearing as if the object changed its class.
+
+(------------------------------------------------------------------------)
+
 
