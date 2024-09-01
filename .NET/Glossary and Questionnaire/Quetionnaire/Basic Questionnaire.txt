@@ -670,4 +670,10 @@ Ans- The Proxy pattern is more appropriate when you need to specifically control
 
 (-----------------------------------------------------------------------)
 
+114- How does the Strategy pattern differ from the Decorator pattern?
+
+Ans- The Strategy pattern changes the original object by selecting different algorithms or strategies, while the Decorator pattern wraps the object to add or override behavior without modifying the original object.
+
+(-----------------------------------------------------------------------)
+
 
