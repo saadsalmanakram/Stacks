@@ -142,3 +142,9 @@ Ans- They evolved from lacking basic features like type checking to incorporatin
 
 (-----------------------------------------------------------------------)
 
+25- What is a design pattern?
+
+Ans- A design pattern is a reusable solution to a common problem in software design.
+
+(-----------------------------------------------------------------------)
+
