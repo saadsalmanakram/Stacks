@@ -664,4 +664,10 @@ Ans- The Composite pattern aggregates objects without inheriting their interface
 
 (-----------------------------------------------------------------------)
 
+112- In what scenario would the Proxy pattern be more appropriate than the Decorator pattern?
+
+Ans- The Proxy pattern is more appropriate when you need to specifically control access to objects rather than just adding behavior.
+
+(-----------------------------------------------------------------------)
+
 
