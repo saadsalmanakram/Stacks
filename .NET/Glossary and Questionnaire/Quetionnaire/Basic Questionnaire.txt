@@ -406,6 +406,12 @@ Ans- They allow for easier and more readable initialization of objects.
 
 (-----------------------------------------------------------------------)
 
+69- What are anonymous types in C# 3.0?
+
+Ans- Tuple types automatically inferred from object initializers.
+
+(-----------------------------------------------------------------------)
+
 
 
 
