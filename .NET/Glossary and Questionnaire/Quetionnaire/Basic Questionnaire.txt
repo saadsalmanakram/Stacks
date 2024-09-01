@@ -1607,4 +1607,10 @@ Ans- It allows the choice of the most appropriate sorting algorithm at runtime w
 
 (------------------------------------------------------------------------)
 
+270- In the Strategy pattern, what is the role of the Context?
+
+Ans- The Context maintains a reference to a Strategy object and can switch strategies dynamically.
+
+(------------------------------------------------------------------------)
+
 
