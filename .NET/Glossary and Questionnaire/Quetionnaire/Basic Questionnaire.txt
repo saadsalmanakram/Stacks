@@ -1331,4 +1331,10 @@ Ans- Amazon’s 1-Click® ordering system simplifies the checkout process by abs
 
 (------------------------------------------------------------------------)
 
+224- What are the key components of the Façade Pattern?
+
+Ans- The Façade, Subsystems, and the Client. The Façade provides a simplified interface to the Client, while Subsystems perform detailed operations.
+
+(------------------------------------------------------------------------)
+
 
