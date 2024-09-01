@@ -742,5 +742,11 @@ Ans- By controlling access and adding authentication layers, the Proxy Pattern c
 
 (-----------------------------------------------------------------------)
 
+126- What is the advantage of using the Proxy Pattern in a system?
+
+Ans- It provides controlled and enhanced access to an object, reducing overhead and increasing security.
+
+(-----------------------------------------------------------------------)
+
 
 
