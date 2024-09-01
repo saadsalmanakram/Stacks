@@ -1156,3 +1156,9 @@ Ans- The FlyweightFactory uses a dictionary to store and manage unique Flyweight
 
 (------------------------------------------------------------------------)
 
+195- What is the difference between using structs and classes for Flyweights in the Flyweight pattern?
+
+Ans- Structs are used for Flyweights due to their lightweight nature and value semantics, avoiding the overhead of reference-type classes.
+
+(------------------------------------------------------------------------)
+
