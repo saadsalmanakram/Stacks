@@ -94,3 +94,9 @@ Ans- .NET was initially released in 2002 as a Windows-only framework and later e
 
 (------------------------------------------------------------------------)
 
+17- What are the key products within the .NET family?
+
+Ans- The key products are .NET Framework (Windows), .NET Core (cross-platform), and Xamarin (cross-platform mobile apps).
+
+(------------------------------------------------------------------------)
+
