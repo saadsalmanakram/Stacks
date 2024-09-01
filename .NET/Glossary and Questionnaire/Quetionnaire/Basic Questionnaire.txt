@@ -1373,3 +1373,9 @@ Ans- A static Façade is a class with static methods that do not require instant
 
 (------------------------------------------------------------------------)
 
+231- When would you use the Abstract Factory Pattern instead of the Façade Pattern?
+
+Ans- Use Abstract Factory when creating families of related or dependent objects, while Façade simplifies interaction with existing subsystems.
+
+(------------------------------------------------------------------------)
+
