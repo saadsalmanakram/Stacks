@@ -1119,3 +1119,10 @@ Ans- Typically, an error is raised, as adding or removing is meant for composite
 Ans- Use the Composite pattern to treat individual employees and groups of employees (managers) uniformly, where both are treated as components in a tree structure.
 
 (-----------------------------------------------------------------------)
+
+189- How should error conditions be implemented in the Component class of the Composite pattern?
+
+Ans- Implement errors using exceptions and ensure they are part of the IComponent interface if they represent conditions that clients need to handle.
+
+(-----------------------------------------------------------------------)
+
