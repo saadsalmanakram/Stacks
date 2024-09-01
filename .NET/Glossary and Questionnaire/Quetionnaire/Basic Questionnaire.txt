@@ -370,6 +370,12 @@ Ans- To incrementally compute and yield sequences of values.
 
 (-----------------------------------------------------------------------)
 
+63- How do partial types benefit C# development?
+
+Ans- They allow classes, structs, and interfaces to be split into multiple files for easier maintenance.
+
+(-----------------------------------------------------------------------)
+
 
 
 
