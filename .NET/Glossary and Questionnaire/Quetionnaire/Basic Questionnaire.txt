@@ -514,3 +514,9 @@ Ans- To reduce the cost of creating and managing large numbers of small objects 
 
 (------------------------------------------------------------------------)
 
+87- How does the Flyweight pattern optimize resource usage?
+
+Ans- By sharing common state across multiple objects and separating intrinsic and extrinsic state.
+
+(------------------------------------------------------------------------)
+
