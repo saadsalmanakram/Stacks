@@ -28,3 +28,9 @@ Ans- Key features include strong typing, garbage collection, exception handling,
 
 (-------------------------------------------------------------------------)
 
+6- What is object-oriented programming (OOP)?
+
+Ans- OOP is a programming paradigm based on the concept of objects, which can contain data and methods.
+
+(-------------------------------------------------------------------------)
+
