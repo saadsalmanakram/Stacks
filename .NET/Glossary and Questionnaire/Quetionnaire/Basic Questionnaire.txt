@@ -292,6 +292,12 @@ Ans- They provide proven solutions and improve communication among developers.
 
 (-----------------------------------------------------------------------)
 
+50- What are the three main categories of design patterns?
+
+Ans- Creational, Structural, and Behavioral.
+
+(-----------------------------------------------------------------------)
+
 
 
 
