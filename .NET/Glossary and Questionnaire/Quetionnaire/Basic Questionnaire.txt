@@ -1403,3 +1403,9 @@ Ans- They provide flexibility in object creation and reduce tight coupling betwe
 
 (------------------------------------------------------------------------)
 
+236- Why are creational patterns important in complex systems?
+
+Ans- They simplify object creation and manage complex construction processes by abstracting the instantiation logic.
+
+(------------------------------------------------------------------------)
+
