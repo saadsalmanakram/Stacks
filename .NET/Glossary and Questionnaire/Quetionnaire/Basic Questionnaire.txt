@@ -1505,4 +1505,10 @@ Ans- Creator, Product, ConcreteProduct, and FactoryMethod.
 
 (------------------------------------------------------------------------)
 
+253- What is a potential drawback of the Factory Method pattern?
+
+Ans- It can lead to a proliferation of subclasses if there are many different types of products.
+
+(------------------------------------------------------------------------)
+
 
