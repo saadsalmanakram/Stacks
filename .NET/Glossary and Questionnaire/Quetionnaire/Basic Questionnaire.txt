@@ -916,3 +916,9 @@ Ans- The key roles are Abstraction, Implementation, Bridge (Interface), and Clie
 
 (-----------------------------------------------------------------------)
 
+155- What is the 'Bridge-up' approach?
+
+Ans- The 'Bridge-up' approach involves creating an abstraction and connecting it to existing implementations.
+
+(-----------------------------------------------------------------------)
+
