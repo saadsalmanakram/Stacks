@@ -1283,4 +1283,10 @@ Ans- A Two-Way Adapter can act as both an adapter and an adaptee, meaning it can
 
 (------------------------------------------------------------------------)
 
+216- Can you provide an example scenario where a Two-Way Adapter is useful?
+
+Ans- An example is running Windows on a Mac with an Intel processor, where the Two-Way Adapter allows Windows (SSE instructions) and Mac OS X (AltiVec instructions) to operate effectively with the Intel processor.
+
+(------------------------------------------------------------------------)
+
 
