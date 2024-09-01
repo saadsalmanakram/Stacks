@@ -808,3 +808,10 @@ Ans- The Proxy pattern acts as an intermediary for controlling access to a class
 
 (-----------------------------------------------------------------------)
 
+137- When should you use the Proxy pattern?
+
+Ans- Use the Proxy pattern when you need to control access to an object, perform lazy initialization, or handle remote requests.
+
+(-----------------------------------------------------------------------)
+
+
