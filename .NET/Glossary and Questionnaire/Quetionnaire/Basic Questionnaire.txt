@@ -460,5 +460,11 @@ Ans- It defines the interface for objects that can have additional behavior adde
 
 (-----------------------------------------------------------------------)
 
+78- What is the advantage of using the Decorator pattern?
+
+Ans- It allows for dynamic addition of behavior and state to objects, making it highly flexible and reusable.
+
+(-----------------------------------------------------------------------)
+
 
 
