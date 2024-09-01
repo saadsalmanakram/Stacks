@@ -1493,4 +1493,10 @@ Ans- By using techniques such as double-checked locking or the initialization-on
 
 (------------------------------------------------------------------------)
 
+251- How does the Factory Method pattern differ from the Abstract Factory pattern?
+
+Ans- The Factory Method pattern focuses on creating objects of a single type, whereas the Abstract Factory pattern provides an interface for creating families of related or dependent objects.
+
+(------------------------------------------------------------------------)
+
 
