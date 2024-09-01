@@ -1018,3 +1018,9 @@ Ans- A composite object that contains children, allowing operations to apply to 
 
 (-----------------------------------------------------------------------)
 
+172- Why is the Composite pattern widely applicable in systems with many data objects?
+
+Ans- It provides a structured way to manage complex hierarchies, making the system easier to scale and maintain.
+
+(-----------------------------------------------------------------------)
+
