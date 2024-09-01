@@ -1289,4 +1289,10 @@ Ans- An example is running Windows on a Mac with an Intel processor, where the T
 
 (------------------------------------------------------------------------)
 
+217- What are the main components of a Two-Way Adapter?
+
+Ans- The main components are the ITarget interface, the IAdaptee interface, and the Adapter class that implements both interfaces and adapts the methods between them.
+
+(------------------------------------------------------------------------)
+
 
