@@ -568,3 +568,9 @@ Ans- Yes, different types of decorators like tags, borders, or invisibility can 
 
 (------------------------------------------------------------------------)
 
+96- Does the Decorator pattern rely on inheritance to extend behavior?
+
+Ans- No, it uses composition to extend behavior without relying on inheritance.
+
+(------------------------------------------------------------------------)
+
