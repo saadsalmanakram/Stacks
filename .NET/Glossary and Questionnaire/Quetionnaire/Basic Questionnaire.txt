@@ -286,6 +286,12 @@ Ans- Understanding the context and implementation helps in selecting the most ap
 
 (-----------------------------------------------------------------------)
 
+49- Why are design patterns important?
+
+Ans- They provide proven solutions and improve communication among developers.
+
+(-----------------------------------------------------------------------)
+
 
 
 
