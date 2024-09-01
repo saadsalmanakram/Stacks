@@ -724,4 +724,10 @@ Ans- An authentication proxy checks access permissions before allowing a request
 
 (-----------------------------------------------------------------------)
 
+123- Explain the purpose of a remote proxy.
+
+Ans- A remote proxy handles requests to an object that resides in a different address space, often across a network.
+
+(-----------------------------------------------------------------------)
+
 
