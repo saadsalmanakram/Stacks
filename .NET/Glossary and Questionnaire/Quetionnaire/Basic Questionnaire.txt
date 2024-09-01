@@ -1397,3 +1397,9 @@ Ans- They manage object creation mechanisms, allowing systems to be independent 
 
 (------------------------------------------------------------------------)
 
+235- What is the primary benefit of using creational patterns?
+
+Ans- They provide flexibility in object creation and reduce tight coupling between classes.
+
+(------------------------------------------------------------------------)
+
