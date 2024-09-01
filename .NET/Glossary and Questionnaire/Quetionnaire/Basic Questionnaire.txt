@@ -1775,4 +1775,10 @@ Ans- Interfaces provide method signatures without implementation, while virtual 
 
 (------------------------------------------------------------------------)
 
+298- What is a common application of the State pattern in games?
+
+Ans- Managing different game states such as playing, paused, or game over, with behavior changing accordingly.
+
+(------------------------------------------------------------------------)
+
 
