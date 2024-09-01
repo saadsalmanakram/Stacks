@@ -148,3 +148,9 @@ Ans- A design pattern is a reusable solution to a common problem in software des
 
 (-----------------------------------------------------------------------)
 
+26- How many classic design patterns are there?
+
+Ans- There are 23 classic design patterns.
+
+(-----------------------------------------------------------------------)
+
