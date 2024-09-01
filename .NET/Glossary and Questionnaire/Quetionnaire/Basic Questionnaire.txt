@@ -694,4 +694,10 @@ Ans- The Decorator pattern is not suitable when you need to adapt interfaces bet
 
 (-----------------------------------------------------------------------)
 
+118- What is the Proxy Pattern?
+
+Ans- The Proxy Pattern provides a surrogate or placeholder for another object to control access to it.
+
+(-----------------------------------------------------------------------)
+
 
