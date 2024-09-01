@@ -550,3 +550,9 @@ Ans- To provide a simplified interface to a complex subsystem, making it easier 
 
 (------------------------------------------------------------------------)
 
+93- How does the Façade pattern improve the usability of a subsystem?
+
+Ans- By offering a unified and simplified interface to interact with a complex set of classes and subsystems.
+
+(------------------------------------------------------------------------)
+
