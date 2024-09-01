@@ -1577,4 +1577,10 @@ Ans- Behavioral patterns focus on communication between objects and the delegati
 
 (------------------------------------------------------------------------)
 
+265- What is the primary goal of behavioral patterns?
+
+Ans- To manage complex communication between objects and optimize how algorithms are divided and handled.
+
+(------------------------------------------------------------------------)
+
 
