@@ -574,3 +574,9 @@ Ans- No, it uses composition to extend behavior without relying on inheritance.
 
 (------------------------------------------------------------------------)
 
+97- Can decorators add new operations in the Decorator pattern?
+
+Ans- Yes, decorators can add new state and behavior, including new operations.
+
+(------------------------------------------------------------------------)
+
