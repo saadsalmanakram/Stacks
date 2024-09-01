@@ -526,3 +526,8 @@ Ans- Flyweight, ConcreteFlyweight, FlyweightFactory.
 
 (------------------------------------------------------------------------)
 
+89- What is the Adapter pattern used for?
+
+Ans- To match incompatible interfaces by converting the interface of a class into another interface that a client expects.
+
+(------------------------------------------------------------------------)
