@@ -436,6 +436,12 @@ Ans- Decorator, Proxy, Bridge, Composite, Flyweight, Adapter, Façade.
 
 (-----------------------------------------------------------------------)
 
+74- What is the main purpose of structural patterns?
+
+Ans- To define how objects and classes are composed to form larger structures, enhancing flexibility, longevity, and security.
+
+(-----------------------------------------------------------------------)
+
 
 
 
