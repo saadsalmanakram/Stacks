@@ -1090,3 +1090,9 @@ Ans- Yes, but combining them can optimize memory usage in systems with many simi
 
 (-----------------------------------------------------------------------)
 
+184- What C# feature allows for defining operations in the Composite pattern?
+
+Ans- Interfaces allow defining operations that components and composites must implement.
+
+(-----------------------------------------------------------------------)
+
