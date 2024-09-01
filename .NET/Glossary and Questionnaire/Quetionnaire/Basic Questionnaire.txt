@@ -1295,4 +1295,10 @@ Ans- The main components are the ITarget interface, the IAdaptee interface, and 
 
 (------------------------------------------------------------------------)
 
+218- What limitations are there with the Two-Way Adapter pattern?
+
+Ans- Limitations include potential complexity in managing multiple interfaces and ensuring the adapter properly translates between all involved systems without creating a tangled design.
+
+(------------------------------------------------------------------------)
+
 
