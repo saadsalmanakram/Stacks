@@ -184,3 +184,9 @@ Ans- The Factory Method pattern defines an interface for creating objects but al
 
 (-----------------------------------------------------------------------)
 
+32- What is the Strategy pattern used for?
+
+Ans- The Strategy pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable, allowing algorithms to vary independently from clients.
+
+(-----------------------------------------------------------------------)
+
