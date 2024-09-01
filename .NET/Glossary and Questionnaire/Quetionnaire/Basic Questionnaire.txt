@@ -748,5 +748,11 @@ Ans- It provides controlled and enhanced access to an object, reducing overhead 
 
 (-----------------------------------------------------------------------)
 
+127- Can a proxy be used to represent multiple objects?
+
+Ans- Yes, a proxy can be designed to handle multiple Subject objects, though it typically represents one.
+
+(-----------------------------------------------------------------------)
+
 
 
