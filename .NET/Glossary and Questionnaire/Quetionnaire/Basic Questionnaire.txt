@@ -130,3 +130,15 @@ Ans- SQL Server is used for managing and querying databases, a critical componen
 
 (-----------------------------------------------------------------------)
 
+23- What role do design patterns play in programming?
+
+Ans- Design patterns provide reusable solutions to common problems, facilitating the development of elegant and maintainable code.
+
+(-----------------------------------------------------------------------)
+
+24- How did programming languages evolve from the 1970s to the 1990s?
+
+Ans- They evolved from lacking basic features like type checking to incorporating advanced concepts like object orientation and generics.
+
+(-----------------------------------------------------------------------)
+
