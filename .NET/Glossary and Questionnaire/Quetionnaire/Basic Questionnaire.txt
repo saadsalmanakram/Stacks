@@ -1457,4 +1457,16 @@ Ans- It provides an interface for creating objects but allows subclasses to alte
 
 (------------------------------------------------------------------------)
 
+245- How does the Factory Method pattern differ from direct instantiation?
+
+Ans- It delegates object creation to subclasses, providing more flexibility in the type of objects created.
+
+(------------------------------------------------------------------------)
+
+246- When would you use the Factory Method pattern?
+
+Ans- When a class cannot anticipate the type of objects it needs to create or when you want to delegate the creation process to subclasses.
+
+(------------------------------------------------------------------------)
+
 
