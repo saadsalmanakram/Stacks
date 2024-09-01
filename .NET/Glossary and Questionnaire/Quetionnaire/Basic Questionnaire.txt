@@ -430,6 +430,12 @@ Ans- Structural design patterns deal with object composition to create larger, m
 
 (-----------------------------------------------------------------------)
 
+73- Name the seven structural design patterns.
+
+Ans- Decorator, Proxy, Bridge, Composite, Flyweight, Adapter, Façade.
+
+(-----------------------------------------------------------------------)
+
 
 
 
