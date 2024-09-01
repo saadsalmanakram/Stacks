@@ -682,4 +682,16 @@ Ans- The Decorator pattern offers more flexibility and avoids the complexity of 
 
 (-----------------------------------------------------------------------)
 
+116- What problem does the Decorator pattern solve regarding object behavior?
+
+Ans- The Decorator pattern allows you to dynamically add or modify the behavior of individual objects without altering the class itself.
+
+(-----------------------------------------------------------------------)
+
+117- Can you give an example of when the Decorator pattern is not suitable?
+
+Ans- The Decorator pattern is not suitable when you need to adapt interfaces between different classes, in which case the Adapter pattern would be more appropriate.
+
+(-----------------------------------------------------------------------)
+
 
