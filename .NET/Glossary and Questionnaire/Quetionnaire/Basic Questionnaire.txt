@@ -1277,4 +1277,10 @@ Ans- It's needed because C# does not support multiple inheritance, so a Two-Way 
 
 (------------------------------------------------------------------------)
 
+215- How does a Two-Way Adapter differ from a regular Adapter?
+
+Ans- A Two-Way Adapter can act as both an adapter and an adaptee, meaning it can handle method calls from both sides of the adaptation, unlike a regular Adapter which handles calls only from one side.
+
+(------------------------------------------------------------------------)
+
 
