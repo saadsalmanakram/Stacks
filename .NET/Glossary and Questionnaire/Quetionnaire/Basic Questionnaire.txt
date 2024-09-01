@@ -1697,4 +1697,10 @@ Ans- It allows different algorithms to be selected and used interchangeably by d
 
 (------------------------------------------------------------------------)
 
+285- How can the Strategy pattern be applied to sorting algorithms?
+
+Ans- By using different sorting algorithms as strategies, and allowing the user to select an appropriate sorting strategy based on data characteristics like presorted or random order.
+
+(------------------------------------------------------------------------)
+
 
