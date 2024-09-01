@@ -1199,4 +1199,16 @@ Ans- A class adapter uses inheritance to adapt the interface, while an object ad
 
 (------------------------------------------------------------------------)
 
+202- In the Adapter pattern, what does the Adapter class do?
+
+Ans- It implements the ITarget interface and translates requests to the Adaptee's interface.
+
+(------------------------------------------------------------------------)
+
+203- Provide an example of where an Adapter pattern might be used in real life.
+
+Ans- The Accelerate framework on macOS, which adapts old PowerPC code to run on Intel processors.
+
+(------------------------------------------------------------------------)
+
 
