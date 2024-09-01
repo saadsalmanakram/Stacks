@@ -1673,4 +1673,16 @@ Ans- AbstractClass and ConcreteClass.
 
 (------------------------------------------------------------------------)
 
+281- How does the Template Method pattern control the algorithm steps?
+
+Ans- By defining a template method in the base class that outlines the algorithm's structure, with some steps left to be implemented by subclasses.
+
+(------------------------------------------------------------------------)
+
+282- Can the Template Method pattern be used to enforce an algorithm's structure?
+
+Ans- Yes, it ensures that a fixed sequence of steps is followed, with certain steps customizable by subclasses.
+
+(------------------------------------------------------------------------)
+
 
