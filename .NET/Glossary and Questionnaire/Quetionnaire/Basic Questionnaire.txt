@@ -1325,4 +1325,10 @@ Ans- It offers a high-level interface that hides the complexities of subsystems 
 
 (------------------------------------------------------------------------)
 
+223- Can you give a real-world example of the Façade Pattern?
+
+Ans- Amazon’s 1-Click® ordering system simplifies the checkout process by abstracting the complex steps involved.
+
+(------------------------------------------------------------------------)
+
 
