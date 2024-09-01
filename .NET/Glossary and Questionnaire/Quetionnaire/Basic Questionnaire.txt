@@ -958,3 +958,9 @@ Ans- The Client interacts with the Abstraction, which in turn delegates operatio
 
 (-----------------------------------------------------------------------)
 
+162- What are the limitations of the Bridge pattern?
+
+Ans- The Bridge pattern can increase complexity and may introduce performance overhead due to its layered structure.
+
+(-----------------------------------------------------------------------)
+
