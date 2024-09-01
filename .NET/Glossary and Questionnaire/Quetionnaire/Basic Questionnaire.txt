@@ -1541,4 +1541,10 @@ Ans- It provides a way to construct a complex object step-by-step using differen
 
 (------------------------------------------------------------------------)
 
+259- What are the main components of the Builder Pattern?
+
+Ans- IBuilder, Director, Builder, and Product.
+
+(------------------------------------------------------------------------)
+
 
