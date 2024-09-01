@@ -1451,4 +1451,10 @@ Ans- By serializing the object to a memory stream and then deserializing it to c
 
 (------------------------------------------------------------------------)
 
+244- What is the Factory Method pattern?
+
+Ans- It provides an interface for creating objects but allows subclasses to alter the type of objects that will be created.
+
+(------------------------------------------------------------------------)
+
 
