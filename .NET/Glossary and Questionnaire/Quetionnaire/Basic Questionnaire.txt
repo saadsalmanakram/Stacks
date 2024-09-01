@@ -1559,4 +1559,10 @@ Ans- The Builder Pattern provides more flexibility in constructing complex objec
 
 (------------------------------------------------------------------------)
 
+262- Can the Builder Pattern be used to create different types of products?
+
+Ans- Yes, different builders can create various representations of the same type of product.
+
+(------------------------------------------------------------------------)
+
 
