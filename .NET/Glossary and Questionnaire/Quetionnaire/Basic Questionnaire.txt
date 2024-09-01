@@ -1769,4 +1769,10 @@ Ans- Yes, by incorporating additional context attributes, state transitions can 
 
 (------------------------------------------------------------------------)
 
+297- What’s the difference between using an interface and virtual methods in State pattern?
+
+Ans- Interfaces provide method signatures without implementation, while virtual methods allow inheritance with base implementations that can be overridden.
+
+(------------------------------------------------------------------------)
+
 
