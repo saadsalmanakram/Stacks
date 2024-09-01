@@ -328,6 +328,11 @@ Ans- Classes, interfaces/abstract classes, and packages.
 
 (------------------------------------------------------------------------)
 
+56- What is the default accessibility for attributes and operations in UML diagrams?
+
+Ans- Attributes are private by default, and operations are public by default.
+
+(------------------------------------------------------------------------)
 
 
 
