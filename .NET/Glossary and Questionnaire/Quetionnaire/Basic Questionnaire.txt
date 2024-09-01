@@ -1421,3 +1421,10 @@ Ans- IPrototype, Prototype, PrototypeManager, and Client.
 
 (------------------------------------------------------------------------)
 
+239- How does the Prototype pattern improve performance?
+
+Ans- It speeds up the creation of complex objects by cloning rather than recreating from scratch.
+
+(------------------------------------------------------------------------)
+
+
