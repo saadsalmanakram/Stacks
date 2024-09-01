@@ -1475,4 +1475,10 @@ Ans- It ensures that only one instance of a class is created and provides a glob
 
 (------------------------------------------------------------------------)
 
+248- Why use the Singleton pattern?
+
+Ans- To control access to a unique resource or to ensure that a single instance manages a particular operation.
+
+(------------------------------------------------------------------------)
+
 
