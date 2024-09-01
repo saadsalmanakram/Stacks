@@ -10,3 +10,9 @@ Ans- C# is the primary language used in the .NET stack, though VB.NET and F# are
 
 (-------------------------------------------------------------------------)
 
+3- What is ASP.NET Core?
+
+Ans- ASP.NET Core is a cross-platform framework for building modern, cloud-based, and internet-connected applications.
+
+(-------------------------------------------------------------------------)
+
