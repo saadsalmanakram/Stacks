@@ -1805,3 +1805,8 @@ Ans- Algorithm (base class), TemplateMethod (defined in base class), IPrimitives
 
 (------------------------------------------------------------------------)
 
+303- How does the Template Method pattern differ from the Strategy pattern?
+
+Ans- Template Method encapsulates an algorithm with some steps deferred to subclasses, while Strategy encapsulates interchangeable algorithms.
+
+(------------------------------------------------------------------------)
