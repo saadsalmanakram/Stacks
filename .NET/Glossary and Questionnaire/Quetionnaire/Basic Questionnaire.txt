@@ -610,3 +610,8 @@ Ans- The second-level decorator does not hold a reference to the original object
 
 (-----------------------------------------------------------------------)
 
+103- What is an alternative pattern if the Decorator pattern does not fit?
+
+Ans- The Strategy pattern is a better fit when the Decorator pattern does not allow for sufficient manipulation of an object’s properties.
+
+(-----------------------------------------------------------------------)
