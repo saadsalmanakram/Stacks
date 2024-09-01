@@ -994,3 +994,9 @@ Ans- The Bridge pattern improves code maintainability by decoupling the abstract
 
 (-----------------------------------------------------------------------)
 
+168- What is the primary purpose of the Composite pattern?
+
+Ans- To treat individual objects and compositions of objects uniformly.
+
+(-----------------------------------------------------------------------)
+
