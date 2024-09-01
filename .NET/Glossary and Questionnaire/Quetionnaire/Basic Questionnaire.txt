@@ -1391,3 +1391,9 @@ Ans- The Façade Pattern can hide too much complexity, leading to potential limi
 
 (------------------------------------------------------------------------)
 
+234- What are creational patterns in design?
+
+Ans- They manage object creation mechanisms, allowing systems to be independent of how their objects are created, composed, and represented.
+
+(------------------------------------------------------------------------)
+
