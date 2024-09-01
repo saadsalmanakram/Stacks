@@ -586,3 +586,9 @@ Ans- By using composition instead of inheritance, decorators remain lean and onl
 
 (------------------------------------------------------------------------)
 
+99- What does the term "multiple operations" refer to in the context of the Decorator pattern?
+
+Ans- It refers to the ability to perform various operations on components, which may be part of the original component or added by decorators.
+
+(------------------------------------------------------------------------)
+
