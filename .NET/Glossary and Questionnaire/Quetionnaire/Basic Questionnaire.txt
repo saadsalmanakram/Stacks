@@ -1427,4 +1427,16 @@ Ans- It speeds up the creation of complex objects by cloning rather than recreat
 
 (------------------------------------------------------------------------)
 
+240- What is the difference between shallow copy and deep copy in the Prototype pattern?
+
+Ans- Shallow copy duplicates the object’s references, while deep copy duplicates all referenced objects as well.
+
+(------------------------------------------------------------------------)
+
+241- In what scenarios is the Prototype pattern useful?
+
+Ans- When creating objects is expensive and only a few variations are needed, or when objects need to be copied frequently.
+
+(------------------------------------------------------------------------)
+
 
