@@ -346,6 +346,18 @@ Ans- To explain relationships or important details about method interactions bet
 
 (-----------------------------------------------------------------------)
 
+59- What is the purpose of UML diagrams in relation to programming?
+
+Ans- To show important elements of a pattern without being an exact copy of a program.
+
+(-----------------------------------------------------------------------)
+
+60- What major feature was introduced in C# 2.0?
+
+Ans- Generics, allowing parameterization of classes, structs, and methods by data types.
+
+(-----------------------------------------------------------------------)
+
 
 
 
