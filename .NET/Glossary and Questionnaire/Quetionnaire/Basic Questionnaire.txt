@@ -700,4 +700,10 @@ Ans- The Proxy Pattern provides a surrogate or placeholder for another object to
 
 (-----------------------------------------------------------------------)
 
+119- What are the main components of the Proxy Pattern?
+
+Ans- The main components are the Subject, Proxy, and ISubject interface.
+
+(-----------------------------------------------------------------------)
+
 
