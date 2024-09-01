@@ -658,4 +658,10 @@ Ans- Consider the Adapter pattern when you need to set up an interface between d
 
 (-----------------------------------------------------------------------)
 
+111- How does the Composite pattern differ from the Decorator pattern?
+
+Ans- The Composite pattern aggregates objects without inheriting their interface, while the Decorator pattern wraps objects to add behavior or state.
+
+(-----------------------------------------------------------------------)
+
 
