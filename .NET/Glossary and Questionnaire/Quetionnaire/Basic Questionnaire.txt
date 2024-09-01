@@ -166,3 +166,9 @@ Ans- The Observer pattern is used for defining a one-to-many dependency between 
 
 (-----------------------------------------------------------------------)
 
+29- What is the Proxy pattern used for?
+
+Ans- The Proxy pattern is used for providing a surrogate or placeholder to control access to another object.
+
+(-----------------------------------------------------------------------)
+
