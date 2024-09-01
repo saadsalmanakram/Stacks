@@ -796,5 +796,15 @@ Ans- By using remote proxies, it encodes requests and minimizes data transfer ov
 
 (-----------------------------------------------------------------------)
 
+135- Give an example of a real-world application of the Proxy Pattern.
 
+Ans- A proxy server in networking acts as an intermediary for requests from clients seeking resources from other servers.
+
+(-----------------------------------------------------------------------)
+
+136- What is the purpose of a Proxy pattern?
+
+Ans- The Proxy pattern acts as an intermediary for controlling access to a class that has sensitive data or is expensive to instantiate.
+
+(-----------------------------------------------------------------------)
 
