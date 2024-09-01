@@ -214,3 +214,9 @@ Ans- The Prototype pattern is used for creating new objects by copying an existi
 
 (-----------------------------------------------------------------------)
 
+37- What is the Composite pattern?
+
+Ans- The Composite pattern allows clients to treat individual objects and compositions of objects uniformly.
+
+(-----------------------------------------------------------------------)
+
