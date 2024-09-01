@@ -1517,3 +1517,10 @@ Ans- It isolates product creation and allows clients to work with abstract produ
 
 (------------------------------------------------------------------------)
 
+255- Can the Abstract Factory Pattern be used to change product families at runtime?
+
+Ans- Yes, because the client interacts only with abstract interfaces, allowing for easy substitution of different product families.
+
+(------------------------------------------------------------------------)
+
+
