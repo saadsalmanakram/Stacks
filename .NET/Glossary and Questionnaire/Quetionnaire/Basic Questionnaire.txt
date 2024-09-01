@@ -1715,4 +1715,10 @@ Ans- The Context class maintains a reference to a State object and delegates req
 
 (------------------------------------------------------------------------)
 
+288- What is the role of the IState interface in the State pattern?
+
+Ans- The IState interface defines the methods that all concrete state classes must implement, allowing different state implementations to be used interchangeably.
+
+(------------------------------------------------------------------------)
+
 
