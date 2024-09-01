@@ -1006,3 +1006,9 @@ Ans- It simplifies client code by allowing single objects and collections to be 
 
 (-----------------------------------------------------------------------)
 
+170- Can you explain the role of the Component in the Composite pattern?
+
+Ans- It defines an interface for objects in the composition, with default behavior for all objects.
+
+(-----------------------------------------------------------------------)
+
