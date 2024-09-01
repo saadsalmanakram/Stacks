@@ -760,5 +760,11 @@ Ans- Proxies manage user sessions, control access to user pages, and route actio
 
 (-----------------------------------------------------------------------)
 
+129- When would you use a virtual proxy?
+
+Ans- Use a virtual proxy when object creation is expensive or resource-intensive, and you want to delay this until absolutely necessary.
+
+(-----------------------------------------------------------------------)
+
 
 
