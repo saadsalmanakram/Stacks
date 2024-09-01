@@ -322,6 +322,12 @@ Ans- Patterns often work together in large systems, and understanding their inte
 
 (------------------------------------------------------------------------)
 
+55- What are the three types of blocks in UML diagrams?
+
+Ans- Classes, interfaces/abstract classes, and packages.
+
+(------------------------------------------------------------------------)
+
 
 
 
