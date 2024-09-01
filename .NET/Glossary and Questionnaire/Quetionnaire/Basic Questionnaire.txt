@@ -1787,3 +1787,9 @@ Ans- It maintains a reference to the current State object and delegates state-sp
 
 (------------------------------------------------------------------------)
 
+300- What is the Template Method pattern?
+
+Ans- It defines the structure of an algorithm in a base class but lets subclasses redefine certain steps without changing the algorithm's structure.
+
+(------------------------------------------------------------------------)
+
