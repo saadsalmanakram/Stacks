@@ -640,4 +640,9 @@ Ans- The Decorator pattern is recommended when you need to add behavior to objec
 
 (-----------------------------------------------------------------------)
 
+108- What are the main benefits of using the Decorator pattern?
+
+Ans- It allows you to make changes to some objects in a class without affecting others and helps avoid subclassing, which could lead to an overwhelming number of classes.
+
+(-----------------------------------------------------------------------)
 
