@@ -394,6 +394,11 @@ Ans- Extension methods.
 
 (-----------------------------------------------------------------------)
 
+67- What are lambda expressions in C# 3.0?
+
+Ans- An evolution of anonymous methods that provide improved type inference and conversions.
+
+(-----------------------------------------------------------------------)
 
 
 
