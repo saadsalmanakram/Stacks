@@ -1415,3 +1415,9 @@ Ans- It creates new objects by copying an existing prototype rather than through
 
 (------------------------------------------------------------------------)
 
+238- What are the key components of the Prototype pattern?
+
+Ans- IPrototype, Prototype, PrototypeManager, and Client.
+
+(------------------------------------------------------------------------)
+
