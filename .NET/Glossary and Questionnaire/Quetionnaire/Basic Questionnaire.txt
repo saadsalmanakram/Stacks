@@ -1691,4 +1691,10 @@ Ans- The Strategy pattern focuses on selecting an algorithm dynamically at runti
 
 (------------------------------------------------------------------------)
 
+284- How does the Strategy pattern work with different algorithms?
+
+Ans- It allows different algorithms to be selected and used interchangeably by defining a common interface for the algorithms and providing specific implementations.
+
+(------------------------------------------------------------------------)
+
 
