@@ -1823,3 +1823,9 @@ Ans- A method with a default implementation in the base class that can be option
 
 (------------------------------------------------------------------------)
 
+306- For the RPC game state changes, how can player characteristics enhance state transitions?
+
+Ans- By including player attributes like strength or stamina in the context, state transitions can consider these attributes to modify behavior more dynamically.
+
+(------------------------------------------------------------------------)
+
