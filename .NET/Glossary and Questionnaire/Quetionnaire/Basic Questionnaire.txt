@@ -544,3 +544,9 @@ Ans- Class Adapter and Object Adapter.
 
 (------------------------------------------------------------------------)
 
+92- What is the Façade pattern used for?
+
+Ans- To provide a simplified interface to a complex subsystem, making it easier to use.
+
+(------------------------------------------------------------------------)
+
