@@ -898,3 +898,9 @@ Ans- The Bridge pattern decouples an abstraction from its implementation, allowi
 
 (-----------------------------------------------------------------------)
 
+152- When should you use the Bridge pattern?
+
+Ans- Use the Bridge pattern when you need to hide implementations from clients and avoid binding them directly to abstractions.
+
+(-----------------------------------------------------------------------)
+
