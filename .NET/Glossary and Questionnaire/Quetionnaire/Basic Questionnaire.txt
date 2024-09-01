@@ -520,3 +520,9 @@ Ans- By sharing common state across multiple objects and separating intrinsic an
 
 (------------------------------------------------------------------------)
 
+88- What are the main components of the Flyweight pattern?
+
+Ans- Flyweight, ConcreteFlyweight, FlyweightFactory.
+
+(------------------------------------------------------------------------)
+
