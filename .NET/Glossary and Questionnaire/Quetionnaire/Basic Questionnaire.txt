@@ -1601,4 +1601,10 @@ Ans- Context, Strategy, and ConcreteStrategy classes.
 
 (------------------------------------------------------------------------)
 
+269- How does the Strategy pattern benefit sorting algorithms?
+
+Ans- It allows the choice of the most appropriate sorting algorithm at runtime without altering the client code.
+
+(------------------------------------------------------------------------)
+
 
