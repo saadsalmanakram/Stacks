@@ -910,3 +910,9 @@ Ans- The Bridge pattern might introduce overhead due to rerouting operations, wh
 
 (-----------------------------------------------------------------------)
 
+154- What are the key roles in the Bridge pattern?
+
+Ans- The key roles are Abstraction, Implementation, Bridge (Interface), and Client.
+
+(-----------------------------------------------------------------------)
+
