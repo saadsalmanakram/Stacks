@@ -178,3 +178,9 @@ Ans- The Singleton pattern restricts instantiation of a class to a single instan
 
 (-----------------------------------------------------------------------)
 
+31- What is the Factory Method pattern?
+
+Ans- The Factory Method pattern defines an interface for creating objects but allows subclasses to alter the type of objects that will be created.
+
+(-----------------------------------------------------------------------)
+
