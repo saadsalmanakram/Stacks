@@ -364,6 +364,12 @@ Ans- Anonymous methods.
 
 (-----------------------------------------------------------------------)
 
+62- What are iterators used for in C#?
+
+Ans- To incrementally compute and yield sequences of values.
+
+(-----------------------------------------------------------------------)
+
 
 
 
