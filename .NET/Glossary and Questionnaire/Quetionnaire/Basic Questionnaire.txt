@@ -1529,4 +1529,10 @@ Ans- Different brands of handbags (e.g., Gucci, Poochy) where each brand has its
 
 (------------------------------------------------------------------------)
 
+257- What is the Builder Pattern?
+
+Ans- It separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
+
+(------------------------------------------------------------------------)
+
 
