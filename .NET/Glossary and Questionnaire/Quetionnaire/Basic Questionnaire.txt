@@ -778,5 +778,11 @@ Ans- The Proxy Pattern controls access to an object, while the Decorator Pattern
 
 (-----------------------------------------------------------------------)
 
+132- What is lazy initialization in the context of the Proxy Pattern?
+
+Ans- Lazy initialization is a strategy where the Subject object is only created when its first method is called, as seen in a virtual proxy.
+
+(-----------------------------------------------------------------------)
+
 
 
