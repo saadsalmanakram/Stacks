@@ -1535,4 +1535,10 @@ Ans- It separates the construction of a complex object from its representation, 
 
 (------------------------------------------------------------------------)
 
+258- What role does the Builder Pattern play?
+
+Ans- It provides a way to construct a complex object step-by-step using different builders, which produce different representations of the object.
+
+(------------------------------------------------------------------------)
+
 
