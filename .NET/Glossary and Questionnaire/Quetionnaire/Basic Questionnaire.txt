@@ -220,3 +220,9 @@ Ans- The Composite pattern allows clients to treat individual objects and compos
 
 (-----------------------------------------------------------------------)
 
+38- What is the Template Method pattern?
+
+Ans- The Template Method pattern defines the skeleton of an algorithm in a method, deferring some steps to subclasses.
+
+(-----------------------------------------------------------------------)
+
