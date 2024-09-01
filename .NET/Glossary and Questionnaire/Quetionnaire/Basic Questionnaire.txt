@@ -34,3 +34,9 @@ Ans- OOP is a programming paradigm based on the concept of objects, which can co
 
 (-------------------------------------------------------------------------)
 
+7- Why is front-end development knowledge necessary for full-stack .NET developers?
+
+Ans- Full-stack developers need to create responsive and interactive user interfaces, requiring knowledge of HTML, CSS, JavaScript, and frameworks like ASP.NET Core.
+
+(-------------------------------------------------------------------------)
+
