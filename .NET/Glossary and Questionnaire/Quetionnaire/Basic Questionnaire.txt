@@ -531,3 +531,9 @@ Ans- Flyweight, ConcreteFlyweight, FlyweightFactory.
 Ans- To match incompatible interfaces by converting the interface of a class into another interface that a client expects.
 
 (------------------------------------------------------------------------)
+
+90- How does the Adapter pattern enable compatibility between different interfaces?
+
+Ans- By providing a wrapper that translates the interface of one class into another expected by the client.
+
+(------------------------------------------------------------------------)
