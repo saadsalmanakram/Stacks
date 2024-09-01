@@ -202,3 +202,9 @@ Ans- The Decorator pattern is used for adding new responsibilities to objects dy
 
 (-----------------------------------------------------------------------)
 
+35- What is the Command pattern?
+
+Ans- The Command pattern encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations.
+
+(-----------------------------------------------------------------------)
+
