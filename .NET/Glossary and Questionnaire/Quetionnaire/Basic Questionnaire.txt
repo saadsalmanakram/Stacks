@@ -1307,4 +1307,10 @@ Ans- A Two-Way Adapter must handle both properties and methods from multiple int
 
 (------------------------------------------------------------------------)
 
+220- What is the role of delegates in the context of pluggable adapters?
+
+Ans- Delegates in pluggable adapters allow dynamic method assignment and invocation, enabling flexible adaptation of different methods and interfaces at runtime.
+
+(------------------------------------------------------------------------)
+
 
