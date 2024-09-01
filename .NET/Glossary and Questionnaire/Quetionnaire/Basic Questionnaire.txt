@@ -298,6 +298,12 @@ Ans- Creational, Structural, and Behavioral.
 
 (-----------------------------------------------------------------------)
 
+51- What is the Chain of Responsibility pattern?
+
+Ans- Passes a request along a chain of handlers, where each handler has the opportunity to process the request.
+
+(------------------------------------------------------------------------)
+
 
 
 
