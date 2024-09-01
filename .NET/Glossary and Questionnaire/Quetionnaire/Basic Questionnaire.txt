@@ -1012,3 +1012,9 @@ Ans- It defines an interface for objects in the composition, with default behavi
 
 (-----------------------------------------------------------------------)
 
+171- What is the Composite in the Composite pattern?
+
+Ans- A composite object that contains children, allowing operations to apply to both individual and composite objects.
+
+(-----------------------------------------------------------------------)
+
