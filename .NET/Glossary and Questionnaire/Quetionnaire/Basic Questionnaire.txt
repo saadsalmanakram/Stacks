@@ -1084,3 +1084,9 @@ Ans- They enable the quick creation of temporary objects without explicitly defi
 
 (-----------------------------------------------------------------------)
 
+183- Can the Composite pattern work without the Flyweight pattern?
+
+Ans- Yes, but combining them can optimize memory usage in systems with many similar objects.
+
+(-----------------------------------------------------------------------)
+
