@@ -1150,3 +1150,9 @@ Ans- The intrinsic state is the thumbnail image (shared), while the extrinsic st
 
 (------------------------------------------------------------------------)
 
+194- How does the FlyweightFactory manage Flyweight objects?
+
+Ans- The FlyweightFactory uses a dictionary to store and manage unique Flyweight objects, ensuring that only one instance of each unique Flyweight is created.
+
+(------------------------------------------------------------------------)
+
