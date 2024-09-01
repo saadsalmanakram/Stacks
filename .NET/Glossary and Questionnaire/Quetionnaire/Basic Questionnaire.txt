@@ -730,4 +730,10 @@ Ans- A remote proxy handles requests to an object that resides in a different ad
 
 (-----------------------------------------------------------------------)
 
+124- What is a smart proxy?
+
+Ans- A smart proxy adds additional actions or modifications to requests before they reach the Subject.
+
+(-----------------------------------------------------------------------)
+
 
