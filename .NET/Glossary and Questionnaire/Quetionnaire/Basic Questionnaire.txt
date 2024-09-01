@@ -52,3 +52,9 @@ Ans- ASP.NET Core allows developers to build web applications using a robust, mo
 
 (-------------------------------------------------------------------------)
 
+10- What front-end frameworks are commonly used with .NET?
+
+Ans- Common front-end frameworks include ASP.NET Core, Blazor, Angular, and React.
+
+(-------------------------------------------------------------------------)
+
