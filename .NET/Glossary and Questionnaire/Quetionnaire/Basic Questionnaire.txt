@@ -988,3 +988,9 @@ Ans- The Bridge pattern allows multiple implementations to coexist and be select
 
 (-----------------------------------------------------------------------)
 
+167- What is the impact of the Bridge pattern on code maintenance?
+
+Ans- The Bridge pattern improves code maintainability by decoupling the abstraction from the implementation, making it easier to modify or replace parts independently.
+
+(-----------------------------------------------------------------------)
+
