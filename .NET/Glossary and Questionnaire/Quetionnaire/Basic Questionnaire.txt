@@ -1745,4 +1745,10 @@ Ans- It allows for dynamic behavior changes based on the membership tier, such a
 
 (------------------------------------------------------------------------)
 
+293- What is a common scenario where the Strategy pattern is preferable over the State pattern?
+
+Ans- When you need to choose between different algorithms or strategies for a task, and the choice is independent of the object’s internal state.
+
+(------------------------------------------------------------------------)
+
 
