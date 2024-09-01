@@ -1361,4 +1361,15 @@ Ans- When you need to provide a simpler interface to a complex subsystem or to o
 
 (------------------------------------------------------------------------)
 
+229- What are the benefits of using the Façade Pattern?
+
+Ans- It reduces dependencies between clients and subsystems, simplifies the interface, and makes the system easier to use and maintain.
+
+(------------------------------------------------------------------------)
+
+230- What is a static Façade, and when is it used?
+
+Ans- A static Façade is a class with static methods that do not require instantiation, used when only one instance of the Façade is needed.
+
+(------------------------------------------------------------------------)
 
