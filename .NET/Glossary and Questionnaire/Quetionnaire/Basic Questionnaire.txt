@@ -1054,3 +1054,15 @@ Ans- Properties provide controlled access to component data, ensuring encapsulat
 
 (-----------------------------------------------------------------------)
 
+178- How do structs fit into the implementation of the Flyweight pattern?
+
+Ans- Structs can represent lightweight objects that are shared to save space.
+
+(-----------------------------------------------------------------------)
+
+179- What is the purpose of indexers in the Composite pattern?
+
+Ans- Indexers allow collection-like access to the composite's components.
+
+(-----------------------------------------------------------------------)
+
