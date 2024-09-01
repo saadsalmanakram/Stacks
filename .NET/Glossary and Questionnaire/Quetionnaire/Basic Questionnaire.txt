@@ -1343,4 +1343,10 @@ Ans- The Façade Pattern provides a new high-level interface to a subsystem, whi
 
 (------------------------------------------------------------------------)
 
+226- What is meant by an "opaque" Façade?
+
+Ans- An opaque Façade hides all subsystem details, only exposing high-level operations to the client.
+
+(------------------------------------------------------------------------)
+
 
