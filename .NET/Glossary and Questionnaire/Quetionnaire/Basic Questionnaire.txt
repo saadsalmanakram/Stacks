@@ -940,3 +940,9 @@ Ans- The Bridge pattern allows different display drivers to be used interchangea
 
 (-----------------------------------------------------------------------)
 
+159- Why might rerouting operations in the Bridge pattern be a concern?
+
+Ans- Rerouting operations might introduce latency, making it unsuitable for performance-critical applications.
+
+(-----------------------------------------------------------------------)
+
