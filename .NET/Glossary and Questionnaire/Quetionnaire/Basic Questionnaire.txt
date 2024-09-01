@@ -1385,3 +1385,9 @@ Ans- The Adapter Pattern changes the interface of an existing object, whereas th
 
 (------------------------------------------------------------------------)
 
+233- What are the main trade-offs when using the Façade Pattern?
+
+Ans- The Façade Pattern can hide too much complexity, leading to potential limitations in access to subsystem features and reduced flexibility.
+
+(------------------------------------------------------------------------)
+
