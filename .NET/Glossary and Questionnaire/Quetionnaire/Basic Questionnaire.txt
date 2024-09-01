@@ -1643,4 +1643,10 @@ Ans- Context, State, and ConcreteState classes.
 
 (------------------------------------------------------------------------)
 
+276- In the State pattern, what is the purpose of the Context class?
+
+Ans- The Context maintains a reference to a State object and delegates state-specific behavior to it.
+
+(------------------------------------------------------------------------)
+
 
