@@ -850,4 +850,9 @@ Ans- You can add a friends-only feature where actions like "Poke" are allowed on
 
 (-----------------------------------------------------------------------)
 
+144- How would you use the Proxy pattern to design a photo-sharing system like Flickr?
+
+Ans- A Proxy could manage permissions for viewing, downloading, and commenting on photos, allowing only friends to perform certain actions.
+
+(-----------------------------------------------------------------------)
 
