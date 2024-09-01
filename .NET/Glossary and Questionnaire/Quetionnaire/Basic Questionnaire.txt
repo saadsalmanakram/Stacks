@@ -1271,4 +1271,10 @@ Ans- A Two-Way Adapter allows objects to interact with systems or components tha
 
 (------------------------------------------------------------------------)
 
+214- Why is a Two-Way Adapter necessary in C#?
+
+Ans- It's needed because C# does not support multiple inheritance, so a Two-Way Adapter can combine the functionalities of two different interfaces or classes, adapting their methods for mutual compatibility.
+
+(------------------------------------------------------------------------)
+
 
