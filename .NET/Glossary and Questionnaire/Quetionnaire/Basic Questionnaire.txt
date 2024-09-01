@@ -76,3 +76,8 @@ Ans- CI/CD stands for Continuous Integration and Continuous Deployment, essentia
 
 (-------------------------------------------------------------------------)
 
+14- Why is version control important for developers?
+
+Ans- Version control, like Git, helps manage and track changes to code, facilitating collaboration and maintaining code history.
+
+(-------------------------------------------------------------------------)
