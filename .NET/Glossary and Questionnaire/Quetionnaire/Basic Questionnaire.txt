@@ -772,5 +772,11 @@ Ans- An authentication proxy is useful in scenarios requiring user authenticatio
 
 (-----------------------------------------------------------------------)
 
+131- What is the main difference between a Proxy Pattern and a Decorator Pattern?
+
+Ans- The Proxy Pattern controls access to an object, while the Decorator Pattern adds responsibilities to objects.
+
+(-----------------------------------------------------------------------)
+
 
 
