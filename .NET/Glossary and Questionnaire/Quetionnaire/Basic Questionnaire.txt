@@ -886,3 +886,9 @@ Ans- Unlike traditional inheritance, where the implementation is tightly bound t
 
 (-----------------------------------------------------------------------)
 
+150- How would you extend a system using the Bridge pattern to include new features like SuperPoke?
+
+Ans- You could implement new methods like SuperPoke on top of existing ones by adding them to the implementation side of the Bridge.
+
+(-----------------------------------------------------------------------)
+
