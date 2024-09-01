@@ -964,3 +964,9 @@ Ans- The Bridge pattern can increase complexity and may introduce performance ov
 
 (-----------------------------------------------------------------------)
 
+163- In which scenarios is the Bridge pattern less effective?
+
+Ans- The Bridge pattern is less effective in scenarios where the overhead of rerouting operations is a critical concern, such as in real-time systems.
+
+(-----------------------------------------------------------------------)
+
