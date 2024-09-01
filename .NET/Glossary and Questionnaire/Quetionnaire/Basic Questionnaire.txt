@@ -537,3 +537,10 @@ Ans- To match incompatible interfaces by converting the interface of a class int
 Ans- By providing a wrapper that translates the interface of one class into another expected by the client.
 
 (------------------------------------------------------------------------)
+
+91- What are the types of Adapters?
+
+Ans- Class Adapter and Object Adapter.
+
+(------------------------------------------------------------------------)
+
