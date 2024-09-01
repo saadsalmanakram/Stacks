@@ -628,3 +628,9 @@ Ans- In .NET, decorators are used in the I/O APIs, such as System.IO.BufferedStr
 
 (-----------------------------------------------------------------------)
 
+106- How is the Decorator pattern useful in mobile application development?
+
+Ans- It allows mobile apps to create display objects tailored for smaller screens, such as including scroll bars and excluding certain elements like banners.
+
+(-----------------------------------------------------------------------)
+
