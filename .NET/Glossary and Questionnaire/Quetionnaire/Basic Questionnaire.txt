@@ -844,4 +844,10 @@ Ans- The Client can instantiate the Program instead of inheriting from it.
 
 (-----------------------------------------------------------------------)
 
+143- How could you enhance the SpaceBook system using the Proxy pattern?
+
+Ans- You can add a friends-only feature where actions like "Poke" are allowed only between accepted friends, encapsulating this logic within the proxy.
+
+(-----------------------------------------------------------------------)
+
 
