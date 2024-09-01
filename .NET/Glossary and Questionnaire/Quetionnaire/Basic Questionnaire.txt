@@ -232,3 +232,9 @@ Ans- The Mediator pattern defines an object that encapsulates how a set of objec
 
 (-----------------------------------------------------------------------)
 
+40- What is the Builder pattern used for?
+
+Ans- The Builder pattern separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
+
+(-----------------------------------------------------------------------)
+
