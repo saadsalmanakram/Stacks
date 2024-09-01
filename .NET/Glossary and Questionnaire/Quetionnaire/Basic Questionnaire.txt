@@ -310,6 +310,12 @@ Ans- The implementation of patterns in C# often involves advanced features such 
 
 (------------------------------------------------------------------------)
 
+53- How are design patterns used in real systems?
+
+Ans- Patterns like Façade and Adapter are used in practical scenarios like compiler construction and graphical frameworks to solve common problems.
+
+(------------------------------------------------------------------------)
+
 
 
 
