@@ -1337,4 +1337,10 @@ Ans- The Façade, Subsystems, and the Client. The Façade provides a simplified 
 
 (------------------------------------------------------------------------)
 
+225- How does the Façade Pattern differ from the Adapter Pattern?
+
+Ans- The Façade Pattern provides a new high-level interface to a subsystem, while the Adapter Pattern converts an existing interface to a different one.
+
+(------------------------------------------------------------------------)
+
 
