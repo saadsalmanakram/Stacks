@@ -1229,3 +1229,9 @@ Ans- By offering a higher-level interface that hides the complexities of the sub
 
 (------------------------------------------------------------------------)
 
+207- What are the key benefits of using the Façade pattern?
+
+Ans- It reduces dependencies on subsystems, makes code easier to understand, and simplifies client interactions.
+
+(------------------------------------------------------------------------)
+
