@@ -1379,3 +1379,9 @@ Ans- Use Abstract Factory when creating families of related or dependent objects
 
 (------------------------------------------------------------------------)
 
+232- What is the difference between the Façade and Adapter Patterns in terms of class relationships?
+
+Ans- The Adapter Pattern changes the interface of an existing object, whereas the Façade Pattern provides a new interface to a set of existing subsystems.
+
+(------------------------------------------------------------------------)
+
