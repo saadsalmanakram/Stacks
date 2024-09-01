@@ -1036,3 +1036,9 @@ Ans- It saves memory by sharing objects that are identical in value.
 
 (-----------------------------------------------------------------------)
 
+175- How does the Flyweight pattern achieve memory savings?
+
+Ans- By using a shared pool of objects, only creating new objects when no existing match is found.
+
+(-----------------------------------------------------------------------)
+
