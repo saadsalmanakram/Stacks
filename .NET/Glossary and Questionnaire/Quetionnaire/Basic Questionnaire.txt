@@ -226,3 +226,9 @@ Ans- The Template Method pattern defines the skeleton of an algorithm in a metho
 
 (-----------------------------------------------------------------------)
 
+39- How does the Mediator pattern facilitate communication?
+
+Ans- The Mediator pattern defines an object that encapsulates how a set of objects interact, promoting loose coupling by preventing direct references between objects.
+
+(-----------------------------------------------------------------------)
+
