@@ -496,3 +496,9 @@ Ans- To treat individual objects and compositions of objects uniformly.
 
 (-----------------------------------------------------------------------)
 
+84- How does the Composite pattern simplify working with hierarchical structures?
+
+Ans- It allows clients to work with individual objects and compositions of objects in a consistent way.
+
+(-----------------------------------------------------------------------)
+
