@@ -1481,4 +1481,10 @@ Ans- To control access to a unique resource or to ensure that a single instance 
 
 (------------------------------------------------------------------------)
 
+249- What is a common problem with the Singleton pattern?
+
+Ans- It can create global state and reduce testability due to the implicit coupling between the Singleton instance and other classes.
+
+(------------------------------------------------------------------------)
+
 
