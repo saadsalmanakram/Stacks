@@ -1613,4 +1613,10 @@ Ans- The Context maintains a reference to a Strategy object and can switch strat
 
 (------------------------------------------------------------------------)
 
+271- What role does the IStrategy interface play in the Strategy pattern?
+
+Ans- It defines the common interface for all concrete strategies, ensuring they can be used interchangeably.
+
+(------------------------------------------------------------------------)
+
 
