@@ -1024,3 +1024,9 @@ Ans- It provides a structured way to manage complex hierarchies, making the syst
 
 (-----------------------------------------------------------------------)
 
+173- How can the Flyweight pattern be integrated into the Composite pattern?
+
+Ans- By sharing identical components across composites to reduce memory usage.
+
+(-----------------------------------------------------------------------)
+
