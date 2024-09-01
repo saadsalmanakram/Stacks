@@ -1667,4 +1667,10 @@ Ans- It promotes code reuse and ensures a consistent algorithm structure while a
 
 (------------------------------------------------------------------------)
 
+280- What roles are involved in the Template Method pattern?
+
+Ans- AbstractClass and ConcreteClass.
+
+(------------------------------------------------------------------------)
+
 
