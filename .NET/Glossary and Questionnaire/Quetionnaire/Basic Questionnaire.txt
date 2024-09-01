@@ -676,4 +676,10 @@ Ans- The Strategy pattern changes the original object by selecting different alg
 
 (-----------------------------------------------------------------------)
 
+115- Why might you choose the Decorator pattern over creating subclasses?
+
+Ans- The Decorator pattern offers more flexibility and avoids the complexity of creating numerous subclasses, which can make the system difficult to maintain.
+
+(-----------------------------------------------------------------------)
+
 
