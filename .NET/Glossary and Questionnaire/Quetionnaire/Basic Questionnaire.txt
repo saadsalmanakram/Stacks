@@ -1072,3 +1072,9 @@ Ans- It simplifies code by inferring the type, making the code more readable and
 
 (-----------------------------------------------------------------------)
 
+181- How do initializers enhance the implementation of the Composite pattern?
+
+Ans- Initializers allow for the straightforward creation and setup of composite objects.
+
+(-----------------------------------------------------------------------)
+
