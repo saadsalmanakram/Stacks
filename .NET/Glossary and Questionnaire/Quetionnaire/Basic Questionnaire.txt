@@ -400,6 +400,12 @@ Ans- An evolution of anonymous methods that provide improved type inference and 
 
 (-----------------------------------------------------------------------)
 
+68- How do object initializers simplify object construction in C#?
+
+Ans- They allow for easier and more readable initialization of objects.
+
+(-----------------------------------------------------------------------)
+
 
 
 
