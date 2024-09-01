@@ -826,4 +826,10 @@ Ans- In an image-drawing system, a proxy could display a placeholder image while
 
 (-----------------------------------------------------------------------)
 
+140- What role does the Proxy pattern play in video streaming?
+
+Ans- A Proxy can initiate buffering and manage data flow before the full video is streamed to the user.
+
+(-----------------------------------------------------------------------)
+
 
