@@ -1319,4 +1319,10 @@ Ans- Key benefits include flexibility in integrating disparate systems, reusabil
 
 (------------------------------------------------------------------------)
 
+222- What role does the Façade Pattern play in software design?
+
+Ans- It offers a high-level interface that hides the complexities of subsystems and their interactions.
+
+(------------------------------------------------------------------------)
+
 
