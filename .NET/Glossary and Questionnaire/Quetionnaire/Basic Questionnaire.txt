@@ -867,3 +867,10 @@ Ans- Implement a custom MyStream class as a proxy that intercepts, monitors, and
 Ans- The Bridge pattern decouples an abstraction from its implementation, allowing both to vary independently.
 
 (-----------------------------------------------------------------------)
+
+147- How does the Bridge pattern help in version control of software?
+
+Ans- The Bridge allows different versions of an abstraction to coexist without changing the client code, facilitating smooth transitions between versions.
+
+(-----------------------------------------------------------------------)
+
