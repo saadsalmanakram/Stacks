@@ -424,6 +424,12 @@ Ans- Language-integrated syntax for queries similar to SQL and XQuery.
 
 (-----------------------------------------------------------------------)
 
+72- What are structural design patterns?
+
+Ans- Structural design patterns deal with object composition to create larger, more flexible structures.
+
+(-----------------------------------------------------------------------)
+
 
 
 
