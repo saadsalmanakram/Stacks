@@ -856,3 +856,9 @@ Ans- A Proxy could manage permissions for viewing, downloading, and commenting o
 
 (-----------------------------------------------------------------------)
 
+145- Describe a scenario where a Proxy pattern could be used to monitor a library’s activity.
+
+Ans- Implement a custom MyStream class as a proxy that intercepts, monitors, and logs all stream method calls.
+
+(-----------------------------------------------------------------------)
+
