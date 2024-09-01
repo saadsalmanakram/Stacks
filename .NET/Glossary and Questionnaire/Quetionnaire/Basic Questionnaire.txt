@@ -922,3 +922,9 @@ Ans- The 'Bridge-up' approach involves creating an abstraction and connecting it
 
 (-----------------------------------------------------------------------)
 
+156- What is the 'Bridge-down' approach?
+
+Ans- The 'Bridge-down' approach starts with an abstraction and builds implementations alongside it.
+
+(-----------------------------------------------------------------------)
+
