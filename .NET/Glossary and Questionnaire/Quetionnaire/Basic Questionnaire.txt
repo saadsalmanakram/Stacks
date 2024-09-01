@@ -1,0 +1,6 @@
+1- What is the .NET framework?
+
+Ans- The .NET framework is a software development platform developed by Microsoft for building and running applications on Windows.
+
+(-------------------------------------------------------------------------)
+
