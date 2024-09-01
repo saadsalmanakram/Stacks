@@ -784,5 +784,17 @@ Ans- Lazy initialization is a strategy where the Subject object is only created 
 
 (-----------------------------------------------------------------------)
 
+133- Can the Proxy Pattern be combined with other design patterns?
+
+Ans- Yes, the Proxy Pattern can be combined with patterns like Singleton or Strategy to enhance its capabilities.
+
+(-----------------------------------------------------------------------)
+
+134- How does the Proxy Pattern help with network efficiency?
+
+Ans- By using remote proxies, it encodes requests and minimizes data transfer over the network, improving efficiency.
+
+(-----------------------------------------------------------------------)
+
 
 
