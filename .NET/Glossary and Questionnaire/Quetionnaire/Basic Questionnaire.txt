@@ -982,3 +982,9 @@ Ans- A common example is a graphics rendering system where different rendering e
 
 (-----------------------------------------------------------------------)
 
+166- How does the Bridge pattern handle multiple implementations?
+
+Ans- The Bridge pattern allows multiple implementations to coexist and be selected dynamically based on the context.
+
+(-----------------------------------------------------------------------)
+
