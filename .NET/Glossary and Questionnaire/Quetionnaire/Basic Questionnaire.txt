@@ -1649,4 +1649,10 @@ Ans- The Context maintains a reference to a State object and delegates state-spe
 
 (------------------------------------------------------------------------)
 
+277- How does the State pattern handle state transitions?
+
+Ans- By allowing state transitions to be managed within state classes, which update the Context's state when necessary.
+
+(------------------------------------------------------------------------)
+
 
