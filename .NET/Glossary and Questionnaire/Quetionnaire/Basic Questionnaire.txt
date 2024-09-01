@@ -1042,3 +1042,9 @@ Ans- By using a shared pool of objects, only creating new objects when no existi
 
 (-----------------------------------------------------------------------)
 
+176- Why are generics important in the implementation of the Composite pattern in C#?
+
+Ans- They allow the creation of flexible components and composites that can work with any data type.
+
+(-----------------------------------------------------------------------)
+
