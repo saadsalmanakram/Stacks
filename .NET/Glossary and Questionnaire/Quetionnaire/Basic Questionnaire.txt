@@ -1589,4 +1589,10 @@ Ans- The Strategy pattern defines a family of algorithms, encapsulates each one,
 
 (------------------------------------------------------------------------)
 
+267- Why use the Strategy pattern?
+
+Ans- To avoid conditional statements in code by encapsulating different algorithms into separate strategy classes.
+
+(------------------------------------------------------------------------)
+
 
