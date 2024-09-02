@@ -3411,3 +3411,9 @@ Ans- Interface abuse involves creating interfaces that are too specific or too g
 
 (-----------------------------------------------------------------------)
 
+571- What is polymorphism in object-oriented programming?
+
+Ans- Polymorphism allows objects of different types to be treated as objects of a common supertype, enabling flexible and reusable code.
+
+(-----------------------------------------------------------------------)
+
