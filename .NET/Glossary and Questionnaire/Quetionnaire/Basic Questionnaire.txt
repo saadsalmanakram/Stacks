@@ -1895,3 +1895,9 @@ Ans- Requests can get lost or remain unhandled if the chain isn't properly set u
 
 (------------------------------------------------------------------------)
 
+318- How is the decision made by a handler to process or pass on a request?
+
+Ans- Based on the handler’s resources, permissions, or workload.
+
+(------------------------------------------------------------------------)
+
