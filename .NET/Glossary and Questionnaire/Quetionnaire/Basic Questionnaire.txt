@@ -5373,4 +5373,10 @@ Ans- Smaller interfaces are easier to decorate, adapt, and compose, providing gr
 
 (-------------------------------------------------------------------------)
 
+899- What advantage do interfaces have over delegates?
+
+Ans- Interfaces can be decorated, adapted, and composed, whereas delegates lack these capabilities.
+
+(-------------------------------------------------------------------------)
+
 
