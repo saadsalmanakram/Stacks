@@ -1871,3 +1871,8 @@ Ans- The request may be handled by a default handler or trigger an exception.
 
 (------------------------------------------------------------------------)
 
+314- Can the Chain of Responsibility pattern have multiple identical handlers?
+
+Ans- Yes, multiple handlers at the same level can handle similar requests.
+
+(------------------------------------------------------------------------)
