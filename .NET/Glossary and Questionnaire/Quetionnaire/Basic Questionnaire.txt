@@ -3075,3 +3075,15 @@ Ans- Service Discovery is a mechanism for locating services either via a discove
 
 (------------------------------------------------------------------------)
 
+515- What is a centralized discovery proxy in Service Discovery?
+
+Ans- It's a known service that clients query to find other services, though it introduces a single point of failure.
+
+(------------------------------------------------------------------------)
+
+516- What is ad hoc Service Discovery?
+
+Ans- Ad hoc Service Discovery uses multicast network messages to find services without a centralized discovery proxy, reducing single points of failure.
+
+(------------------------------------------------------------------------)
+
