@@ -2679,3 +2679,9 @@ Ans- The Scrum Master shields the team from distractions and helps resolve any i
 
 (-----------------------------------------------------------------------)
 
+449- What is the significance of the Product Backlog in Scrum?
+
+Ans- It is a prioritized list of all features, enhancements, and fixes that might be needed in the product.
+
+(-----------------------------------------------------------------------)
+
