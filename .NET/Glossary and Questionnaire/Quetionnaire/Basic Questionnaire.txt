@@ -4143,3 +4143,9 @@ Ans- DIP reduces the coupling between high-level and low-level modules, making t
 
 (-----------------------------------------------------------------------)
 
+693- How do you apply DIP in software design?
+
+Ans- Depend on abstractions, such as interfaces or abstract classes, rather than concrete implementations.
+
+(-----------------------------------------------------------------------)
+
