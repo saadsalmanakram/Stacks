@@ -2147,3 +2147,9 @@ Ans- When there are multiple ways to traverse a collection, different collection
 
 (------------------------------------------------------------------------)
 
+360- What is a common use case of the Iterator pattern with file directories?
+
+Ans- Iterating over directories to print various views of a hierarchy or calculating total directory sizes in postorder.
+
+(------------------------------------------------------------------------)
+
