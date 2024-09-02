@@ -4527,3 +4527,9 @@ Ans- The Strategy pattern adheres to SRP by delegating different payment process
 
 (-------------------------------------------------------------------------)
 
+758- What other design patterns support the Single Responsibility Principle?
+
+Ans- The Adapter pattern and the Decorator pattern are examples of patterns that support SRP by allowing functionality to be added or adapted without modifying existing code.
+
+(-------------------------------------------------------------------------)
+
