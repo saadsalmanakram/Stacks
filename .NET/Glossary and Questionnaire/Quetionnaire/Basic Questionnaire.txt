@@ -3729,3 +3729,9 @@ Ans- Frequent test runs catch issues early and ensure that new changes don’t b
 
 (-----------------------------------------------------------------------)
 
+624- What does a green indicator in a unit test runner signify?
+
+Ans- A green indicator means that all tests have passed, suggesting the code is functioning as expected.
+
+(-----------------------------------------------------------------------)
+
