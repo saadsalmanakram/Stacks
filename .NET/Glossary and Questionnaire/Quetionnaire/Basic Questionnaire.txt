@@ -3003,3 +3003,9 @@ Ans- The Entourage anti-pattern refers to a situation where interfaces and their
 
 (------------------------------------------------------------------------)
 
+503- What problem does the Entourage anti-pattern cause?
+
+Ans- It results in tight coupling between client code and implementations, leading to a fragile and hard-to-maintain codebase.
+
+(------------------------------------------------------------------------)
+
