@@ -5336,3 +5336,10 @@ Ans- CQRS exemplifies interface segregation by splitting interfaces based on whe
 Ans- To allow each implementation to depend only on the specific packages they need, reducing coupling and improving maintainability.
 
 (------------------------------------------------------------------------)
+
+893- What is a potential issue with property inheritance in interfaces?
+
+Ans- Property inheritance in interfaces can lead to clashes, causing issues like hiding base class properties, which complicates implementation.
+
+(------------------------------------------------------------------------)
+
