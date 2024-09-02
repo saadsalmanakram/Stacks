@@ -3567,3 +3567,9 @@ Ans- Reflection Emit is a powerful part of the .NET Framework that allows the cr
 
 (-----------------------------------------------------------------------)
 
+597- Can the foreach loop be used on a class that does not implement an explicit interface?
+
+Ans- Yes, as long as the class implements the necessary methods like GetEnumerator, it can be used in a foreach loop.
+
+(-----------------------------------------------------------------------)
+
