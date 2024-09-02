@@ -2835,5 +2835,11 @@ Ans- A technique for estimating story sizes by comparing them to each other rath
 
 (-------------------------------------------------------------------------)
 
+475- What is the significance of managing dependencies in software development?
+
+Ans- Managing dependencies ensures that code remains adaptable to changes and avoids entangling issues that slow down development.
+
+(-------------------------------------------------------------------------)
+
 
 
