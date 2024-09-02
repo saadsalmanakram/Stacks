@@ -4341,3 +4341,9 @@ Ans- It allows for greater flexibility by enabling various conditions to be enca
 
 (-----------------------------------------------------------------------)
 
+727- How does the predicate decorator maintain the original client interface?
+
+Ans- It keeps the client interface unchanged while adding conditional behavior through decorators.
+
+(-----------------------------------------------------------------------)
+
