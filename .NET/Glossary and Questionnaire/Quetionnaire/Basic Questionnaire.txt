@@ -3417,3 +3417,9 @@ Ans- Polymorphism allows objects of different types to be treated as objects of 
 
 (-----------------------------------------------------------------------)
 
+572- How does polymorphism benefit client code?
+
+Ans- It allows client code to interact with different object types uniformly, without needing to know the specific details of each type.
+
+(-----------------------------------------------------------------------)
+
