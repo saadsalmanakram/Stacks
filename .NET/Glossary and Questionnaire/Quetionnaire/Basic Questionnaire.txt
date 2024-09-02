@@ -2966,3 +2966,10 @@ Ans- It's when classes are tightly coupled due to direct instantiation of their 
 Ans- A code smell is an indication of potential problems; using new directly often signifies suboptimal design and potential issues.
 
 (------------------------------------------------------------------------)
+
+497- How can you improve testability and maintainability in a class with dependency issues?
+
+Ans- By coding to an interface and using dependency injection to avoid direct instantiation.
+
+(------------------------------------------------------------------------)
+
