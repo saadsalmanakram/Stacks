@@ -3561,4 +3561,9 @@ Ans- Re-motion Re-mix is a third-party library that allows combining multiple cl
 
 (-----------------------------------------------------------------------)
 
+596- What is Reflection Emit in .NET?
+
+Ans- Reflection Emit is a powerful part of the .NET Framework that allows the creation of new types at runtime, which is used by libraries like Impromptu Interface for duck-typing.
+
+(-----------------------------------------------------------------------)
 
