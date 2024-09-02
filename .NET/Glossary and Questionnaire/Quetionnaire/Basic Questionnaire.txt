@@ -2805,5 +2805,11 @@ Ans- To monitor the health, progress, and potential issues in a Scrum project.
 
 (-------------------------------------------------------------------------)
 
+470- What is the 'observer effect' in the context of Scrum metrics?
+
+Ans- The act of measuring can alter the behavior of those being measured, potentially leading to inaccurate data.
+
+(-------------------------------------------------------------------------)
+
 
 
