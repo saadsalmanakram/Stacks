@@ -3177,3 +3177,9 @@ Ans- To group related assemblies together and ensure they interact in a structur
 
 (-----------------------------------------------------------------------)
 
+532- How do layers in a software architecture relate to dependencies?
+
+Ans- Layers represent horizontal groupings of functionality with dependencies always pointing downward to maintain separation of concerns.
+
+(-----------------------------------------------------------------------)
+
