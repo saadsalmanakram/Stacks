@@ -5511,3 +5511,9 @@ Ans- It creates tight coupling, making the code harder to test, extend, and main
 
 (------------------------------------------------------------------------)
 
+922- How does DI affect code adaptability?
+
+Ans- DI enhances adaptability by allowing different implementations of dependencies to be swapped easily without altering the core logic.
+
+(------------------------------------------------------------------------)
+
