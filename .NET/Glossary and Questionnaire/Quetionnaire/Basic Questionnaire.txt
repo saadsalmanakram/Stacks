@@ -3783,3 +3783,9 @@ Ans- The implementation might be correct for one case but flawed for others.
 
 (-----------------------------------------------------------------------)
 
+633- Why might a unit test omit the Arrange phase?
+
+Ans- If no specific setup is needed, as in testing a default constructor.
+
+(-----------------------------------------------------------------------)
+
