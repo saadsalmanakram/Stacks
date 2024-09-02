@@ -2973,3 +2973,15 @@ Ans- By coding to an interface and using dependency injection to avoid direct in
 
 (------------------------------------------------------------------------)
 
+498- What is the significance of refactoring a class to depend on an interface instead of a concrete class?
+
+Ans- It decouples the class from specific implementations, making the code more flexible and easier to test.
+
+(------------------------------------------------------------------------)
+
+499- What is the main purpose of dependency management in software development?
+
+Ans- To ensure dependencies are well-organized, avoid conflicts, and maintain the code's flexibility and testability.
+
+(------------------------------------------------------------------------)
+
