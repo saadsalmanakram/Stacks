@@ -5595,3 +5595,9 @@ Ans- The Dispose method is used to clear out the container's internal registrati
 
 (------------------------------------------------------------------------)
 
+936- How does the IoC container interface enforce type safety during registration?
+
+Ans- The where clause in the Register method ensures that the implementation type inherits the interface type.
+
+(------------------------------------------------------------------------)
+
