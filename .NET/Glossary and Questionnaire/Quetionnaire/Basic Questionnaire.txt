@@ -4191,3 +4191,9 @@ Ans- It makes the code easier to enhance and modify without altering existing cl
 
 (-----------------------------------------------------------------------)
 
+701- What is the Stairway pattern and how is it applied here?
+
+Ans- It's a pattern that separates interfaces and implementations into different assemblies, ensuring loose coupling.
+
+(-----------------------------------------------------------------------)
+
