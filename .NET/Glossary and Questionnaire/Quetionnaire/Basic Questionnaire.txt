@@ -1847,3 +1847,9 @@ Ans- It decouples the sender of a request from its receiver by allowing multiple
 
 (------------------------------------------------------------------------)
 
+310- How does the Chain of Responsibility pattern work?
+
+Ans- Handlers are linked in a chain, each deciding whether to handle a request or pass it to the next handler.
+
+(------------------------------------------------------------------------)
+
