@@ -4227,3 +4227,9 @@ Ans- The IComponent interface defines the contract for both the concrete compone
 
 (-----------------------------------------------------------------------)
 
+707- How does the Decorator pattern allow clients to be unaware of the added functionality?
+
+Ans- Clients interact with the component interface, so they remain unaware of the added functionality provided by decorators.
+
+(-----------------------------------------------------------------------)
+
