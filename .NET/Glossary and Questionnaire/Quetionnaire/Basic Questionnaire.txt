@@ -5349,4 +5349,10 @@ Ans- Even a single property might give clients more control than necessary, lead
 
 (------------------------------------------------------------------------)
 
+895- Why is it important to segregate interfaces based on user authorization?
+
+Ans- To ensure that unauthorized users cannot perform privileged actions, enhancing security and proper usage of the application.
+
+(------------------------------------------------------------------------)
+
 
