@@ -5133,3 +5133,9 @@ Ans- A pass-through method in a decorator is one that delegates the call directl
 
 (------------------------------------------------------------------------)
 
+859- What problem does the DeleteConfirmation decorator solve?
+
+Ans- It prompts the user for confirmation before deleting an entity, adding a safety check without modifying the original interface.
+
+(------------------------------------------------------------------------)
+
