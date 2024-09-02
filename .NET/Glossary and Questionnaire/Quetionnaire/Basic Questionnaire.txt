@@ -3045,3 +3045,9 @@ Ans- Fusion is the assembly binding log tool that helps debug assembly loading i
 
 (------------------------------------------------------------------------)
 
+510- How can you enable Fusion logging?
+
+Ans- By editing the Windows registry to set ForceLog and LogPath values under HKLM\Software\Microsoft\Fusion.
+
+(------------------------------------------------------------------------)
+
