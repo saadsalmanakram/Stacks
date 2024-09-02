@@ -4599,4 +4599,10 @@ Ans- Virtual methods allow subclasses to extend or override functionality withou
 
 (-------------------------------------------------------------------------)
 
+770- What is the difference between virtual methods and abstract methods as extension points?
+
+Ans- Virtual methods allow partial method implementations, while abstract methods require full implementation by subclasses.
+
+(-------------------------------------------------------------------------)
+
 
