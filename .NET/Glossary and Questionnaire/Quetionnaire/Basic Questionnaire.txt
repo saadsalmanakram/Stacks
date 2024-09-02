@@ -3987,4 +3987,10 @@ Ans- It simplifies the code and makes it easier to extend by adding new account 
 
 (-----------------------------------------------------------------------)
 
+667- Why is the Balance property included in the GoldAccount and PlatinumAccount classes?
+
+Ans- These classes use the balance to calculate reward points, so it's necessary for the reward calculation logic.
+
+(-----------------------------------------------------------------------)
+
 
