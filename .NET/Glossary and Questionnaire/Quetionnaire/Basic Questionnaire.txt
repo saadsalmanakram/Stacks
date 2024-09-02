@@ -2871,5 +2871,11 @@ Ans- Hiding implementations behind interfaces reduces coupling and allows for ea
 
 (-------------------------------------------------------------------------)
 
+481- What is a dependency in the context of software development?
+
+Ans- A dependency is a relationship where one entity (e.g., a class or assembly) relies on another to function properly.
+
+(-------------------------------------------------------------------------)
+
 
 
