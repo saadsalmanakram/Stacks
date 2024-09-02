@@ -5547,5 +5547,10 @@ Ans- IDisposable is implemented to allow the container to clean up resources and
 
 (------------------------------------------------------------------------)
 
+928- What are the benefits of moving IoC registration code to a dedicated configuration class?
+
+Ans- It keeps the application entry point clean and organized, making the code easier to manage and maintain.
+
+(------------------------------------------------------------------------)
 
 
