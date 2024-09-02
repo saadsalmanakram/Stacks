@@ -1876,3 +1876,10 @@ Ans- The request may be handled by a default handler or trigger an exception.
 Ans- Yes, multiple handlers at the same level can handle similar requests.
 
 (------------------------------------------------------------------------)
+
+315- How does the Chain of Responsibility pattern enhance flexibility?
+
+Ans- By allowing handlers to be added or removed without affecting clients or other handlers.
+
+(------------------------------------------------------------------------)
+
