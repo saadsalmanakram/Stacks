@@ -1996,3 +1996,10 @@ Ans- The Chain of Responsibility passes a request through a chain of potential h
 Ans- It is the component that knows how to perform the action requested by the command.
 
 (------------------------------------------------------------------------)
+
+335- What is a macro command in the Command pattern?
+
+Ans- It's a composite command that aggregates several commands and executes them in sequence.
+
+(------------------------------------------------------------------------)
+
