@@ -2295,3 +2295,9 @@ Ans- The Observer pattern can be extended by allowing different types of notific
 
 (------------------------------------------------------------------------)
 
+385- Why might an Observer only be interested in certain aspects of the Subject’s state?
+
+Ans- Observers may only care about specific data changes that are relevant to their own state or behavior, which can be managed by expanding the Update interface.
+
+(------------------------------------------------------------------------)
+
