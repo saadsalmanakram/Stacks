@@ -2703,3 +2703,9 @@ Ans- The Sprint Backlog contains the tasks and stories the team commits to compl
 
 (-----------------------------------------------------------------------)
 
+453- Why are cross-functional teams important in Scrum?
+
+Ans- They prevent knowledge silos, promoting shared ownership and versatility within the team.
+
+(-----------------------------------------------------------------------)
+
