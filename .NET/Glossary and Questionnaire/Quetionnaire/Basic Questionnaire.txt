@@ -1985,3 +1985,14 @@ Ans- If no handler in the chain can process the request, it may either throw an 
 
 (------------------------------------------------------------------------)
 
+333- What is the difference between the Chain of Responsibility and Command patterns?
+
+Ans- The Chain of Responsibility passes a request through a chain of potential handlers, while the Command pattern encapsulates a request as an object and delegates execution to different receivers.
+
+(------------------------------------------------------------------------)
+
+334- How does the Receiver function in the Command pattern?
+
+Ans- It is the component that knows how to perform the action requested by the command.
+
+(------------------------------------------------------------------------)
