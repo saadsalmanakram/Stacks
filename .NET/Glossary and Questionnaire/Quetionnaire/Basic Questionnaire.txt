@@ -5703,3 +5703,9 @@ Ans- It might register more classes than intended, leading to incorrect mappings
 
 (------------------------------------------------------------------------)
 
+953- Why might conventions be harder to set up compared to manual registration?
+
+Ans- Writing truly SOLID code often requires multiple implementations per interface, complicating the convention setup.
+
+(------------------------------------------------------------------------)
+
