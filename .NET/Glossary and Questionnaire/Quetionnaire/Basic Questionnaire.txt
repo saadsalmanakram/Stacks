@@ -4473,3 +4473,9 @@ Ans- They are best suited for fire-and-forget methods, not for methods requiring
 
 (-------------------------------------------------------------------------)
 
+749- Can decorators be applied to properties and events?
+
+Ans- Yes, properties and events can be decorated by manually implementing their getters/setters or add/remove accessors.
+
+(-------------------------------------------------------------------------)
+
