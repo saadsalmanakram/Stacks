@@ -3861,3 +3861,9 @@ Ans- It signals that the implementation does not meet the expected behavior.
 
 (-----------------------------------------------------------------------)
 
+646- Why is it important to test both individual and combined transactions in an account class?
+
+Ans- To ensure the method correctly handles cumulative operations.
+
+(-----------------------------------------------------------------------)
+
