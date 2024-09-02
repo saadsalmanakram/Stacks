@@ -3165,3 +3165,8 @@ Ans- Chocolatey manages application and tool packages, while NuGet handles libra
 
 (-----------------------------------------------------------------------)
 
+530- How can you install an application using Chocolatey?
+
+Ans- Use the cinst command followed by the package name.
+
+(-----------------------------------------------------------------------)
