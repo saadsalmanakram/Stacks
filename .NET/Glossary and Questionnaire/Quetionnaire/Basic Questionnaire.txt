@@ -4449,3 +4449,9 @@ Ans- By using a Stopwatch to time the method execution and log the duration.
 
 (-------------------------------------------------------------------------)
 
+745- What is a common challenge when using profiling decorators?
+
+Ans- Ensuring that the profiling logic does not affect the performance measurements significantly.
+
+(-------------------------------------------------------------------------)
+
