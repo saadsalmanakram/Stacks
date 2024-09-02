@@ -4401,3 +4401,9 @@ Ans- It allows dynamic decision-making in method execution based on runtime cond
 
 (-------------------------------------------------------------------------)
 
+737- What is a lazy decorator used for?
+
+Ans- It defers the instantiation of a component until it is actually needed.
+
+(-------------------------------------------------------------------------)
+
