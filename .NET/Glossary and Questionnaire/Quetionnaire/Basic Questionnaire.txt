@@ -2847,5 +2847,11 @@ Ans- Use dependency analysis tools to visualize and pinpoint complex dependency 
 
 (-------------------------------------------------------------------------)
 
+477- What is the benefit of decomposing code into smaller, more adaptive pieces?
+
+Ans- It promotes code reuse and reduces complexity, making maintenance and testing easier.
+
+(-------------------------------------------------------------------------)
+
 
 
