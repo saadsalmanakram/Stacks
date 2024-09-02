@@ -1973,3 +1973,9 @@ Ans- It stores commands and executes them, distancing the client from the receiv
 
 (------------------------------------------------------------------------)
 
+331- How can the Chain of Responsibility and Command patterns be combined?
+
+Ans- The Chain of Responsibility can be used to pass a request through a series of commands, where each command decides whether to execute or pass it on.
+
+(------------------------------------------------------------------------)
+
