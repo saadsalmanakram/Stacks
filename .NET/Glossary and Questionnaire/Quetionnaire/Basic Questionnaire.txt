@@ -5301,3 +5301,9 @@ Ans- Different clients may require different functionalities, so segregating int
 
 (------------------------------------------------------------------------)
 
+887- What is the main problem with having monolithic interfaces?
+
+Ans- Monolithic interfaces expose more functionalities than necessary, leading to potential misuse and increased complexity.
+
+(------------------------------------------------------------------------)
+
