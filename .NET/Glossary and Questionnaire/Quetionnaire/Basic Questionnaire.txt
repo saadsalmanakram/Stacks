@@ -2546,3 +2546,10 @@ Ans- By offering features like query expressions and anonymous functions, reduci
 Ans- Greater integration of patterns into languages, with features like native support for Iterator and potential enhancements for Singleton.
 
 (-----------------------------------------------------------------------)
+
+427- Why is the Iterator pattern significant in C# 3.0?
+
+Ans- It’s fully supported, showcasing the evolution of language features to better integrate with design patterns.
+
+(-----------------------------------------------------------------------)
+
