@@ -2355,3 +2355,9 @@ Ans- Double-dispatch refers to the process where a method call depends on the ru
 
 (------------------------------------------------------------------------)
 
+395- How does the Visitor pattern facilitate the extension of operations?
+
+Ans- By adding new Visitor classes with their own Visit methods, while reusing existing Accept methods in the object structure.
+
+(------------------------------------------------------------------------)
+
