@@ -3339,3 +3339,15 @@ Ans- Mixins are a way to extend a class's functionality by adding behaviors via 
 
 (-----------------------------------------------------------------------)
 
+559- What is a fluent interface?
+
+Ans- A fluent interface is a design pattern that provides a readable and convenient API by chaining method calls.
+
+(-----------------------------------------------------------------------)
+
+560- What are some limitations of interfaces?
+
+Ans- Interfaces cannot provide implementation details, and they cannot contain fields or constructors.
+
+(-----------------------------------------------------------------------)
+
