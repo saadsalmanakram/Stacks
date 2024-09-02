@@ -3519,3 +3519,8 @@ Ans- Duck-typing can be achieved in C# using the dynamic keyword or third-party 
 
 (-----------------------------------------------------------------------)
 
+589- What is the role of the dynamic keyword in C#?
+
+Ans- The dynamic keyword enables runtime binding, allowing for duck-typing in C# by bypassing static type checking.
+
+(-----------------------------------------------------------------------)
