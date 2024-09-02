@@ -2135,3 +2135,15 @@ Ans- Supported by the IEnumerable interface and the yield return and yield break
 
 (------------------------------------------------------------------------)
 
+358- What is the key difference between enumerators and iterators in C#?
+
+Ans- Enumerators are provided by collections, while iterators are written by clients and supported by the foreach statement.
+
+(------------------------------------------------------------------------)
+
+359- In which scenarios is the Iterator pattern most useful?
+
+Ans- When there are multiple ways to traverse a collection, different collections for the same traversal, or when filters and orderings are applied.
+
+(------------------------------------------------------------------------)
+
