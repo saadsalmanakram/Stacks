@@ -4635,4 +4635,9 @@ Ans- Extension points enable adding new features or functionality without alteri
 
 (-------------------------------------------------------------------------)
 
+776- What are the implications of tightly coupled code for the OCP?
+
+Ans- Tightly coupled code makes it difficult to extend functionality without modifying existing code, violating OCP principles.
+
+(-------------------------------------------------------------------------)
 
