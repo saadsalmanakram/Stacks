@@ -5325,3 +5325,8 @@ Ans- CQRS stands for Command/Query Responsibility Segregation, a pattern where r
 
 (------------------------------------------------------------------------)
 
+891- How does CQRS relate to interface segregation?
+
+Ans- CQRS exemplifies interface segregation by splitting interfaces based on whether they perform commands (writes) or queries (reads).
+
+(------------------------------------------------------------------------)
