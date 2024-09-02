@@ -4431,3 +4431,9 @@ Ans- It centralizes logging, making the code cleaner and easier to maintain.
 
 (-------------------------------------------------------------------------)
 
+742- What limitation does a logging decorator have?
+
+Ans- It cannot access private state of the decorated class and might require a separate decorator for each interface.
+
+(-------------------------------------------------------------------------)
+
