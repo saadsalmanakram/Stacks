@@ -5330,3 +5330,9 @@ Ans- CQRS stands for Command/Query Responsibility Segregation, a pattern where r
 Ans- CQRS exemplifies interface segregation by splitting interfaces based on whether they perform commands (writes) or queries (reads).
 
 (------------------------------------------------------------------------)
+
+892- Why is it beneficial to split the IPersistence interface into commands and queries?
+
+Ans- To allow each implementation to depend only on the specific packages they need, reducing coupling and improving maintainability.
+
+(------------------------------------------------------------------------)
