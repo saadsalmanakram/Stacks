@@ -1955,3 +1955,9 @@ Ans- By encapsulating actions as objects, it allows storing and re-executing or 
 
 (------------------------------------------------------------------------)
 
+328- What are the key components of the Command pattern?
+
+Ans- Client, Command, Receiver, Invoker, and the ICommand interface.
+
+(------------------------------------------------------------------------)
+
