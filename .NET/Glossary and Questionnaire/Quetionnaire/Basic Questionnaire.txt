@@ -2883,5 +2883,11 @@ Ans- First-party dependencies are within the same code base, while third-party d
 
 (------------------------------------------------------------------------)
 
+483- How does the .NET Framework impact dependency management?
+
+Ans- The .NET Framework introduces built-in dependencies that must be managed, and these assemblies are always loaded at runtime.
+
+(------------------------------------------------------------------------)
+
 
 
