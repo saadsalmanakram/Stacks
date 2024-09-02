@@ -3573,3 +3573,15 @@ Ans- Yes, as long as the class implements the necessary methods like GetEnumerat
 
 (-----------------------------------------------------------------------)
 
+598- What is a fluent interface?
+
+Ans- A fluent interface allows method chaining by returning the instance of the interface from its methods.
+
+(-----------------------------------------------------------------------)
+
+599- How does method chaining improve code readability?
+
+Ans- Method chaining reduces the need for repeated references to the interface instance, making the code more concise and easier to read.
+
+(-----------------------------------------------------------------------)
+
