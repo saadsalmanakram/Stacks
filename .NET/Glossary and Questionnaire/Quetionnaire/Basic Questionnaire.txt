@@ -5433,4 +5433,10 @@ Ans- Poor Man’s DI is the manual process of constructing object graphs within 
 
 (-------------------------------------------------------------------------)
 
+909- When should you choose Poor Man’s DI over an IoC container?
+
+Ans- Poor Man’s DI is suitable for simpler applications or when you want to avoid external dependencies.
+
+(-------------------------------------------------------------------------)
+
 
