@@ -5691,4 +5691,10 @@ Ans- Conventions simplify the registration process by reducing the amount of cod
 
 (------------------------------------------------------------------------)
 
+951- How does the RegisterTypes method help in convention-based registration?
+
+Ans- It provides instructions to the container on how to automatically find and map classes to interfaces.
+
+(------------------------------------------------------------------------)
+
 
