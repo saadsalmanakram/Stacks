@@ -2697,3 +2697,9 @@ Ans- Scrum favors working software over extensive documentation, focusing on wha
 
 (-----------------------------------------------------------------------)
 
+452- How do Scrum teams use the Sprint Backlog?
+
+Ans- The Sprint Backlog contains the tasks and stories the team commits to completing in a sprint.
+
+(-----------------------------------------------------------------------)
+
