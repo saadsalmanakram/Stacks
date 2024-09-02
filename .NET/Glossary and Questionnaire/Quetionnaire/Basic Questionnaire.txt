@@ -5571,3 +5571,9 @@ Ans- IoC containers can manage the lifecycle of objects, ensuring that resources
 
 (------------------------------------------------------------------------)
 
+932- What is the significance of using an InjectionFactory in an IoC container?
+
+Ans- An InjectionFactory allows for custom creation logic, such as resolving dependencies dynamically within the factory method.
+
+(------------------------------------------------------------------------)
+
