@@ -4821,3 +4821,20 @@ Ans- Contravariance allows a method to accept arguments of a more general type (
 
 (------------------------------------------------------------------------)
 
+807- What is invariance?
+
+Ans- Invariance requires that types remain exactly the same as defined in the base class, with no variation allowed.
+
+(------------------------------------------------------------------------)
+
+808- Where does covariance apply in the context of LSP?
+
+Ans- Covariance applies to the return types of methods in derived classes, allowing for more specific return types.
+
+(------------------------------------------------------------------------)
+
+809- Where does contravariance apply in the context of LSP?
+
+Ans- Contravariance applies to method arguments in derived classes, allowing for more general input types.
+
+(------------------------------------------------------------------------)
