@@ -4623,4 +4623,10 @@ Ans- The Template Method pattern uses abstract methods to allow customization of
 
 (-------------------------------------------------------------------------)
 
+774- What does Joshua Bloch’s advice on inheritance mean for designing classes?
+
+Ans- Design and document classes for inheritance if intended, or explicitly prohibit it to avoid misuse.
+
+(-------------------------------------------------------------------------)
+
 
