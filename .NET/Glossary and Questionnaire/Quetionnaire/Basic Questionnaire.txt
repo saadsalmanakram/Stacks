@@ -4911,3 +4911,8 @@ Ans- Separate the tests or logic specific to each subclass while ensuring that s
 
 (------------------------------------------------------------------------)
 
+822- What is the role of unit tests in verifying adherence to LSP?
+
+Ans- Unit tests help ensure that subclasses conform to the expectations set by the superclass, preserving LSP by checking preconditions, postconditions, and invariants.
+
+(------------------------------------------------------------------------)
