@@ -3063,3 +3063,9 @@ Ans- You can create a service proxy using Visual Studio’s Add Service Referenc
 
 (------------------------------------------------------------------------)
 
+513- What is the difference between Visual Studio’s service reference and ChannelFactory?
+
+Ans- Visual Studio generates service proxy classes from a WSDL file, while ChannelFactory allows you to create a proxy programmatically using an interface.
+
+(------------------------------------------------------------------------)
+
