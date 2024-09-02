@@ -2391,3 +2391,9 @@ Ans- It should be used when you have a language or grammar that needs to be pars
 
 (------------------------------------------------------------------------)
 
+401- What is the role of the Client in the Interpreter pattern?
+
+Ans- The Client builds an object structure that represents a set of instructions in the given grammar.
+
+(------------------------------------------------------------------------)
+
