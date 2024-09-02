@@ -3069,3 +3069,9 @@ Ans- Visual Studio generates service proxy classes from a WSDL file, while Chann
 
 (------------------------------------------------------------------------)
 
+514- What is Service Discovery in WCF?
+
+Ans- Service Discovery is a mechanism for locating services either via a discovery proxy (managed mode) or multicast network messages (ad hoc mode).
+
+(------------------------------------------------------------------------)
+
