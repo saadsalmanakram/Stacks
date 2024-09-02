@@ -3134,3 +3134,10 @@ Ans- By using the System.Net.WebRequest class to create and send requests.
 Ans- Managing and installing packages, including dependencies and versioning.
 
 (------------------------------------------------------------------------)
+
+525- What does NuGet do when you install a package?
+
+Ans- It downloads and references the package and its dependencies, and updates the project's configuration.
+
+(-----------------------------------------------------------------------)
+
