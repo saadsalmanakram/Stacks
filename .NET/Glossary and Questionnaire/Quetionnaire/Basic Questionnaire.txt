@@ -2189,3 +2189,9 @@ Ans- The colleague temporarily stops receiving messages until it unblocks itself
 
 (------------------------------------------------------------------------)
 
+367- How can the Mediator pattern handle multiple types of colleagues?
+
+Ans- By allowing different colleagues to implement the Receive method differently based on their needs.
+
+(------------------------------------------------------------------------)
+
