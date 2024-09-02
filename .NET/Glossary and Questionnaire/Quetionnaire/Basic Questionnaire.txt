@@ -4965,4 +4965,9 @@ Ans- By using the Contract.Result method to access the value that will be return
 
 (------------------------------------------------------------------------)
 
+831- What are data invariants in the context of code contracts?
+
+Ans- Data invariants are conditions that must always hold true for a class's state across its lifetime.
+
+(------------------------------------------------------------------------)
 
