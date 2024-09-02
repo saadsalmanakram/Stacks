@@ -1943,3 +1943,9 @@ Ans- It's a behavioral design pattern that encapsulates a request as an object, 
 
 (------------------------------------------------------------------------)
 
+326- When should you use the Command pattern?
+
+Ans- Use it when you need to decouple the sender of a request from its receiver, support undo/redo operations, or queue and log requests.
+
+(------------------------------------------------------------------------)
+
