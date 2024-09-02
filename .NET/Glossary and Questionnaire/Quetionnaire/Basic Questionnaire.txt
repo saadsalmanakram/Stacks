@@ -3615,3 +3615,9 @@ Ans- A fluent interface is implemented by ensuring methods return this so that c
 
 (-----------------------------------------------------------------------)
 
+605- What happens when you call a non-fluent method in a fluent interface?
+
+Ans-  Calling a non-fluent method, which returns void, will halt the method chaining process.
+
+(-----------------------------------------------------------------------)
+
