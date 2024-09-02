@@ -3147,3 +3147,9 @@ Ans- packages.config.
 
 (-----------------------------------------------------------------------)
 
+527- How can you use NuGet to update packages in a solution?
+
+Ans- NuGet can automatically update all packages to newer versions as specified.
+
+(-----------------------------------------------------------------------)
+
