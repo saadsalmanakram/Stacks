@@ -5145,3 +5145,9 @@ Ans- It allows you to create specialized decorators for the delete operation, si
 
 (------------------------------------------------------------------------)
 
+861- What is the purpose of caching in a read operation?
+
+Ans- Caching stores the result of a read operation to improve performance by avoiding repeated database access for the same data.
+
+(------------------------------------------------------------------------)
+
