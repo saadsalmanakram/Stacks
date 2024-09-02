@@ -3537,3 +3537,21 @@ Ans- ActLike<T>() creates a new type at runtime that implements an interface by 
 
 (-----------------------------------------------------------------------)
 
+592- How does the .NET CLR support duck-typing?
+
+Ans- The CLR implicitly supports duck-typing for enumerable types by allowing a class to be used in a foreach loop without explicitly implementing an interface.
+
+(-----------------------------------------------------------------------)
+
+593- What is a mixin in the context of C#?
+
+Ans- A mixin is a class that contains methods from multiple other classes without using inheritance, typically implemented using extension methods or third-party libraries.
+
+(-----------------------------------------------------------------------)
+
+594- What are the limitations of using extension methods as mixins in C#?
+
+Ans- Extension methods are static and cannot hold instance state, and they make unit testing more difficult.
+
+(-----------------------------------------------------------------------)
+
