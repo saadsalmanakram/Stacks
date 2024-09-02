@@ -3939,3 +3939,9 @@ Ans- Polymorphism allows you to replace conditionals by defining a method in sub
 
 (-----------------------------------------------------------------------)
 
+659- Why would you use a factory method instead of a constructor?
+
+Ans- A factory method can return different types of objects from the same inheritance hierarchy, offering more flexibility.
+
+(-----------------------------------------------------------------------)
+
