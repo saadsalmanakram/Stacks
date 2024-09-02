@@ -3393,3 +3393,9 @@ Ans- Multiple inheritance can cause ambiguity and the diamond problem, where the
 
 (-----------------------------------------------------------------------)
 
+568- How does .NET handle multiple interface inheritance?
+
+Ans- .NET allows a class to implement multiple interfaces, resolving ambiguity by ensuring that all methods from interfaces are implemented.
+
+(-----------------------------------------------------------------------)
+
