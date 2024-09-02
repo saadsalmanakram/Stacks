@@ -5055,3 +5055,9 @@ Ans- LSP ensures that clients remain unaware of the specific subclass used, avoi
 
 (------------------------------------------------------------------------)
 
+846- What is the impact of violating the LSP in a class hierarchy?
+
+Ans- Violating LSP can lead to unpredictable behavior, increased maintenance complexity, and the potential for runtime errors.
+
+(------------------------------------------------------------------------)
+
