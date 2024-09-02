@@ -2745,3 +2745,9 @@ Ans- A vertical slice includes functionality from all layers of the software, en
 
 (------------------------------------------------------------------------)
 
+460- Why is slicing user stories vertically preferred in Agile?
+
+Ans- It allows for early and frequent feedback, ensuring the right features are built.
+
+(------------------------------------------------------------------------)
+
