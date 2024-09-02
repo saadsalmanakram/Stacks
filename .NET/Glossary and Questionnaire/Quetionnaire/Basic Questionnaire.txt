@@ -1979,3 +1979,9 @@ Ans- The Chain of Responsibility can be used to pass a request through a series 
 
 (------------------------------------------------------------------------)
 
+332- What happens if a request cannot be handled in the Chain of Responsibility?
+
+Ans- If no handler in the chain can process the request, it may either throw an exception or perform a default action.
+
+(------------------------------------------------------------------------)
+
