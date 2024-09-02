@@ -3441,3 +3441,9 @@ Ans- The Null Object pattern prevents null reference exceptions and reduces the 
 
 (-----------------------------------------------------------------------)
 
+576- How does the Null Object pattern improve code safety?
+
+Ans- It replaces null references with a neutral object that has default behaviors, preventing errors from dereferencing null.
+
+(-----------------------------------------------------------------------)
+
