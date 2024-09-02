@@ -4455,3 +4455,9 @@ Ans- Ensuring that the profiling logic does not affect the performance measureme
 
 (-------------------------------------------------------------------------)
 
+746- What is the purpose of an asynchronous decorator?
+
+Ans- It executes methods asynchronously to prevent blocking the main thread.
+
+(-------------------------------------------------------------------------)
+
