@@ -3057,3 +3057,9 @@ Ans- A service proxy is a client-side representation of a service that allows cl
 
 (------------------------------------------------------------------------)
 
+512- How can you create a service proxy in .NET?
+
+Ans- You can create a service proxy using Visual Studio’s Add Service Reference or by using the ChannelFactory class.
+
+(------------------------------------------------------------------------)
+
