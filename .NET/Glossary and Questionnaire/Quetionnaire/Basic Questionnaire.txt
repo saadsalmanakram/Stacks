@@ -3117,3 +3117,9 @@ Ans- GET, POST, PUT, DELETE, HEAD, OPTIONS, PATCH.
 
 (------------------------------------------------------------------------)
 
+522- How can you access a RESTful service using HttpClient in .NET?
+
+Ans- By using methods like GetStringAsync for GET requests and PostAsync for POST requests.
+
+(------------------------------------------------------------------------)
+
