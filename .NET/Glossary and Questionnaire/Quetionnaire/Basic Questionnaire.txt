@@ -5295,3 +5295,9 @@ Ans- Client need and architectural design are two key reasons for interface segr
 
 (------------------------------------------------------------------------)
 
+886- How does client need influence interface segregation?
+
+Ans- Different clients may require different functionalities, so segregating interfaces ensures that each client only has access to the functionalities they need.
+
+(------------------------------------------------------------------------)
+
