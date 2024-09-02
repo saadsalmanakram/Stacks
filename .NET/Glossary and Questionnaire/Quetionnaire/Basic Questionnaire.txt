@@ -4155,3 +4155,15 @@ Ans- When a high-level class directly depends on a concrete low-level class inst
 
 (-----------------------------------------------------------------------)
 
+695- What is the purpose of refactoring the TradeProcessor class?
+
+Ans- To introduce abstractions that allow handling almost any change request and improve adaptability.
+
+(-----------------------------------------------------------------------)
+
+696- Why should dependencies be injected via constructors instead of methods?
+
+Ans- To keep the interface clean and avoid tying methods to specific dependencies.
+
+(-----------------------------------------------------------------------)
+
