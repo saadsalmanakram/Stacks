@@ -2153,3 +2153,9 @@ Ans- Iterating over directories to print various views of a hierarchy or calcula
 
 (------------------------------------------------------------------------)
 
+361- What is the role of the Mediator pattern?
+
+Ans- To enable communication between objects without them knowing each other’s identities and to encapsulate a communication protocol.
+
+(------------------------------------------------------------------------)
+
