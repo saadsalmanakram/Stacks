@@ -5235,3 +5235,9 @@ Ans- It dictates how the implementations are supplied to the clients, influencin
 
 (------------------------------------------------------------------------)
 
+876- What is a potential benefit of using a single implementation for multiple segregated interfaces?
+
+Ans- It simplifies client code by allowing the reuse of a single instance across different interfaces.
+
+(------------------------------------------------------------------------)
+
