@@ -3429,3 +3429,15 @@ Ans- Interfaces define a contract that implementing classes must follow, allowin
 
 (-----------------------------------------------------------------------)
 
+574- Can you give an example of polymorphism using vehicles?
+
+Ans- Different vehicle types like cars, motorcycles, and speedboats can all implement the same interface, allowing them to be treated as a unified type by client code.
+
+(-----------------------------------------------------------------------)
+
+575- What problem does the Null Object pattern solve?
+
+Ans- The Null Object pattern prevents null reference exceptions and reduces the need for null checks in client code.
+
+(-----------------------------------------------------------------------)
+
