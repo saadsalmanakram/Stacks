@@ -2231,3 +2231,9 @@ Ans- Observers register with a Subject using the Attach method and can detach us
 
 (------------------------------------------------------------------------)
 
+374- What is the purpose of the Notify method in the Observer pattern?
+
+Ans- The Notify method triggers the update mechanism, informing all registered observers about state changes.
+
+(------------------------------------------------------------------------)
+
