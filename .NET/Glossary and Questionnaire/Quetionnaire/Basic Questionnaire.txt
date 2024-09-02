@@ -2889,5 +2889,11 @@ Ans- The .NET Framework introduces built-in dependencies that must be managed, a
 
 (------------------------------------------------------------------------)
 
+484- What happens if a referenced assembly is not used by the application?
+
+Ans- The assembly will not be loaded into memory unless its types or methods are actively used by the application.
+
+(------------------------------------------------------------------------)
+
 
 
