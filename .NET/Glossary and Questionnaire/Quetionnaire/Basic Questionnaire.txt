@@ -5279,7 +5279,7 @@ Ans- It simplifies the client’s code but might reduce flexibility in decoratin
 
 883- What is interface segregation?
 
-Ans- Interface segregation is the practice of splitting large interfaces into smaller, more specific ones to reduce the chances of misuse by clients.
+Ans- Interface Segregation refers to designing small, highly focused interfaces that serve specific purposes, making them more versatile and adaptable.
 
 (------------------------------------------------------------------------)
 
@@ -5360,5 +5360,12 @@ Ans- To ensure that unauthorized users cannot perform privileged actions, enhanc
 Ans- By ensuring that each interface and its implementing class only handle specific functionalities, supporting the single responsibility principle.
 
 (------------------------------------------------------------------------)
+
+897- How does Interface Segregation benefit code design?
+
+Ans- It leads to more adaptable, maintainable, and reusable code by ensuring that interfaces are focused on specific tasks.
+
+(-------------------------------------------------------------------------)
+
 
 
