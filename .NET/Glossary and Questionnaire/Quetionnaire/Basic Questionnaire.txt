@@ -4197,3 +4197,9 @@ Ans- It's a pattern that separates interfaces and implementations into different
 
 (-----------------------------------------------------------------------)
 
+702- How does the refactor impact the scalability of the application?
+
+Ans- It makes the application more scalable by allowing new features and changes to be integrated seamlessly.
+
+(-----------------------------------------------------------------------)
+
