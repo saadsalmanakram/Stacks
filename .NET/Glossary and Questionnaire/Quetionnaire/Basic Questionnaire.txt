@@ -2361,3 +2361,9 @@ Ans- By adding new Visitor classes with their own Visit methods, while reusing e
 
 (------------------------------------------------------------------------)
 
+396- What is a potential downside of using the Visitor pattern?
+
+Ans- The need to modify the object structure to add Accept methods, which may not be possible if the code is inaccessible.
+
+(------------------------------------------------------------------------)
+
