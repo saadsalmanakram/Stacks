@@ -2523,4 +2523,26 @@ Ans- Patterns like Composite and Abstract Factory often support or depend on oth
 
 (-----------------------------------------------------------------------)
 
+423- What are some limitations of design patterns in traditional programming languages?
 
+Ans- They can be hard to trace, repetitive to implement, and lead to maintainability issues due to mutually dependent classes.
+
+(-----------------------------------------------------------------------)
+
+424- What are researchers exploring to improve design patterns?
+
+Ans- Transforming patterns into reusable components and enhancing language support for pattern implementation.
+
+(-----------------------------------------------------------------------)
+
+425- How has C# 3.0 improved the writability of design patterns?
+
+Ans- By offering features like query expressions and anonymous functions, reducing the need for boilerplate code.
+
+(-----------------------------------------------------------------------)
+
+426- What future trends are anticipated for design patterns and programming languages?
+
+Ans- Greater integration of patterns into languages, with features like native support for Iterator and potential enhancements for Singleton.
+
+(-----------------------------------------------------------------------)
