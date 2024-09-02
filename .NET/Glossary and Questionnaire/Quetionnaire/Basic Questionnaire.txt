@@ -3357,3 +3357,9 @@ Ans- Use abstract classes if you need to provide default method implementations,
 
 (-----------------------------------------------------------------------)
 
+562- What is explicit interface implementation?
+
+Ans- Explicit interface implementation requires the interface member to be called through an interface reference, not a class instance.
+
+(-----------------------------------------------------------------------)
+
