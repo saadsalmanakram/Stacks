@@ -3219,3 +3219,9 @@ Ans- It introduces a business logic layer between the user interface and data ac
 
 (-----------------------------------------------------------------------)
 
+539- Why is the business logic layer important in a three-layer architecture?
+
+Ans- It encapsulates complex processing and business rules, making the system more maintainable.
+
+(-----------------------------------------------------------------------)
+
