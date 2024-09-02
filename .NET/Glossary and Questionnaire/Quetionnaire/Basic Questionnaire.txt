@@ -3891,3 +3891,9 @@ Ans- Mock the repository to return null and ensure that the service does not thr
 
 (-----------------------------------------------------------------------)
 
+651- What exception should be thrown if AddTransaction in Account throws an exception?
+
+Ans- The exception should be wrapped in a ServiceException to avoid leaking domain-specific exceptions to higher layers.
+
+(-----------------------------------------------------------------------)
+
