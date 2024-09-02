@@ -2039,3 +2039,9 @@ Ans- C# 3.0 supports the Iterator pattern through LINQ, which allows for compact
 
 (------------------------------------------------------------------------)
 
+342- What interfaces are essential for implementing the Iterator pattern in C#?
+
+Ans- IEnumerable and IEnumerator are key interfaces used to implement the Iterator pattern in C#.
+
+(------------------------------------------------------------------------)
+
