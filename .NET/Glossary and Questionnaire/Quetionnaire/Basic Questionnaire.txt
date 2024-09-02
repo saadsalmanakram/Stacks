@@ -4838,3 +4838,9 @@ Ans- Covariance applies to the return types of methods in derived classes, allow
 Ans- Contravariance applies to method arguments in derived classes, allowing for more general input types.
 
 (------------------------------------------------------------------------)
+
+810- What does the LSP imply regarding preconditions in a subclass?
+
+Ans- Preconditions cannot be strengthened in a subclass; doing so would break existing client code.
+
+(------------------------------------------------------------------------)
