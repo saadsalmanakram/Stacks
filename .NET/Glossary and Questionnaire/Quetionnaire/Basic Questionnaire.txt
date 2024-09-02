@@ -4383,3 +4383,9 @@ Ans- It provides a flexible and extensible way to define and apply predicates, s
 
 (----------------------------------------------------------------------)
 
+734- What is the purpose of a branching decorator?
+
+Ans- It directs method calls to different components based on a condition evaluated by a predicate.
+
+(-------------------------------------------------------------------------)
+
