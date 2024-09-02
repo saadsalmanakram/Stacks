@@ -5241,3 +5241,9 @@ Ans- It simplifies client code by allowing the reuse of a single instance across
 
 (------------------------------------------------------------------------)
 
+877- What is an “Interface Soup” anti-pattern?
+
+Ans- It’s the incorrect practice of combining segregated interfaces into one aggregate interface, undermining the benefits of segregation.
+
+(------------------------------------------------------------------------)
+
