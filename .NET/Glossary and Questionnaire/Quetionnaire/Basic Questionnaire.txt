@@ -1924,3 +1924,10 @@ Ans- A series of classes where each class has a method to process a request or p
 Ans- Similar to how exceptions are propagated up the call stack, requests are passed up the chain of handlers.
 
 (------------------------------------------------------------------------)
+
+323- What is the purpose of the HandleRequest method in the Chain of Responsibility pattern?
+
+Ans- It processes the request if the handler can, or passes it to the next handler in the chain if it cannot.
+
+(------------------------------------------------------------------------)
+
