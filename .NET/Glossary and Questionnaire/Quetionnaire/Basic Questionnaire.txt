@@ -5715,3 +5715,9 @@ Ans- Manual registration is weakly typed and defers errors to runtime, while con
 
 (------------------------------------------------------------------------)
 
+955- What is the tradeoff between using Poor Man’s DI and conventions for DI?
+
+Ans- Poor Man’s DI is simple but limited, while conventions are more sophisticated but handle complex mappings.
+
+(------------------------------------------------------------------------)
+
