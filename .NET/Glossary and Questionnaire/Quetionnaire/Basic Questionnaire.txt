@@ -5463,4 +5463,10 @@ Ans- Composition roots are the entry points where dependencies are wired togethe
 
 (-------------------------------------------------------------------------)
 
+914- How does the Factory pattern complement DI?
+
+Ans- The Factory pattern works with DI to manage object lifetimes and provide control over the creation process of complex objects.
+
+(-------------------------------------------------------------------------)
+
 
