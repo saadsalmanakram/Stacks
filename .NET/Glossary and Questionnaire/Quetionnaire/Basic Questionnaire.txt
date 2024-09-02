@@ -4851,3 +4851,9 @@ Ans- Strengthening preconditions may cause exceptions in client code that worked
 
 (------------------------------------------------------------------------)
 
+812- Can a subclass weaken the postconditions of a superclass method?
+
+Ans- No, postconditions cannot be weakened in a subclass; this would violate the LSP and break existing clients.
+
+(------------------------------------------------------------------------)
+
