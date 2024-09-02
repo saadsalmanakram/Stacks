@@ -2823,5 +2823,11 @@ Ans- It provides a ceiling for how many points the team should commit to in the 
 
 (-------------------------------------------------------------------------)
 
+473- What does a sprint burndown chart track?
+
+Ans- It tracks the progress of work remaining in a sprint against the planned progress.
+
+(-------------------------------------------------------------------------)
+
 
 
