@@ -4461,3 +4461,9 @@ Ans- It executes methods asynchronously to prevent blocking the main thread.
 
 (-------------------------------------------------------------------------)
 
+747- How does an asynchronous decorator handle method execution?
+
+Ans- It delegates method execution to a separate thread or task, allowing the main thread to remain responsive.
+
+(-------------------------------------------------------------------------)
+
