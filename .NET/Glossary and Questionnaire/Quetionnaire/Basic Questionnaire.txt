@@ -4983,3 +4983,9 @@ Ans- Invariants are protected by a method marked with the ContractInvariantMetho
 
 (------------------------------------------------------------------------)
 
+834- What is an interface contract in code contracts?
+
+Ans- An interface contract defines preconditions, postconditions, and invariants for all implementations of an interface.
+
+(------------------------------------------------------------------------)
+
