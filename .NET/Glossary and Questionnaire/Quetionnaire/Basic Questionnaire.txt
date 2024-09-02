@@ -4419,3 +4419,9 @@ Ans- When you want to delay the creation of a component until its methods are fi
 
 (-------------------------------------------------------------------------)
 
+740- What is the role of a logging decorator?
+
+Ans- It adds logging functionality around method calls without modifying the core business logic.
+
+(-------------------------------------------------------------------------)
+
