@@ -2997,3 +2997,9 @@ Ans- As a loop where a method depends on itself, indicating recursion.
 
 (------------------------------------------------------------------------)
 
+502- What is the Entourage anti-pattern?
+
+Ans- The Entourage anti-pattern refers to a situation where interfaces and their implementations are in the same assembly, causing undesirable dependency management.
+
+(------------------------------------------------------------------------)
+
