@@ -3195,3 +3195,9 @@ Ans- It allows for better scalability by separating different layers of the appl
 
 (-----------------------------------------------------------------------)
 
+535- What does a two-layer architecture typically include?
+
+Ans- It includes a user interface layer and a data access layer.
+
+(-----------------------------------------------------------------------)
+
