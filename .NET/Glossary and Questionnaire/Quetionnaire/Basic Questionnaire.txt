@@ -3255,3 +3255,9 @@ Ans- It mandates that methods should either be commands (perform actions) or que
 
 (-----------------------------------------------------------------------)
 
+545- Why might querying data accept phantom or nonrepeatable reads?
+
+Ans- Querying prioritizes speed, which may allow for some inconsistency.
+
+(-----------------------------------------------------------------------)
+
