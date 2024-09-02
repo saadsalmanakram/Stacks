@@ -3740,3 +3740,10 @@ Ans- A green indicator means that all tests have passed, suggesting the code is 
 Ans- Writing the simplest code to pass a test ensures that you meet the test's requirements without unnecessary complexity.
 
 (-----------------------------------------------------------------------)
+
+626- What is the benefit of test-driven development in software projects?
+
+Ans- TDD helps ensure that code is thoroughly tested and designed from the outset, reducing defects and improving code quality.
+
+(-----------------------------------------------------------------------)
+
