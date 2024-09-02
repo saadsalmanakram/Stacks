@@ -5204,3 +5204,10 @@ Ans- ISP makes testing easier by reducing the scope of what each interface is re
 Ans- By reducing unnecessary dependencies and focusing on specific client needs, ISP improves the maintainability and flexibility of code.
 
 (------------------------------------------------------------------------)
+
+871- What is the relationship between a decorator and the interface it enhances?
+
+Ans- Each decorator maintains a one-to-one relationship with the interface it enhances.
+
+(------------------------------------------------------------------------)
+
