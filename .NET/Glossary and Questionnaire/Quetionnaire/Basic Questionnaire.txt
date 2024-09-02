@@ -2949,3 +2949,20 @@ Ans- A loop occurs when a node has an edge to itself, indicating recursion at th
 
 (------------------------------------------------------------------------)
 
+494- What are some common issues caused by directly instantiating objects with the new keyword?
+
+Ans- Increased coupling, reduced testability, and difficulty in enhancing implementations.
+
+(------------------------------------------------------------------------)
+
+495- What is inappropriate intimacy in the context of object construction?
+
+Ans- It's when classes are tightly coupled due to direct instantiation of their dependencies, which makes the code harder to maintain and test.
+
+(------------------------------------------------------------------------)
+
+496- What is a code smell, and how does it relate to object construction?
+
+Ans- A code smell is an indication of potential problems; using new directly often signifies suboptimal design and potential issues.
+
+(------------------------------------------------------------------------)
