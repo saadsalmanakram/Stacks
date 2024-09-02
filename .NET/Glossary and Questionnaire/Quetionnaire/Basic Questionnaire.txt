@@ -4887,3 +4887,9 @@ Ans- A guard clause is a conditional statement that checks preconditions or inva
 
 (------------------------------------------------------------------------)
 
+818- How does LSP relate to method overriding in object-oriented programming?
+
+Ans- When overriding methods, LSP requires that the subclass’s methods do not strengthen preconditions, weaken postconditions, or violate invariants.
+
+(------------------------------------------------------------------------)
+
