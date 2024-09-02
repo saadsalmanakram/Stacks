@@ -5253,3 +5253,9 @@ Ans- Because each parameter requires a different facet of the class, and the sin
 
 (------------------------------------------------------------------------)
 
+879- What is the primary purpose of interface segregation?
+
+Ans- To ensure that clients only depend on the interfaces they actually use.
+
+(------------------------------------------------------------------------)
+
