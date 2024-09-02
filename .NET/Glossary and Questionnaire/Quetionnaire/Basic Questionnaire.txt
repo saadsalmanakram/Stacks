@@ -5061,3 +5061,9 @@ Ans- Violating LSP can lead to unpredictable behavior, increased maintenance com
 
 (------------------------------------------------------------------------)
 
+847- How can you ensure that new exceptions adhere to LSP?
+
+Ans- New exceptions should inherit from a common base exception class to maintain consistency and catchability.
+
+(-------------------------------------------------------------------------)
+
