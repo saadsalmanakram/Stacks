@@ -2463,3 +2463,9 @@ Ans- Yes, the Interpreter methods can be conveniently implemented as extension m
 
 (-----------------------------------------------------------------------)
 
+413- What are the typical players in the Interpreter pattern?
+
+Ans- The typical players are Client, Context, Term (including Terminal and Nonterminal), and the Interpreter itself.
+
+(-----------------------------------------------------------------------)
+
