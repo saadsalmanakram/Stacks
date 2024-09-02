@@ -4521,3 +4521,9 @@ Ans- Adding a new payment method requires modifying the switch statement, which 
 
 (-------------------------------------------------------------------------)
 
+757- How does the Strategy pattern relate to the Single Responsibility Principle (SRP)?
+
+Ans- The Strategy pattern adheres to SRP by delegating different payment processing responsibilities to separate strategy classes, making each class responsible for a single functionality.
+
+(-------------------------------------------------------------------------)
+
