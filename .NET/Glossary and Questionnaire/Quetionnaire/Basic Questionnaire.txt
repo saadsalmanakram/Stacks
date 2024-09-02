@@ -2003,3 +2003,9 @@ Ans- It's a composite command that aggregates several commands and executes them
 
 (------------------------------------------------------------------------)
 
+336- What is the role of the Iterator pattern?
+
+Ans- The Iterator pattern provides a way to access elements of a collection sequentially without exposing its underlying structure.
+
+(------------------------------------------------------------------------)
+
