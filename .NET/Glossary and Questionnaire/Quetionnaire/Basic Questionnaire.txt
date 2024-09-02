@@ -4497,3 +4497,8 @@ Ans- The Strategy pattern defines a family of algorithms, encapsulates each one,
 
 (-------------------------------------------------------------------------)
 
+753- When should you use the Strategy pattern?
+
+Ans- Use the Strategy pattern when you have multiple algorithms for a specific task and you want to make them interchangeable, thereby avoiding conditional statements and promoting code maintainability.
+
+(-------------------------------------------------------------------------)
