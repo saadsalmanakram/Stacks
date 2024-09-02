@@ -3597,3 +3597,9 @@ Ans- No, a method that returns void is not fluent and will break the method chai
 
 (-----------------------------------------------------------------------)
 
+602- In the context of fluent interfaces, what does the this keyword represent?
+
+Ans- The this keyword represents the current instance of the class, allowing it to return the interface and enable method chaining.
+
+(-----------------------------------------------------------------------)
+
