@@ -2009,3 +2009,9 @@ Ans- The Iterator pattern provides a way to access elements of a collection sequ
 
 (------------------------------------------------------------------------)
 
+337- How does the Iterator pattern help in filtering elements?
+
+Ans- It allows for elements to be filtered in various ways as they are generated during iteration.
+
+(------------------------------------------------------------------------)
+
