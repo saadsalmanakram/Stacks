@@ -1835,3 +1835,8 @@ Ans- Yes, using interfaces without virtual methods is an alternative, but it req
 
 (------------------------------------------------------------------------)
 
+308- What is the Chain of Responsibility pattern?
+
+Ans- A behavioral design pattern that passes a request along a chain of handlers until one handles it.
+
+(------------------------------------------------------------------------)
