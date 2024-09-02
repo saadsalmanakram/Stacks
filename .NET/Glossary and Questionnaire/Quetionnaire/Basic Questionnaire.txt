@@ -3837,3 +3837,9 @@ Ans- To isolate and test the specific behavior of the class under test.
 
 (-----------------------------------------------------------------------)
 
+642- What is the role of an interface in testing with mocks or fakes?
+
+Ans- It allows dependency injection and easy substitution with test doubles.
+
+(-----------------------------------------------------------------------)
+
