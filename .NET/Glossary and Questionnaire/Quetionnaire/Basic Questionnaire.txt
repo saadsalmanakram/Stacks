@@ -4995,3 +4995,9 @@ Ans- Because contract violations indicate a fundamental error, and catching them
 
 (------------------------------------------------------------------------)
 
+836- What is covariance in the context of generics?
+
+Ans- Covariance allows a method to accept a more derived type than originally specified, preserving the base-class/subclass relationship.
+
+(------------------------------------------------------------------------)
+
