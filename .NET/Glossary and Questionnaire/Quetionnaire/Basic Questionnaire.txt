@@ -5223,3 +5223,9 @@ Ans- It reduces code duplication when the context of the decorators is shared.
 
 (------------------------------------------------------------------------)
 
+874- Why should decorators with different dependencies be implemented in separate classes?
+
+Ans- To maintain clear separation of concerns and avoid complex dependency chains.
+
+(------------------------------------------------------------------------)
+
