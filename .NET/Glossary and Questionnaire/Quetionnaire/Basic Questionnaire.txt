@@ -2373,3 +2373,9 @@ Ans- It is useful when you need to perform operations on a heterogeneous object 
 
 (------------------------------------------------------------------------)
 
+398- What is the relationship between the Accept and Visit methods in the Visitor pattern?
+
+Ans- The Accept method in the element delegates the call to the appropriate Visit method in the visitor.
+
+(------------------------------------------------------------------------)
+
