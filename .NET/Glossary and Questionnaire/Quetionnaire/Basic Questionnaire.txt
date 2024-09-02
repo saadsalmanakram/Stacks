@@ -4760,3 +4760,10 @@ Ans- Violating LSP can lead to broken code, as subclasses might not behave as ex
 Ans- LSP supports the Open/Closed Principle by ensuring that new subclasses can be added without modifying existing client code.
 
 (-------------------------------------------------------------------------)
+
+797- How does LSP relate to the Single Responsibility Principle?
+
+Ans- LSP enforces that subclasses should adhere to the responsibilities defined by their base classes, avoiding unexpected behaviors that could violate SRP.
+
+(-------------------------------------------------------------------------)
+
