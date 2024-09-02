@@ -5312,3 +5312,10 @@ Ans- Monolithic interfaces expose more functionalities than necessary, leading t
 Ans- To prevent unintended access to both read and write operations by clients that should only perform one of these actions.
 
 (------------------------------------------------------------------------)
+
+889- How does interface segregation improve defensive programming?
+
+Ans- By segregating interfaces, you reduce the risk of unintended operations, thus promoting defensive programming.
+
+(------------------------------------------------------------------------)
+
