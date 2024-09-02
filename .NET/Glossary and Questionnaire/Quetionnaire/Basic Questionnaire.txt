@@ -5427,4 +5427,10 @@ Ans- DI enables adherence to SOLID principles by ensuring dependencies are injec
 
 (-------------------------------------------------------------------------)
 
+908- What is Poor Man’s Dependency Injection?
+
+Ans- Poor Man’s DI is the manual process of constructing object graphs within the application without using a DI container.
+
+(-------------------------------------------------------------------------)
+
 
