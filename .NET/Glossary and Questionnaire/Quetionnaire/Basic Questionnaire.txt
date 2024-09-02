@@ -3111,3 +3111,9 @@ Ans- ApiController.
 
 (------------------------------------------------------------------------)
 
+521- What HTTP verbs are supported by ASP.NET Web API?
+
+Ans- GET, POST, PUT, DELETE, HEAD, OPTIONS, PATCH.
+
+(------------------------------------------------------------------------)
+
