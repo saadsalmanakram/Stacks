@@ -3237,4 +3237,10 @@ Ans- By encapsulating concerns into reusable aspects and applying them across mu
 
 (-----------------------------------------------------------------------)
 
+542- What is the benefit of using AOP with attributes like [Logged] and [Transactional]?
+
+Ans- They enhance code clarity and reuse by separating concerns like logging and transactions from business logic.
+
+(-----------------------------------------------------------------------)
+
 
