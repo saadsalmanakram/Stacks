@@ -3909,3 +3909,9 @@ Ans- By manually asserting that the InnerException of the ServiceException is a 
 
 (-----------------------------------------------------------------------)
 
+654- What is the purpose of a test initialization method in MSTest?
+
+Ans- It sets up common objects and state before each test method runs, reducing redundancy in test code.
+
+(-----------------------------------------------------------------------)
+
