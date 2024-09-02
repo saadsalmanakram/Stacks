@@ -2261,4 +2261,10 @@ Ans- The Observer pattern allows for a flexible and dynamic relationship between
 
 (------------------------------------------------------------------------)
 
+379- How does the Observer pattern differ from the Mediator pattern?
+
+Ans- The Observer pattern facilitates communication between a single subject and multiple observers, while the Mediator pattern manages complex communications between multiple objects.
+
+(------------------------------------------------------------------------)
+
 
