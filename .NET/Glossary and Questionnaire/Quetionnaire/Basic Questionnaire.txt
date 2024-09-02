@@ -5199,3 +5199,8 @@ Ans- ISP makes testing easier by reducing the scope of what each interface is re
 
 (------------------------------------------------------------------------)
 
+870- What is the impact of ISP on code maintainability?
+
+Ans- By reducing unnecessary dependencies and focusing on specific client needs, ISP improves the maintainability and flexibility of code.
+
+(------------------------------------------------------------------------)
