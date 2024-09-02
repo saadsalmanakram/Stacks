@@ -5637,3 +5637,9 @@ Ans- Poor Man's DI, which involves manually constructing classes and their depen
 
 (------------------------------------------------------------------------)
 
+943- What are the risks of using static ServiceLocator classes?
+
+Ans- Static ServiceLocator classes lead to hidden dependencies, making the code harder to test and maintain, and often result in poor design choices.
+
+(------------------------------------------------------------------------)
+
