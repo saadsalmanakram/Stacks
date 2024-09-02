@@ -4605,4 +4605,10 @@ Ans- Virtual methods allow partial method implementations, while abstract method
 
 (-------------------------------------------------------------------------)
 
+771- What is the advantage of using interface inheritance over implementation inheritance?
+
+Ans- Interface inheritance provides better flexibility and avoids tight coupling compared to implementation inheritance.
+
+(-------------------------------------------------------------------------)
+
 
