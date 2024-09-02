@@ -3843,3 +3843,9 @@ Ans- It allows dependency injection and easy substitution with test doubles.
 
 (-----------------------------------------------------------------------)
 
+643- How do you know when a unit test is correctly testing a method?
+
+Ans- When it accurately verifies the method's behavior under various conditions.
+
+(-----------------------------------------------------------------------)
+
