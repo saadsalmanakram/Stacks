@@ -2727,3 +2727,9 @@ Ans- It ensures that the team stays aligned, identifies obstacles, and tracks pr
 
 (-----------------------------------------------------------------------)
 
+457- How does Agile prevent wasted effort in development?
+
+Ans- By only developing features when they are ready to be taken off the Scrum board, ensuring relevance.
+
+(-----------------------------------------------------------------------)
+
