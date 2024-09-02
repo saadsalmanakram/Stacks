@@ -2243,3 +2243,9 @@ Ans- In the push model, the Subject sends detailed data to Observers, whereas in
 
 (------------------------------------------------------------------------)
 
+376- When would you use the Observer pattern?
+
+Ans- Use the Observer pattern when changes in one object need to be propagated to multiple dependent objects.
+
+(------------------------------------------------------------------------)
+
