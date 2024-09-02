@@ -4719,3 +4719,9 @@ Ans- The Stairway pattern suggests separating interfaces from their implementati
 
 (-------------------------------------------------------------------------)
 
+790- What should you consider before adding new extension points to your code?
+
+Ans- Consider the potential for future changes, the complexity introduced, and whether the extension points will be used effectively.
+
+(-------------------------------------------------------------------------)
+
