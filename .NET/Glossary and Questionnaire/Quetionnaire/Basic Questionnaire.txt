@@ -2237,3 +2237,9 @@ Ans- The Notify method triggers the update mechanism, informing all registered o
 
 (------------------------------------------------------------------------)
 
+375- What is the difference between push and pull models in the Observer pattern?
+
+Ans- In the push model, the Subject sends detailed data to Observers, whereas in the pull model, Observers request the details after being notified of a change.
+
+(------------------------------------------------------------------------)
+
