@@ -2171,3 +2171,9 @@ Ans- The Colleague that sends and receives messages, and the Mediator that manag
 
 (------------------------------------------------------------------------)
 
+364- What is a practical example of the Mediator pattern in use?
+
+Ans- A mailing list where a moderator controls the flow of messages and filters content.
+
+(------------------------------------------------------------------------)
+
