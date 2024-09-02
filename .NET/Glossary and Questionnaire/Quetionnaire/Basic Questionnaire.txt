@@ -3123,3 +3123,9 @@ Ans- By using methods like GetStringAsync for GET requests and PostAsync for POS
 
 (------------------------------------------------------------------------)
 
+523- How does Windows PowerShell 3 access a REST service?
+
+Ans- By using the System.Net.WebRequest class to create and send requests.
+
+(------------------------------------------------------------------------)
+
