@@ -2673,3 +2673,9 @@ Ans- Scrum follows Agile principles, emphasizing iterative development, collabor
 
 (-----------------------------------------------------------------------)
 
+448- How does the Scrum Master support the Development Team?
+
+Ans- The Scrum Master shields the team from distractions and helps resolve any issues that may impede their work.
+
+(-----------------------------------------------------------------------)
+
