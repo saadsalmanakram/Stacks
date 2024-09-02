@@ -4239,3 +4239,9 @@ Ans- It provides greater flexibility by allowing dynamic composition of behavior
 
 (-----------------------------------------------------------------------)
 
+709- How does the DecoratorComponent class enhance the functionality of the ConcreteComponent?
+
+Ans- It adds additional behavior before delegating the call to the ConcreteComponent instance.
+
+(-----------------------------------------------------------------------)
+
