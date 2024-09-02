@@ -5120,3 +5120,10 @@ Ans- Splitting a CRUD interface allows for more targeted interfaces that better 
 Ans- A decorator is a design pattern that allows you to add behavior to individual methods of an interface without modifying the interface itself.
 
 (------------------------------------------------------------------------)
+
+857- How can decorators benefit from ISP?
+
+Ans- By applying ISP, decorators can focus on specific methods, making them more reusable and reducing redundant code.
+
+(------------------------------------------------------------------------)
+
