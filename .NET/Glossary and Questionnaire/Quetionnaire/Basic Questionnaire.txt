@@ -4881,3 +4881,9 @@ Ans- By ensuring that any changes to fields or properties honor the original con
 
 (------------------------------------------------------------------------)
 
+817- What is a guard clause, and how does it relate to LSP?
+
+Ans- A guard clause is a conditional statement that checks preconditions or invariants; it helps enforce the LSP by preventing invalid states.
+
+(------------------------------------------------------------------------)
+
