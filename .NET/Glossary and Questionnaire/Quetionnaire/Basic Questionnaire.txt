@@ -2165,3 +2165,9 @@ Ans- By moderating messages, enforcing communication rules, and keeping members 
 
 (------------------------------------------------------------------------)
 
+363- What are the key components of the Mediator pattern?
+
+Ans- The Colleague that sends and receives messages, and the Mediator that manages communication between colleagues.
+
+(------------------------------------------------------------------------)
+
