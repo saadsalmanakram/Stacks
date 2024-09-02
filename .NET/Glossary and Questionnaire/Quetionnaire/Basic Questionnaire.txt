@@ -4077,3 +4077,9 @@ Ans- Use inheritance, interfaces, or abstract classes to extend existing functio
 
 (-----------------------------------------------------------------------)
 
+682- What is a common violation of OCP?
+
+Ans- Modifying a class directly when adding new features instead of extending it.
+
+(----------------------------------------------------------------------)
+
