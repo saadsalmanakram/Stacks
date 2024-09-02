@@ -3141,3 +3141,9 @@ Ans- It downloads and references the package and its dependencies, and updates t
 
 (-----------------------------------------------------------------------)
 
+526- What file does NuGet create to manage package references?
+
+Ans- packages.config.
+
+(-----------------------------------------------------------------------)
+
