@@ -3645,3 +3645,9 @@ Ans- Unit testing provides immediate feedback on whether the production code is 
 
 (-----------------------------------------------------------------------)
 
+610- What is refactoring?
+
+Ans- Refactoring is the process of improving the design of existing code without changing its behavior.
+
+(-----------------------------------------------------------------------)
+
