@@ -3854,3 +3854,10 @@ Ans- When it accurately verifies the method's behavior under various conditions.
 Ans- Refactor the code, ensuring that all tests still pass.
 
 (-----------------------------------------------------------------------)
+
+645- What does a failing test indicate in the context of TDD?
+
+Ans- It signals that the implementation does not meet the expected behavior.
+
+(-----------------------------------------------------------------------)
+
