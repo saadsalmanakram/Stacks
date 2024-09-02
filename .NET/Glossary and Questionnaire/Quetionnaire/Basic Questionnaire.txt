@@ -2093,3 +2093,8 @@ Ans- Objects do not need to know about each other; they only interact with the m
 
 (------------------------------------------------------------------------)
 
+351- What is the main function of the Observer pattern?
+
+Ans- The Observer pattern allows an object (subject) to notify a list of observers about any state changes.
+
+(------------------------------------------------------------------------)
