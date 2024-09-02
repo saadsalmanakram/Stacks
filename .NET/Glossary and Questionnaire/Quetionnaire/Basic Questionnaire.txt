@@ -4629,4 +4629,10 @@ Ans- Design and document classes for inheritance if intended, or explicitly proh
 
 (-------------------------------------------------------------------------)
 
+775- Why is it important to have extension points in software design?
+
+Ans- Extension points enable adding new features or functionality without altering existing, stable code.
+
+(-------------------------------------------------------------------------)
+
 
