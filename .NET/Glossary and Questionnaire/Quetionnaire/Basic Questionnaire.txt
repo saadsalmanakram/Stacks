@@ -1961,3 +1961,15 @@ Ans- Client, Command, Receiver, Invoker, and the ICommand interface.
 
 (------------------------------------------------------------------------)
 
+329- How does the Command pattern promote flexibility in executing requests?
+
+Ans- It allows requests to be handled by different receivers without the client needing to know which one will process the request.
+
+(------------------------------------------------------------------------)
+
+330- What is the role of the Invoker in the Command pattern?
+
+Ans- It stores commands and executes them, distancing the client from the receiver.
+
+(------------------------------------------------------------------------)
+
