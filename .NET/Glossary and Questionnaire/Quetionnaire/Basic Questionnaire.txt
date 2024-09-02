@@ -2817,5 +2817,11 @@ Ans- Velocity is the average number of story points a team completes over multip
 
 (-------------------------------------------------------------------------)
 
+472- How can velocity be used to set sprint goals?
+
+Ans- It provides a ceiling for how many points the team should commit to in the next sprint.
+
+(-------------------------------------------------------------------------)
+
 
 
