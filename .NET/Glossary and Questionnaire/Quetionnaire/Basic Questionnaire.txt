@@ -4353,3 +4353,15 @@ Ans- To abstract the conditional logic, making it more versatile and reusable ac
 
 (-----------------------------------------------------------------------)
 
+729- How does the predicate decorator pattern align with the open/closed principle?
+
+Ans- It extends behavior without modifying existing code by adding conditional checks through decorators.
+
+(-----------------------------------------------------------------------)
+
+730- Can you provide an example of when a predicate decorator would be useful?
+
+Ans- Implementing feature toggles or conditional logging based on runtime conditions.
+
+(-----------------------------------------------------------------------)
+
