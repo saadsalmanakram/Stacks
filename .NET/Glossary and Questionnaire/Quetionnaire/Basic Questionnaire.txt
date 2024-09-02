@@ -5504,3 +5504,10 @@ Ans- The Stairway pattern involves correctly applying DI to ensure classes only 
 Ans- It abstracts the mapping logic between TaskDto and TaskViewModel, allowing for flexibility and testability.
 
 (------------------------------------------------------------------------)
+
+921- What is the primary problem with directly instantiating dependencies in a class?
+
+Ans- It creates tight coupling, making the code harder to test, extend, and maintain.
+
+(------------------------------------------------------------------------)
+
