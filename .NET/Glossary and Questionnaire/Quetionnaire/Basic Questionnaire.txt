@@ -5397,3 +5397,16 @@ Ans- Decorating an interface involves adding additional behaviors or functionali
 
 (-------------------------------------------------------------------------)
 
+903- How does the Interface Segregation Principle align with the SOLID principles?
+
+Ans- It directly aligns by promoting single responsibility within interfaces, thereby supporting more modular and maintainable code.
+
+(-------------------------------------------------------------------------)
+
+904- What should be kept in mind when creating an interface according to the text?
+
+Ans- It's crucial to consider interface segregation from the start to avoid heavy refactoring later and to maintain the adaptability and clarity of the code.
+
+(-------------------------------------------------------------------------)
+
+
