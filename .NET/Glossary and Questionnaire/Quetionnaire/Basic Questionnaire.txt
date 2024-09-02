@@ -2051,3 +2051,9 @@ Ans- The foreach loop automatically invokes the GetEnumerator method on collecti
 
 (------------------------------------------------------------------------)
 
+344- What is the significance of GetEnumerator in the Iterator pattern?
+
+Ans- GetEnumerator supplies the sequence of values to be iterated over, one at a time.
+
+(------------------------------------------------------------------------)
+
