@@ -5517,3 +5517,11 @@ Ans- DI enhances adaptability by allowing different implementations of dependenc
 
 (------------------------------------------------------------------------)
 
+923- Why is it a bad practice to use static classes for dependencies in DI?
+
+Ans- Static classes are hard to mock and test, and they limit flexibility in changing how dependencies are resolved.
+
+(------------------------------------------------------------------------)
+
+
+
