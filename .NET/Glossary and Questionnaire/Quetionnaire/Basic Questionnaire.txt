@@ -5229,3 +5229,9 @@ Ans- To maintain clear separation of concerns and avoid complex dependency chain
 
 (------------------------------------------------------------------------)
 
+875- How does the design of interfaces affect client construction?
+
+Ans- It dictates how the implementations are supplied to the clients, influencing the construction process.
+
+(------------------------------------------------------------------------)
+
