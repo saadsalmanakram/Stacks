@@ -4899,3 +4899,9 @@ Ans- Substitutability ensures that a system remains flexible and maintainable, a
 
 (------------------------------------------------------------------------)
 
+820- What is an example of a violation of LSP in method contracts?
+
+Ans- A violation occurs when a subclass requires additional input parameters that the superclass method does not, leading to broken client code.
+
+(------------------------------------------------------------------------)
+
