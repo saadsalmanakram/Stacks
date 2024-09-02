@@ -4172,3 +4172,10 @@ Ans- To keep the interface clean and avoid tying methods to specific dependencie
 Ans- It ensures that neither client nor implementation assemblies reference each other, promoting modularity.
 
 (-----------------------------------------------------------------------)
+
+698- Why is it essential to refactor classes like SimpleTradeParser?
+
+Ans- To ensure each class has a single responsibility and delegates tasks to appropriate interfaces.
+
+(-----------------------------------------------------------------------)
+
