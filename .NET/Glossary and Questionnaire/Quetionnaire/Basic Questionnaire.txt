@@ -2787,5 +2787,12 @@ Ans- To control the number of user stories in progress and encourage the team to
 
 (------------------------------------------------------------------------)
 
+467- What is a digital Scrum board, and what is its main drawback?
+
+Ans- A digital Scrum board is an online tool for managing Scrum tasks; its main drawback is that it can hide important project information unless constantly visible.
+
+(-------------------------------------------------------------------------)
+
+
 
 
