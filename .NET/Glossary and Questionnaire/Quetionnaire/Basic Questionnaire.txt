@@ -1949,3 +1949,9 @@ Ans- Use it when you need to decouple the sender of a request from its receiver,
 
 (------------------------------------------------------------------------)
 
+327- How does the Command pattern support undo and redo functionality?
+
+Ans- By encapsulating actions as objects, it allows storing and re-executing or reversing them as needed.
+
+(------------------------------------------------------------------------)
+
