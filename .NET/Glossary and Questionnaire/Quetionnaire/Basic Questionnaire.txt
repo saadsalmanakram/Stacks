@@ -5685,4 +5685,10 @@ Ans- It automates the process of mapping interfaces to implementations, cutting 
 
 (------------------------------------------------------------------------)
 
+951- What is the main benefit of using conventions in Dependency Injection (DI)?
+
+Ans- Conventions simplify the registration process by reducing the amount of code required.
+
+(------------------------------------------------------------------------)
+
 
