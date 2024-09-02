@@ -5625,3 +5625,9 @@ Ans- Illegitimate Injection occurs when a class uses a default constructor to cr
 
 (------------------------------------------------------------------------)
 
+941- What is the resolution root in DI?
+
+Ans- The resolution root is the object or type that forms the base of the object graph to be resolved by the DI container.
+
+(------------------------------------------------------------------------)
+
