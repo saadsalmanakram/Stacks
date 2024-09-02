@@ -3363,3 +3363,9 @@ Ans- Explicit interface implementation requires the interface member to be calle
 
 (-----------------------------------------------------------------------)
 
+563- When would you use explicit interface implementation?
+
+Ans- Use it to avoid method signature clashes or when you need to implement an interface method differently from existing methods in a class.
+
+(-----------------------------------------------------------------------)
+
