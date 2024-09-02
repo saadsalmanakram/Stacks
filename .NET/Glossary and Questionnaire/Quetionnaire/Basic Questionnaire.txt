@@ -4149,3 +4149,9 @@ Ans- Depend on abstractions, such as interfaces or abstract classes, rather than
 
 (-----------------------------------------------------------------------)
 
+694- What is a common violation of DIP?
+
+Ans- When a high-level class directly depends on a concrete low-level class instead of an abstraction.
+
+(-----------------------------------------------------------------------)
+
