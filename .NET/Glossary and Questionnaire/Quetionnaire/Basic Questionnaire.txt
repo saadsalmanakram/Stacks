@@ -5277,3 +5277,9 @@ Ans- It simplifies the client’s code but might reduce flexibility in decoratin
 
 (------------------------------------------------------------------------)
 
+883- What is interface segregation?
+
+Ans- Interface segregation is the practice of splitting large interfaces into smaller, more specific ones to reduce the chances of misuse by clients.
+
+(------------------------------------------------------------------------)
+
