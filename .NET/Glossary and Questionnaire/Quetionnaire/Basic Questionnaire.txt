@@ -2183,3 +2183,9 @@ Ans- By centralizing message handling, reducing direct dependencies between obje
 
 (------------------------------------------------------------------------)
 
+366- What happens when a colleague blocks itself in the Mediator pattern?
+
+Ans- The colleague temporarily stops receiving messages until it unblocks itself.
+
+(------------------------------------------------------------------------)
+
