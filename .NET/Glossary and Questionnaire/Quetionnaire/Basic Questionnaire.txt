@@ -3975,4 +3975,10 @@ Ans- When the codebase needs improvements in structure, readability, or maintain
 
 (-----------------------------------------------------------------------)
 
+665- What is the main benefit of using unit tests during refactoring?
+
+Ans- Unit tests ensure that refactoring changes do not break existing functionality.
+
+(-----------------------------------------------------------------------)
+
 
