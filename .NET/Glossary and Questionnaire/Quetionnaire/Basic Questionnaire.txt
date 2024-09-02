@@ -3375,3 +3375,15 @@ Ans- It will result in a compilation error unless you use an interface reference
 
 (-----------------------------------------------------------------------)
 
+565- How do method signatures impact interface implementation?
+
+Ans- Method signatures must be unique within a class; otherwise, explicit implementation is required to avoid clashes.
+
+(-----------------------------------------------------------------------)
+
+566- Can properties in an interface have different signatures?
+
+Ans- No, properties in an interface must have the same name and cannot differ by accessors alone.
+
+(-----------------------------------------------------------------------)
+
