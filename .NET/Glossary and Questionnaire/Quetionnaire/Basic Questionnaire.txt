@@ -5445,4 +5445,10 @@ Ans- An IoC container is a framework for automating the process of dependency in
 
 (-------------------------------------------------------------------------)
 
+911- What are some common DI anti-patterns?
+
+Ans- Common DI anti-patterns include service locators, constructor over-injection, and interface overuse.
+
+(-------------------------------------------------------------------------)
+
 
