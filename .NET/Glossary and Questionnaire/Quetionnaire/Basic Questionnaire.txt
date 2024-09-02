@@ -4263,3 +4263,15 @@ Ans- Adding new features to UI components, such as scroll bars or borders, dynam
 
 (-----------------------------------------------------------------------)
 
+713- What is the main purpose of the Composite pattern?
+
+Ans- The Composite pattern allows treating individual objects and compositions of objects uniformly.
+
+(-----------------------------------------------------------------------)
+
+714- How does the Composite pattern enhance flexibility in handling tree structures?
+
+Ans- It allows clients to manipulate both individual objects and their compositions in a consistent manner.
+
+(-----------------------------------------------------------------------)
+
