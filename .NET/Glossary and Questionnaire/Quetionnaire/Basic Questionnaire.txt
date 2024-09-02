@@ -4491,3 +4491,9 @@ Ans- By overriding the add and remove accessors to include additional logic when
 
 (-------------------------------------------------------------------------)
 
+752- What is the Strategy pattern?
+
+Ans- The Strategy pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable, allowing the algorithm to vary independently from the clients that use it.
+
+(-------------------------------------------------------------------------)
+
