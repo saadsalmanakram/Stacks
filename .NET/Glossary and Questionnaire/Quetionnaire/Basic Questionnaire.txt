@@ -4767,3 +4767,9 @@ Ans- LSP enforces that subclasses should adhere to the responsibilities defined 
 
 (-------------------------------------------------------------------------)
 
+798- What is a contract in the context of LSP?
+
+Ans- A contract refers to the expectations set by a base class’s methods, which must be honored by any subclass to ensure consistent behavior.
+
+(-------------------------------------------------------------------------)
+
