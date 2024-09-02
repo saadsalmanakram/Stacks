@@ -4977,3 +4977,9 @@ Ans- It ensures that class-level invariants are maintained before and after any 
 
 (------------------------------------------------------------------------)
 
+833- How are invariants protected in a class using code contracts?
+
+Ans- Invariants are protected by a method marked with the ContractInvariantMethod attribute, which automatically checks them when entering and leaving methods.
+
+(------------------------------------------------------------------------)
+
