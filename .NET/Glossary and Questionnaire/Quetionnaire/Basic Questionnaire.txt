@@ -2397,3 +2397,9 @@ Ans- The Client builds an object structure that represents a set of instructions
 
 (------------------------------------------------------------------------)
 
+402- What is the Context in the Interpreter pattern?
+
+Ans- The Context contains information for use by the Interpreter, typically the input and output.
+
+(------------------------------------------------------------------------)
+
