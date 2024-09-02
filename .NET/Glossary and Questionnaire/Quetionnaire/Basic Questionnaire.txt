@@ -2511,4 +2511,16 @@ Ans- It provides an interface for creating families of related objects; implemen
 
 (-----------------------------------------------------------------------)
 
+421- What challenges do the Adapter and Visitor patterns present in strongly typed languages like C#?
+
+Ans- They require careful handling of types and parameters to maintain decoupling while ensuring compatibility.
+
+(-----------------------------------------------------------------------)
+
+422- How do design patterns interact with one another?
+
+Ans- Patterns like Composite and Abstract Factory often support or depend on others, such as Builder or Flyweight.
+
+(-----------------------------------------------------------------------)
+
 
