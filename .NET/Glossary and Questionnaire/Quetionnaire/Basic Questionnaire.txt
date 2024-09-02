@@ -5031,3 +5031,9 @@ Ans- Covariance means that a method in a subclass can return a more specific typ
 
 (------------------------------------------------------------------------)
 
+842- Why is contravariance of method arguments important in LSP?
+
+Ans- It ensures that a subclass can handle a broader range of input types, maintaining compatibility with the superclass.
+
+(------------------------------------------------------------------------)
+
