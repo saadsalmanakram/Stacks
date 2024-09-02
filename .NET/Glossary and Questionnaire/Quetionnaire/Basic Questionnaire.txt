@@ -5007,3 +5007,9 @@ Ans- Covariance allows a generic type to be treated as a more specific type, ena
 
 (------------------------------------------------------------------------)
 
+838- What are the key rules of LSP regarding method arguments?
+
+Ans- Method arguments must be contravariant in subtypes.
+
+(------------------------------------------------------------------------)
+
