@@ -5187,3 +5187,9 @@ Ans- Encapsulating user interaction allows you to change the method of interacti
 
 (------------------------------------------------------------------------)
 
+868- What is the advantage of using smaller, more directed interfaces?
+
+Ans- Smaller interfaces are easier to implement, test, and extend, leading to more maintainable and modular code.
+
+(------------------------------------------------------------------------)
+
