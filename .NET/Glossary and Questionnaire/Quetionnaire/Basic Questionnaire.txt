@@ -5049,3 +5049,9 @@ Ans- It prevents subclasses from introducing new exceptions that clients might n
 
 (------------------------------------------------------------------------)
 
+845- How does LSP help in preventing the "Entourage anti-pattern"?
+
+Ans- LSP ensures that clients remain unaware of the specific subclass used, avoiding unnecessary dependencies on implementation details.
+
+(------------------------------------------------------------------------)
+
