@@ -2661,4 +2661,9 @@ Ans- By identifying impediments during Daily Stand-ups and Sprint Retrospectives
 
 (-----------------------------------------------------------------------)
 
+446- What are Scrum ceremonies?
+
+Ans- Daily Stand-ups, Sprint Planning, Sprint Review, and Sprint Retrospective.
+
+(-----------------------------------------------------------------------)
 
