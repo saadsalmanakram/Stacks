@@ -4047,3 +4047,10 @@ Ans- SRP improves code maintainability and clarity by ensuring that each class h
 
 (-----------------------------------------------------------------------)
 
+677- How would you identify a violation of SRP?
+
+Ans- If a class has multiple reasons to change, or handles multiple responsibilities, it violates SRP.
+
+(-----------------------------------------------------------------------)
+
+
