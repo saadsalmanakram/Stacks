@@ -2919,4 +2919,10 @@ Ans- They save development time by providing pre-built solutions instead of crea
 
 (------------------------------------------------------------------------)
 
+489- What is the role of NuGet in managing third-party dependencies?
+
+Ans- NuGet automates downloading, referencing, and updating third-party packages.
+
+(------------------------------------------------------------------------)
+
 
