@@ -2811,5 +2811,11 @@ Ans- The act of measuring can alter the behavior of those being measured, potent
 
 (-------------------------------------------------------------------------)
 
+471- What is velocity in Scrum?
+
+Ans- Velocity is the average number of story points a team completes over multiple sprints.
+
+(-------------------------------------------------------------------------)
+
 
 
