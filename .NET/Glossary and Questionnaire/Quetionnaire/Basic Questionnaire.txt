@@ -5583,3 +5583,9 @@ Ans- Calling Resolve within application classes can create tight coupling and re
 
 (------------------------------------------------------------------------)
 
+934- In what scenario would you use the Release method in a web application?
+
+Ans- The Release method can be used at the end of each web request to dispose of per-request objects.
+
+(------------------------------------------------------------------------)
+
