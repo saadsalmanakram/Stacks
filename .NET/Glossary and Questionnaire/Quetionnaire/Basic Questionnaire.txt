@@ -4203,3 +4203,15 @@ Ans- It makes the application more scalable by allowing new features and changes
 
 (-----------------------------------------------------------------------)
 
+703- Why is decoupling assemblies crucial in adaptive code?
+
+Ans- It prevents tight coupling between components, allowing easier modifications and maintenance.
+
+(-----------------------------------------------------------------------)
+
+704- How does the Decorator pattern maintain the single responsibility principle?
+
+Ans- It enables each class to have a single responsibility by delegating additional functionality to decorator classes.
+
+(----------------------------------------------------------------------)
+
