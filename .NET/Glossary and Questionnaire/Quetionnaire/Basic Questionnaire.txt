@@ -4059,4 +4059,15 @@ Ans- Refactor the class by separating its responsibilities into smaller, focused
 
 (-----------------------------------------------------------------------)
 
+679- What is the Open/Closed Principle (OCP)?
+
+Ans- OCP states that software entities should be open for extension but closed for modification.
+
+(-----------------------------------------------------------------------)
+
+680- Why is the Open/Closed Principle important?
+
+Ans- OCP allows you to add new functionality without altering existing, stable code, reducing the risk of bugs.
+
+(-----------------------------------------------------------------------)
 
