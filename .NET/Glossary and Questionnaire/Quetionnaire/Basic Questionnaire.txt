@@ -3993,4 +3993,10 @@ Ans- These classes use the balance to calculate reward points, so it's necessary
 
 (-----------------------------------------------------------------------)
 
+668- What is the advantage of using inheritance in the refactored Account classes?
+
+Ans- Inheritance allows shared functionality like balance management while enabling specific reward calculations in each subclass.
+
+(-----------------------------------------------------------------------)
+
 
