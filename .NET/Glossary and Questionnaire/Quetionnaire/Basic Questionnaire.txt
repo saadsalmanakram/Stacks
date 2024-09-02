@@ -3951,3 +3951,9 @@ Ans- Refactor means restructuring existing code to improve its design, readabili
 
 (-----------------------------------------------------------------------)
 
+661- How does the Account class refactor improve its design?
+
+Ans- The refactor separates account-specific reward logic into subclasses, eliminating the need for a switch statement and improving extensibility.
+
+(-----------------------------------------------------------------------)
+
