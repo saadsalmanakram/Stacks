@@ -4569,3 +4569,10 @@ Ans- Answer: Martin emphasizes that behavior should be extendable without modify
 
 (-------------------------------------------------------------------------)
 
+765- What is an exception to the “closed for modification” rule of OCP?
+
+Ans- Answer: Bug fixes are an exception, as they require modifying existing code to correct defects.
+
+(-------------------------------------------------------------------------)
+
+
