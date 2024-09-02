@@ -5481,5 +5481,11 @@ Ans- DI enables easier mocking and isolation of dependencies, making unit tests 
 
 (-------------------------------------------------------------------------)
 
+917- What is a resolution root in DI?
+
+Ans- A resolution root is the part of the application where dependencies are resolved or injected, usually at the highest level of the application’s structure.
+
+(-------------------------------------------------------------------------)
+
 
 
