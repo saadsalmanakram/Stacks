@@ -2015,3 +2015,9 @@ Ans- It allows for elements to be filtered in various ways as they are generated
 
 (------------------------------------------------------------------------)
 
+338- Can you give an example of where the Iterator pattern might be used?
+
+Ans- It can be used to iterate through a file directory to search for files with specific criteria like name or creation date.
+
+(------------------------------------------------------------------------)
+
