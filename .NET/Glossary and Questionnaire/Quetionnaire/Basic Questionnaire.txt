@@ -4893,3 +4893,9 @@ Ans- When overriding methods, LSP requires that the subclass’s methods do not 
 
 (------------------------------------------------------------------------)
 
+819- Why is substitutability important in object-oriented design?
+
+Ans- Substitutability ensures that a system remains flexible and maintainable, allowing for easier extension and modification without breaking existing functionality.
+
+(------------------------------------------------------------------------)
+
