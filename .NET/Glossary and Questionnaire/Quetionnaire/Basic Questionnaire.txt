@@ -2415,3 +2415,9 @@ Ans- The Interpreter pattern can be used to parse and interpret XML to create an
 
 (------------------------------------------------------------------------)
 
+405- What is parsing in the context of the Interpreter pattern?
+
+Ans- Parsing is the process of matching input against a grammar to create an object structure.
+
+(------------------------------------------------------------------------)
+
