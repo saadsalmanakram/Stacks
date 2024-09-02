@@ -4101,3 +4101,9 @@ Ans- If a subclass overrides behavior in a way that violates the expected behavi
 
 (-----------------------------------------------------------------------)
 
+686- Can you give an example of LSP in practice?
+
+Ans- A Rectangle class should not be extended by a Square class if the Square does not properly adhere to the behavior of Rectangle.
+
+(-----------------------------------------------------------------------)
+
