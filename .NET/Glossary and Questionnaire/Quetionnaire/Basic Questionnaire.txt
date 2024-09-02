@@ -3243,4 +3243,10 @@ Ans- They enhance code clarity and reuse by separating concerns like logging and
 
 (-----------------------------------------------------------------------)
 
+543- What is Command/Query Responsibility Segregation (CQRS)?
+
+Ans- CQRS is an architectural pattern that separates read (query) and write (command) operations to optimize performance and scalability.
+
+(-----------------------------------------------------------------------)
+
 
