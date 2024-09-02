@@ -1889,3 +1889,9 @@ Ans- A bank where clerks, supervisors, and managers handle customer requests bas
 
 (------------------------------------------------------------------------)
 
+317- What is a potential downside of using the Chain of Responsibility pattern?
+
+Ans- Requests can get lost or remain unhandled if the chain isn't properly set up.
+
+(------------------------------------------------------------------------)
+
