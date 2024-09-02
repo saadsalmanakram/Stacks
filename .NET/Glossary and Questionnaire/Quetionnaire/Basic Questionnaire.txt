@@ -3609,3 +3609,9 @@ Ans- Fluent interfaces are often used to improve code readability and to impleme
 
 (-----------------------------------------------------------------------)
 
+604- How is a fluent interface typically implemented in a class?
+
+Ans- A fluent interface is implemented by ensuring methods return this so that calls can be chained together.
+
+(-----------------------------------------------------------------------)
+
