@@ -2637,4 +2637,10 @@ Ans- A Sprint is a time-boxed iteration during which a potentially shippable pro
 
 (-----------------------------------------------------------------------)
 
+442- How is progress measured in a Scrum project?
+
+Ans- Progress is measured using tools like Burndown Charts, Sprint Reviews, and Daily Stand-ups.
+
+(-----------------------------------------------------------------------)
+
 
