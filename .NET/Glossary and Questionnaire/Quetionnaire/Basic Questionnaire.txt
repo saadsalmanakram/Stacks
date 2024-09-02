@@ -3309,3 +3309,9 @@ Ans- A class implements an interface by providing concrete implementations for a
 
 (-----------------------------------------------------------------------)
 
+554- Can a class implement multiple interfaces?
+
+Ans- Yes, a class can implement multiple interfaces, allowing it to fulfill multiple contracts.
+
+(-----------------------------------------------------------------------)
+
