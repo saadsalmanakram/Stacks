@@ -3591,3 +3591,9 @@ Ans- A method must return the interface itself (i.e., this) to be considered flu
 
 (-----------------------------------------------------------------------)
 
+601- Can a method that returns void be part of a fluent interface?
+
+Ans- No, a method that returns void is not fluent and will break the method chaining.
+
+(-----------------------------------------------------------------------)
+
