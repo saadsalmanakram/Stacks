@@ -5721,3 +5721,9 @@ Ans- Poor Man’s DI is simple but limited, while conventions are more sophistic
 
 (------------------------------------------------------------------------)
 
+956- Why does Mark Seemann consider manual registration to be of low utilitarian value?
+
+Ans- Because it introduces runtime errors that could be caught at compile time with manual object construction.
+
+(------------------------------------------------------------------------)
+
