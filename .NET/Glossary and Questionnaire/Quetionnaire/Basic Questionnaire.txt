@@ -2469,3 +2469,10 @@ Ans- The typical players are Client, Context, Term (including Terminal and Nonte
 
 (-----------------------------------------------------------------------)
 
+414- What is the relationship between the Interpreter and Visitor patterns?
+
+Ans- The Interpreter pattern can be used in conjunction with the Visitor pattern to perform operations on the parsed structure.
+
+(-----------------------------------------------------------------------)
+
+
