@@ -3404,3 +3404,10 @@ Ans- .NET allows a class to implement multiple interfaces, resolving ambiguity b
 Ans- Overusing interfaces can lead to complex hierarchies and tightly coupled code if not managed properly.
 
 (-----------------------------------------------------------------------)
+
+570- What is an interface abuse?
+
+Ans- Interface abuse involves creating interfaces that are too specific or too general, leading to rigid or overly complex designs.
+
+(-----------------------------------------------------------------------)
+
