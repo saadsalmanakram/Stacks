@@ -2709,3 +2709,9 @@ Ans- They prevent knowledge silos, promoting shared ownership and versatility wi
 
 (-----------------------------------------------------------------------)
 
+454- What is the role of automated testing in Scrum?
+
+Ans- Automated tests help ensure that the stories meet the acceptance criteria and maintain software quality throughout development.
+
+(-----------------------------------------------------------------------)
+
