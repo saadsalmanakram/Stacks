@@ -2775,3 +2775,17 @@ Ans- Swimlanes are vertical columns that track the progress of user stories thro
 
 (------------------------------------------------------------------------)
 
+465- Who can create cards in Scrum, and what are the conditions?
+
+Ans- Anyone can create cards, but their validity and priority must be verified by the product owner or development team.
+
+(------------------------------------------------------------------------)
+
+466- Why are swimlane limits used in Scrum?
+
+Ans- To control the number of user stories in progress and encourage the team to complete existing work before starting new tasks.
+
+(------------------------------------------------------------------------)
+
+
+
