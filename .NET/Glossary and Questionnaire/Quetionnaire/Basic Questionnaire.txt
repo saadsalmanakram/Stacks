@@ -3464,3 +3464,10 @@ Ans- Encapsulate behavior in the Null Object itself, eliminating the need for th
 Ans- The Adapter pattern allows an object to be used as if it implements a different interface by adapting its methods to match the expected interface.
 
 (-----------------------------------------------------------------------)
+
+580- When is the Adapter pattern typically used?
+
+Ans- It’s used when a class needs to conform to an interface it doesn't implement, often because it belongs to a third-party library or cannot be modified.
+
+(-----------------------------------------------------------------------)
+
