@@ -3327,3 +3327,8 @@ Ans- The Strategy pattern uses interfaces to define a family of algorithms, enca
 
 (-----------------------------------------------------------------------)
 
+557- What is duck-typing in the context of interfaces?
+
+Ans- Duck-typing allows objects to be used based on their behavior rather than their specific type, facilitated by interfaces.
+
+(-----------------------------------------------------------------------)
