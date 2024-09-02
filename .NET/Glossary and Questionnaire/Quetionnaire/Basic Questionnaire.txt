@@ -4611,4 +4611,10 @@ Ans- Interface inheritance provides better flexibility and avoids tight coupling
 
 (-------------------------------------------------------------------------)
 
+772- What is protected variation in the context of extension points?
+
+Ans- Protected variation refers to designing code so that its extension points can be modified or extended without affecting existing code.
+
+(-------------------------------------------------------------------------)
+
 
