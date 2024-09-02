@@ -3795,3 +3795,9 @@ Ans- Revert changes to ensure correctness, then refactor again carefully.
 
 (-----------------------------------------------------------------------)
 
+635- What is the significance of adding multiple unit tests for a method?
+
+Ans- It increases coverage and ensures the method handles various scenarios.
+
+(-----------------------------------------------------------------------)
+
