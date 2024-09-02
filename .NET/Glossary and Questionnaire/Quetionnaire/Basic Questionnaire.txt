@@ -2631,4 +2631,10 @@ Ans- Product Backlog, Sprint Backlog, and the Increment.
 
 (-----------------------------------------------------------------------)
 
+441- What is a Sprint in Scrum?
+
+Ans- A Sprint is a time-boxed iteration during which a potentially shippable product increment is created.
+
+(-----------------------------------------------------------------------)
+
 
