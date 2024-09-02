@@ -5367,5 +5367,10 @@ Ans- It leads to more adaptable, maintainable, and reusable code by ensuring tha
 
 (-------------------------------------------------------------------------)
 
+898- Why are smaller interfaces considered more versatile?
+
+Ans- Smaller interfaces are easier to decorate, adapt, and compose, providing greater flexibility in design.
+
+(-------------------------------------------------------------------------)
 
 
