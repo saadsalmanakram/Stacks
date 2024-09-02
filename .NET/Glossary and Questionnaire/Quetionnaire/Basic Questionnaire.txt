@@ -4035,3 +4035,9 @@ Ans- It ensures that production code is only written to satisfy a failing unit t
 
 (-----------------------------------------------------------------------)
 
+675- What is the Single Responsibility Principle (SRP)?
+
+Ans- SRP states that a class should have only one reason to change, meaning it should have only one responsibility.
+
+(-----------------------------------------------------------------------)
+
