@@ -3849,3 +3849,8 @@ Ans- When it accurately verifies the method's behavior under various conditions.
 
 (-----------------------------------------------------------------------)
 
+644- What should you do after writing unit tests that cover all expected behaviors?
+
+Ans- Refactor the code, ensuring that all tests still pass.
+
+(-----------------------------------------------------------------------)
