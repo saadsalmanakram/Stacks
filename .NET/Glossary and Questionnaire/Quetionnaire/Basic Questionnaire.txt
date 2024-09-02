@@ -3201,3 +3201,9 @@ Ans- It includes a user interface layer and a data access layer.
 
 (-----------------------------------------------------------------------)
 
+536- When is a two-layer architecture appropriate?
+
+Ans- When the application is simple, mainly performs CRUD operations, or time constraints are tight.
+
+(-----------------------------------------------------------------------)
+
