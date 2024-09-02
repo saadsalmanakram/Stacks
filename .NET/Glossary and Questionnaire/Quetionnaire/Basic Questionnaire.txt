@@ -4916,3 +4916,10 @@ Ans- Separate the tests or logic specific to each subclass while ensuring that s
 Ans- Unit tests help ensure that subclasses conform to the expectations set by the superclass, preserving LSP by checking preconditions, postconditions, and invariants.
 
 (------------------------------------------------------------------------)
+
+823- Can LSP violations be detected during runtime or compile-time?
+
+Ans- LSP violations typically manifest at runtime when client code fails due to unexpected behavior in a subclass.
+
+(------------------------------------------------------------------------)
+
