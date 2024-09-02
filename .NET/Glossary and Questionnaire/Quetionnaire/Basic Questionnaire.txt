@@ -4773,3 +4773,9 @@ Ans- A contract refers to the expectations set by a base class’s methods, whic
 
 (-------------------------------------------------------------------------)
 
+799- How should derived classes honor the contracts of their base classes?
+
+Ans- Derived classes should not alter the preconditions, postconditions, or invariants established by the base class, maintaining consistency in behavior.
+
+(-------------------------------------------------------------------------)
+
