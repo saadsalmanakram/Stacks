@@ -2985,3 +2985,9 @@ Ans- To ensure dependencies are well-organized, avoid conflicts, and maintain th
 
 (------------------------------------------------------------------------)
 
+500- What are the potential problems with managing dependencies manually compared to using a tool like NuGet?
+
+Ans- Manual management can lead to version conflicts and requires developers to handle updates and references manually, while NuGet automates these tasks.
+
+(------------------------------------------------------------------------)
+
