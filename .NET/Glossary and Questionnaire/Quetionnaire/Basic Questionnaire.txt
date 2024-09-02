@@ -2487,4 +2487,16 @@ Ans- The Parse method determines whether an element is terminal or nonterminal a
 
 (-----------------------------------------------------------------------)
 
+417- How does the Interpreter pattern handle recursive input processing?
+
+Ans- It uses recursion to process nested or sequential terms in the input.
+
+(-----------------------------------------------------------------------)
+
+418- What is the outcome of applying the Interpreter pattern to a set of inputs?
+
+Ans- The Interpreter pattern processes the inputs according to the grammar and produces the desired output, such as a GUI or computed result.
+
+(-----------------------------------------------------------------------)
+
 
