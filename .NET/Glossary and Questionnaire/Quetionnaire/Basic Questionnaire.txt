@@ -4551,3 +4551,9 @@ Ans- The constructor or initialization code may need to be updated when adding n
 
 (-------------------------------------------------------------------------)
 
+762- What is the Open/Closed Principle (OCP)?
+
+Ans- OCP states that software entities should be open for extension but closed for modification.
+
+(-------------------------------------------------------------------------)
+
