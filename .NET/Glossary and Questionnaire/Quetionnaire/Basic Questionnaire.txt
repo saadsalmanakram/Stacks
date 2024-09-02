@@ -3447,3 +3447,9 @@ Ans- It replaces null references with a neutral object that has default behavior
 
 (-----------------------------------------------------------------------)
 
+577- What is an anti-pattern related to the Null Object pattern?
+
+Ans- The IsNull property is an anti-pattern as it introduces unnecessary logic in client code, counteracting the purpose of the Null Object pattern.
+
+(-----------------------------------------------------------------------)
+
