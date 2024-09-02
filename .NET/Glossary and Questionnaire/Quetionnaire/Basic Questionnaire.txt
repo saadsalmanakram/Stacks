@@ -3158,3 +3158,10 @@ Ans- NuGet can automatically update all packages to newer versions as specified.
 Ans- Metadata such as package ID, version, authors, and dependencies.
 
 (-----------------------------------------------------------------------)
+
+529- How does Chocolatey differ from NuGet?
+
+Ans- Chocolatey manages application and tool packages, while NuGet handles library packages.
+
+(-----------------------------------------------------------------------)
+
