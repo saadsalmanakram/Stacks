@@ -5553,4 +5553,9 @@ Ans- It keeps the application entry point clean and organized, making the code e
 
 (------------------------------------------------------------------------)
 
+929- What are the advantages of imperative registration over declarative registration in IoC containers?
+
+Ans- Imperative registration is easier to read, provides compile-time checking, and is less verbose compared to declarative XML-based registration.
+
+(------------------------------------------------------------------------)
 
