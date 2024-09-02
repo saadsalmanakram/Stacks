@@ -3777,3 +3777,9 @@ Ans- It clarifies the expected behavior the test is validating.
 
 (-----------------------------------------------------------------------)
 
+632- What does it indicate if a second unit test fails after the first one passes?
+
+Ans- The implementation might be correct for one case but flawed for others.
+
+(-----------------------------------------------------------------------)
+
