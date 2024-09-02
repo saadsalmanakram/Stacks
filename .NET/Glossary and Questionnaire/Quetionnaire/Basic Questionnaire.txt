@@ -4743,3 +4743,15 @@ Ans- LSP states that objects of a superclass should be replaceable with objects 
 
 (-------------------------------------------------------------------------)
 
+794- Why is the Liskov Substitution Principle important?
+
+Ans- It ensures that a class hierarchy remains consistent, promoting code reliability and reducing the need for changes when extending the hierarchy.
+
+(-------------------------------------------------------------------------)
+
+795- What can happen if the LSP is violated?
+
+Ans- Violating LSP can lead to broken code, as subclasses might not behave as expected when used in place of their base classes, necessitating changes in the client code.
+
+(-------------------------------------------------------------------------)
+
