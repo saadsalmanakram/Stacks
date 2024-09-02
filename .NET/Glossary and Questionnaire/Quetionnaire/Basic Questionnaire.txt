@@ -4905,3 +4905,9 @@ Ans- A violation occurs when a subclass requires additional input parameters tha
 
 (------------------------------------------------------------------------)
 
+821- How can you refactor code to maintain LSP when preconditions differ between a superclass and subclass?
+
+Ans- Separate the tests or logic specific to each subclass while ensuring that shared conditions remain consistent across the hierarchy.
+
+(------------------------------------------------------------------------)
+
