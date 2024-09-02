@@ -3267,3 +3267,9 @@ Ans- Command processing typically needs full transactional consistency.
 
 (-----------------------------------------------------------------------)
 
+547- How do data access layers for commands and queries typically differ?
+
+Ans- Commands often use ACID-compliant databases, while queries might use simpler document storage.
+
+(-----------------------------------------------------------------------)
+
