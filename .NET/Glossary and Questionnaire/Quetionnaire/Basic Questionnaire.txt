@@ -4959,4 +4959,10 @@ Ans- The Contract.Ensures method is used to define postconditions that must be t
 
 (------------------------------------------------------------------------)
 
+830- How do you test the validity of a return value in a method using code contracts?
+
+Ans- By using the Contract.Result method to access the value that will be returned.
+
+(------------------------------------------------------------------------)
+
 
