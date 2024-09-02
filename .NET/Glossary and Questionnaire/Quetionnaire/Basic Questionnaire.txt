@@ -5307,3 +5307,8 @@ Ans- Monolithic interfaces expose more functionalities than necessary, leading t
 
 (------------------------------------------------------------------------)
 
+888- Why should reading and writing operations be segregated in an interface?
+
+Ans- To prevent unintended access to both read and write operations by clients that should only perform one of these actions.
+
+(------------------------------------------------------------------------)
