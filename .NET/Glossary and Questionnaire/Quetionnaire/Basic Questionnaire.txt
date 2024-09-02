@@ -2021,3 +2021,9 @@ Ans- It can be used to iterate through a file directory to search for files with
 
 (------------------------------------------------------------------------)
 
+339- What is the primary benefit of using the Iterator pattern in loops?
+
+Ans- It separates the iteration logic from the collection structure, making the code more modular and reusable.
+
+(------------------------------------------------------------------------)
+
