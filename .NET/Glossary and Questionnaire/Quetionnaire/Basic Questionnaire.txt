@@ -2289,3 +2289,9 @@ Ans- Unsubscribing means removing an observer from the Subject’s list, so it n
 
 (------------------------------------------------------------------------)
 
+384- How can the Observer pattern be extended or customized?
+
+Ans- The Observer pattern can be extended by allowing different types of notifications or by using filters to notify only specific observers.
+
+(------------------------------------------------------------------------)
+
