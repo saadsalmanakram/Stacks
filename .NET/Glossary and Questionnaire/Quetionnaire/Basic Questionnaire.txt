@@ -4275,3 +4275,9 @@ Ans- It allows clients to manipulate both individual objects and their compositi
 
 (-----------------------------------------------------------------------)
 
+715- Can you explain the key components of the Composite pattern?
+
+Ans- The key components are the component interface, leaf, composite, and the client.
+
+(-----------------------------------------------------------------------)
+
