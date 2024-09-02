@@ -3879,3 +3879,9 @@ Ans- Testing beyond the Happy Path ensures that your implementation is robust an
 
 (-----------------------------------------------------------------------)
 
+649- What happens if the account repository is a null reference?
+
+Ans- A null account repository will cause an ArgumentNullException to be thrown if not properly handled in the constructor.
+
+(-----------------------------------------------------------------------)
+
