@@ -5529,5 +5529,11 @@ Ans- The Register method is used to map interfaces to their concrete implementat
 
 (------------------------------------------------------------------------)
 
+925- How does the Resolve method work in an IoC container?
+
+Ans- The Resolve method retrieves an instance of a registered type, typically used to construct the dependency graph at runtime.
+
+(------------------------------------------------------------------------)
+
 
 
