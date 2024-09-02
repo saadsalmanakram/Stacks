@@ -5379,4 +5379,10 @@ Ans- Interfaces can be decorated, adapted, and composed, whereas delegates lack 
 
 (-------------------------------------------------------------------------)
 
+900- How can interfaces provide extra context?
+
+Ans- Extra context can be provided through other interfaces implemented on the same class or via constructor parameters.
+
+(-------------------------------------------------------------------------)
+
 
