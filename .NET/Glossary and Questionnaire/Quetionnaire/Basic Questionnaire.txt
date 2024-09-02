@@ -5001,3 +5001,9 @@ Ans- Covariance allows a method to accept a more derived type than originally sp
 
 (------------------------------------------------------------------------)
 
+837- How does covariance interact with polymorphism in C#?
+
+Ans- Covariance allows a generic type to be treated as a more specific type, enabling polymorphism to operate across a type hierarchy.
+
+(------------------------------------------------------------------------)
+
