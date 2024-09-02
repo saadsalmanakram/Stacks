@@ -3885,3 +3885,9 @@ Ans- A null account repository will cause an ArgumentNullException to be thrown 
 
 (-----------------------------------------------------------------------)
 
+650- How can you test if the repository cannot find the account?
+
+Ans- Mock the repository to return null and ensure that the service does not throw an exception when handling this scenario.
+
+(-----------------------------------------------------------------------)
+
