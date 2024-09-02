@@ -4803,3 +4803,8 @@ Ans- A data invariant is a condition that must always be true for the object’s
 
 (------------------------------------------------------------------------)
 
+804- How should exceptions be handled in subclasses to adhere to LSP?
+
+Ans- Subclasses should not throw new exceptions that are not part of the base class’s exception hierarchy, ensuring consistent error handling.
+
+(------------------------------------------------------------------------)
