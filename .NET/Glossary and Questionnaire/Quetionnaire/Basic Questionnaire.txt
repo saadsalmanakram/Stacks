@@ -4989,3 +4989,9 @@ Ans- An interface contract defines preconditions, postconditions, and invariants
 
 (------------------------------------------------------------------------)
 
+835- Why should contract violations not be caught in client code?
+
+Ans- Because contract violations indicate a fundamental error, and catching them could lead to the application continuing in an invalid state.
+
+(------------------------------------------------------------------------)
+
