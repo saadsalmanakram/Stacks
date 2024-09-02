@@ -3369,3 +3369,9 @@ Ans- Use it to avoid method signature clashes or when you need to implement an i
 
 (-----------------------------------------------------------------------)
 
+564- What happens if you try to call an explicitly implemented interface method on a class instance?
+
+Ans- It will result in a compilation error unless you use an interface reference to call the method.
+
+(-----------------------------------------------------------------------)
+
