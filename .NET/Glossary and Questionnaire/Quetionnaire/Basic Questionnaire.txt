@@ -5643,3 +5643,9 @@ Ans- Static ServiceLocator classes lead to hidden dependencies, making the code 
 
 (------------------------------------------------------------------------)
 
+944- Why is it problematic to have multiple constructors in a class when using DI?
+
+Ans- Having multiple constructors, especially one that bypasses DI, undermines the pattern’s benefits and introduces the risk of using inappropriate implementations.
+
+(------------------------------------------------------------------------)
+
