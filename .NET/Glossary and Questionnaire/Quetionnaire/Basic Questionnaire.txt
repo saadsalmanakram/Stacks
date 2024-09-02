@@ -5415,4 +5415,10 @@ Ans- DI is a design pattern that allows objects to receive their dependencies fr
 
 (-------------------------------------------------------------------------)
 
+906- Why is Dependency Injection important?
+
+Ans- DI facilitates SOLID principles, promotes decoupling, and makes code easier to test, maintain, and extend.
+
+(-------------------------------------------------------------------------)
+
 
