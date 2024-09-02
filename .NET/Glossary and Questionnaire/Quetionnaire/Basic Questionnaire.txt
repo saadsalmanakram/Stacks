@@ -5091,3 +5091,15 @@ Ans- ISP states that interfaces should be small, focusing on specific client req
 
 (-------------------------------------------------------------------------)
 
+852- Why is interface segregation important?
+
+Ans- It reduces unnecessary dependencies and ensures that clients only implement what they need, improving flexibility and maintainability.
+
+(-------------------------------------------------------------------------)
+
+853- How does ISP relate to the Single Responsibility Principle (SRP)?
+
+Ans- Both principles aim to minimize the responsibilities of a module or interface, promoting more focused and cohesive designs.
+
+(------------------------------------------------------------------------)
+
