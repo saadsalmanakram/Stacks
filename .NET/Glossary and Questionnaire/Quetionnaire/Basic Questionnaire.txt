@@ -3501,3 +3501,8 @@ Ans- Overusing design patterns can lead to overly complex code with unnecessary 
 
 (-----------------------------------------------------------------------)
 
+586- What is duck-typing?
+
+Ans- Duck-typing allows an object to be treated as a certain type based on its behavior rather than its explicit inheritance.
+
+(-----------------------------------------------------------------------)
