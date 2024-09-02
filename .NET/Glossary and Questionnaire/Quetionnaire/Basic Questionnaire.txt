@@ -3231,4 +3231,10 @@ Ans- Concerns such as logging, security, and caching that span multiple layers a
 
 (-----------------------------------------------------------------------)
 
+541- How does Aspect-Oriented Programming (AOP) address cross-cutting concerns?
+
+Ans- By encapsulating concerns into reusable aspects and applying them across multiple layers with minimal code intrusion.
+
+(-----------------------------------------------------------------------)
+
 
