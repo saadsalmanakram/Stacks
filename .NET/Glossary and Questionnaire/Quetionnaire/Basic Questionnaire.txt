@@ -2571,3 +2571,10 @@ Ans- It often works with Memento and Composite to encapsulate actions and their 
 
 (-----------------------------------------------------------------------)
 
+431- What makes the Factory Method pattern versatile in C#?
+
+Ans- It uses interfaces to create objects, making it adaptable to different object creation scenarios.
+
+(-----------------------------------------------------------------------)
+
+
