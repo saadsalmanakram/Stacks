@@ -3087,3 +3087,15 @@ Ans- Ad hoc Service Discovery uses multicast network messages to find services w
 
 (------------------------------------------------------------------------)
 
+517- What is a key difference between UDP and TCP in terms of message delivery?
+
+Ans- UDP does not guarantee message delivery, while TCP does.
+
+(------------------------------------------------------------------------)
+
+518- Why might a service appear unavailable when using UDP?
+
+Ans- Datagrams may be lost in transmission, so requests or responses might not reach the client.
+
+(------------------------------------------------------------------------)
+
