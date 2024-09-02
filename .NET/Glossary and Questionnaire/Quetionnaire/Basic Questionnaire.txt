@@ -5019,3 +5019,15 @@ Ans- Contravariance means that a method in a subclass can accept arguments of a 
 
 (------------------------------------------------------------------------)
 
+840- What are the key rules of LSP regarding return types?
+
+Ans- Return types must be covariant in subtypes.
+
+(------------------------------------------------------------------------)
+
+841- What does covariance of return types mean?
+
+Ans- Covariance means that a method in a subclass can return a more specific type than the method in the superclass.
+
+(------------------------------------------------------------------------)
+
