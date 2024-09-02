@@ -5115,3 +5115,8 @@ Ans- Splitting a CRUD interface allows for more targeted interfaces that better 
 
 (------------------------------------------------------------------------)
 
+856- What is a decorator in the context of interfaces?
+
+Ans- A decorator is a design pattern that allows you to add behavior to individual methods of an interface without modifying the interface itself.
+
+(------------------------------------------------------------------------)
