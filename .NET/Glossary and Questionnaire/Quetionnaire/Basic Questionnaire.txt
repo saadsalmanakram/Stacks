@@ -5661,3 +5661,9 @@ Ans- Constructor injection is preferred because it makes dependencies explicit, 
 
 (------------------------------------------------------------------------)
 
+947- What is the main advantage of locating the composition root near the application's entry point?
+
+Ans- Locating the composition root near the entry point allows for early DI setup, centralizes configuration, and prevents container dependencies from leaking throughout the codebase.
+
+(------------------------------------------------------------------------)
+
