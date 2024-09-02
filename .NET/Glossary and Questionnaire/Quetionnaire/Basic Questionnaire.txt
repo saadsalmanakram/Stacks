@@ -1859,3 +1859,9 @@ Ans- Client, Handler interface, Concrete Handlers, and Successor.
 
 (------------------------------------------------------------------------)
 
+312- What role does the 'Successor' play in the Chain of Responsibility?
+
+Ans- It links to the next handler in the chain if the current one cannot process the request.
+
+(------------------------------------------------------------------------)
+
