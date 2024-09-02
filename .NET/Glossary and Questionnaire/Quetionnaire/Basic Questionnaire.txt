@@ -4863,3 +4863,9 @@ Ans- Weakening postconditions can introduce defects in clients that assume the s
 
 (------------------------------------------------------------------------)
 
+814- What are invariants in the context of LSP?
+
+Ans- Invariants are conditions that must always hold true for a class's state, and they must be preserved in any subclass.
+
+(------------------------------------------------------------------------)
+
