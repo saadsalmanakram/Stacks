@@ -3051,3 +3051,9 @@ Ans- By editing the Windows registry to set ForceLog and LogPath values under HK
 
 (------------------------------------------------------------------------)
 
+511- What is a service proxy?
+
+Ans- A service proxy is a client-side representation of a service that allows clients to interact with the service methods as if they were local.
+
+(------------------------------------------------------------------------)
+
