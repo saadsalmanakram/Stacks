@@ -4389,3 +4389,9 @@ Ans- It directs method calls to different components based on a condition evalua
 
 (-------------------------------------------------------------------------)
 
+735- How does a branching decorator decide which component to execute?
+
+Ans- It executes one component if the predicate returns true, otherwise it executes the other component.
+
+(-------------------------------------------------------------------------)
+
