@@ -4502,3 +4502,10 @@ Ans- The Strategy pattern defines a family of algorithms, encapsulates each one,
 Ans- Use the Strategy pattern when you have multiple algorithms for a specific task and you want to make them interchangeable, thereby avoiding conditional statements and promoting code maintainability.
 
 (-------------------------------------------------------------------------)
+
+754- How does the Strategy pattern improve code maintainability?
+
+Ans- It avoids conditional statements by encapsulating algorithm-specific logic into separate strategy classes, making the code easier to extend and maintain.
+
+(-------------------------------------------------------------------------)
+
