@@ -3747,3 +3747,9 @@ Ans- TDD helps ensure that code is thoroughly tested and designed from the outse
 
 (-----------------------------------------------------------------------)
 
+627- How does refactoring improve code over time?
+
+Ans- Refactoring allows incremental improvements, enhancing the code’s design, maintainability, and readability without altering its behavior.
+
+(-----------------------------------------------------------------------)
+
