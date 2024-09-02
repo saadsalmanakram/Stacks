@@ -4557,3 +4557,8 @@ Ans- OCP states that software entities should be open for extension but closed f
 
 (-------------------------------------------------------------------------)
 
+763- Who originally coined the Open/Closed Principle?
+
+Ans- Bertrand Meyer.
+
+(-------------------------------------------------------------------------)
