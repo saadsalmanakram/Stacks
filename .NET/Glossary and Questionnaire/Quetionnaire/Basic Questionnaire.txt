@@ -5559,3 +5559,8 @@ Ans- Imperative registration is easier to read, provides compile-time checking, 
 
 (------------------------------------------------------------------------)
 
+930- What is a disadvantage of declarative registration in IoC containers?
+
+Ans- Declarative registration can be verbose and lacks the flexibility of procedural code, making it harder to manage complex registrations.
+
+(------------------------------------------------------------------------)
