@@ -2655,4 +2655,10 @@ Ans- Scrum is iterative and adaptable, while Waterfall is linear and rigid, maki
 
 (-----------------------------------------------------------------------)
 
+445- How can problems in a Scrum project be diagnosed?
+
+Ans- By identifying impediments during Daily Stand-ups and Sprint Retrospectives, then proposing actionable remedies.
+
+(-----------------------------------------------------------------------)
+
 
