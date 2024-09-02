@@ -3801,3 +3801,9 @@ Ans- It increases coverage and ensures the method handles various scenarios.
 
 (-----------------------------------------------------------------------)
 
+636- How can you prove that a method implementation is incorrect through unit tests?
+
+Ans- By adding a test that fails due to the incorrect implementation.
+
+(-----------------------------------------------------------------------)
+
