@@ -4731,3 +4731,9 @@ Ans- It allows the interface and its implementation to evolve independently, red
 
 (-------------------------------------------------------------------------)
 
+792- How does experience impact the application of OCP and protected variation?
+
+Ans- With experience, programmers learn to balance the right amount of abstraction and extension points, avoiding overengineering while effectively managing future changes.
+
+(-------------------------------------------------------------------------)
+
