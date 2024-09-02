@@ -4413,3 +4413,9 @@ Ans- It avoids the overhead of creating objects that might not be used, thus opt
 
 (-------------------------------------------------------------------------)
 
+739- In what scenario might you use a lazy decorator?
+
+Ans- When you want to delay the creation of a component until its methods are first invoked.
+
+(-------------------------------------------------------------------------)
+
