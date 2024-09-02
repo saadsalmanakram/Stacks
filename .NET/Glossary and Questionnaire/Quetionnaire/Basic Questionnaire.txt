@@ -2643,4 +2643,10 @@ Ans- Progress is measured using tools like Burndown Charts, Sprint Reviews, and 
 
 (-----------------------------------------------------------------------)
 
+443- What is the purpose of a Sprint Retrospective?
+
+Ans- To reflect on the past sprint and identify improvements for future sprints.
+
+(-----------------------------------------------------------------------)
+
 
