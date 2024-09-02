@@ -1853,3 +1853,9 @@ Ans- Handlers are linked in a chain, each deciding whether to handle a request o
 
 (------------------------------------------------------------------------)
 
+311- What are the main components of the Chain of Responsibility pattern?
+
+Ans- Client, Handler interface, Concrete Handlers, and Successor.
+
+(------------------------------------------------------------------------)
+
