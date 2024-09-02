@@ -2733,3 +2733,9 @@ Ans- By only developing features when they are ready to be taken off the Scrum b
 
 (-----------------------------------------------------------------------)
 
+458- What are story points, and how are they used in Scrum?
+
+Ans- Story points are a measure of the effort required to complete a user story, used to track progress during sprints.
+
+(-----------------------------------------------------------------------)
+
