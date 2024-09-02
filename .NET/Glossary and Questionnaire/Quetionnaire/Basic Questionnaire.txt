@@ -4791,3 +4791,9 @@ Ans- A precondition is a condition that must be true before a method is executed
 
 (------------------------------------------------------------------------)
 
+802- What is a postcondition in a code contract?
+
+Ans- A postcondition is a condition that must be true after a method has completed execution, ensuring the method’s result is valid.
+
+(------------------------------------------------------------------------)
+
