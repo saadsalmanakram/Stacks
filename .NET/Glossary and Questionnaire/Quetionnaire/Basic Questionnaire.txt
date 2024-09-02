@@ -2769,3 +2769,9 @@ Ans- It ensures that changes don't introduce new defects by continuously validat
 
 (------------------------------------------------------------------------)
 
+464- What are swimlanes on a Scrum board?
+
+Ans- Swimlanes are vertical columns that track the progress of user stories through stages like Backlog, In Progress, QA, and Done.
+
+(------------------------------------------------------------------------)
+
