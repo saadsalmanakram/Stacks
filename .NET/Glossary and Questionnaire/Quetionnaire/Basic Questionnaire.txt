@@ -2853,5 +2853,11 @@ Ans- It promotes code reuse and reduces complexity, making maintenance and testi
 
 (-------------------------------------------------------------------------)
 
+478- How can layering patterns help in dependency management?
+
+Ans- Layering patterns help organize code into manageable sections, reducing dependencies between layers and improving adaptability.
+
+(-------------------------------------------------------------------------)
+
 
 
