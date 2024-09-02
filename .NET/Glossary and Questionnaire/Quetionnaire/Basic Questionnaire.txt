@@ -5679,4 +5679,10 @@ Ans- Directly referencing implementations in DI defeats the purpose of decouplin
 
 (------------------------------------------------------------------------)
 
+950- Why is registering by convention considered less verbose than manual configuration?
+
+Ans- It automates the process of mapping interfaces to implementations, cutting down on code.
+
+(------------------------------------------------------------------------)
+
 
