@@ -4971,3 +4971,9 @@ Ans- Data invariants are conditions that must always hold true for a class's sta
 
 (------------------------------------------------------------------------)
 
+832- What is the role of the Contract.Invariant method?
+
+Ans- It ensures that class-level invariants are maintained before and after any method execution.
+
+(------------------------------------------------------------------------)
+
