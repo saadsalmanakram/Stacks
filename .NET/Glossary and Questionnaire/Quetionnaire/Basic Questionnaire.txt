@@ -2313,3 +2313,9 @@ Ans- By decoupling the Subject and Observers, the Observer pattern allows module
 
 (------------------------------------------------------------------------)
 
+388- How does the Observer pattern promote loose coupling?
+
+Ans- The Observer pattern promotes loose coupling by ensuring that the Subject knows nothing about its observers, aside from the fact that they adhere to the Observer interface.
+
+(------------------------------------------------------------------------)
+
