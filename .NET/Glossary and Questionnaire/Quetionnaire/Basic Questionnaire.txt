@@ -3524,3 +3524,10 @@ Ans- Duck-typing can be achieved in C# using the dynamic keyword or third-party 
 Ans- The dynamic keyword enables runtime binding, allowing for duck-typing in C# by bypassing static type checking.
 
 (-----------------------------------------------------------------------)
+
+590- What is Impromptu Interface?
+
+Ans- Impromptu Interface is a .NET library that allows duck-typing by generating types at runtime to fulfill interfaces dynamically.
+
+(-----------------------------------------------------------------------)
+
