@@ -5151,3 +5151,9 @@ Ans- Caching stores the result of a read operation to improve performance by avo
 
 (------------------------------------------------------------------------)
 
+862- How does ISP improve caching decorators?
+
+Ans- ISP allows you to isolate read operations into a specific interface, making it easier to apply caching only where it’s needed.
+
+(------------------------------------------------------------------------)
+
