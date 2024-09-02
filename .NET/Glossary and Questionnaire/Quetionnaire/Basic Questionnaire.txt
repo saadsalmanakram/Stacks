@@ -5618,3 +5618,10 @@ Ans- The composition root is the central point where the application’s depende
 Ans- The Service Locator is an anti-pattern because it hides dependencies and makes the code more difficult to understand and maintain by allowing any class to retrieve services on demand.
 
 (------------------------------------------------------------------------)
+
+940- What is Illegitimate Injection in the context of DI?
+
+Ans- Illegitimate Injection occurs when a class uses a default constructor to create its dependencies internally, bypassing the benefits of DI and leading to tightly coupled code.
+
+(------------------------------------------------------------------------)
+
