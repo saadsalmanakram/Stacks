@@ -4671,3 +4671,9 @@ Ans- Implementation inheritance allows subclassing and overriding methods, while
 
 (-------------------------------------------------------------------------)
 
+782- What is the impact of a stable interface on software design?
+
+Ans- A stable interface minimizes changes to client code and reduces the risk of introducing bugs when the implementation changes.
+
+(-------------------------------------------------------------------------)
+
