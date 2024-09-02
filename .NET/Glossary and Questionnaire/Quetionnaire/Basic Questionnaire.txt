@@ -2267,4 +2267,10 @@ Ans- The Observer pattern facilitates communication between a single subject and
 
 (------------------------------------------------------------------------)
 
+380- Can you give an example where the Observer pattern might be used in a software application?
+
+Ans- The Observer pattern is often used in implementing the Model-View-Controller (MVC) architectural pattern, where views (observers) update in response to changes in the model (subject).
+
+(------------------------------------------------------------------------)
+
 
