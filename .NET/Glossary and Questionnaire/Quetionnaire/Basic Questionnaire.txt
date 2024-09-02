@@ -1931,3 +1931,9 @@ Ans- It processes the request if the handler can, or passes it to the next handl
 
 (------------------------------------------------------------------------)
 
+324- What role does exception handling play in the Chain of Responsibility pattern?
+
+Ans- Exceptions can propagate through the chain, allowing handlers to either process them or pass them along, similar to handling requests.
+
+(------------------------------------------------------------------------)
+
