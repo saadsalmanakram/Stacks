@@ -4875,3 +4875,9 @@ Ans- Violating an invariant breaks the LSP, leading to potential inconsistencies
 
 (------------------------------------------------------------------------)
 
+816- How can a subclass maintain the invariants of a superclass?
+
+Ans- By ensuring that any changes to fields or properties honor the original constraints set by the superclass.
+
+(------------------------------------------------------------------------)
+
