@@ -3735,3 +3735,8 @@ Ans- A green indicator means that all tests have passed, suggesting the code is 
 
 (-----------------------------------------------------------------------)
 
+625- What is the purpose of writing the simplest code possible to pass a unit test?
+
+Ans- Writing the simplest code to pass a test ensures that you meet the test's requirements without unnecessary complexity.
+
+(-----------------------------------------------------------------------)
