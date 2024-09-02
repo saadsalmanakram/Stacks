@@ -3207,3 +3207,9 @@ Ans- When the application is simple, mainly performs CRUD operations, or time co
 
 (-----------------------------------------------------------------------)
 
+537- What is a common drawback of the two-layer architecture?
+
+Ans- A: It is less suitable for applications with significant business logic or those expected to outgrow the architecture quickly.
+
+(-----------------------------------------------------------------------)
+
