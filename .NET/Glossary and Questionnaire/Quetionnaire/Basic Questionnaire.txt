@@ -2751,3 +2751,9 @@ Ans- It allows for early and frequent feedback, ensuring the right features are 
 
 (------------------------------------------------------------------------)
 
+461- What triggers the creation of a defect card in Scrum?
+
+Ans- A defect card is created when acceptance criteria for a user story are not met.
+
+(------------------------------------------------------------------------)
+
