@@ -5103,3 +5103,9 @@ Ans- Both principles aim to minimize the responsibilities of a module or interfa
 
 (------------------------------------------------------------------------)
 
+854- What is a CRUD interface?
+
+Ans- A CRUD interface defines methods for creating, reading, updating, and deleting entities from persistent storage.
+
+(------------------------------------------------------------------------)
+
