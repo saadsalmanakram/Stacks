@@ -2583,4 +2583,10 @@ Ans- Interfaces and selection statements are key, with optional use of generics 
 
 (-----------------------------------------------------------------------)
 
+433- How does the Proxy pattern contribute to software design?
+
+Ans- It controls access to an object, typically using interfaces and private collections in C#.
+
+(-----------------------------------------------------------------------)
+
 
