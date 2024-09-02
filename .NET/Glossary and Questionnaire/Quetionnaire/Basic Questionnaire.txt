@@ -5589,3 +5589,9 @@ Ans- The Release method can be used at the end of each web request to dispose of
 
 (------------------------------------------------------------------------)
 
+935- What is the role of the Dispose method in the context of IoC containers?
+
+Ans- The Dispose method is used to clear out the container's internal registrations, effectively shutting down the container.
+
+(------------------------------------------------------------------------)
+
