@@ -5181,4 +5181,9 @@ Ans- AOP allows you to apply cross-cutting concerns, like logging or security, w
 
 (------------------------------------------------------------------------)
 
+867- Why should you encapsulate user interaction in a simple interface?
+
+Ans- Encapsulating user interaction allows you to change the method of interaction without altering the core logic, adhering to the single responsibility principle.
+
+(------------------------------------------------------------------------)
 
