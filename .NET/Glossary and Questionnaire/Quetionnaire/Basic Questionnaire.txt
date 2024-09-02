@@ -3867,3 +3867,9 @@ Ans- To ensure the method correctly handles cumulative operations.
 
 (-----------------------------------------------------------------------)
 
+647- What is the Happy Path in TDD?
+
+Ans- The Happy Path is the execution path through code that yields no errors and causes no problems.
+
+(-----------------------------------------------------------------------)
+
