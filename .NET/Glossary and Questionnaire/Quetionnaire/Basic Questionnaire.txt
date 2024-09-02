@@ -2177,3 +2177,9 @@ Ans- A mailing list where a moderator controls the flow of messages and filters 
 
 (------------------------------------------------------------------------)
 
+365- How does the Mediator pattern simplify communication in a system?
+
+Ans- By centralizing message handling, reducing direct dependencies between objects.
+
+(------------------------------------------------------------------------)
+
