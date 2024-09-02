@@ -5163,3 +5163,9 @@ Ans- Both methods serve similar purposes, so unifying them can simplify the inte
 
 (------------------------------------------------------------------------)
 
+864- What is the benefit of making interfaces generic in terms of TEntity?
+
+Ans- It allows the interface to be reused across different entity types while maintaining type safety and clarity of dependencies.
+
+(------------------------------------------------------------------------)
+
