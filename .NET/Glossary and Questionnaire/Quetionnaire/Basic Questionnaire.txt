@@ -3477,3 +3477,9 @@ Ans- The two types are the Class Adapter pattern, which uses inheritance, and th
 
 (-----------------------------------------------------------------------)
 
+582- How does the Cascading Nulls operator compare to the Null Object pattern?
+
+Ans- While the Cascading Nulls operator provides null safety, it doesn't offer the meaningful default behavior that a proper Null Object implementation does.
+
+(-----------------------------------------------------------------------)
+
