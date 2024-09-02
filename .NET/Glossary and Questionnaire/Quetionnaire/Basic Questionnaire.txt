@@ -3099,3 +3099,9 @@ Ans- Datagrams may be lost in transmission, so requests or responses might not r
 
 (------------------------------------------------------------------------)
 
+519- What is the primary advantage of RESTful services for client applications?
+
+Ans- They have a low dependency burden, requiring only an HTTP client.
+
+(------------------------------------------------------------------------)
+
