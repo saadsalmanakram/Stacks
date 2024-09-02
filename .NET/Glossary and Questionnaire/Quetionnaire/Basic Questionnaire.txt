@@ -4365,3 +4365,9 @@ Ans- Implementing feature toggles or conditional logging based on runtime condit
 
 (-----------------------------------------------------------------------)
 
+731- What is the role of the PredicatedComponent class in the predicate decorator pattern?
+
+Ans- It applies the predicate to determine whether to invoke the decorated component’s functionality.
+
+(-----------------------------------------------------------------------)
+
