@@ -4617,4 +4617,10 @@ Ans- Protected variation refers to designing code so that its extension points c
 
 (-------------------------------------------------------------------------)
 
+773- How does the Template Method pattern relate to protected variation?
+
+Ans- The Template Method pattern uses abstract methods to allow customization of an algorithm's steps, supporting protected variation.
+
+(-------------------------------------------------------------------------)
+
 
