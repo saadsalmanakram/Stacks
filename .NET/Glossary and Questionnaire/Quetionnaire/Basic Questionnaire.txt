@@ -4125,3 +4125,9 @@ Ans- Split large, monolithic interfaces into smaller, more specific ones that ar
 
 (-----------------------------------------------------------------------)
 
+690- What is a common violation of ISP?
+
+Ans- A class implementing an interface with methods it does not need, leading to unnecessary code dependencies.
+
+(-----------------------------------------------------------------------)
+
