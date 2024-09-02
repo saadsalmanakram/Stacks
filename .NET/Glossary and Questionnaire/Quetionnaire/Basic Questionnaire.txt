@@ -4953,4 +4953,10 @@ Ans- Code contracts formally specify preconditions, postconditions, and invarian
 
 (------------------------------------------------------------------------)
 
+829- What is the purpose of the Contract.Ensures method?
+
+Ans- The Contract.Ensures method is used to define postconditions that must be true when a method exits.
+
+(------------------------------------------------------------------------)
+
 
