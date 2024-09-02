@@ -5451,4 +5451,10 @@ Ans- Common DI anti-patterns include service locators, constructor over-injectio
 
 (-------------------------------------------------------------------------)
 
+912- Why should DI be planned from the outset of a project?
+
+Ans- Integrating DI into an established project is difficult and time-consuming, making it crucial to plan for it early.
+
+(-------------------------------------------------------------------------)
+
 
