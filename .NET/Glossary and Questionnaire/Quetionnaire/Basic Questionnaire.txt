@@ -3945,3 +3945,9 @@ Ans- A factory method can return different types of objects from the same inheri
 
 (-----------------------------------------------------------------------)
 
+660- What does the term 'refactor' mean in software development?
+
+Ans- Refactor means restructuring existing code to improve its design, readability, and maintainability without altering its functionality.
+
+(-----------------------------------------------------------------------)
+
