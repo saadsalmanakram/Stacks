@@ -2075,3 +2075,9 @@ Ans- By encapsulating interactions between objects, it makes the system more mai
 
 (------------------------------------------------------------------------)
 
+348- Can you provide an example use case for the Mediator pattern?
+
+Ans- A chat application where a mediator manages the communication between different users (chat participants).
+
+(------------------------------------------------------------------------)
+
