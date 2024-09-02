@@ -4779,3 +4779,9 @@ Ans- Derived classes should not alter the preconditions, postconditions, or inva
 
 (-------------------------------------------------------------------------)
 
+800- What are code contracts?
+
+Ans- Code contracts are formal agreements in the code that define the expected behavior of methods, including preconditions, postconditions, and invariants.
+
+(------------------------------------------------------------------------)
+
