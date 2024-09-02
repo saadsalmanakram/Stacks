@@ -4725,3 +4725,9 @@ Ans- Consider the potential for future changes, the complexity introduced, and w
 
 (-------------------------------------------------------------------------)
 
+791- What is the advantage of placing interfaces in separate assemblies?
+
+Ans- It allows the interface and its implementation to evolve independently, reducing the risk of breaking changes and improving maintainability.
+
+(-------------------------------------------------------------------------)
+
