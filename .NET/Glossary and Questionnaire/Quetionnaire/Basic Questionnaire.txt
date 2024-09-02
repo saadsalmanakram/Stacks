@@ -2337,3 +2337,9 @@ Ans- The main players are the Client, ObjectStructure, Element, ElementA, Elemen
 
 (------------------------------------------------------------------------)
 
+392- How is the Visitor pattern often used in conjunction with the Composite pattern?
+
+Ans- The Composite pattern sets up the multilevel structure on which the Visitor pattern operates.
+
+(------------------------------------------------------------------------)
+
