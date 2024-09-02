@@ -4305,3 +4305,27 @@ Ans- When you need to work with tree structures or hierarchies of objects and wa
 
 (-----------------------------------------------------------------------)
 
+721- How can you implement the Composite pattern to handle different types of components?
+
+Ans- By defining a common interface for all components and allowing composites to manage collections of these components.
+
+(-----------------------------------------------------------------------)
+
+722- What is the benefit of having the AddComponent and RemoveComponent methods in the CompositeComponent class?
+
+Ans- These methods enable dynamic modification of the component structure, allowing the creation of complex hierarchies.
+
+(-----------------------------------------------------------------------)
+
+723- Can you provide an example of a real-world application of the Composite pattern?
+
+Ans- Implementing a file system where files and directories are treated as a uniform hierarchy.
+
+(-----------------------------------------------------------------------)
+
+724- What is a predicate decorator and how does it function?
+
+Ans- A predicate decorator conditionally executes methods based on a predicate, encapsulating the conditional logic.
+
+(-----------------------------------------------------------------------)
+
