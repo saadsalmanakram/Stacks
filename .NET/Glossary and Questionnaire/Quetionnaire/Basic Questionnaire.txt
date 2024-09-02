@@ -3279,3 +3279,9 @@ Ans- To ensure eventual consistency between the command layer and query results.
 
 (-----------------------------------------------------------------------)
 
+549- What does ACID stand for in the context of databases?
+
+Ans- Atomicity, Consistency, Isolation, Durability.
+
+(-----------------------------------------------------------------------)
+
