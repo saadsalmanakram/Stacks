@@ -2129,3 +2129,9 @@ Ans- When the structure is complex, different iterations are needed simultaneous
 
 (------------------------------------------------------------------------)
 
+357- What interfaces and statements support enumerators in C# 3.0?
+
+Ans- Supported by the IEnumerable interface and the yield return and yield break statements.
+
+(------------------------------------------------------------------------)
+
