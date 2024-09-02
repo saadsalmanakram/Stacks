@@ -5649,3 +5649,9 @@ Ans- Having multiple constructors, especially one that bypasses DI, undermines t
 
 (------------------------------------------------------------------------)
 
+945- What is the role of conventions in DI container registration?
+
+Ans- Conventions in DI container registration simplify the process by reducing boilerplate code, although manual registration is still needed for edge cases.
+
+(------------------------------------------------------------------------)
+
