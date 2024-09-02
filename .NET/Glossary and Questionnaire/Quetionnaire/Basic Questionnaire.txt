@@ -3921,3 +3921,9 @@ Ans- TDD is a development process where you write a failing unit test before wri
 
 (-----------------------------------------------------------------------)
 
+656- Why is refactoring important?
+
+Ans- Refactoring improves the design of existing code without changing its external behavior.
+
+(-----------------------------------------------------------------------)
+
