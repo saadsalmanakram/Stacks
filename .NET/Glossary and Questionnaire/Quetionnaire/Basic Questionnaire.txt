@@ -5564,3 +5564,10 @@ Ans- Imperative registration is easier to read, provides compile-time checking, 
 Ans- Declarative registration can be verbose and lacks the flexibility of procedural code, making it harder to manage complex registrations.
 
 (------------------------------------------------------------------------)
+
+931- How does object lifetime management relate to IoC containers?
+
+Ans- IoC containers can manage the lifecycle of objects, ensuring that resources are released at appropriate times, such as at the end of a request.
+
+(------------------------------------------------------------------------)
+
