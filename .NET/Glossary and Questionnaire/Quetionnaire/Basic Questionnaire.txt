@@ -5535,5 +5535,17 @@ Ans- The Resolve method retrieves an instance of a registered type, typically us
 
 (------------------------------------------------------------------------)
 
+926- What is the role of the Release method in an IoC container?
+
+Ans- The Release method is responsible for releasing resources and managing the lifecycle of objects, often at the end of a request or application.
+
+(------------------------------------------------------------------------)
+
+927- Why is IDisposable implemented in most IoC containers?
+
+Ans- IDisposable is implemented to allow the container to clean up resources and clear registrations when the application is shutting down.
+
+(------------------------------------------------------------------------)
+
 
 
