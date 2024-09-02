@@ -3633,3 +3633,15 @@ Ans- Fluent interfaces are particularly useful in scenarios involving complex co
 
 (-----------------------------------------------------------------------)
 
+608- What is unit testing?
+
+Ans- Unit testing involves writing code that tests individual units of source code to ensure they work as expected.
+
+(-----------------------------------------------------------------------)
+
+609- Why is unit testing important?
+
+Ans- Unit testing provides immediate feedback on whether the production code is functioning correctly, acting as a safety net during development.
+
+(-----------------------------------------------------------------------)
+
