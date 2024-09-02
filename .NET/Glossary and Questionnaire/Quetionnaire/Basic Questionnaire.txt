@@ -5109,3 +5109,9 @@ Ans- A CRUD interface defines methods for creating, reading, updating, and delet
 
 (------------------------------------------------------------------------)
 
+855- Why might you want to split a CRUD interface?
+
+Ans- Splitting a CRUD interface allows for more targeted interfaces that better align with client needs and reduce unnecessary method implementations.
+
+(------------------------------------------------------------------------)
+
