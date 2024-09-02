@@ -3819,3 +3819,9 @@ Ans- The method should sum all transactions to update the balance.
 
 (-----------------------------------------------------------------------)
 
+639- Why is refactoring important after passing all unit tests?
+
+Ans- It improves code quality and maintainability without changing behavior.
+
+(-----------------------------------------------------------------------)
+
