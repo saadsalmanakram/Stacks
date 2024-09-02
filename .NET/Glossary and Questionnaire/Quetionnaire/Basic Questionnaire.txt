@@ -4347,3 +4347,9 @@ Ans- It keeps the client interface unchanged while adding conditional behavior t
 
 (-----------------------------------------------------------------------)
 
+728- What is the purpose of converting the DateTester class to an IPredicate interface?
+
+Ans- To abstract the conditional logic, making it more versatile and reusable across different contexts.
+
+(-----------------------------------------------------------------------)
+
