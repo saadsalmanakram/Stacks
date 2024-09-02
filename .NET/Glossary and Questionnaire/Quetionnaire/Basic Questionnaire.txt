@@ -2649,4 +2649,10 @@ Ans- To reflect on the past sprint and identify improvements for future sprints.
 
 (-----------------------------------------------------------------------)
 
+444- What is the difference between Scrum and Waterfall methodologies?
+
+Ans- Scrum is iterative and adaptable, while Waterfall is linear and rigid, making Scrum better suited for handling changes.
+
+(-----------------------------------------------------------------------)
+
 
