@@ -2379,3 +2379,9 @@ Ans- The Accept method in the element delegates the call to the appropriate Visi
 
 (------------------------------------------------------------------------)
 
+399- What is the Interpreter pattern?
+
+Ans- The Interpreter pattern supports interpreting instructions written in a language or notation defined for a specific purpose.
+
+(------------------------------------------------------------------------)
+
