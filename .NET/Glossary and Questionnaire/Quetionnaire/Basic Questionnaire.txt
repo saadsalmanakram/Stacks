@@ -3459,3 +3459,8 @@ Ans- Encapsulate behavior in the Null Object itself, eliminating the need for th
 
 (-----------------------------------------------------------------------)
 
+579- What is the Adapter pattern?
+
+Ans- The Adapter pattern allows an object to be used as if it implements a different interface by adapting its methods to match the expected interface.
+
+(-----------------------------------------------------------------------)
