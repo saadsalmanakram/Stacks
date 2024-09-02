@@ -5037,3 +5037,8 @@ Ans- It ensures that a subclass can handle a broader range of input types, maint
 
 (------------------------------------------------------------------------)
 
+843- Why is covariance of return types important in LSP?
+
+Ans- It allows the subclass to return more specific types, making the code more flexible while still adhering to the contract defined by the superclass.
+
+(------------------------------------------------------------------------)
