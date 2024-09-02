@@ -2105,3 +2105,21 @@ Ans- The subject acts as a publisher that notifies subscribed observers whenever
 
 (------------------------------------------------------------------------)
 
+353- Can you provide an example where the Observer pattern is commonly used?
+
+Ans- It is commonly used in event handling systems where multiple objects need to respond to a particular event, like in GUI frameworks.
+
+(------------------------------------------------------------------------)
+
+354- What is the benefit of using the Observer pattern in distributed systems?
+
+Ans- It decouples the subject from its observers, allowing for flexible and scalable systems where components can independently react to changes.
+
+(------------------------------------------------------------------------)
+
+355- How does the Observer pattern promote loose coupling?
+
+Ans- Observers can be added or removed without modifying the subject, promoting independent and interchangeable components.
+
+(------------------------------------------------------------------------)
+
