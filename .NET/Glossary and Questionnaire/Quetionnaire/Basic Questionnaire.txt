@@ -2098,3 +2098,10 @@ Ans- Objects do not need to know about each other; they only interact with the m
 Ans- The Observer pattern allows an object (subject) to notify a list of observers about any state changes.
 
 (------------------------------------------------------------------------)
+
+352- How does the Observer pattern implement the publish/subscribe mechanism?
+
+Ans- The subject acts as a publisher that notifies subscribed observers whenever there is a change in its state.
+
+(------------------------------------------------------------------------)
+
