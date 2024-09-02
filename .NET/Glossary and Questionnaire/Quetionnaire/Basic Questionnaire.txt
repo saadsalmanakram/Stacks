@@ -4544,3 +4544,10 @@ Ans- The Adapter pattern allows classes to use third-party libraries through int
 Ans- The Decorator pattern allows additional functionality to be added to classes dynamically, without changing the existing class's code.
 
 (-------------------------------------------------------------------------)
+
+761- What is a potential maintenance challenge with the Strategy pattern?
+
+Ans- The constructor or initialization code may need to be updated when adding new strategies, though this is generally less cumbersome than maintaining switch statements.
+
+(-------------------------------------------------------------------------)
+
