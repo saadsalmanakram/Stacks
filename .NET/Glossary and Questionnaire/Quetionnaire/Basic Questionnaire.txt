@@ -2081,3 +2081,15 @@ Ans- A chat application where a mediator manages the communication between diffe
 
 (------------------------------------------------------------------------)
 
+349- What is the advantage of using the Mediator pattern over direct communication?
+
+Ans- It reduces the complexity of interactions between objects, as they only communicate through the mediator.
+
+(------------------------------------------------------------------------)
+
+350- How does the Mediator pattern help with object anonymity?
+
+Ans- Objects do not need to know about each other; they only interact with the mediator.
+
+(------------------------------------------------------------------------)
+
