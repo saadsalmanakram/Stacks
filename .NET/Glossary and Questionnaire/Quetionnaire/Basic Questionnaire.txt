@@ -2721,3 +2721,9 @@ Ans- Scrum is more flexible and iterative, allowing for continuous improvement a
 
 (-----------------------------------------------------------------------)
 
+456- What is the importance of the Daily Stand-up in Scrum?
+
+Ans- It ensures that the team stays aligned, identifies obstacles, and tracks progress toward the sprint goal.
+
+(-----------------------------------------------------------------------)
+
