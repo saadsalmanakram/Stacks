@@ -2045,3 +2045,9 @@ Ans- IEnumerable and IEnumerator are key interfaces used to implement the Iterat
 
 (------------------------------------------------------------------------)
 
+343- How does the foreach loop utilize the Iterator pattern in C#?
+
+Ans- The foreach loop automatically invokes the GetEnumerator method on collections to iterate over them.
+
+(------------------------------------------------------------------------)
+
