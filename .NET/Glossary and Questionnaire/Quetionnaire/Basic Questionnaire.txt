@@ -1840,3 +1840,10 @@ Ans- Yes, using interfaces without virtual methods is an alternative, but it req
 Ans- A behavioral design pattern that passes a request along a chain of handlers until one handles it.
 
 (------------------------------------------------------------------------)
+
+309- What problem does the Chain of Responsibility pattern solve?
+
+Ans- It decouples the sender of a request from its receiver by allowing multiple objects to handle the request.
+
+(------------------------------------------------------------------------)
+
