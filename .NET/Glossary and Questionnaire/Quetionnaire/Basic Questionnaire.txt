@@ -3315,3 +3315,9 @@ Ans- Yes, a class can implement multiple interfaces, allowing it to fulfill mult
 
 (-----------------------------------------------------------------------)
 
+555- What is the Adapter pattern and how does it use interfaces?
+
+Ans- The Adapter pattern uses interfaces to convert the interface of a class into another interface clients expect, allowing incompatible interfaces to work together.
+
+(-----------------------------------------------------------------------)
+
