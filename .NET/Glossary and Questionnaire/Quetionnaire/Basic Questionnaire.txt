@@ -5355,4 +5355,10 @@ Ans- To ensure that unauthorized users cannot perform privileged actions, enhanc
 
 (------------------------------------------------------------------------)
 
+896- How does interface segregation support single responsibility in classes?
+
+Ans- By ensuring that each interface and its implementing class only handle specific functionalities, supporting the single responsibility principle.
+
+(------------------------------------------------------------------------)
+
 
