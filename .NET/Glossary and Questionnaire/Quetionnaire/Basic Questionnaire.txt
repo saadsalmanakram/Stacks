@@ -4467,3 +4467,9 @@ Ans- It delegates method execution to a separate thread or task, allowing the ma
 
 (-------------------------------------------------------------------------)
 
+748- What is a limitation of asynchronous decorators?
+
+Ans- They are best suited for fire-and-forget methods, not for methods requiring a response or callback.
+
+(-------------------------------------------------------------------------)
+
