@@ -3351,3 +3351,9 @@ Ans- Interfaces cannot provide implementation details, and they cannot contain f
 
 (-----------------------------------------------------------------------)
 
+561- How can you work around the limitation of not being able to implement methods in an interface?
+
+Ans- Use abstract classes if you need to provide default method implementations, or use extension methods to add functionality.
+
+(-----------------------------------------------------------------------)
+
