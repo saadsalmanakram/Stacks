@@ -4233,3 +4233,9 @@ Ans- Clients interact with the component interface, so they remain unaware of th
 
 (-----------------------------------------------------------------------)
 
+708- What is the advantage of using the Decorator pattern over subclassing?
+
+Ans- It provides greater flexibility by allowing dynamic composition of behavior rather than creating a large number of subclasses.
+
+(-----------------------------------------------------------------------)
+
