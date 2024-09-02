@@ -4221,3 +4221,9 @@ Ans- The key components are the component interface, concrete component, decorat
 
 (----------------------------------------------------------------------)
 
+706- What role does the IComponent interface play in the Decorator pattern?
+
+Ans- The IComponent interface defines the contract for both the concrete component and its decorators.
+
+(-----------------------------------------------------------------------)
+
