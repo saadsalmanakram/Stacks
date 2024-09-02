@@ -3699,3 +3699,9 @@ Ans- An overspecified unit test includes unnecessary details that tightly couple
 
 (-----------------------------------------------------------------------)
 
+619- Why should you avoid overspecified unit tests?
+
+Ans- Avoiding overspecified tests ensures flexibility in refactoring and reduces maintenance overhead.
+
+(-----------------------------------------------------------------------)
+
