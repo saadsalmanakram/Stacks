@@ -2937,4 +2937,15 @@ Ans- A situation where you can traverse from a node back to itself via edges.
 
 (------------------------------------------------------------------------)
 
+492- Why are cyclic dependencies problematic in assembly management?
+
+Ans- They can create complex, unmanageable dependencies and are generally disallowed in .NET assembly references.
+
+(------------------------------------------------------------------------)
+
+493- What is a loop in a dependency graph?
+
+Ans- A loop occurs when a node has an edge to itself, indicating recursion at the method level.
+
+(------------------------------------------------------------------------)
 
