@@ -5085,3 +5085,9 @@ Ans- Contracts define the expectations (preconditions and postconditions) for a 
 
 (-------------------------------------------------------------------------)
 
+851- What is the Interface Segregation Principle (ISP)?
+
+Ans- ISP states that interfaces should be small, focusing on specific client requirements rather than forcing clients to implement large, monolithic interfaces.
+
+(-------------------------------------------------------------------------)
+
