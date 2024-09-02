@@ -3723,3 +3723,9 @@ Ans- Limiting the Act phase to one interaction ensures clarity and focus in what
 
 (-----------------------------------------------------------------------)
 
+623- What is the significance of running unit tests frequently?
+
+Ans- Frequent test runs catch issues early and ensure that new changes don’t break existing functionality.
+
+(-----------------------------------------------------------------------)
+
