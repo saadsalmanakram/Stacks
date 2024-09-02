@@ -2201,3 +2201,9 @@ Ans- Because it involves dynamic, real-time communication between multiple users
 
 (------------------------------------------------------------------------)
 
+369- What is the Observer pattern?
+
+Ans- The Observer pattern defines a one-to-many relationship where changes in one object trigger notifications to multiple dependent objects.
+
+(------------------------------------------------------------------------)
+
