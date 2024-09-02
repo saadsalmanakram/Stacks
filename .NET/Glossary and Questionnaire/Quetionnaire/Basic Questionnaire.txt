@@ -4539,3 +4539,8 @@ Ans- The Adapter pattern allows classes to use third-party libraries through int
 
 (-------------------------------------------------------------------------)
 
+760- How does the Decorator pattern support SRP?
+
+Ans- The Decorator pattern allows additional functionality to be added to classes dynamically, without changing the existing class's code.
+
+(-------------------------------------------------------------------------)
