@@ -3453,3 +3453,9 @@ Ans- The IsNull property is an anti-pattern as it introduces unnecessary logic i
 
 (-----------------------------------------------------------------------)
 
+578- How can the IsNull property anti-pattern be avoided?
+
+Ans- Encapsulate behavior in the Null Object itself, eliminating the need for the IsNull property and related logic in client code.
+
+(-----------------------------------------------------------------------)
+
