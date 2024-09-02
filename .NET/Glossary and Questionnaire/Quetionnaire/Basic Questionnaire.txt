@@ -3969,4 +3969,10 @@ Ans- Making the class abstract prevents it from being instantiated directly and 
 
 (-----------------------------------------------------------------------)
 
+664- When should you stop writing unit tests and focus on refactoring?
+
+Ans- When the codebase needs improvements in structure, readability, or maintainability, even if the tests are passing.
+
+(-----------------------------------------------------------------------)
+
 
