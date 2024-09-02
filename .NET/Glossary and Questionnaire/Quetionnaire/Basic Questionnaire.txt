@@ -3651,3 +3651,9 @@ Ans- Refactoring is the process of improving the design of existing code without
 
 (-----------------------------------------------------------------------)
 
+611- How are unit testing and refactoring linked?
+
+Ans- Unit testing ensures that refactoring doesn’t introduce new bugs, allowing developers to improve code design safely.
+
+(-----------------------------------------------------------------------)
+
