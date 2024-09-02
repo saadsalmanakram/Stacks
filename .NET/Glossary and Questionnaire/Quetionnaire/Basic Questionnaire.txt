@@ -2505,3 +2505,10 @@ Ans- C# 3.0 provides advanced features like delegates, LINQ, and generics, which
 
 (-----------------------------------------------------------------------)
 
+420- What is the Abstract Factory pattern, and how is it implemented in C#?
+
+Ans- It provides an interface for creating families of related objects; implemented using interfaces and generics.
+
+(-----------------------------------------------------------------------)
+
+
