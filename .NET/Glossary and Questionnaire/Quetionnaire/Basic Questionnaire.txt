@@ -2451,3 +2451,9 @@ Ans- Grammars define the syntax and rules that the Interpreter follows to parse 
 
 (-----------------------------------------------------------------------)
 
+411- How does the Interpreter pattern relate to object-oriented design?
+
+Ans- It involves defining a class hierarchy where each class represents a different element of the grammar to be interpreted.
+
+(-----------------------------------------------------------------------)
+
