@@ -4281,3 +4281,9 @@ Ans- The key components are the component interface, leaf, composite, and the cl
 
 (-----------------------------------------------------------------------)
 
+716- How does the CompositeComponent class manage its children?
+
+Ans- It provides methods to add and remove child components, and it delegates operations to all its children.
+
+(-----------------------------------------------------------------------)
+
