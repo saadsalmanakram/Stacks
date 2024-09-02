@@ -3291,3 +3291,9 @@ Ans- An interface defines a contract for classes by specifying methods, properti
 
 (-----------------------------------------------------------------------)
 
+551- How do interfaces differ from classes?
+
+Ans- Interfaces define behaviors but not implementations, whereas classes provide both definitions and implementations.
+
+(-----------------------------------------------------------------------)
+
