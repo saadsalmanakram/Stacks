@@ -3897,3 +3897,9 @@ Ans- The exception should be wrapped in a ServiceException to avoid leaking doma
 
 (-----------------------------------------------------------------------)
 
+652- Why is it necessary to wrap domain-specific exceptions in service-specific exceptions?
+
+Ans- To prevent dependencies between different layers and to provide meaningful error handling at the appropriate level.
+
+(-----------------------------------------------------------------------)
+
