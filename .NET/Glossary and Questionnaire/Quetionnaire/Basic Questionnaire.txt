@@ -2195,3 +2195,9 @@ Ans- By allowing different colleagues to implement the Receive method differentl
 
 (------------------------------------------------------------------------)
 
+368- Why might a chat room be a good example of the Mediator pattern?
+
+Ans- Because it involves dynamic, real-time communication between multiple users through a centralized mediator.
+
+(------------------------------------------------------------------------)
+
