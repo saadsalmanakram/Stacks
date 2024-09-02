@@ -4713,3 +4713,9 @@ Ans- A common mistake is creating too many unnecessary extension points, leading
 
 (-------------------------------------------------------------------------)
 
+789- How can the Stairway pattern help in applying OCP?
+
+Ans- The Stairway pattern suggests separating interfaces from their implementations, allowing changes in implementation without affecting clients, thus supporting the OCP.
+
+(-------------------------------------------------------------------------)
+
