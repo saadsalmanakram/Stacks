@@ -5613,3 +5613,8 @@ Ans- The composition root is the central point where the application’s depende
 
 (------------------------------------------------------------------------)
 
+939- Why is the Service Locator considered an anti-pattern in DI?
+
+Ans- The Service Locator is an anti-pattern because it hides dependencies and makes the code more difficult to understand and maintain by allowing any class to retrieve services on demand.
+
+(------------------------------------------------------------------------)
