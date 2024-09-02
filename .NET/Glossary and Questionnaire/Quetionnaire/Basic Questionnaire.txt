@@ -3831,3 +3831,9 @@ Ans- It ensures that code meets specified requirements before implementation.
 
 (-----------------------------------------------------------------------)
 
+641- What is the purpose of using a fake implementation in unit tests?
+
+Ans- To isolate and test the specific behavior of the class under test.
+
+(-----------------------------------------------------------------------)
+
