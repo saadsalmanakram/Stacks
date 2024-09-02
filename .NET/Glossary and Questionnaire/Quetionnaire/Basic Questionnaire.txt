@@ -3021,3 +3021,9 @@ Ans- The Stairway pattern involves placing interfaces and their implementations 
 
 (------------------------------------------------------------------------)
 
+506- What are the benefits of applying the Stairway pattern?
+
+Ans- It improves code organization, reduces implicit dependencies, and allows clients to only reference interface assemblies.
+
+(------------------------------------------------------------------------)
+
