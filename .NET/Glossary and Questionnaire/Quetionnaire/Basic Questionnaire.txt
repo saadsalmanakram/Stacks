@@ -5409,4 +5409,10 @@ Ans- It's crucial to consider interface segregation from the start to avoid heav
 
 (-------------------------------------------------------------------------)
 
+905- What is Dependency Injection (DI)?
+
+Ans- DI is a design pattern that allows objects to receive their dependencies from an external source rather than creating them internally.
+
+(-------------------------------------------------------------------------)
+
 
