@@ -5139,3 +5139,9 @@ Ans- It prompts the user for confirmation before deleting an entity, adding a sa
 
 (------------------------------------------------------------------------)
 
+860- Why is it beneficial to separate the Delete method from a CRUD interface?
+
+Ans- It allows you to create specialized decorators for the delete operation, simplifying the code and reducing unnecessary method implementations.
+
+(------------------------------------------------------------------------)
+
