@@ -3153,3 +3153,8 @@ Ans- NuGet can automatically update all packages to newer versions as specified.
 
 (-----------------------------------------------------------------------)
 
+528- What is included in the XML file of a NuGet package?
+
+Ans- Metadata such as package ID, version, authors, and dependencies.
+
+(-----------------------------------------------------------------------)
