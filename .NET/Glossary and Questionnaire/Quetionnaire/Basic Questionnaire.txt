@@ -3759,3 +3759,9 @@ Ans- It sets up the necessary context or state for the test.
 
 (-----------------------------------------------------------------------)
 
+629- What does the Act phase in the AAA pattern do?
+
+Ans- It performs the action or invokes the method being tested.
+
+(-----------------------------------------------------------------------)
+
