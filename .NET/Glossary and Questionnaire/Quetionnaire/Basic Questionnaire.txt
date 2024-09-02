@@ -5457,4 +5457,10 @@ Ans- Integrating DI into an established project is difficult and time-consuming,
 
 (-------------------------------------------------------------------------)
 
+913- What are composition roots in DI?
+
+Ans- Composition roots are the entry points where dependencies are wired together, typically at the application's startup.
+
+(-------------------------------------------------------------------------)
+
 
