@@ -3903,3 +3903,9 @@ Ans- To prevent dependencies between different layers and to provide meaningful 
 
 (-----------------------------------------------------------------------)
 
+653- How can you ensure that a ServiceException wraps a DomainException?
+
+Ans- By manually asserting that the InnerException of the ServiceException is a DomainException.
+
+(-----------------------------------------------------------------------)
+
