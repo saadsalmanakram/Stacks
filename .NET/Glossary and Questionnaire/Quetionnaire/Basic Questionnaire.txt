@@ -4131,3 +4131,9 @@ Ans- A class implementing an interface with methods it does not need, leading to
 
 (-----------------------------------------------------------------------)
 
+691- What is the Dependency Inversion Principle (DIP)?
+
+Ans- DIP states that high-level modules should not depend on low-level modules; both should depend on abstractions.
+
+(-----------------------------------------------------------------------)
+
