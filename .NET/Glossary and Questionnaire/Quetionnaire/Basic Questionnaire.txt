@@ -2331,3 +2331,9 @@ Ans- The pattern operates on a composite structure of several related element ty
 
 (------------------------------------------------------------------------)
 
+391- What are the main players in the Visitor pattern?
+
+Ans- The main players are the Client, ObjectStructure, Element, ElementA, ElementB, IVisitor, Visitor1, and Visitor2.
+
+(------------------------------------------------------------------------)
+
