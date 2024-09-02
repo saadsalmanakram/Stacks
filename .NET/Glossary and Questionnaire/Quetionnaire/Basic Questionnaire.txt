@@ -4371,3 +4371,9 @@ Ans- It applies the predicate to determine whether to invoke the decorated compo
 
 (-----------------------------------------------------------------------)
 
+732- How does the PredicatedDecoratorExample class differ from the improved version with the IPredicate interface?
+
+Ans- The improved version abstracts the predicate logic, allowing for cleaner and more modular code.
+
+(-----------------------------------------------------------------------)
+
