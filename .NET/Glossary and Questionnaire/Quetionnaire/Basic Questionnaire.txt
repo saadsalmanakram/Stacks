@@ -2589,4 +2589,16 @@ Ans- It controls access to an object, typically using interfaces and private col
 
 (-----------------------------------------------------------------------)
 
+434- Why are design patterns considered language-agnostic?
+
+Ans- They transcend programming languages, offering solutions that can be adapted to various environments.
+
+(-----------------------------------------------------------------------)
+
+435- What is Scrum?
+
+Ans- Scrum is an Agile project management framework used primarily for software development. It emphasizes iterative progress through a series of sprints, where small, potentially shippable increments of the product are developed. Scrum is designed to improve communication, teamwork, and speed of development, with roles, ceremonies, and artifacts that guide the process.
+
+(-----------------------------------------------------------------------)
+
 
