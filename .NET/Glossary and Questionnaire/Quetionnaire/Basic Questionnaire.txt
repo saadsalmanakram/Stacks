@@ -3981,4 +3981,10 @@ Ans- Unit tests ensure that refactoring changes do not break existing functional
 
 (-----------------------------------------------------------------------)
 
+666- How does replacing a switch statement with polymorphism benefit the codebase?
+
+Ans- It simplifies the code and makes it easier to extend by adding new account types without modifying existing code.
+
+(-----------------------------------------------------------------------)
+
 
