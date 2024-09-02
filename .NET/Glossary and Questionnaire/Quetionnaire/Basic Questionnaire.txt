@@ -3261,3 +3261,9 @@ Ans- Querying prioritizes speed, which may allow for some inconsistency.
 
 (-----------------------------------------------------------------------)
 
+546- What is required for command processing in terms of consistency?
+
+Ans- Command processing typically needs full transactional consistency.
+
+(-----------------------------------------------------------------------)
+
