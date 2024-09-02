@@ -5523,5 +5523,11 @@ Ans- Static classes are hard to mock and test, and they limit flexibility in cha
 
 (------------------------------------------------------------------------)
 
+924- What is the purpose of the Register method in an IoC container?
+
+Ans- The Register method is used to map interfaces to their concrete implementations during application initialization.
+
+(------------------------------------------------------------------------)
+
 
 
