@@ -2757,3 +2757,9 @@ Ans- A defect card is created when acceptance criteria for a user story are not 
 
 (------------------------------------------------------------------------)
 
+462- What is the significance of defect prioritization in Agile?
+
+Ans- Defects are prioritized based on their impact, with apocalyptic defects requiring immediate attention.
+
+(------------------------------------------------------------------------)
+
