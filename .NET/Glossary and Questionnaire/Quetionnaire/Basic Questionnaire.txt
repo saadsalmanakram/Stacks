@@ -5601,3 +5601,9 @@ Ans- The where clause in the Register method ensures that the implementation typ
 
 (------------------------------------------------------------------------)
 
+937- Why is it important to manage the lifetime of objects in an IoC container?
+
+Ans- Proper lifetime management prevents resource leaks and ensures that objects are available only as long as needed.
+
+(------------------------------------------------------------------------)
+
