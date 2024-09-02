@@ -2577,4 +2577,10 @@ Ans- It uses interfaces to create objects, making it adaptable to different obje
 
 (-----------------------------------------------------------------------)
 
+432- What are the common language features used in implementing the State pattern?
+
+Ans- Interfaces and selection statements are key, with optional use of generics and nullable types.
+
+(-----------------------------------------------------------------------)
+
 
