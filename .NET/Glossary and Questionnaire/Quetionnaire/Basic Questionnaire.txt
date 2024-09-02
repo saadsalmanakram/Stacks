@@ -3531,3 +3531,9 @@ Ans- Impromptu Interface is a .NET library that allows duck-typing by generating
 
 (-----------------------------------------------------------------------)
 
+591- What does the ActLike<T>() method do in the Impromptu Interface library?
+
+Ans- ActLike<T>() creates a new type at runtime that implements an interface by delegating method calls to an underlying instance.
+
+(-----------------------------------------------------------------------)
+
