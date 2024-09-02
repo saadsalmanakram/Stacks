@@ -4407,3 +4407,9 @@ Ans- It defers the instantiation of a component until it is actually needed.
 
 (-------------------------------------------------------------------------)
 
+738- How does a lazy decorator improve performance?
+
+Ans- It avoids the overhead of creating objects that might not be used, thus optimizing resource usage.
+
+(-------------------------------------------------------------------------)
+
