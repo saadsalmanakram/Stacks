@@ -4683,3 +4683,8 @@ Ans- Over-abstraction can lead to unnecessary complexity and maintenance challen
 
 (-------------------------------------------------------------------------)
 
+784- When is it appropriate to avoid refactoring for abstraction according to OCP?
+
+Ans- It is appropriate when you determine that the code is unlikely to change, and the cost of abstraction outweighs the benefits.
+
+(-------------------------------------------------------------------------)
