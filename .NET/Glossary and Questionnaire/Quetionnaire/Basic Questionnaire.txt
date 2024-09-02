@@ -5421,4 +5421,10 @@ Ans- DI facilitates SOLID principles, promotes decoupling, and makes code easier
 
 (-------------------------------------------------------------------------)
 
+907- How does DI act as the glue for SOLID code?
+
+Ans- DI enables adherence to SOLID principles by ensuring dependencies are injected, reducing tight coupling and improving modularity.
+
+(-------------------------------------------------------------------------)
+
 
