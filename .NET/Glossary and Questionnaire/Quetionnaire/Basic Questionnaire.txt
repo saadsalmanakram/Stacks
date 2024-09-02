@@ -2601,4 +2601,10 @@ Ans- Scrum is an Agile project management framework used primarily for software 
 
 (-----------------------------------------------------------------------)
 
+436- What are the primary roles in a Scrum project?
+
+Ans- Product Owner, Scrum Master, and Development Team.
+
+(-----------------------------------------------------------------------)
+
 
