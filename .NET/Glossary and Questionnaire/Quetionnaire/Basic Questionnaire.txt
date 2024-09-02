@@ -3297,3 +3297,9 @@ Ans- Interfaces define behaviors but not implementations, whereas classes provid
 
 (-----------------------------------------------------------------------)
 
+552- Can an interface contain fields?
+
+Ans- No, interfaces cannot contain fields; they can only contain methods, properties, events, and indexers.
+
+(-----------------------------------------------------------------------)
+
