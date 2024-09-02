@@ -2367,3 +2367,9 @@ Ans- The need to modify the object structure to add Accept methods, which may no
 
 (------------------------------------------------------------------------)
 
+397- In what scenarios is the Visitor pattern particularly useful?
+
+Ans- It is useful when you need to perform operations on a heterogeneous object structure and want to keep the operations separate from the structure.
+
+(------------------------------------------------------------------------)
+
