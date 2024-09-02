@@ -4647,3 +4647,9 @@ Ans- Adding extension points everywhere can lead to overengineering and increase
 
 (-------------------------------------------------------------------------)
 
+778- What is the "Goldilocks Zone" in relation to extension points?
+
+Ans- The "Goldilocks Zone" is the optimal balance where code has just enough extension points to handle necessary changes without excessive complexity.
+
+(-------------------------------------------------------------------------)
+
