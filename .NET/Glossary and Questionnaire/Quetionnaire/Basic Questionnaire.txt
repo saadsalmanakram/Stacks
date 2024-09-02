@@ -5727,3 +5727,9 @@ Ans- Because it introduces runtime errors that could be caught at compile time w
 
 (------------------------------------------------------------------------)
 
+957- What is a common use case for manual registration in DI despite its drawbacks?
+
+Ans- When precise control over type mappings is needed, especially in complex scenarios.
+
+(------------------------------------------------------------------------)
+
