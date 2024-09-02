@@ -2739,3 +2739,9 @@ Ans- Story points are a measure of the effort required to complete a user story,
 
 (-----------------------------------------------------------------------)
 
+459- What does a vertical slice represent in software development?
+
+Ans- A vertical slice includes functionality from all layers of the software, enabling complete and demonstrable features.
+
+(------------------------------------------------------------------------)
+
