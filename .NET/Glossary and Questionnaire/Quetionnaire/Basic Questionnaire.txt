@@ -5193,3 +5193,9 @@ Ans- Smaller interfaces are easier to implement, test, and extend, leading to mo
 
 (------------------------------------------------------------------------)
 
+869- How does ISP affect testing?
+
+Ans- ISP makes testing easier by reducing the scope of what each interface is responsible for, allowing for more focused and reliable tests.
+
+(------------------------------------------------------------------------)
+
