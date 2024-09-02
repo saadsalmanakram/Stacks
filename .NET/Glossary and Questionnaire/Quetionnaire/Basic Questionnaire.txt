@@ -4011,3 +4011,9 @@ Ans- It reduces code complexity and improves maintainability by removing the swi
 
 (-----------------------------------------------------------------------)
 
+671- How can factory methods be useful in object-oriented design?
+
+Ans- Factory methods encapsulate object creation logic, allowing for the creation of objects of different types from a single method.
+
+(-----------------------------------------------------------------------)
+
