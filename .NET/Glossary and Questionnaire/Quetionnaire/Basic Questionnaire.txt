@@ -4677,3 +4677,9 @@ Ans- A stable interface minimizes changes to client code and reduces the risk of
 
 (-------------------------------------------------------------------------)
 
+783- What are the risks of over-abstraction in applying OCP?
+
+Ans- Over-abstraction can lead to unnecessary complexity and maintenance challenges, making the codebase harder to understand and work with.
+
+(-------------------------------------------------------------------------)
+
