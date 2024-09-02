@@ -1913,3 +1913,9 @@ Ans- Yes, it can be combined with patterns like Command or Strategy for more com
 
 (------------------------------------------------------------------------)
 
+321- Yes, it can be combined with patterns like Command or Strategy for more complex behavior.
+
+Ans- A series of classes where each class has a method to process a request or pass it to the next class.
+
+(------------------------------------------------------------------------)
+
