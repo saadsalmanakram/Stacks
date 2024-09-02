@@ -4509,3 +4509,15 @@ Ans- It avoids conditional statements by encapsulating algorithm-specific logic 
 
 (-------------------------------------------------------------------------)
 
+755- What are the benefits of using a dictionary to store payment strategies?
+
+Ans- It allows for efficient lookup and retrieval of the appropriate payment strategy based on the payment type, making the CheckOut method simpler and more adaptable.
+
+(-------------------------------------------------------------------------)
+
+756- What is a drawback of using a switch statement for payment processing?
+
+Ans- Adding a new payment method requires modifying the switch statement, which can lead to a monolithic and less flexible design.
+
+(-------------------------------------------------------------------------)
+
