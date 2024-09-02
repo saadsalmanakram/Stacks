@@ -4485,3 +4485,9 @@ Ans- By providing custom logic in the getter and setter that interacts with the 
 
 (-------------------------------------------------------------------------)
 
+751- What is the approach to decorating events?
+
+Ans- By overriding the add and remove accessors to include additional logic when handlers are registered or deregistered.
+
+(-------------------------------------------------------------------------)
+
