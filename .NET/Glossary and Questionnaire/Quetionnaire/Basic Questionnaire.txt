@@ -2319,3 +2319,9 @@ Ans- The Observer pattern promotes loose coupling by ensuring that the Subject k
 
 (------------------------------------------------------------------------)
 
+389- What is the role of the Visitor pattern?
+
+Ans- It defines and performs new operations on all the elements of an existing structure without altering its classes.
+
+(------------------------------------------------------------------------)
+
