@@ -2763,3 +2763,9 @@ Ans- Defects are prioritized based on their impact, with apocalyptic defects req
 
 (------------------------------------------------------------------------)
 
+463- Why is automated acceptance testing important in Agile?
+
+Ans- It ensures that changes don't introduce new defects by continuously validating the software against acceptance criteria.
+
+(------------------------------------------------------------------------)
+
