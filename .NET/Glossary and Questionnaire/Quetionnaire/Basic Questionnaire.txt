@@ -2565,3 +2565,9 @@ Ans- It simplifies pattern implementation and leverages the strengths of modern 
 
 (-----------------------------------------------------------------------)
 
+430- How does the Command pattern interact with other patterns?
+
+Ans- It often works with Memento and Composite to encapsulate actions and their execution.
+
+(-----------------------------------------------------------------------)
+
