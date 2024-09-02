@@ -5319,3 +5319,9 @@ Ans- By segregating interfaces, you reduce the risk of unintended operations, th
 
 (------------------------------------------------------------------------)
 
+890- What does the term CQRS stand for?
+
+Ans- CQRS stands for Command/Query Responsibility Segregation, a pattern where reading and writing operations are handled separately.
+
+(------------------------------------------------------------------------)
+
