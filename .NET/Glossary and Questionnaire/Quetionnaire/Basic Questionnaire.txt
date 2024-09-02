@@ -4797,3 +4797,9 @@ Ans- A postcondition is a condition that must be true after a method has complet
 
 (------------------------------------------------------------------------)
 
+803- What is a data invariant in a code contract?
+
+Ans- A data invariant is a condition that must always be true for the object’s state throughout its lifetime, maintaining the integrity of the object's data.
+
+(------------------------------------------------------------------------)
+
