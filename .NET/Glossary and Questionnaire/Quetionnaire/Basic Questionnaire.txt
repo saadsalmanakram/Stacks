@@ -5247,3 +5247,9 @@ Ans- It’s the incorrect practice of combining segregated interfaces into one a
 
 (------------------------------------------------------------------------)
 
+878- Why might passing the same instance multiple times to a constructor be acceptable in this context?
+
+Ans- Because each parameter requires a different facet of the class, and the single instance implements all the required interfaces.
+
+(------------------------------------------------------------------------)
+
