@@ -3015,3 +3015,9 @@ Ans- By separating interfaces and implementations into different assemblies to r
 
 (------------------------------------------------------------------------)
 
+505- What is the Stairway pattern?
+
+Ans- The Stairway pattern involves placing interfaces and their implementations in separate assemblies to allow independent evolution and reduce dependencies.
+
+(------------------------------------------------------------------------)
+
