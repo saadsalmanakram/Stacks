@@ -3999,4 +3999,15 @@ Ans- Inheritance allows shared functionality like balance management while enabl
 
 (-----------------------------------------------------------------------)
 
+669- How does the refactored Account class ensure that adding new account types is easy?
+
+Ans- New account types can be added by simply creating a new subclass with the required reward calculation logic.
+
+(-----------------------------------------------------------------------)
+
+670- What problem does refactoring the Account class solve?
+
+Ans- It reduces code complexity and improves maintainability by removing the switch statement and using polymorphism.
+
+(-----------------------------------------------------------------------)
 
