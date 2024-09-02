@@ -4700,3 +4700,10 @@ Ans- Evaluate the likelihood of future changes and the impact of those changes t
 Ans- A "god object" is a class that knows too much or does too much, leading to a lack of separation of concerns and difficulty in maintaining or extending the code.
 
 (-------------------------------------------------------------------------)
+
+787- How does the principle of protected variation relate to predicted variation?
+
+Ans- Protected variation involves creating stable interfaces around parts of the code where predicted variation is likely, ensuring those parts can evolve without disrupting the rest of the system.
+
+(-------------------------------------------------------------------------)
+
