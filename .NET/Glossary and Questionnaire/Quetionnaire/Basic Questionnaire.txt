@@ -4299,3 +4299,9 @@ Ans- The Composite pattern can be seen as a specialization of the Decorator patt
 
 (-----------------------------------------------------------------------)
 
+720- In what scenarios would you use the Composite pattern?
+
+Ans- When you need to work with tree structures or hierarchies of objects and want to treat individual objects and groups of objects uniformly.
+
+(-----------------------------------------------------------------------)
+
