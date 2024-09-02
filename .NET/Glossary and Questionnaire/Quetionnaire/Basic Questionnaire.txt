@@ -1865,3 +1865,9 @@ Ans- It links to the next handler in the chain if the current one cannot process
 
 (------------------------------------------------------------------------)
 
+313- What happens if no handler in the chain can handle the request?
+
+Ans- The request may be handled by a default handler or trigger an exception.
+
+(------------------------------------------------------------------------)
+
