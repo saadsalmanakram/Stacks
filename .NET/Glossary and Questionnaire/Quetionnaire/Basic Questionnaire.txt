@@ -2159,3 +2159,9 @@ Ans- To enable communication between objects without them knowing each other’s
 
 (------------------------------------------------------------------------)
 
+362- How does the Mediator pattern help in a mailing list context?
+
+Ans- By moderating messages, enforcing communication rules, and keeping members unaware of each other.
+
+(------------------------------------------------------------------------)
+
