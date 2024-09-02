@@ -4653,3 +4653,9 @@ Ans- The "Goldilocks Zone" is the optimal balance where code has just enough ext
 
 (-------------------------------------------------------------------------)
 
+779- How do you determine where to apply the OCP in your code?
+
+Ans- Assess areas with predicted variation or potential future changes and apply OCP principles to those parts of the code.
+
+(-------------------------------------------------------------------------)
+
