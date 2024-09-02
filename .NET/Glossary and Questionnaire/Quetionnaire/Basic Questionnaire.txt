@@ -5042,3 +5042,10 @@ Ans- It ensures that a subclass can handle a broader range of input types, maint
 Ans- It allows the subclass to return more specific types, making the code more flexible while still adhering to the contract defined by the superclass.
 
 (------------------------------------------------------------------------)
+
+844- What is the significance of the "No new exceptions" rule in LSP?
+
+Ans- It prevents subclasses from introducing new exceptions that clients might not be prepared to handle, ensuring smoother substitution.
+
+(------------------------------------------------------------------------)
+
