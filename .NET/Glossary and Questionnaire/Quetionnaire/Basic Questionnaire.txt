@@ -3711,3 +3711,9 @@ Ans- Testability ensures that the code can be easily tested, which is crucial fo
 
 (-----------------------------------------------------------------------)
 
+621- What is the System Under Test (SUT)?
+
+Ans- The SUT is the specific piece of code or class that is being tested in a unit test.
+
+(-----------------------------------------------------------------------)
+
