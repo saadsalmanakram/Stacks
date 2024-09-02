@@ -3471,3 +3471,9 @@ Ans- It’s used when a class needs to conform to an interface it doesn't implem
 
 (-----------------------------------------------------------------------)
 
+581- What are the two types of Adapter patterns?
+
+Ans- The two types are the Class Adapter pattern, which uses inheritance, and the Object Adapter pattern, which uses composition.
+
+(-----------------------------------------------------------------------)
+
