@@ -5439,4 +5439,10 @@ Ans- Poor Man’s DI is suitable for simpler applications or when you want to av
 
 (-------------------------------------------------------------------------)
 
+910- What is an Inversion of Control (IoC) container?
+
+Ans- An IoC container is a framework for automating the process of dependency injection by managing object creation and their dependencies.
+
+(-------------------------------------------------------------------------)
+
 
