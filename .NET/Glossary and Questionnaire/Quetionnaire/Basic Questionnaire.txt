@@ -5270,3 +5270,10 @@ Ans- Because they depend on different sets of dependencies, leading to potential
 Ans- The method associated with that interface will no longer work as it expects a different type.
 
 (------------------------------------------------------------------------)
+
+882- What is the consequence of implementing all CRUD interfaces in one class?
+
+Ans- It simplifies the client’s code but might reduce flexibility in decorating or adapting specific interfaces.
+
+(------------------------------------------------------------------------)
+
