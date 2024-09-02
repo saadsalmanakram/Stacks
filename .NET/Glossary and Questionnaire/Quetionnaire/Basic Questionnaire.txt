@@ -4041,3 +4041,9 @@ Ans- SRP states that a class should have only one reason to change, meaning it s
 
 (-----------------------------------------------------------------------)
 
+676- Why is SRP important?
+
+Ans- SRP improves code maintainability and clarity by ensuring that each class handles only one aspect of functionality.
+
+(-----------------------------------------------------------------------)
+
