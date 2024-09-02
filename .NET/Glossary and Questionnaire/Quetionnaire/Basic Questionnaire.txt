@@ -5343,3 +5343,10 @@ Ans- Property inheritance in interfaces can lead to clashes, causing issues like
 
 (------------------------------------------------------------------------)
 
+894- Why might an interface that only has a single property still expose too much to its clients?
+
+Ans- Even a single property might give clients more control than necessary, leading to potential misuse or overexposure of functionality.
+
+(------------------------------------------------------------------------)
+
+
