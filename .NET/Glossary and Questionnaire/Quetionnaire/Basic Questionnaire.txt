@@ -3027,3 +3027,9 @@ Ans- It improves code organization, reduces implicit dependencies, and allows cl
 
 (------------------------------------------------------------------------)
 
+507- How does the Stairway pattern help with dependencies?
+
+Ans- It isolates dependencies by ensuring that implementations do not directly reference other implementations, only interfaces.
+
+(------------------------------------------------------------------------)
+
