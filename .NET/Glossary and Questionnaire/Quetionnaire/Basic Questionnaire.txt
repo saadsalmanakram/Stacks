@@ -2907,4 +2907,10 @@ Ans- It means that the application is not actively using any functionality from 
 
 (------------------------------------------------------------------------)
 
+487- How do you verify if a dependency is truly required by an application?
+
+Ans- Add calls or references to the dependency in the code and check if the assembly gets loaded or if exceptions occur when it is missing.
+
+(------------------------------------------------------------------------)
+
 
