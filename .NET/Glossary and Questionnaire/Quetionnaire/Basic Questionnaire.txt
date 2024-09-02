@@ -4869,3 +4869,9 @@ Ans- Invariants are conditions that must always hold true for a class's state, a
 
 (------------------------------------------------------------------------)
 
+815- What happens if a subclass violates an invariant of the superclass?
+
+Ans- Violating an invariant breaks the LSP, leading to potential inconsistencies and errors in the program.
+
+(------------------------------------------------------------------------)
+
