@@ -4929,3 +4929,16 @@ Ans- Assumptions about types can lead to strong coupling and LSP violations, mak
 
 (------------------------------------------------------------------------)
 
+825- How does encapsulation support LSP?
+
+Ans- Encapsulation helps maintain invariants by restricting direct access to fields, ensuring subclasses cannot violate the superclass's state.
+
+(------------------------------------------------------------------------)
+
+826- What does LSP suggest about method visibility and field access in subclasses?
+
+Ans- Method visibility should be carefully managed, and fields should be accessed via controlled properties to prevent invariant violations.
+
+(------------------------------------------------------------------------)
+
+
