@@ -4695,3 +4695,8 @@ Ans- Evaluate the likelihood of future changes and the impact of those changes t
 
 (-------------------------------------------------------------------------)
 
+786- What is a "god object," and why is it a problem?
+
+Ans- A "god object" is a class that knows too much or does too much, leading to a lack of separation of concerns and difficulty in maintaining or extending the code.
+
+(-------------------------------------------------------------------------)
