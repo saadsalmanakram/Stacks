@@ -5013,3 +5013,9 @@ Ans- Method arguments must be contravariant in subtypes.
 
 (------------------------------------------------------------------------)
 
+839- What does contravariance of method arguments mean?
+
+Ans- Contravariance means that a method in a subclass can accept arguments of a more general type than the method in the superclass.
+
+(------------------------------------------------------------------------)
+
