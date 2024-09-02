@@ -2625,4 +2625,10 @@ Ans- The Development Team is cross-functional, self-organizing, and collectively
 
 (-----------------------------------------------------------------------)
 
+440- What are the key documents in Scrum?
+
+Ans- Product Backlog, Sprint Backlog, and the Increment.
+
+(-----------------------------------------------------------------------)
+
 
