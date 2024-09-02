@@ -3933,3 +3933,9 @@ Ans- Magic numbers are hard-coded values with no explanation; they should be rep
 
 (-----------------------------------------------------------------------)
 
+658- How can polymorphism help in replacing conditional logic?
+
+Ans- Polymorphism allows you to replace conditionals by defining a method in subclasses, improving code extensibility and readability.
+
+(-----------------------------------------------------------------------)
+
