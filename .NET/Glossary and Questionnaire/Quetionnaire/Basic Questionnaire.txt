@@ -4215,3 +4215,9 @@ Ans- It enables each class to have a single responsibility by delegating additio
 
 (----------------------------------------------------------------------)
 
+705- Can you explain the key components of the Decorator pattern?
+
+Ans- The key components are the component interface, concrete component, decorator abstract class, and concrete decorators.
+
+(----------------------------------------------------------------------)
+
