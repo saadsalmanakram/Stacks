@@ -5667,3 +5667,9 @@ Ans- Locating the composition root near the entry point allows for early DI setu
 
 (------------------------------------------------------------------------)
 
+948- How does the Service Locator pattern affect unit testing?
+
+Ans- Although the Service Locator can be mocked for unit testing, it complicates testing by obscuring dependencies, unlike constructor injection, which makes dependencies explicit.
+
+(------------------------------------------------------------------------)
+
