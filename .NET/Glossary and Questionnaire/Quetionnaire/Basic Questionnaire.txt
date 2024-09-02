@@ -4923,3 +4923,9 @@ Ans- LSP violations typically manifest at runtime when client code fails due to 
 
 (------------------------------------------------------------------------)
 
+824- Why should developers avoid making assumptions about the types they are working with?
+
+Ans- Assumptions about types can lead to strong coupling and LSP violations, making the code less flexible and more error-prone.
+
+(------------------------------------------------------------------------)
+
