@@ -5499,3 +5499,8 @@ Ans- The Stairway pattern involves correctly applying DI to ensure classes only 
 
 (-------------------------------------------------------------------------)
 
+920- What role does the IObjectMapper interface play in the Task List application?
+
+Ans- It abstracts the mapping logic between TaskDto and TaskViewModel, allowing for flexibility and testability.
+
+(------------------------------------------------------------------------)
