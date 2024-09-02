@@ -4329,3 +4329,9 @@ Ans- A predicate decorator conditionally executes methods based on a predicate, 
 
 (-----------------------------------------------------------------------)
 
+725- How does the DateTester class contribute to the predicate decorator?
+
+Ans- It provides the condition for executing the decorated method, based on the current date.
+
+(-----------------------------------------------------------------------)
+
