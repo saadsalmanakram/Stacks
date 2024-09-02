@@ -4094,3 +4094,10 @@ Ans- LSP states that objects of a superclass should be replaceable with objects 
 Ans- LSP ensures that derived classes extend the base class without changing its expected behavior, promoting reliable polymorphism.
 
 (-----------------------------------------------------------------------)
+
+685- How do you identify a violation of LSP?
+
+Ans- If a subclass overrides behavior in a way that violates the expected behavior of the superclass, LSP is violated.
+
+(-----------------------------------------------------------------------)
+
