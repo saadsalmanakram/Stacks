@@ -5217,3 +5217,9 @@ Ans- Use the Adapter pattern in conjunction with the Decorator pattern.
 
 (------------------------------------------------------------------------)
 
+873- What is the advantage of combining decorators in one class?
+
+Ans- It reduces code duplication when the context of the decorators is shared.
+
+(------------------------------------------------------------------------)
+
