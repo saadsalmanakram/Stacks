@@ -4737,3 +4737,9 @@ Ans- With experience, programmers learn to balance the right amount of abstracti
 
 (-------------------------------------------------------------------------)
 
+793- What is the Liskov Substitution Principle?
+
+Ans- LSP states that objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.
+
+(-------------------------------------------------------------------------)
+
