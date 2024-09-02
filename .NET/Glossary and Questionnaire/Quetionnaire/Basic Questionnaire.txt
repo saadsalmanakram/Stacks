@@ -2445,3 +2445,9 @@ Ans- Mirror is an industrial-strength example that interprets XML for any .NET A
 
 (-----------------------------------------------------------------------)
 
+410- What is the significance of grammars in the Interpreter pattern?
+
+Ans- Grammars define the syntax and rules that the Interpreter follows to parse and process the language or notation.
+
+(-----------------------------------------------------------------------)
+
