@@ -2895,5 +2895,10 @@ Ans- The assembly will not be loaded into memory unless its types or methods are
 
 (------------------------------------------------------------------------)
 
+485- How can unnecessary framework dependencies be managed?
+
+Ans- By removing unused framework references, you simplify the dependency structure and reduce the risk of conflicts.
+
+(------------------------------------------------------------------------)
 
 
