@@ -3927,3 +3927,9 @@ Ans- Refactoring improves the design of existing code without changing its exter
 
 (-----------------------------------------------------------------------)
 
+657- What are 'magic numbers,' and why should they be avoided?
+
+Ans- Magic numbers are hard-coded values with no explanation; they should be replaced with named constants for better readability.
+
+(-----------------------------------------------------------------------)
+
