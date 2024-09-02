@@ -2063,3 +2063,9 @@ Ans- Yield break terminates the iterator, stopping further iteration, while yiel
 
 (------------------------------------------------------------------------)
 
+346- What is the primary purpose of the Mediator pattern?
+
+Ans- The Mediator pattern centralizes communication between objects, reducing direct dependencies between them.
+
+(------------------------------------------------------------------------)
+
