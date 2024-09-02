@@ -2027,3 +2027,9 @@ Ans- It separates the iteration logic from the collection structure, making the 
 
 (------------------------------------------------------------------------)
 
+340- What does yield return do in an iterator?
+
+Ans- Yield return returns the next value in the iteration sequence, pausing the method’s execution until the next value is requested.
+
+(------------------------------------------------------------------------)
+
