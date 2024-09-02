@@ -3033,3 +3033,15 @@ Ans- It isolates dependencies by ensuring that implementations do not directly r
 
 (------------------------------------------------------------------------)
 
+508- What is the assembly resolution process in .NET?
+
+Ans- It's the process by which the CLR locates and loads assemblies as needed, starting from the GAC, then probing directories, and finally failing if not found.
+
+(------------------------------------------------------------------------)
+
+509- What is Fusion in .NET?
+
+Ans- Fusion is the assembly binding log tool that helps debug assembly loading issues by providing detailed logs of the binding process.
+
+(------------------------------------------------------------------------)
+
