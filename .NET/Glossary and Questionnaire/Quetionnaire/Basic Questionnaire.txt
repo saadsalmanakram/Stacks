@@ -1901,3 +1901,15 @@ Ans- Based on the handler’s resources, permissions, or workload.
 
 (------------------------------------------------------------------------)
 
+319- What is the difference between internal and external successor links in the Chain of Responsibility?
+
+Ans- Internal links are managed within the handler class, while external links are managed outside the handler class.
+
+(------------------------------------------------------------------------)
+
+320- Can the Chain of Responsibility pattern be used in combination with other patterns?
+
+Ans- Yes, it can be combined with patterns like Command or Strategy for more complex behavior.
+
+(------------------------------------------------------------------------)
+
