@@ -2793,6 +2793,12 @@ Ans- A digital Scrum board is an online tool for managing Scrum tasks; its main 
 
 (-------------------------------------------------------------------------)
 
+468- Why is transparency important when implementing Scrum for the first time?
+
+Ans- Transparency invites questions, encourages stakeholder buy-in, and helps foster collaboration.
+
+(-------------------------------------------------------------------------)
+
 
 
 
