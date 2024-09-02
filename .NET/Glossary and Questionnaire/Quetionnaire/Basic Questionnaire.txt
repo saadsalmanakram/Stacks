@@ -3681,3 +3681,15 @@ Ans- The cycle involves writing a failing test (red), writing code to pass the t
 
 (-----------------------------------------------------------------------)
 
+616- What happens if a unit test fails?
+
+Ans- If a unit test fails, it indicates that the production code is likely broken and needs fixing.
+
+(-----------------------------------------------------------------------)
+
+617- Why is it important to have simple and isolated unit tests?
+
+Ans- Simple and isolated unit tests are easier to understand, maintain, and pinpoint when issues arise.
+
+(-----------------------------------------------------------------------)
+
