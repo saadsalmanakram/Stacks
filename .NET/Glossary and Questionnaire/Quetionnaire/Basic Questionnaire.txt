@@ -4587,4 +4587,10 @@ Ans- It means adding new functionality without altering existing code, thereby a
 
 (-------------------------------------------------------------------------)
 
+768- What are extension points in the context of OCP?
+
+Ans- Extension points are mechanisms that allow adding new functionality without modifying existing code.
+
+(-------------------------------------------------------------------------)
+
 
