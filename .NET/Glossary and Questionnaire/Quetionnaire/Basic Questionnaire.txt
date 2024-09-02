@@ -3963,4 +3963,10 @@ Ans- It makes the code more understandable by providing context for the values u
 
 (-----------------------------------------------------------------------)
 
+663- What is the significance of making a class abstract in the refactored Account class?
+
+Ans- Making the class abstract prevents it from being instantiated directly and ensures that specific account logic is handled by subclasses.
+
+(-----------------------------------------------------------------------)
+
 
