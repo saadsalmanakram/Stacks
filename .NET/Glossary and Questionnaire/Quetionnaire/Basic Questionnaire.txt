@@ -4245,3 +4245,9 @@ Ans- It adds additional behavior before delegating the call to the ConcreteCompo
 
 (-----------------------------------------------------------------------)
 
+710- How would you implement conditional behavior using the Decorator pattern?
+
+Ans- By creating a predicate decorator that conditionally executes methods based on specific criteria.
+
+(-----------------------------------------------------------------------)
+
