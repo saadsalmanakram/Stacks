@@ -4562,3 +4562,10 @@ Ans- OCP states that software entities should be open for extension but closed f
 Ans- Bertrand Meyer.
 
 (-------------------------------------------------------------------------)
+
+764- How does Robert C. Martin's definition of OCP differ from Meyer’s?
+
+Ans- Answer: Martin emphasizes that behavior should be extendable without modifying existing source or binary code.
+
+(-------------------------------------------------------------------------)
+
