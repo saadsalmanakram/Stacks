@@ -3183,3 +3183,9 @@ Ans- Layers represent horizontal groupings of functionality with dependencies al
 
 (-----------------------------------------------------------------------)
 
+533- What is the difference between layers and tiers in software architecture?
+
+Ans- Layers are logical groupings of functionality, while tiers refer to physical deployment environments.
+
+(-----------------------------------------------------------------------)
+
