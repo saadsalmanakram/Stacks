@@ -3332,3 +3332,10 @@ Ans- The Strategy pattern uses interfaces to define a family of algorithms, enca
 Ans- Duck-typing allows objects to be used based on their behavior rather than their specific type, facilitated by interfaces.
 
 (-----------------------------------------------------------------------)
+
+558- What are mixins, and how do they relate to interfaces?
+
+Ans- Mixins are a way to extend a class's functionality by adding behaviors via interfaces, without using inheritance.
+
+(-----------------------------------------------------------------------)
+
