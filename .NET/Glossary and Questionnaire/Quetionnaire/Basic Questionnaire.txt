@@ -4293,3 +4293,9 @@ Ans- It simplifies code by treating individual objects and composites uniformly,
 
 (-----------------------------------------------------------------------)
 
+719- How does the Composite pattern relate to the Decorator pattern?
+
+Ans- The Composite pattern can be seen as a specialization of the Decorator pattern, dealing specifically with tree structures.
+
+(-----------------------------------------------------------------------)
+
