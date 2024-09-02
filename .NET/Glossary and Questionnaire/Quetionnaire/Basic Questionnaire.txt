@@ -3603,3 +3603,9 @@ Ans- The this keyword represents the current instance of the class, allowing it 
 
 (-----------------------------------------------------------------------)
 
+603- Why might you choose to use fluent interfaces in your code?
+
+Ans- Fluent interfaces are often used to improve code readability and to implement configuration or state machines more intuitively.
+
+(-----------------------------------------------------------------------)
+
