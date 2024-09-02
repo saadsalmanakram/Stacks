@@ -1919,3 +1919,8 @@ Ans- A series of classes where each class has a method to process a request or p
 
 (------------------------------------------------------------------------)
 
+322- How does the Chain of Responsibility pattern relate to exception handling in programming?
+
+Ans- Similar to how exceptions are propagated up the call stack, requests are passed up the chain of handlers.
+
+(------------------------------------------------------------------------)
