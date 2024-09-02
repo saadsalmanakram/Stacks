@@ -4113,3 +4113,9 @@ Ans- ISP states that no client should be forced to depend on methods it does not
 
 (-----------------------------------------------------------------------)
 
+688- Why is ISP important?
+
+Ans- ISP minimizes the impact of changes by ensuring that clients only depend on the specific functionalities they need.
+
+(-----------------------------------------------------------------------)
+
