@@ -5745,3 +5745,9 @@ Ans- When an interface has only one implementation, indicating potential design 
 
 (------------------------------------------------------------------------)
 
+960- Why might using a service locator or illegitimate injection be considered an anti-pattern in DI?
+
+Ans- They negate the positive effects of proper dependency injection by obscuring dependencies.
+
+(------------------------------------------------------------------------)
+
