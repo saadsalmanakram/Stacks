@@ -3627,3 +3627,9 @@ Ans- Fluent interfaces can obscure the control flow, making debugging more diffi
 
 (-----------------------------------------------------------------------)
 
+607- In what scenarios are fluent interfaces particularly useful?
+
+Ans- Fluent interfaces are particularly useful in scenarios involving complex configuration or the implementation of finite state machines.
+
+(-----------------------------------------------------------------------)
+
