@@ -2225,3 +2225,9 @@ Ans- The Observer interface defines the Update method that is called to update t
 
 (------------------------------------------------------------------------)
 
+373- How do Observers register with a Subject?
+
+Ans- Observers register with a Subject using the Attach method and can detach using the Detach method.
+
+(------------------------------------------------------------------------)
+
