@@ -3273,3 +3273,9 @@ Ans- Commands often use ACID-compliant databases, while queries might use simple
 
 (-----------------------------------------------------------------------)
 
+548- Why might document storage be updated asynchronously?
+
+Ans- To ensure eventual consistency between the command layer and query results.
+
+(-----------------------------------------------------------------------)
+
