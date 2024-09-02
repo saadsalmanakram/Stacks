@@ -3621,3 +3621,9 @@ Ans-  Calling a non-fluent method, which returns void, will halt the method chai
 
 (-----------------------------------------------------------------------)
 
+606- What is one potential downside of using fluent interfaces?
+
+Ans- Fluent interfaces can obscure the control flow, making debugging more difficult if not used carefully.
+
+(-----------------------------------------------------------------------)
+
