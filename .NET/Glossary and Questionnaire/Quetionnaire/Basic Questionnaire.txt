@@ -3957,3 +3957,10 @@ Ans- The refactor separates account-specific reward logic into subclasses, elimi
 
 (-----------------------------------------------------------------------)
 
+662- Why is it important to replace magic numbers with named constants?
+
+Ans- It makes the code more understandable by providing context for the values used.
+
+(-----------------------------------------------------------------------)
+
+
