@@ -3657,3 +3657,27 @@ Ans- Unit testing ensures that refactoring doesn’t introduce new bugs, allowin
 
 (-----------------------------------------------------------------------)
 
+612- What is the Arrange, Act, Assert (AAA) pattern?
+
+Ans- The AAA pattern is a structure for unit tests where you arrange the test's conditions, act on the system under test, and assert the expected outcome.
+
+(-----------------------------------------------------------------------)
+
+613- What are the three parts of every unit test according to the AAA pattern?
+
+Ans- The three parts are arranging the preconditions, performing the testable act, and asserting the expectations.
+
+(-----------------------------------------------------------------------)
+
+614- What does test-driven development (TDD) involve?
+
+Ans- TDD involves writing a failing test first, then writing just enough code to make the test pass, and finally refactoring the code.
+
+(-----------------------------------------------------------------------)
+
+615- What is the ‘Red, Green, Refactor’ cycle in TDD?
+
+Ans- The cycle involves writing a failing test (red), writing code to pass the test (green), and refactoring the code for improvement.
+
+(-----------------------------------------------------------------------)
+
