@@ -2931,4 +2931,10 @@ Ans- Nodes represent components, and directed edges represent dependencies betwe
 
 (------------------------------------------------------------------------)
 
+491- What is a cyclic dependency in the context of directed graphs?
+
+Ans- A situation where you can traverse from a node back to itself via edges.
+
+(------------------------------------------------------------------------)
+
 
