@@ -2285,5 +2285,7 @@ Ans- Unsubscribing means removing an observer from the Subject’s list, so it n
 
 (------------------------------------------------------------------------)
 
+383- The Update method is crucial as it defines how observers react to changes in the Subject’s state.
 
+(------------------------------------------------------------------------)
 
