@@ -5127,3 +5127,9 @@ Ans- By applying ISP, decorators can focus on specific methods, making them more
 
 (------------------------------------------------------------------------)
 
+858- What is a pass-through method in a decorator?
+
+Ans- A pass-through method in a decorator is one that delegates the call directly to the underlying implementation without adding additional behavior.
+
+(------------------------------------------------------------------------)
+
