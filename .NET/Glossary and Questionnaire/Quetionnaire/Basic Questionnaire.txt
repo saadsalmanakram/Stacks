@@ -4167,3 +4167,8 @@ Ans- To keep the interface clean and avoid tying methods to specific dependencie
 
 (-----------------------------------------------------------------------)
 
+697- What is the benefit of separating classes into different assemblies?
+
+Ans- It ensures that neither client nor implementation assemblies reference each other, promoting modularity.
+
+(-----------------------------------------------------------------------)
