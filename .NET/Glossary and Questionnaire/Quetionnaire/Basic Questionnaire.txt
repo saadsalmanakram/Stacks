@@ -2057,3 +2057,9 @@ Ans- GetEnumerator supplies the sequence of values to be iterated over, one at a
 
 (------------------------------------------------------------------------)
 
+345- How does yield break differ from yield return?
+
+Ans- Yield break terminates the iterator, stopping further iteration, while yield return continues returning values.
+
+(------------------------------------------------------------------------)
+
