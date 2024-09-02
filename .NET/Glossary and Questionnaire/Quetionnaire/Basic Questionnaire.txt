@@ -4017,3 +4017,9 @@ Ans- Factory methods encapsulate object creation logic, allowing for the creatio
 
 (-----------------------------------------------------------------------)
 
+672- What is a "refused bequest" code smell?
+
+Ans- It occurs when a subclass refuses to implement or ignores a method inherited from its superclass.
+
+(-----------------------------------------------------------------------)
+
