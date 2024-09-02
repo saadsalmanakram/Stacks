@@ -4029,3 +4029,9 @@ Ans- They are paired together; unit tests guide refactoring by enforcing real-wo
 
 (-----------------------------------------------------------------------)
 
+674- What is the benefit of test-first development in unit testing?
+
+Ans- It ensures that production code is only written to satisfy a failing unit test, leading to more reliable and maintainable code.
+
+(-----------------------------------------------------------------------)
+
