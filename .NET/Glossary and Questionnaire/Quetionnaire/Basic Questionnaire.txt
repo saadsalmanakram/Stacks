@@ -2218,3 +2218,10 @@ Ans- The main components are the Subject, Observer, and the Notify method.
 Ans- The Subject maintains state and notifies Observers when this state changes.
 
 (------------------------------------------------------------------------)
+
+372- What does the Observer interface define?
+
+Ans- The Observer interface defines the Update method that is called to update the observer’s state.
+
+(------------------------------------------------------------------------)
+
