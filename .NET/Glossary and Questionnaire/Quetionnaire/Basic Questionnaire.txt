@@ -4707,3 +4707,9 @@ Ans- Protected variation involves creating stable interfaces around parts of the
 
 (-------------------------------------------------------------------------)
 
+788- What is a common mistake when applying OCP in early career programming?
+
+Ans- A common mistake is creating too many unnecessary extension points, leading to overengineering and increased complexity.
+
+(-------------------------------------------------------------------------)
+
