@@ -5283,3 +5283,9 @@ Ans- Interface segregation is the practice of splitting large interfaces into sm
 
 (------------------------------------------------------------------------)
 
+884- Why might you want to split a large interface into smaller interfaces?
+
+Ans- To prevent clients from accessing functionalities they don't need, thereby reducing the risk of misuse and enhancing code maintainability.
+
+(------------------------------------------------------------------------)
+
