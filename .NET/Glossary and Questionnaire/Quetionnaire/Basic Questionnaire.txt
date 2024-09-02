@@ -5733,3 +5733,15 @@ Ans- When precise control over type mappings is needed, especially in complex sc
 
 (------------------------------------------------------------------------)
 
+958- How can conventions be tailored to specific project needs in DI?
+
+Ans- By creating custom methods that define how types should be mapped and named.
+
+(------------------------------------------------------------------------)
+
+959- What is a code smell in the context of interface implementation in DI?
+
+Ans- When an interface has only one implementation, indicating potential design issues.
+
+(------------------------------------------------------------------------)
+
