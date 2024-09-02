@@ -2499,4 +2499,9 @@ Ans- The Interpreter pattern processes the inputs according to the grammar and p
 
 (-----------------------------------------------------------------------)
 
+419- What role does C# 3.0 play in implementing design patterns?
+
+Ans- C# 3.0 provides advanced features like delegates, LINQ, and generics, which simplify the implementation of design patterns.
+
+(-----------------------------------------------------------------------)
 
