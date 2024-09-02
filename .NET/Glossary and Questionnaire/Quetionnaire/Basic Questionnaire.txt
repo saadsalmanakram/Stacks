@@ -2865,5 +2865,11 @@ Ans- Understand how dependencies are resolved and use debugging tools to track a
 
 (-------------------------------------------------------------------------)
 
+480- Why is it important to hide implementations behind simple interfaces?
+
+Ans- Hiding implementations behind interfaces reduces coupling and allows for easier modifications without affecting other parts of the code.
+
+(-------------------------------------------------------------------------)
+
 
 
