@@ -2403,3 +2403,9 @@ Ans- The Context contains information for use by the Interpreter, typically the 
 
 (------------------------------------------------------------------------)
 
+403- What are Terminal and Nonterminal in the Interpreter pattern?
+
+Ans- Terminal represents the final terms in the input, while Nonterminal consists of other terms that may include Terminals.
+
+(------------------------------------------------------------------------)
+
