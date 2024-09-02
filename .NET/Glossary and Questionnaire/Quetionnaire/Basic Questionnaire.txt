@@ -3705,3 +3705,9 @@ Ans- Avoiding overspecified tests ensures flexibility in refactoring and reduces
 
 (-----------------------------------------------------------------------)
 
+620- What role does testability play in unit testing?
+
+Ans- Testability ensures that the code can be easily tested, which is crucial for maintaining a robust test suite.
+
+(-----------------------------------------------------------------------)
+
