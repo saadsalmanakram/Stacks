@@ -4023,3 +4023,9 @@ Ans- It occurs when a subclass refuses to implement or ignores a method inherite
 
 (-----------------------------------------------------------------------)
 
+673- How do unit testing and refactoring relate to each other?
+
+Ans- They are paired together; unit tests guide refactoring by enforcing real-world behavior expectations in the code.
+
+(-----------------------------------------------------------------------)
+
