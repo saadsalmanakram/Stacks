@@ -2343,3 +2343,9 @@ Ans- The Composite pattern sets up the multilevel structure on which the Visitor
 
 (------------------------------------------------------------------------)
 
+393- What is a key benefit of the Visitor pattern?
+
+Ans- It allows new operations to be added without altering the object structure, reducing coupling between data and behavior.
+
+(------------------------------------------------------------------------)
+
