@@ -3825,3 +3825,9 @@ Ans- It improves code quality and maintainability without changing behavior.
 
 (-----------------------------------------------------------------------)
 
+640- How does TDD (Test-Driven Development) help in writing correct code?
+
+Ans- It ensures that code meets specified requirements before implementation.
+
+(-----------------------------------------------------------------------)
+
