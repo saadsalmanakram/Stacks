@@ -5709,3 +5709,9 @@ Ans- Writing truly SOLID code often requires multiple implementations per interf
 
 (------------------------------------------------------------------------)
 
+954- How does manual registration differ from registration by convention in terms of type safety?
+
+Ans- Manual registration is weakly typed and defers errors to runtime, while conventions automate mapping but require careful setup.
+
+(------------------------------------------------------------------------)
+
