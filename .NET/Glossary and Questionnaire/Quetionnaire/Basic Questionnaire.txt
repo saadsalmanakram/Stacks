@@ -2069,3 +2069,9 @@ Ans- The Mediator pattern centralizes communication between objects, reducing di
 
 (------------------------------------------------------------------------)
 
+347- How does the Mediator pattern contribute to system modularity?
+
+Ans- By encapsulating interactions between objects, it makes the system more maintainable and scalable.
+
+(------------------------------------------------------------------------)
+
