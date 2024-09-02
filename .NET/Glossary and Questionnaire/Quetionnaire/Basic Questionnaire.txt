@@ -3387,3 +3387,9 @@ Ans- No, properties in an interface must have the same name and cannot differ by
 
 (-----------------------------------------------------------------------)
 
+567- Why does .NET not support multiple class inheritance?
+
+Ans- Multiple inheritance can cause ambiguity and the diamond problem, where the correct method or property to inherit becomes unclear.
+
+(-----------------------------------------------------------------------)
+
