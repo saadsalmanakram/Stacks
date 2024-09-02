@@ -4287,3 +4287,9 @@ Ans- It provides methods to add and remove child components, and it delegates op
 
 (-----------------------------------------------------------------------)
 
+717- What advantage does the Composite pattern provide when dealing with a hierarchy of objects?
+
+Ans- It simplifies code by treating individual objects and composites uniformly, reducing the need for conditional logic.
+
+(-----------------------------------------------------------------------)
+
