@@ -4593,4 +4593,10 @@ Ans- Extension points are mechanisms that allow adding new functionality without
 
 (-------------------------------------------------------------------------)
 
+769- How does using virtual methods serve as an extension point?
+
+Ans- Virtual methods allow subclasses to extend or override functionality without changing the base class.
+
+(-------------------------------------------------------------------------)
+
 
