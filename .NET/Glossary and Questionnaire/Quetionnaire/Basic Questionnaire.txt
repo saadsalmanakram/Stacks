@@ -5655,3 +5655,9 @@ Ans- Conventions in DI container registration simplify the process by reducing b
 
 (------------------------------------------------------------------------)
 
+946- Why is constructor injection preferred over the Service Locator pattern?
+
+Ans- Constructor injection is preferred because it makes dependencies explicit, improving code readability and testability.
+
+(------------------------------------------------------------------------)
+
