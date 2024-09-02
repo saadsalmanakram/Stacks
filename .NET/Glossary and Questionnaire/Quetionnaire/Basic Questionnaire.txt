@@ -5469,4 +5469,17 @@ Ans- The Factory pattern works with DI to manage object lifetimes and provide co
 
 (-------------------------------------------------------------------------)
 
+915- Why is DI often invisible to most of a project's code?
+
+Ans- When implemented correctly, DI is limited to the composition root, leaving the majority of the code unaware of dependency management.
+
+(-------------------------------------------------------------------------)
+
+916- How does DI improve unit testing?
+
+Ans- DI enables easier mocking and isolation of dependencies, making unit tests more straightforward and effective.
+
+(-------------------------------------------------------------------------)
+
+
 
