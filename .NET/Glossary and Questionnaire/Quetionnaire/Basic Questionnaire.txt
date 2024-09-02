@@ -2421,3 +2421,15 @@ Ans- Parsing is the process of matching input against a grammar to create an obj
 
 (------------------------------------------------------------------------)
 
+406- What is the purpose of the Interpreter method in the Interpreter pattern?
+
+Ans- The Interpreter method processes input according to the rules defined by the grammar.
+
+(-----------------------------------------------------------------------)
+
+407- How does the Interpreter pattern handle ambiguous grammars?
+
+Ans- Ambiguities can be resolved by looking ahead to the next few terms or transforming the grammar into an unambiguous one.
+
+(-----------------------------------------------------------------------)
+
