@@ -3812,3 +3812,10 @@ Ans- By adding a test that fails due to the incorrect implementation.
 Ans- It only works for specific cases, not for the general expected behavior.
 
 (-----------------------------------------------------------------------)
+
+638- What is the correct implementation for adding transactions in the Account class?
+
+Ans- The method should sum all transactions to update the balance.
+
+(-----------------------------------------------------------------------)
+
