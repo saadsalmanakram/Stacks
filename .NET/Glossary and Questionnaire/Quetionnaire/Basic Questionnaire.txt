@@ -4053,4 +4053,10 @@ Ans- If a class has multiple reasons to change, or handles multiple responsibili
 
 (-----------------------------------------------------------------------)
 
+678- How can SRP be implemented in a class with multiple responsibilities?
+
+Ans- Refactor the class by separating its responsibilities into smaller, focused classes.
+
+(-----------------------------------------------------------------------)
+
 
