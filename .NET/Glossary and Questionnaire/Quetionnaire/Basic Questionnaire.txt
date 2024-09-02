@@ -5073,3 +5073,15 @@ Ans- It can require clients to update their code to handle new exceptions, break
 
 (-------------------------------------------------------------------------)
 
+849- How does LSP relate to software maintainability?
+
+Ans- Adhering to LSP reduces the need for client code changes when extending the system, thereby improving maintainability.
+
+(-------------------------------------------------------------------------)
+
+850- What is the role of contracts in the Liskov Substitution Principle?
+
+Ans- Contracts define the expectations (preconditions and postconditions) for a class, and LSP ensures that these are preserved in subclasses.
+
+(-------------------------------------------------------------------------)
+
