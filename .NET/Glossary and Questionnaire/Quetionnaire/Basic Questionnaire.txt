@@ -3789,3 +3789,9 @@ Ans- If no specific setup is needed, as in testing a default constructor.
 
 (-----------------------------------------------------------------------)
 
+634- What should you do if a unit test fails after refactoring?
+
+Ans- Revert changes to ensure correctness, then refactor again carefully.
+
+(-----------------------------------------------------------------------)
+
