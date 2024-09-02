@@ -3009,3 +3009,9 @@ Ans- It results in tight coupling between client code and implementations, leadi
 
 (------------------------------------------------------------------------)
 
+504- How can the Entourage anti-pattern be avoided?
+
+Ans- By separating interfaces and implementations into different assemblies to reduce coupling and increase flexibility.
+
+(------------------------------------------------------------------------)
+
