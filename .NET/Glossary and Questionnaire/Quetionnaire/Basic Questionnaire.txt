@@ -5487,5 +5487,15 @@ Ans- A resolution root is the part of the application where dependencies are res
 
 (-------------------------------------------------------------------------)
 
+918- What is the Entourage anti-pattern in DI?
 
+Ans- The Entourage anti-pattern occurs when implicit dependencies create a tangled web of dependencies, making the system hard to manage.
+
+(-------------------------------------------------------------------------)
+
+919- How does the Stairway pattern relate to DI?
+
+Ans- The Stairway pattern involves correctly applying DI to ensure classes only depend on their immediate interfaces, avoiding unnecessary dependencies.
+
+(-------------------------------------------------------------------------)
 
