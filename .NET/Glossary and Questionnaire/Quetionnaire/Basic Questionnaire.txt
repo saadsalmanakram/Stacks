@@ -2619,4 +2619,10 @@ Ans- The Scrum Master ensures that the Scrum process is followed and helps remov
 
 (-----------------------------------------------------------------------)
 
+439- How does the Development Team function in Scrum?
+
+Ans- The Development Team is cross-functional, self-organizing, and collectively responsible for delivering potentially releasable increments of the product.
+
+(-----------------------------------------------------------------------)
+
 
