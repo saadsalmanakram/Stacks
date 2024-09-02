@@ -3693,3 +3693,9 @@ Ans- Simple and isolated unit tests are easier to understand, maintain, and pinp
 
 (-----------------------------------------------------------------------)
 
+618- What is an overspecified unit test?
+
+Ans- An overspecified unit test includes unnecessary details that tightly couple the test to the implementation, making it brittle and harder to maintain.
+
+(-----------------------------------------------------------------------)
+
