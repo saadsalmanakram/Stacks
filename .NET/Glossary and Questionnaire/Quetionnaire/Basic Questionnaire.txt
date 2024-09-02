@@ -4533,3 +4533,9 @@ Ans- The Adapter pattern and the Decorator pattern are examples of patterns that
 
 (-------------------------------------------------------------------------)
 
+759- How does the Adapter pattern support SRP?
+
+Ans- The Adapter pattern allows classes to use third-party libraries through interfaces, maintaining control over the code while adapting external functionality.
+
+(-------------------------------------------------------------------------)
+
