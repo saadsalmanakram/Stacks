@@ -4377,3 +4377,9 @@ Ans- The improved version abstracts the predicate logic, allowing for cleaner an
 
 (-----------------------------------------------------------------------)
 
+733- Why might you choose to use a dedicated IPredicate interface over built-in delegates or functions?
+
+Ans- It provides a flexible and extensible way to define and apply predicates, suitable for various scenarios and future extensions.
+
+(----------------------------------------------------------------------)
+
