@@ -5673,3 +5673,10 @@ Ans- Although the Service Locator can be mocked for unit testing, it complicates
 
 (------------------------------------------------------------------------)
 
+949- Why is it important to avoid referencing implementations directly in DI?
+
+Ans- Directly referencing implementations in DI defeats the purpose of decoupling, making the code rigid and harder to maintain or extend.
+
+(------------------------------------------------------------------------)
+
+
