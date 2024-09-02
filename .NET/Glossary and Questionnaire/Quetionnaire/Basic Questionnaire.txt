@@ -3915,3 +3915,9 @@ Ans- It sets up common objects and state before each test method runs, reducing 
 
 (-----------------------------------------------------------------------)
 
+655- What is TDD (Test-Driven Development)?
+
+Ans- TDD is a development process where you write a failing unit test before writing the code to implement the expected behavior.
+
+(-----------------------------------------------------------------------)
+
