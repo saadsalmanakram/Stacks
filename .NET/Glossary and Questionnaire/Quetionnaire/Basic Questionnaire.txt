@@ -4107,3 +4107,9 @@ Ans- A Rectangle class should not be extended by a Square class if the Square do
 
 (-----------------------------------------------------------------------)
 
+687- What is the Interface Segregation Principle (ISP)?
+
+Ans- ISP states that no client should be forced to depend on methods it does not use.
+
+(-----------------------------------------------------------------------)
+
