@@ -2685,3 +2685,9 @@ Ans- It is a prioritized list of all features, enhancements, and fixes that migh
 
 (-----------------------------------------------------------------------)
 
+450- How does Scrum handle changes during a project?
+
+Ans- Scrum welcomes change by incorporating it into the next sprint's planning, allowing the team to adapt iteratively.
+
+(-----------------------------------------------------------------------)
+
