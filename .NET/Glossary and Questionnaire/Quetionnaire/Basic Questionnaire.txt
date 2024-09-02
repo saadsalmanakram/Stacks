@@ -5211,3 +5211,9 @@ Ans- Each decorator maintains a one-to-one relationship with the interface it en
 
 (------------------------------------------------------------------------)
 
+872- How can you produce multiple decorators while minimizing code in this context?
+
+Ans- Use the Adapter pattern in conjunction with the Decorator pattern.
+
+(------------------------------------------------------------------------)
+
