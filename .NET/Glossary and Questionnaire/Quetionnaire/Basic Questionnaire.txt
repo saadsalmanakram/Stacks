@@ -2991,3 +2991,9 @@ Ans- Manual management can lead to version conflicts and requires developers to 
 
 (------------------------------------------------------------------------)
 
+501- How can recursive methods be represented in a dependency graph?
+
+Ans- As a loop where a method depends on itself, indicating recursion.
+
+(------------------------------------------------------------------------)
+
