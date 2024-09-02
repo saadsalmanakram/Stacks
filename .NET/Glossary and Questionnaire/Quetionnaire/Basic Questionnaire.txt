@@ -5697,4 +5697,9 @@ Ans- It provides instructions to the container on how to automatically find and 
 
 (------------------------------------------------------------------------)
 
+952- What is a potential downside of using conventions over manual registration in DI?
+
+Ans- It might register more classes than intended, leading to incorrect mappings.
+
+(------------------------------------------------------------------------)
 
