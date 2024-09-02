@@ -1883,3 +1883,9 @@ Ans- By allowing handlers to be added or removed without affecting clients or ot
 
 (------------------------------------------------------------------------)
 
+316- What is a real-world example of the Chain of Responsibility pattern?
+
+Ans- A bank where clerks, supervisors, and managers handle customer requests based on their complexity.
+
+(------------------------------------------------------------------------)
+
