@@ -5391,4 +5391,9 @@ Ans- Segregated interfaces help in creating clear, maintainable, and adaptable c
 
 (-------------------------------------------------------------------------)
 
+902- What does the concept of "decorating" an interface entail?
+
+Ans- Decorating an interface involves adding additional behaviors or functionalities without modifying the original interface implementation.
+
+(-------------------------------------------------------------------------)
 
