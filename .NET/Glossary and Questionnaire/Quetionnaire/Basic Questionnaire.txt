@@ -4137,3 +4137,9 @@ Ans- DIP states that high-level modules should not depend on low-level modules; 
 
 (-----------------------------------------------------------------------)
 
+692- Why is DIP important?
+
+Ans- DIP reduces the coupling between high-level and low-level modules, making the system more modular and easier to maintain.
+
+(-----------------------------------------------------------------------)
+
