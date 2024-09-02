@@ -2273,4 +2273,17 @@ Ans- The Observer pattern is often used in implementing the Model-View-Controlle
 
 (------------------------------------------------------------------------)
 
+381- How does the Subject in the Observer pattern handle multiple observers?
+
+Ans- The Subject maintains a list of observers and iterates through this list to notify each observer of state changes.
+
+(------------------------------------------------------------------------)
+
+382- What does it mean to unsubscribe in the Observer pattern?
+
+Ans- Unsubscribing means removing an observer from the Subject’s list, so it no longer receives updates.
+
+(------------------------------------------------------------------------)
+
+
 
