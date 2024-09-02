@@ -5289,3 +5289,9 @@ Ans- To prevent clients from accessing functionalities they don't need, thereby 
 
 (------------------------------------------------------------------------)
 
+885- What are two key reasons for practicing interface segregation?
+
+Ans- Client need and architectural design are two key reasons for interface segregation.
+
+(------------------------------------------------------------------------)
+
