@@ -4335,3 +4335,9 @@ Ans- It provides the condition for executing the decorated method, based on the 
 
 (-----------------------------------------------------------------------)
 
+726- What is the advantage of using an IPredicate interface in the predicate decorator?
+
+Ans- It allows for greater flexibility by enabling various conditions to be encapsulated and used interchangeably.
+
+(-----------------------------------------------------------------------)
+
