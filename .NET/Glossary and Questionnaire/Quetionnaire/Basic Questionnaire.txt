@@ -3105,3 +3105,9 @@ Ans- They have a low dependency burden, requiring only an HTTP client.
 
 (------------------------------------------------------------------------)
 
+520- Which class is used in ASP.NET Web API to handle HTTP requests?
+
+Ans- ApiController.
+
+(------------------------------------------------------------------------)
+
