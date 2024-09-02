@@ -3303,3 +3303,9 @@ Ans- No, interfaces cannot contain fields; they can only contain methods, proper
 
 (-----------------------------------------------------------------------)
 
+553- How does a class implement an interface?
+
+Ans- A class implements an interface by providing concrete implementations for all its members.
+
+(-----------------------------------------------------------------------)
+
