@@ -2033,3 +2033,9 @@ Ans- Yield return returns the next value in the iteration sequence, pausing the 
 
 (------------------------------------------------------------------------)
 
+341- How does C# 3.0 support the Iterator pattern?
+
+Ans- C# 3.0 supports the Iterator pattern through LINQ, which allows for compact and versatile iteration over collections.
+
+(------------------------------------------------------------------------)
+
