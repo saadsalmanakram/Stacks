@@ -3513,3 +3513,9 @@ Ans- No, C# is a statically typed language and does not natively support duck-ty
 
 (-----------------------------------------------------------------------)
 
+588- How can duck-typing be achieved in C#?
+
+Ans- Duck-typing can be achieved in C# using the dynamic keyword or third-party libraries like Impromptu Interface.
+
+(-----------------------------------------------------------------------)
+
