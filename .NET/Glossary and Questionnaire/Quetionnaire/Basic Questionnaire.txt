@@ -4071,3 +4071,9 @@ Ans- OCP allows you to add new functionality without altering existing, stable c
 
 (-----------------------------------------------------------------------)
 
+681- How can you apply OCP in object-oriented design?
+
+Ans- Use inheritance, interfaces, or abstract classes to extend existing functionality without modifying existing code.
+
+(-----------------------------------------------------------------------)
+
