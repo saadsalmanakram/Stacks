@@ -2439,3 +2439,9 @@ Ans- The Visitor pattern should be used when you have a sealed class hierarchy, 
 
 (-----------------------------------------------------------------------)
 
+409- What is the role of Mirror in the context of the Interpreter pattern?
+
+Ans- Mirror is an industrial-strength example that interprets XML for any .NET API and calls the methods specified in the XML.
+
+(-----------------------------------------------------------------------)
+
