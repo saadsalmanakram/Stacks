@@ -2409,3 +2409,9 @@ Ans- Terminal represents the final terms in the input, while Nonterminal consist
 
 (------------------------------------------------------------------------)
 
+404- How is the Interpreter pattern related to XML?
+
+Ans- The Interpreter pattern can be used to parse and interpret XML to create and manage GUI objects.
+
+(------------------------------------------------------------------------)
+
