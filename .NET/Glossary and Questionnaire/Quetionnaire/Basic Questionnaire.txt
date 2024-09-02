@@ -3771,3 +3771,9 @@ Ans- The expected outcomes or results are verified against actual outcomes.
 
 (-----------------------------------------------------------------------)
 
+631- Why is it important to write descriptive names for test methods?
+
+Ans- It clarifies the expected behavior the test is validating.
+
+(-----------------------------------------------------------------------)
+
