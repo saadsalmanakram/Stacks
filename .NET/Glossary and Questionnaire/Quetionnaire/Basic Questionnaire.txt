@@ -4785,3 +4785,9 @@ Ans- Code contracts are formal agreements in the code that define the expected b
 
 (------------------------------------------------------------------------)
 
+801- What is a precondition in a code contract?
+
+Ans- A precondition is a condition that must be true before a method is executed, ensuring that the method operates under valid assumptions.
+
+(------------------------------------------------------------------------)
+
