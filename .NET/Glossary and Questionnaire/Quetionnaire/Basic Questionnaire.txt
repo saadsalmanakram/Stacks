@@ -3585,3 +3585,9 @@ Ans- Method chaining reduces the need for repeated references to the interface i
 
 (-----------------------------------------------------------------------)
 
+600- What must a method return to be considered fluent?
+
+Ans- A method must return the interface itself (i.e., this) to be considered fluent.
+
+(-----------------------------------------------------------------------)
+
