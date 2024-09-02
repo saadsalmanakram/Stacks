@@ -2715,3 +2715,9 @@ Ans- Automated tests help ensure that the stories meet the acceptance criteria a
 
 (-----------------------------------------------------------------------)
 
+455- How does Scrum compare to traditional project management methodologies?
+
+Ans- Scrum is more flexible and iterative, allowing for continuous improvement and better responsiveness to change.
+
+(-----------------------------------------------------------------------)
+
