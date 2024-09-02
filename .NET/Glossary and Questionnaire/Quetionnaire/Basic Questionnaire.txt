@@ -3321,3 +3321,9 @@ Ans- The Adapter pattern uses interfaces to convert the interface of a class int
 
 (-----------------------------------------------------------------------)
 
+556- How does the Strategy pattern apply to interfaces?
+
+Ans- The Strategy pattern uses interfaces to define a family of algorithms, encapsulating each one and making them interchangeable.
+
+(-----------------------------------------------------------------------)
+
