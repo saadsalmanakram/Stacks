@@ -1937,3 +1937,9 @@ Ans- Exceptions can propagate through the chain, allowing handlers to either pro
 
 (------------------------------------------------------------------------)
 
+325- What is the Command pattern?
+
+Ans- It's a behavioral design pattern that encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations.
+
+(------------------------------------------------------------------------)
+
