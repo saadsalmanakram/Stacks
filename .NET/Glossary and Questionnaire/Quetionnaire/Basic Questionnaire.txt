@@ -4179,3 +4179,15 @@ Ans- To ensure each class has a single responsibility and delegates tasks to app
 
 (-----------------------------------------------------------------------)
 
+699- How does the adapter pattern benefit the logging mechanism?
+
+Ans- It allows flexibility in logging by converting third-party references into first-party references.
+
+(-----------------------------------------------------------------------)
+
+700- How does refactoring affect the adaptability of the code?
+
+Ans- It makes the code easier to enhance and modify without altering existing classes.
+
+(-----------------------------------------------------------------------)
+
