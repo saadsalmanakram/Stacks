@@ -4941,4 +4941,10 @@ Ans- Method visibility should be carefully managed, and fields should be accesse
 
 (------------------------------------------------------------------------)
 
+827- What is a common refactoring approach to address LSP violations?
+
+Ans- Tighten the visibility of fields and provide access only through protected or public properties with guard clauses.
+
+(------------------------------------------------------------------------)
+
 
