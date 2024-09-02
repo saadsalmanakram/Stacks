@@ -3129,3 +3129,8 @@ Ans- By using the System.Net.WebRequest class to create and send requests.
 
 (------------------------------------------------------------------------)
 
+524- What is NuGet used for in .NET projects?
+
+Ans- Managing and installing packages, including dependencies and versioning.
+
+(------------------------------------------------------------------------)
