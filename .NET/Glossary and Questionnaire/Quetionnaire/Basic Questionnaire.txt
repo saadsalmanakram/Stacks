@@ -3399,3 +3399,8 @@ Ans- .NET allows a class to implement multiple interfaces, resolving ambiguity b
 
 (-----------------------------------------------------------------------)
 
+569- What is a common anti-pattern when using interfaces?
+
+Ans- Overusing interfaces can lead to complex hierarchies and tightly coupled code if not managed properly.
+
+(-----------------------------------------------------------------------)
