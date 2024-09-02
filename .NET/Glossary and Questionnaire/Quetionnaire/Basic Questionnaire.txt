@@ -2901,4 +2901,10 @@ Ans- By removing unused framework references, you simplify the dependency struct
 
 (------------------------------------------------------------------------)
 
+486- What can be inferred if a dependency assembly is not loaded during debugging?
+
+Ans- It means that the application is not actively using any functionality from that assembly.
+
+(------------------------------------------------------------------------)
+
 
