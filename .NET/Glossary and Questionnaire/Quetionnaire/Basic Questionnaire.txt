@@ -3189,3 +3189,9 @@ Ans- Layers are logical groupings of functionality, while tiers refer to physica
 
 (-----------------------------------------------------------------------)
 
+534- What is the primary advantage of deploying an application in multiple tiers?
+
+Ans- It allows for better scalability by separating different layers of the application across different machines.
+
+(-----------------------------------------------------------------------)
+
