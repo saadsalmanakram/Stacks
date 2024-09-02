@@ -4251,3 +4251,15 @@ Ans- By creating a predicate decorator that conditionally executes methods based
 
 (-----------------------------------------------------------------------)
 
+711- How does the Decorator pattern support open/closed principle?
+
+Ans- It allows extending the behavior of classes without modifying their existing code, thus supporting the open/closed principle.
+
+(-----------------------------------------------------------------------)
+
+712- Can you provide an example of a real-world application of the Decorator pattern?
+
+Ans- Adding new features to UI components, such as scroll bars or borders, dynamically.
+
+(-----------------------------------------------------------------------)
+
