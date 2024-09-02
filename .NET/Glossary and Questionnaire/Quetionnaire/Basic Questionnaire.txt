@@ -4641,3 +4641,9 @@ Ans- Tightly coupled code makes it difficult to extend functionality without mod
 
 (-------------------------------------------------------------------------)
 
+777- Why should you not add extension points everywhere?
+
+Ans- Adding extension points everywhere can lead to overengineering and increased complexity, making the codebase harder to maintain.
+
+(-------------------------------------------------------------------------)
+
