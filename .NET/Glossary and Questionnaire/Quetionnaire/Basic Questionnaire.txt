@@ -4581,4 +4581,10 @@ Ans- Changes are allowed if they do not require updates to clients of the modifi
 
 (-------------------------------------------------------------------------)
 
+767- What does it mean to treat SOLID code as append-only?
+
+Ans- It means adding new functionality without altering existing code, thereby adhering to OCP.
+
+(-------------------------------------------------------------------------)
+
 
