@@ -5067,3 +5067,9 @@ Ans- New exceptions should inherit from a common base exception class to maintai
 
 (-------------------------------------------------------------------------)
 
+848- Why is it problematic to introduce new exceptions in subclasses?
+
+Ans- It can require clients to update their code to handle new exceptions, breaking the principle that subclasses should be usable in place of superclasses without modification.
+
+(-------------------------------------------------------------------------)
+
