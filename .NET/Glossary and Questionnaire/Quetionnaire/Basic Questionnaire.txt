@@ -3285,3 +3285,9 @@ Ans- Atomicity, Consistency, Isolation, Durability.
 
 (-----------------------------------------------------------------------)
 
+550- What is an interface in .NET?
+
+Ans- An interface defines a contract for classes by specifying methods, properties, and events without implementing them.
+
+(-----------------------------------------------------------------------)
+
