@@ -5631,3 +5631,9 @@ Ans- The resolution root is the object or type that forms the base of the object
 
 (------------------------------------------------------------------------)
 
+942- Why is Poor Man’s DI considered laborious?
+
+Ans- Poor Man's DI, which involves manually constructing classes and their dependencies, can be verbose and cumbersome, especially in advanced scenarios with complex object graphs.
+
+(------------------------------------------------------------------------)
+
