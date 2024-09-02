@@ -5169,3 +5169,10 @@ Ans- It allows the interface to be reused across different entity types while ma
 
 (------------------------------------------------------------------------)
 
+865- What are cross-cutting concerns, and how do they relate to decorators?
+
+Ans- Cross-cutting concerns, like logging and transaction management, apply to multiple methods or interfaces and can be managed using decorators.
+
+(------------------------------------------------------------------------)
+
+
