@@ -3225,3 +3225,10 @@ Ans- It encapsulates complex processing and business rules, making the system mo
 
 (-----------------------------------------------------------------------)
 
+540- What are cross-cutting concerns in software architecture?
+
+Ans- Concerns such as logging, security, and caching that span multiple layers and require non-invasive implementation.
+
+(-----------------------------------------------------------------------)
+
+
