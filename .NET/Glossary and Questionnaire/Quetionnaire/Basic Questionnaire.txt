@@ -4755,3 +4755,8 @@ Ans- Violating LSP can lead to broken code, as subclasses might not behave as ex
 
 (-------------------------------------------------------------------------)
 
+796- How does LSP relate to the Open/Closed Principle?
+
+Ans- LSP supports the Open/Closed Principle by ensuring that new subclasses can be added without modifying existing client code.
+
+(-------------------------------------------------------------------------)
