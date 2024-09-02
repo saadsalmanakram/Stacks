@@ -4815,3 +4815,9 @@ Ans- Covariance allows a method to return a more specific type (a subtype) than 
 
 (------------------------------------------------------------------------)
 
+806- What is contravariance?
+
+Ans- Contravariance allows a method to accept arguments of a more general type (a supertype) than that defined by the base class.
+
+(------------------------------------------------------------------------)
+
