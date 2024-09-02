@@ -5385,4 +5385,10 @@ Ans- Extra context can be provided through other interfaces implemented on the s
 
 (-------------------------------------------------------------------------)
 
+901- What is the primary advantage of using segregated interfaces in software design?
+
+Ans- Segregated interfaces help in creating clear, maintainable, and adaptable code by minimizing unnecessary dependencies.
+
+(-------------------------------------------------------------------------)
+
 
