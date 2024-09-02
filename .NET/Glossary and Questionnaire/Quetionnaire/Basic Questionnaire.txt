@@ -4844,3 +4844,10 @@ Ans- Contravariance applies to method arguments in derived classes, allowing for
 Ans- Preconditions cannot be strengthened in a subclass; doing so would break existing client code.
 
 (------------------------------------------------------------------------)
+
+811- What are the consequences of strengthening preconditions in a subclass?
+
+Ans- Strengthening preconditions may cause exceptions in client code that worked correctly with the superclass.
+
+(------------------------------------------------------------------------)
+
