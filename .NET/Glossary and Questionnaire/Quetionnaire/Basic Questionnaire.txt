@@ -4688,3 +4688,10 @@ Ans- Over-abstraction can lead to unnecessary complexity and maintenance challen
 Ans- It is appropriate when you determine that the code is unlikely to change, and the cost of abstraction outweighs the benefits.
 
 (-------------------------------------------------------------------------)
+
+785- How can you assess whether to apply OCP to a specific part of your code?
+
+Ans- Evaluate the likelihood of future changes and the impact of those changes to decide if OCP should be applied.
+
+(-------------------------------------------------------------------------)
+
