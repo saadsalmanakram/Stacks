@@ -3213,3 +3213,9 @@ Ans- A: It is less suitable for applications with significant business logic or 
 
 (-----------------------------------------------------------------------)
 
+538- What additional layer does the three-layer architecture introduce?
+
+Ans- It introduces a business logic layer between the user interface and data access layers.
+
+(-----------------------------------------------------------------------)
+
