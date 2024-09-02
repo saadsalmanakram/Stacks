@@ -2213,3 +2213,8 @@ Ans- The main components are the Subject, Observer, and the Notify method.
 
 (------------------------------------------------------------------------)
 
+371- What role does the Subject play in the Observer pattern?
+
+Ans- The Subject maintains state and notifies Observers when this state changes.
+
+(------------------------------------------------------------------------)
