@@ -3170,3 +3170,10 @@ Ans- Chocolatey manages application and tool packages, while NuGet handles libra
 Ans- Use the cinst command followed by the package name.
 
 (-----------------------------------------------------------------------)
+
+531- What is the purpose of organizing assemblies into components?
+
+Ans- To group related assemblies together and ensure they interact in a structured manner.
+
+(-----------------------------------------------------------------------)
+
