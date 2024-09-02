@@ -2607,4 +2607,10 @@ Ans- Product Owner, Scrum Master, and Development Team.
 
 (-----------------------------------------------------------------------)
 
+437- What is the main responsibility of the Product Owner?
+
+Ans- The Product Owner prioritizes and manages the product backlog, ensuring features deliver business value.
+
+(-----------------------------------------------------------------------)
+
 
