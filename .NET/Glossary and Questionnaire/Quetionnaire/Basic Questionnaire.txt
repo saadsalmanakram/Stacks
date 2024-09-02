@@ -4437,3 +4437,15 @@ Ans- It cannot access private state of the decorated class and might require a s
 
 (-------------------------------------------------------------------------)
 
+743- What is the main use of a profiling decorator?
+
+Ans- It measures and logs the time taken by methods to execute, helping identify performance bottlenecks.
+
+(-------------------------------------------------------------------------)
+
+744- How does a profiling decorator typically measure performance?
+
+Ans- By using a Stopwatch to time the method execution and log the duration.
+
+(-------------------------------------------------------------------------)
+
