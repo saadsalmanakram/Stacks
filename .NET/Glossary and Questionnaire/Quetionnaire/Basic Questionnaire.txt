@@ -2385,3 +2385,9 @@ Ans- The Interpreter pattern supports interpreting instructions written in a lan
 
 (------------------------------------------------------------------------)
 
+400- When should the Interpreter pattern be used?
+
+Ans- It should be used when you have a language or grammar that needs to be parsed and interpreted.
+
+(------------------------------------------------------------------------)
+
