@@ -5175,4 +5175,10 @@ Ans- Cross-cutting concerns, like logging and transaction management, apply to m
 
 (------------------------------------------------------------------------)
 
+866- How does aspect-oriented programming (AOP) relate to ISP?
+
+Ans- AOP allows you to apply cross-cutting concerns, like logging or security, without modifying the actual interfaces, complementing ISP by keeping interfaces focused.
+
+(------------------------------------------------------------------------)
+
 
