@@ -2691,3 +2691,9 @@ Ans- Scrum welcomes change by incorporating it into the next sprint's planning, 
 
 (-----------------------------------------------------------------------)
 
+451- Why is documentation minimized in Scrum?
+
+Ans- Scrum favors working software over extensive documentation, focusing on what directly improves the product.
+
+(-----------------------------------------------------------------------)
+
