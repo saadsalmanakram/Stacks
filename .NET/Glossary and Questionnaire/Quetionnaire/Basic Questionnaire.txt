@@ -4083,3 +4083,14 @@ Ans- Modifying a class directly when adding new features instead of extending it
 
 (----------------------------------------------------------------------)
 
+683- What is the Liskov Substitution Principle (LSP)?
+
+Ans- LSP states that objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.
+
+(-----------------------------------------------------------------------)
+
+684- Why is LSP important?
+
+Ans- LSP ensures that derived classes extend the base class without changing its expected behavior, promoting reliable polymorphism.
+
+(-----------------------------------------------------------------------)
