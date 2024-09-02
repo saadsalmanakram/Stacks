@@ -5265,3 +5265,8 @@ Ans- Because they depend on different sets of dependencies, leading to potential
 
 (------------------------------------------------------------------------)
 
+881- What happens if you change the type of one of the interfaces in the OrderController?
+
+Ans- The method associated with that interface will no longer work as it expects a different type.
+
+(------------------------------------------------------------------------)
