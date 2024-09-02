@@ -4659,3 +4659,9 @@ Ans- Assess areas with predicted variation or potential future changes and apply
 
 (-------------------------------------------------------------------------)
 
+780- What role do interfaces play in implementing the OCP?
+
+Ans- Interfaces provide a way to define extension points that can be extended without modifying the existing code.
+
+(-------------------------------------------------------------------------)
+
