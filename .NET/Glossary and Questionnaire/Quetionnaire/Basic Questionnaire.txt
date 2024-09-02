@@ -4479,3 +4479,9 @@ Ans- Yes, properties and events can be decorated by manually implementing their 
 
 (-------------------------------------------------------------------------)
 
+750- How do you decorate a property using the decorator pattern?
+
+Ans- By providing custom logic in the getter and setter that interacts with the decorated instance.
+
+(-------------------------------------------------------------------------)
+
