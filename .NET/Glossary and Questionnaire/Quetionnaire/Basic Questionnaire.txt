@@ -4119,3 +4119,9 @@ Ans- ISP minimizes the impact of changes by ensuring that clients only depend on
 
 (-----------------------------------------------------------------------)
 
+689- How can you apply ISP in your design?
+
+Ans- Split large, monolithic interfaces into smaller, more specific ones that are tailored to the needs of clients.
+
+(-----------------------------------------------------------------------)
+
