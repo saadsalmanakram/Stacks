@@ -4425,3 +4425,9 @@ Ans- It adds logging functionality around method calls without modifying the cor
 
 (-------------------------------------------------------------------------)
 
+741- How does a logging decorator help in maintaining code quality?
+
+Ans- It centralizes logging, making the code cleaner and easier to maintain.
+
+(-------------------------------------------------------------------------)
+
