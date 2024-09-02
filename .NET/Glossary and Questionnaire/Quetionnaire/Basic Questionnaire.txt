@@ -2481,4 +2481,10 @@ Ans- The SetUp method prepares the context and input data for interpretation.
 
 (-----------------------------------------------------------------------)
 
+416- What is the Parse method used for in the Interpreter pattern?
+
+Ans- The Parse method determines whether an element is terminal or nonterminal and creates the corresponding object structure.
+
+(-----------------------------------------------------------------------)
+
 
