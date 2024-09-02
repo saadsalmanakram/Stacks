@@ -2613,4 +2613,10 @@ Ans- The Product Owner prioritizes and manages the product backlog, ensuring fea
 
 (-----------------------------------------------------------------------)
 
+438- What is the role of the Scrum Master in a Scrum project?
+
+Ans- The Scrum Master ensures that the Scrum process is followed and helps remove any impediments for the team.
+
+(-----------------------------------------------------------------------)
+
 
