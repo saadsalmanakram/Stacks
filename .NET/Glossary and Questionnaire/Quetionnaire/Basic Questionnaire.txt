@@ -5577,3 +5577,9 @@ Ans- An InjectionFactory allows for custom creation logic, such as resolving dep
 
 (------------------------------------------------------------------------)
 
+933- Why might you avoid calling Resolve inside your application classes?
+
+Ans- Calling Resolve within application classes can create tight coupling and reduce the testability of the code.
+
+(------------------------------------------------------------------------)
+
