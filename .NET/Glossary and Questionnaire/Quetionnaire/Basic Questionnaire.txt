@@ -2301,3 +2301,8 @@ Ans- Observers may only care about specific data changes that are relevant to th
 
 (------------------------------------------------------------------------)
 
+386- What problem does the Observer pattern solve?
+
+Ans- It solves the problem of maintaining consistency between related objects without tightly coupling them.
+
+(------------------------------------------------------------------------)
