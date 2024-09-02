@@ -3717,3 +3717,9 @@ Ans- The SUT is the specific piece of code or class that is being tested in a un
 
 (-----------------------------------------------------------------------)
 
+622- Why should the Act phase of a unit test involve only one interaction with the SUT?
+
+Ans- Limiting the Act phase to one interaction ensures clarity and focus in what the test is verifying.
+
+(-----------------------------------------------------------------------)
+
