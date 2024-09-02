@@ -3249,4 +3249,9 @@ Ans- CQRS is an architectural pattern that separates read (query) and write (com
 
 (-----------------------------------------------------------------------)
 
+544- How does command/query separation (CQS) influence method design?
+
+Ans- It mandates that methods should either be commands (perform actions) or queries (retrieve data), not both.
+
+(-----------------------------------------------------------------------)
 
