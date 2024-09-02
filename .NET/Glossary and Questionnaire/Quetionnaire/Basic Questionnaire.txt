@@ -5157,3 +5157,9 @@ Ans- ISP allows you to isolate read operations into a specific interface, making
 
 (------------------------------------------------------------------------)
 
+863- Why might you unify Create and Update methods into a single Save method?
+
+Ans- Both methods serve similar purposes, so unifying them can simplify the interface and reduce redundancy.
+
+(------------------------------------------------------------------------)
+
