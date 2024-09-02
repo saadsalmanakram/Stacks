@@ -4947,4 +4947,10 @@ Ans- Tighten the visibility of fields and provide access only through protected 
 
 (------------------------------------------------------------------------)
 
+828- How do code contracts help in adhering to LSP?
+
+Ans- Code contracts formally specify preconditions, postconditions, and invariants, ensuring that subclasses adhere to these constraints and maintain substitutability.
+
+(------------------------------------------------------------------------)
+
 
