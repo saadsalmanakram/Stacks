@@ -4395,3 +4395,9 @@ Ans- It executes one component if the predicate returns true, otherwise it execu
 
 (-------------------------------------------------------------------------)
 
+736- What is the key advantage of using a branching decorator?
+
+Ans- It allows dynamic decision-making in method execution based on runtime conditions.
+
+(-------------------------------------------------------------------------)
+
