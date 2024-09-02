@@ -5607,3 +5607,9 @@ Ans- Proper lifetime management prevents resource leaks and ensures that objects
 
 (------------------------------------------------------------------------)
 
+938- What is a composition root in the context of IoC?
+
+Ans- The composition root is the central point where the application’s dependency graph is constructed, often using an IoC container.
+
+(------------------------------------------------------------------------)
+
