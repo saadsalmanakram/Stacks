@@ -4665,3 +4665,9 @@ Ans- Interfaces provide a way to define extension points that can be extended wi
 
 (-------------------------------------------------------------------------)
 
+781- What is the difference between implementation inheritance and interface inheritance in terms of OCP?
+
+Ans- Implementation inheritance allows subclassing and overriding methods, while interface inheritance allows creating new classes that adhere to predefined contracts without changing the base code.
+
+(-------------------------------------------------------------------------)
+
