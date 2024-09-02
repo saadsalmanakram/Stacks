@@ -2325,3 +2325,9 @@ Ans- It defines and performs new operations on all the elements of an existing s
 
 (------------------------------------------------------------------------)
 
+390- How does the Visitor pattern relate to object structures?
+
+Ans- The pattern operates on a composite structure of several related element types, allowing operations to be applied to these elements without modifying the structure.
+
+(------------------------------------------------------------------------)
+
