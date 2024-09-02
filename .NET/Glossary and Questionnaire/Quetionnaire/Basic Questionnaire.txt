@@ -3807,3 +3807,8 @@ Ans- By adding a test that fails due to the incorrect implementation.
 
 (-----------------------------------------------------------------------)
 
+637- Why might hardcoding a value in a method pass some tests but still be incorrect?
+
+Ans- It only works for specific cases, not for the general expected behavior.
+
+(-----------------------------------------------------------------------)
