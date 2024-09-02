@@ -2877,5 +2877,11 @@ Ans- A dependency is a relationship where one entity (e.g., a class or assembly)
 
 (-------------------------------------------------------------------------)
 
+482- What is the difference between a first-party and a third-party dependency?
+
+Ans- First-party dependencies are within the same code base, while third-party dependencies are external assemblies or libraries.
+
+(------------------------------------------------------------------------)
+
 
 
