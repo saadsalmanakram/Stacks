@@ -2349,3 +2349,9 @@ Ans- It allows new operations to be added without altering the object structure,
 
 (------------------------------------------------------------------------)
 
+394- What is the concept of "double-dispatch" in the Visitor pattern?
+
+Ans- Double-dispatch refers to the process where a method call depends on the runtime type of two objects: the visitor and the element being visited.
+
+(------------------------------------------------------------------------)
+
