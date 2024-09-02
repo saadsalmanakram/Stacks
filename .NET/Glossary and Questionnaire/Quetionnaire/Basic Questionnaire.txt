@@ -3765,3 +3765,9 @@ Ans- It performs the action or invokes the method being tested.
 
 (-----------------------------------------------------------------------)
 
+630- What is verified during the Assert phase in a unit test?
+
+Ans- The expected outcomes or results are verified against actual outcomes.
+
+(-----------------------------------------------------------------------)
+
