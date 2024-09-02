@@ -2306,3 +2306,10 @@ Ans- Observers may only care about specific data changes that are relevant to th
 Ans- It solves the problem of maintaining consistency between related objects without tightly coupling them.
 
 (------------------------------------------------------------------------)
+
+387- In what way does the Observer pattern enhance modularity?
+
+Ans- By decoupling the Subject and Observers, the Observer pattern allows modules to be developed, tested, and maintained independently.
+
+(------------------------------------------------------------------------)
+
