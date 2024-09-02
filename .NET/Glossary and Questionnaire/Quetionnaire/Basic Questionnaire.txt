@@ -5259,3 +5259,9 @@ Ans- To ensure that clients only depend on the interfaces they actually use.
 
 (------------------------------------------------------------------------)
 
+880- Why is it unwise to combine event publishing and auditing decorators in one class?
+
+Ans- Because they depend on different sets of dependencies, leading to potential complexity and reduced clarity.
+
+(------------------------------------------------------------------------)
+
