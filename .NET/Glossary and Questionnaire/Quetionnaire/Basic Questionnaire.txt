@@ -2925,4 +2925,10 @@ Ans- NuGet automates downloading, referencing, and updating third-party packages
 
 (------------------------------------------------------------------------)
 
+490- How does a directed graph model code dependencies?
+
+Ans- Nodes represent components, and directed edges represent dependencies between these components.
+
+(------------------------------------------------------------------------)
+
 
