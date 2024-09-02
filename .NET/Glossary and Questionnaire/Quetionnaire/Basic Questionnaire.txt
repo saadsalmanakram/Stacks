@@ -2667,3 +2667,9 @@ Ans- Daily Stand-ups, Sprint Planning, Sprint Review, and Sprint Retrospective.
 
 (-----------------------------------------------------------------------)
 
+447- Why is Scrum considered an Agile methodology?
+
+Ans- Scrum follows Agile principles, emphasizing iterative development, collaboration, and adaptability to change.
+
+(-----------------------------------------------------------------------)
+
