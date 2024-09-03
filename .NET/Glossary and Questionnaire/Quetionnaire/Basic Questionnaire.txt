@@ -5859,3 +5859,9 @@ Ans- The .NET Micro Framework is a version of the .NET Framework designed for sm
 
 (------------------------------------------------------------------------)
 
+979- What is a block-structured language, and is C# one?
+
+Ans- A block-structured language organizes code into blocks; C# is indeed block-structured.
+
+(------------------------------------------------------------------------)
+
