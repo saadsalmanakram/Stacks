@@ -5991,3 +5991,16 @@ Ans- && is a conditional AND operator that short-circuits (stops evaluation if t
 
 (------------------------------------------------------------------------)
 
+1001- What is the difference between || and | operators?
+
+Ans- || is a conditional OR operator that short-circuits (stops evaluation if the first operand is true), while | always evaluates both operands.
+
+(------------------------------------------------------------------------)
+
+1002- What is the purpose of the ToLower() method in the switch statement?
+
+Ans- It ensures case-insensitive comparison of the user input with constant strings.
+
+(------------------------------------------------------------------------)
+
+
