@@ -6237,3 +6237,9 @@ Ans- Removes leading and trailing whitespace (or specified characters) from the 
 
 (-------------------------------------------------------------------------)
 
+1042- What does the PadLeft() method do?
+
+Ans- Pads the string with spaces (or a specified character) on the left to reach a certain length.
+
+(-------------------------------------------------------------------------)
+
