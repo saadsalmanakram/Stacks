@@ -5805,3 +5805,9 @@ Ans- The GAC is a machine-wide cache used to store assemblies that can be shared
 
 (------------------------------------------------------------------------)
 
+970- What is managed code?
+
+Ans- Managed code is code executed by the CLR, benefiting from features like garbage collection, security, and exception handling.
+
+(------------------------------------------------------------------------)
+
