@@ -6213,3 +6213,9 @@ Ans- By using an index, e.g., char myChar = myString[1];
 
 (-------------------------------------------------------------------------)
 
+1038- Can you modify a specific character in a string directly?
+
+Ans- No, strings are immutable in C#.
+
+(-------------------------------------------------------------------------)
+
