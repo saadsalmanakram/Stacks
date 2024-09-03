@@ -6267,3 +6267,9 @@ Ans- Function overloading allows multiple functions with the same name but diffe
 
 (------------------------------------------------------------------------)
 
+1047- What is variable scope in C#?
+
+Ans- Variable scope refers to the visibility and lifetime of a variable within different parts of a program, such as within a function or globally.
+
+(------------------------------------------------------------------------)
+
