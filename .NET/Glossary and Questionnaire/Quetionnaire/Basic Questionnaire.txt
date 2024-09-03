@@ -5967,3 +5967,9 @@ Ans- Adding two char variables results in an int value, representing the sum of 
 
 (------------------------------------------------------------------------)
 
+997- What is an implicit conversion in C#?
+
+Ans- Implicit conversion automatically converts one data type to another, like when adding char variables.
+
+(------------------------------------------------------------------------)
+
