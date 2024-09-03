@@ -5823,3 +5823,9 @@ Ans- .NET Standard is a set of APIs that are available across different .NET imp
 
 (------------------------------------------------------------------------)
 
+973- Why is .NET Core considered cross-platform?
+
+Ans- .NET Core is designed to run on various operating systems, including Windows, Linux, and macOS, making it cross-platform.
+
+(------------------------------------------------------------------------)
+
