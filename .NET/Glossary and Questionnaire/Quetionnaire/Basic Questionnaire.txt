@@ -5919,5 +5919,11 @@ Ans- For float, use f or F; for double, use d or D; and for decimal, use m or M.
 
 (------------------------------------------------------------------------)
 
+989- How do binary literals start in C#?
+
+Ans- Binary literals start with 0b.
+
+(------------------------------------------------------------------------)
+
 
  
