@@ -5931,5 +5931,11 @@ Ans- Digit separators (underscores) improve the readability of large numbers in 
 
 (------------------------------------------------------------------------)
 
+991- How do you declare a verbatim string literal in C#?
+
+Ans- Use the @ symbol before the string, e.g., @"This is a verbatim string."
+
+(------------------------------------------------------------------------)
+
 
  
