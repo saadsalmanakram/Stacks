@@ -6261,3 +6261,9 @@ Ans- An expression-bodied method uses the => (lambda arrow) to write concise met
 
 (------------------------------------------------------------------------)
 
+1046- What is function overloading in C#?
+
+Ans- Function overloading allows multiple functions with the same name but different parameters to coexist in the same scope.
+
+(------------------------------------------------------------------------)
+
