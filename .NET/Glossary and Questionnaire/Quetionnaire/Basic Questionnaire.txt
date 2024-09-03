@@ -6201,3 +6201,9 @@ Ans- A rectangular array has all rows of the same size, while a jagged array can
 
 (-------------------------------------------------------------------------)
 
+1036- Can you initialize a jagged array directly with values?
+
+Ans- Yes, using syntax like int[][] jaggedArray = { new int[] {1, 2}, new int[] {3}, new int[] {4, 5, 6} };
+
+(-------------------------------------------------------------------------)
+
