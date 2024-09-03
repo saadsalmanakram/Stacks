@@ -5901,5 +5901,11 @@ Ans- C# keywords have specialized meanings, and using them as variable names wil
 
 (------------------------------------------------------------------------)
 
+986- What are literal values in C#?
+
+Ans- Literal values are fixed values directly used in the code, such as 17 for integers or "text" for strings.
+
+(------------------------------------------------------------------------)
+
 
  
