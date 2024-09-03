@@ -6135,5 +6135,10 @@ Ans- single-dimensional array is a linear list of elements, while a multi-dimens
 
 (------------------------------------------------------------------------)
 
+1025- What happens if the string value does not match any enumeration value?
+
+Ans- An error occurs during the conversion process.
+
+(-----------------------------------------------------------------------)
 
 
