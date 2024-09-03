@@ -6279,3 +6279,9 @@ Ans- Functions can be defined within struct types to operate on data stored with
 
 (------------------------------------------------------------------------)
 
+1049- What are delegates in C#?
+
+Ans- Delegates are type-safe function pointers that allow methods to be passed as parameters and called dynamically at runtime.
+
+(------------------------------------------------------------------------)
+
