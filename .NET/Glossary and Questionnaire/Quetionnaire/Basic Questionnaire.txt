@@ -6147,4 +6147,10 @@ Ans- Yes, enumeration values are case-sensitive.
 
 (-----------------------------------------------------------------------)
 
+1027- How do you access members of a struct?
+
+Ans- Use the dot notation, e.g., myRoute.direction.
+
+(-----------------------------------------------------------------------)
+
 
