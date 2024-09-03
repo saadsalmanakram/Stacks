@@ -5853,3 +5853,9 @@ Ans- JIT compilation improves performance by converting code to machine-specific
 
 (------------------------------------------------------------------------)
 
+978- What is the purpose of the .NET Micro Framework?
+
+Ans- The .NET Micro Framework is a version of the .NET Framework designed for small devices with limited resources.
+
+(------------------------------------------------------------------------)
+
