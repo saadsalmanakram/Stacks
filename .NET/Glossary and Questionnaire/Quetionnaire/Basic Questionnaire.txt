@@ -5889,5 +5889,17 @@ Ans- The first character must be a letter, underscore (_), or at symbol (@), whi
 
 (------------------------------------------------------------------------)
 
+984- Can you use numbers as the first character in a variable name in C#?
+
+Ans- No, the first character must be a letter, underscore, or at symbol.
+
+(------------------------------------------------------------------------)
+
+985- Why should you avoid using C# keywords as variable names?
+
+Ans- C# keywords have specialized meanings, and using them as variable names will cause compiler errors.
+
+(------------------------------------------------------------------------)
+
 
  
