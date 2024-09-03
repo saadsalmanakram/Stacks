@@ -6273,3 +6273,9 @@ Ans- Variable scope refers to the visibility and lifetime of a variable within d
 
 (------------------------------------------------------------------------)
 
+1048- How can you use functions as members of struct types in C#?
+
+Ans- Functions can be defined within struct types to operate on data stored within the struct, similar to methods in classes.
+
+(------------------------------------------------------------------------)
+
