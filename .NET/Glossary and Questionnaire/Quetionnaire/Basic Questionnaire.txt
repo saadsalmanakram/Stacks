@@ -5793,4 +5793,9 @@ Ans- An assembly is a compiled code library in .NET, which can be either an exec
 
 (------------------------------------------------------------------------)
 
+968- What is metadata in a .NET assembly?
+
+Ans- Metadata is information stored within an assembly that describes the types, members, and data contained in the assembly.
+
+(------------------------------------------------------------------------)
 
