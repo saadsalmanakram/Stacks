@@ -5775,4 +5775,10 @@ Ans- The CLR is the execution engine for .NET applications, handling memory mana
 
 (------------------------------------------------------------------------)
 
+965- What is the Common Intermediate Language (CIL)?
+
+Ans- CIL is the platform-independent code into which .NET languages are compiled before being further compiled to native code by the JIT compiler.
+
+(------------------------------------------------------------------------)
+
 
