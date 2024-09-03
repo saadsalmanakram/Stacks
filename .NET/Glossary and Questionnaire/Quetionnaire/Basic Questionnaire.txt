@@ -6069,3 +6069,10 @@ Ans- checked enables overflow checking for arithmetic operations, while unchecke
 
 (------------------------------------------------------------------------)
 
+1014- How do you perform an explicit type conversion in C#?
+
+Ans- Use a cast operator, such as (byte)sourceVar, to convert between incompatible types explicitly.
+
+(------------------------------------------------------------------------)
+
+
