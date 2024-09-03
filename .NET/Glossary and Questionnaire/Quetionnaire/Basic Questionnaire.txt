@@ -5835,3 +5835,9 @@ Ans- .NET Framework is Windows-only and more mature, while .NET Core is cross-pl
 
 (------------------------------------------------------------------------)
 
+975- What is the Common Type System (CTS)?
+
+Ans- CTS defines how types are declared, used, and managed in the CLR, ensuring that types are consistent across all .NET languages.
+
+(------------------------------------------------------------------------)
+
