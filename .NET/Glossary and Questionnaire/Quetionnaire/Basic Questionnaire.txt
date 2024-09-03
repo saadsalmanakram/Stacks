@@ -6021,4 +6021,10 @@ Ans- A do loop guarantees at least one execution, while a while loop may not exe
 
 (------------------------------------------------------------------------)
 
+1006- What is the advantage of using a while loop over a do loop in the context of user input validation?
+
+Ans- The while loop can prevent unnecessary execution if the initial condition is not met, avoiding unnecessary calculations.
+
+(------------------------------------------------------------------------)
+
 
