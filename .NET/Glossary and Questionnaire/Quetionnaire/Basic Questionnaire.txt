@@ -6177,3 +6177,9 @@ Ans- int[][] jaggedArray;
 
 (-------------------------------------------------------------------------)
 
+1032- Can you initialize a jagged array with different row sizes?
+
+Ans- Yes, by initializing each row separately, e.g., jaggedArray[0] = new int[3];
+
+(-------------------------------------------------------------------------)
+
