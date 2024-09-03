@@ -6027,4 +6027,10 @@ Ans- The while loop can prevent unnecessary execution if the initial condition i
 
 (------------------------------------------------------------------------)
 
+1007- How would you convert a do loop to a while loop in the provided example?
+
+Ans- Replace the do block with a while loop and adjust the loop condition to check before executing the loop body.
+
+(------------------------------------------------------------------------)
+
 
