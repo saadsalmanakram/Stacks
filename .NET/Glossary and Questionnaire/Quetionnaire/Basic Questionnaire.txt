@@ -5817,3 +5817,9 @@ Ans- The .NET Framework supports multiple languages by using a Common Language S
 
 (------------------------------------------------------------------------)
 
+972- What is .NET Standard?
+
+Ans- .NET Standard is a set of APIs that are available across different .NET implementations, ensuring compatibility and code sharing.
+
+(------------------------------------------------------------------------)
+
