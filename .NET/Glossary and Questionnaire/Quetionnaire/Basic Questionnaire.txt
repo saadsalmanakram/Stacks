@@ -6063,3 +6063,9 @@ Ans- Explicit type conversion requires a cast operator to convert a value from o
 
 (------------------------------------------------------------------------)
 
+1013- What is the purpose of the checked and unchecked keywords in C#?
+
+Ans- checked enables overflow checking for arithmetic operations, while unchecked disables it, affecting how integer overflow is handled.
+
+(------------------------------------------------------------------------)
+
