@@ -5877,3 +5877,10 @@ Ans- The Main method is the entry point where the code execution begins in a C# 
 
 (------------------------------------------------------------------------)
 
+982- What does a preprocessor directive in C# start with, and is it considered a C# keyword?
+
+Ans- A preprocessor directive starts with #, and it is not strictly a C# keyword.
+
+(------------------------------------------------------------------------)
+
+ 
