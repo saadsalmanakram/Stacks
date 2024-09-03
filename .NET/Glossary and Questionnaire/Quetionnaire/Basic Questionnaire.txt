@@ -6195,3 +6195,9 @@ Ans- Use nested foreach loops to access each element, e.g., foreach(int[] row in
 
 (-------------------------------------------------------------------------)
 
+1035- What is the difference between a rectangular array and a jagged array?
+
+Ans- A rectangular array has all rows of the same size, while a jagged array can have rows of different sizes.
+
+(-------------------------------------------------------------------------)
+
