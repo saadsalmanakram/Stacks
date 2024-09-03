@@ -5937,5 +5937,11 @@ Ans- Use the @ symbol before the string, e.g., @"This is a verbatim string."
 
 (------------------------------------------------------------------------)
 
+992- What escape sequence represents a new line in C#?
+
+Ans- The \n escape sequence represents a new line.
+
+(------------------------------------------------------------------------)
+
 
  
