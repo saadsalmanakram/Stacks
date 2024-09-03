@@ -5955,3 +5955,9 @@ Ans- The unary + operator does nothing to the operand, merely returning its valu
 
 (------------------------------------------------------------------------)
 
+995- Can you use mathematical operators with bool variables in C#?
+
+Ans- No, the compiler does not allow mathematical operations on bool variables.
+
+(------------------------------------------------------------------------)
+
