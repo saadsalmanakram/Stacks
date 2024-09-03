@@ -5769,3 +5769,10 @@ Ans- The BCL provides fundamental APIs that developers use for common tasks like
 
 (------------------------------------------------------------------------)
 
+964- What is the Common Language Runtime (CLR)?
+
+Ans- The CLR is the execution engine for .NET applications, handling memory management, security, and just-in-time (JIT) compilation of code.
+
+(------------------------------------------------------------------------)
+
+
