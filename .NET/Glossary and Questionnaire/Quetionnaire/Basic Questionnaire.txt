@@ -6081,4 +6081,10 @@ Ans- The Convert class provides static methods for converting types to and from 
 
 (------------------------------------------------------------------------)
 
+1016- What is an enumeration (enum) in C#?
+
+Ans- An enumeration is a user-defined type consisting of a set of named integral constants, making code more readable and manageable.
+
+(------------------------------------------------------------------------)
+
 
