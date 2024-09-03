@@ -6141,4 +6141,10 @@ Ans- An error occurs during the conversion process.
 
 (-----------------------------------------------------------------------)
 
+1026- Are enumeration values case-sensitive when using Enum.Parse?
+
+Ans- Yes, enumeration values are case-sensitive.
+
+(-----------------------------------------------------------------------)
+
 
