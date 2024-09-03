@@ -6015,4 +6015,10 @@ Ans- It pauses the console application so the user can see the output before the
 
 (------------------------------------------------------------------------)
 
+1005- How does a do loop differ from a while loop in terms of execution?
+
+Ans- A do loop guarantees at least one execution, while a while loop may not execute at all if the condition is false initially.
+
+(------------------------------------------------------------------------)
+
 
