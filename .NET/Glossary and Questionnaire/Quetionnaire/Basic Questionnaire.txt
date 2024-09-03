@@ -6033,4 +6033,10 @@ Ans- Replace the do block with a while loop and adjust the loop condition to che
 
 (------------------------------------------------------------------------)
 
+1008- What is the purpose of the continue statement in loops?
+
+Ans- It skips the current iteration and proceeds to the next iteration of the loop.
+
+(------------------------------------------------------------------------)
+
 
