@@ -5943,5 +5943,11 @@ Ans- The \n escape sequence represents a new line.
 
 (------------------------------------------------------------------------)
 
+993- What types of operators are classified in C#?
+
+Ans- Operators are classified as Unary, Binary, and Ternary.
+
+(------------------------------------------------------------------------)
+
 
  
