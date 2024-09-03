@@ -6249,3 +6249,9 @@ Ans- Use the void keyword and include the function name followed by parentheses,
 
 (-------------------------------------------------------------------------)
 
+1044- What keyword is used to define a function that does not return a value in C#?
+
+Ans- The void keyword is used to indicate that a function does not return a value.
+
+(------------------------------------------------------------------------)
+
