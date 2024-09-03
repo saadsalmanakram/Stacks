@@ -5865,3 +5865,15 @@ Ans- A block-structured language organizes code into blocks; C# is indeed block-
 
 (------------------------------------------------------------------------)
 
+980- Is C# case-sensitive, and what does it imply?
+
+Ans- Yes, C# is case-sensitive, meaning incorrect casing in code will prevent it from compiling.
+
+(------------------------------------------------------------------------)
+
+981- What does the Main method in a C# console application do?
+
+Ans- The Main method is the entry point where the code execution begins in a C# console application.
+
+(------------------------------------------------------------------------)
+
