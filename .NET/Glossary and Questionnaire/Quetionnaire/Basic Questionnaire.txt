@@ -5907,5 +5907,11 @@ Ans- Literal values are fixed values directly used in the code, such as 17 for i
 
 (------------------------------------------------------------------------)
 
+987- What suffix can you add to an integer literal to make it an unsigned integer?
+
+Ans- You can add u or U to make it an unsigned integer, e.g., 100U.
+
+(------------------------------------------------------------------------)
+
 
  
