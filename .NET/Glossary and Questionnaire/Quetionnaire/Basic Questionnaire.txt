@@ -5973,3 +5973,9 @@ Ans- Implicit conversion automatically converts one data type to another, like w
 
 (------------------------------------------------------------------------)
 
+998- What escape sequence would you use to include a backslash in a string?
+
+Ans- Use the \\ escape sequence to include a backslash.
+
+(------------------------------------------------------------------------)
+
