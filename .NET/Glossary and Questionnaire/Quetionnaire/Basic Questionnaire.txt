@@ -6003,4 +6003,8 @@ Ans- It ensures case-insensitive comparison of the user input with constant stri
 
 (------------------------------------------------------------------------)
 
+1003- How does the switch statement handle unmatched cases?
 
+Ans- It does nothing for unmatched cases unless a default case is provided, which is not included in the provided code.
+
+(------------------------------------------------------------------------)
