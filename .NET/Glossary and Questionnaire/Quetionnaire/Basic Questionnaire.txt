@@ -5847,3 +5847,9 @@ Ans- The main components are the CLR, the .NET Framework Class Library, and deve
 
 (------------------------------------------------------------------------)
 
+977- How does JIT compilation improve performance?
+
+Ans- JIT compilation improves performance by converting code to machine-specific instructions only when needed, optimizing it for the runtime environment.
+
+(------------------------------------------------------------------------)
+
