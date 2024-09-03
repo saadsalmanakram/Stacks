@@ -5757,3 +5757,9 @@ Ans- Mono is an open-source version of the .NET Framework that runs on multiple 
 
 (------------------------------------------------------------------------)
 
+962- What is .NET Core?
+
+Ans- .NET Core is a cross-platform, open-source version of the .NET Framework designed for high performance and flexibility in various environments.
+
+(------------------------------------------------------------------------)
+
