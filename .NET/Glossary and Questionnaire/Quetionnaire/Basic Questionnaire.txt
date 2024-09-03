@@ -6153,4 +6153,10 @@ Ans- Use the dot notation, e.g., myRoute.direction.
 
 (-----------------------------------------------------------------------)
 
+1028- How does a struct differ from a class in C#?
+
+Ans- Structs are value types and are stored on the stack, whereas classes are reference types and stored on the heap.
+
+(-----------------------------------------------------------------------)
+
 
