@@ -6039,4 +6039,10 @@ Ans- It skips the current iteration and proceeds to the next iteration of the lo
 
 (------------------------------------------------------------------------)
 
+1009- Explain the use of the break statement in loops.
+
+Ans- It immediately exits the loop, regardless of the loop's condition.
+
+(------------------------------------------------------------------------)
+
 
