@@ -5811,3 +5811,9 @@ Ans- Managed code is code executed by the CLR, benefiting from features like gar
 
 (------------------------------------------------------------------------)
 
+971- How does the .NET Framework support multiple languages?
+
+Ans- The .NET Framework supports multiple languages by using a Common Language Specification (CLS) and enabling inter-language interoperability.
+
+(------------------------------------------------------------------------)
+
