@@ -6117,4 +6117,10 @@ Ans- Structs are value types and are copied by value, while classes are referenc
 
 (------------------------------------------------------------------------)
 
+1022- How do you define a struct in C#?
+
+Ans- Use the struct keyword followed by the struct name and a set of data members and methods.
+
+(------------------------------------------------------------------------)
+
 
