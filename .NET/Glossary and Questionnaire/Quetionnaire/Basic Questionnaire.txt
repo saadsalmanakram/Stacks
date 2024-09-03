@@ -5799,3 +5799,9 @@ Ans- Metadata is information stored within an assembly that describes the types,
 
 (------------------------------------------------------------------------)
 
+969- What is the Global Assembly Cache (GAC)?
+
+Ans- The GAC is a machine-wide cache used to store assemblies that can be shared by multiple .NET applications.
+
+(------------------------------------------------------------------------)
+
