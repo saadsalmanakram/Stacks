@@ -6057,4 +6057,9 @@ Ans- Implicit type conversion automatically occurs when the conversion is safe a
 
 (------------------------------------------------------------------------)
 
+1012- What is explicit type conversion in C#?
+
+Ans- Explicit type conversion requires a cast operator to convert a value from one type to another, especially when there is a risk of data loss or the types are not directly compatible.
+
+(------------------------------------------------------------------------)
 
