@@ -6105,4 +6105,16 @@ Ans- Yes, enums can be implicitly converted to their underlying type but require
 
 (------------------------------------------------------------------------)
 
+1020- What is a struct in C#?
+
+Ans- A struct is a value type that can contain data members and methods, and is used to create complex data types.
+
+(------------------------------------------------------------------------)
+
+1021-  How do structs differ from classes in C#?
+
+Ans- Structs are value types and are copied by value, while classes are reference types and are copied by reference.
+
+(------------------------------------------------------------------------)
+
 
