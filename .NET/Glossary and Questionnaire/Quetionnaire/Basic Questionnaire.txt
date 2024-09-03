@@ -6171,3 +6171,9 @@ Ans- A jagged array is an array of arrays where each "row" can have a different 
 
 (-------------------------------------------------------------------------)
 
+1031- How do you declare a jagged array in C#?
+
+Ans- int[][] jaggedArray;
+
+(-------------------------------------------------------------------------)
+
