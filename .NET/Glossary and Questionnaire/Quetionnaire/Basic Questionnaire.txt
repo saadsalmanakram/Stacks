@@ -6165,4 +6165,9 @@ Ans- Pattern matching allows checking the type of a variable and applying additi
 
 (-----------------------------------------------------------------------)
 
+1030- What is a jagged array?
+
+Ans- A jagged array is an array of arrays where each "row" can have a different size.
+
+(-------------------------------------------------------------------------)
 
