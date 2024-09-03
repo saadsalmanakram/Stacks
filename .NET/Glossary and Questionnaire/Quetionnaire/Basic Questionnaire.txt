@@ -5979,3 +5979,9 @@ Ans- Use the \\ escape sequence to include a backslash.
 
 (------------------------------------------------------------------------)
 
+999- How do you represent the hexadecimal value 0x005C using an escape sequence in a string?
+
+Ans- You can use \\ to represent the backslash, which has the hexadecimal value 0x005C.
+
+(------------------------------------------------------------------------)
+
