@@ -6159,4 +6159,10 @@ Ans- Structs are value types and are stored on the stack, whereas classes are re
 
 (-----------------------------------------------------------------------)
 
+1029- What is pattern matching in a switch statement in C#?
+
+Ans- Pattern matching allows checking the type of a variable and applying additional conditions within case statements.
+
+(-----------------------------------------------------------------------)
+
 
