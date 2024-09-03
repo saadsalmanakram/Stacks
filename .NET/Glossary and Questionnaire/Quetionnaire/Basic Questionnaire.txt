@@ -6123,4 +6123,17 @@ Ans- Use the struct keyword followed by the struct name and a set of data member
 
 (------------------------------------------------------------------------)
 
+1023- What is an array in C#?
+
+Ans- An array is a collection of variables of the same type, accessed by index.
+
+(------------------------------------------------------------------------)
+
+1024- What is the difference between a single-dimensional and multi-dimensional array in C#?
+
+Ans- single-dimensional array is a linear list of elements, while a multi-dimensional array can have multiple dimensions, such as a 2D matrix.
+
+(------------------------------------------------------------------------)
+
+
 
