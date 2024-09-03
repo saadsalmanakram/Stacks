@@ -6093,3 +6093,16 @@ Ans- Use the enum keyword followed by the type name and a list of possible value
 
 (------------------------------------------------------------------------)
 
+1018- How do you assign a value to an enum variable in C#?
+
+Ans- Assign it directly from the defined set, such as var direction = Direction.North;.
+
+(------------------------------------------------------------------------)
+
+1019- Can enums be implicitly converted to and from their underlying type?
+
+Ans- Yes, enums can be implicitly converted to their underlying type but require explicit conversion for reverse conversions.
+
+(------------------------------------------------------------------------)
+
+
