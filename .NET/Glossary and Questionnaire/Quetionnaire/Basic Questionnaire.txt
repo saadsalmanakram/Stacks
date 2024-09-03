@@ -6075,4 +6075,10 @@ Ans- Use a cast operator, such as (byte)sourceVar, to convert between incompatib
 
 (------------------------------------------------------------------------)
 
+1015- What does the Convert class provide in C#?
+
+Ans- The Convert class provides static methods for converting types to and from other types, including between numeric types and from strings.
+
+(------------------------------------------------------------------------)
+
 
