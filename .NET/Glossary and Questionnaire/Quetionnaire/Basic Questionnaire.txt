@@ -6183,3 +6183,8 @@ Ans- Yes, by initializing each row separately, e.g., jaggedArray[0] = new int[3]
 
 (-------------------------------------------------------------------------)
 
+1033- How do you access elements in a jagged array?
+
+Ans- By specifying both the row and column indices, e.g., jaggedArray[0][1];
+
+(-------------------------------------------------------------------------)
