@@ -6231,3 +6231,9 @@ Ans- Convert both strings to lowercase (or uppercase) using ToLower() and then c
 
 (-------------------------------------------------------------------------)
 
+1041- What is the purpose of the Trim() method?
+
+Ans- Removes leading and trailing whitespace (or specified characters) from the string.
+
+(-------------------------------------------------------------------------)
+
