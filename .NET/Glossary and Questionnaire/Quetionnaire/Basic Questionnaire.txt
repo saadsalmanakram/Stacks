@@ -6225,3 +6225,9 @@ Ans- Use myString.ToCharArray();
 
 (-------------------------------------------------------------------------)
 
+1040- How do you compare two strings case-insensitively?
+
+Ans- Convert both strings to lowercase (or uppercase) using ToLower() and then compare.
+
+(-------------------------------------------------------------------------)
+
