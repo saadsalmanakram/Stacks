@@ -5751,3 +5751,9 @@ Ans- They negate the positive effects of proper dependency injection by obscurin
 
 (------------------------------------------------------------------------)
 
+961- What is Mono?
+
+Ans- Mono is an open-source version of the .NET Framework that runs on multiple platforms, including Linux and macOS.
+
+(------------------------------------------------------------------------)
+
