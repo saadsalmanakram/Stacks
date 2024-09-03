@@ -6219,3 +6219,9 @@ Ans- No, strings are immutable in C#.
 
 (-------------------------------------------------------------------------)
 
+1039- How do you convert a string to a character array?
+
+Ans- Use myString.ToCharArray();
+
+(-------------------------------------------------------------------------)
+
