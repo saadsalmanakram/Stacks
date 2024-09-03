@@ -5961,3 +5961,9 @@ Ans- No, the compiler does not allow mathematical operations on bool variables.
 
 (------------------------------------------------------------------------)
 
+996- What happens when you add two char variables in C#?
+
+Ans- Adding two char variables results in an int value, representing the sum of their numeric values.
+
+(------------------------------------------------------------------------)
+
