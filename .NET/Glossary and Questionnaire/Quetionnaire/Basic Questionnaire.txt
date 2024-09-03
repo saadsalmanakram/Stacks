@@ -5883,4 +5883,11 @@ Ans- A preprocessor directive starts with #, and it is not strictly a C# keyword
 
 (------------------------------------------------------------------------)
 
+983- What are the basic rules for naming variables in C#?
+
+Ans- The first character must be a letter, underscore (_), or at symbol (@), while subsequent characters can be letters, numbers, or underscores.
+
+(------------------------------------------------------------------------)
+
+
  
