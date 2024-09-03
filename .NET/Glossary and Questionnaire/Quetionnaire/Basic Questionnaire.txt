@@ -5781,4 +5781,10 @@ Ans- CIL is the platform-independent code into which .NET languages are compiled
 
 (------------------------------------------------------------------------)
 
+966- What is Just-In-Time (JIT) compilation?
+
+Ans- JIT compilation converts CIL code to native code specific to the operating system and CPU at runtime.
+
+(------------------------------------------------------------------------)
+
 
