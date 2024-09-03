@@ -6255,3 +6255,9 @@ Ans- The void keyword is used to indicate that a function does not return a valu
 
 (------------------------------------------------------------------------)
 
+1045- What is an expression-bodied method in C#?
+
+Ans- An expression-bodied method uses the => (lambda arrow) to write concise methods that execute a single expression.
+
+(------------------------------------------------------------------------)
+
