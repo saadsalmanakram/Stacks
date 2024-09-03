@@ -6045,4 +6045,10 @@ Ans- It immediately exits the loop, regardless of the loop's condition.
 
 (------------------------------------------------------------------------)
 
+1010- How does a for loop structure differ from a while loop structure?
+
+Ans- A for loop includes initialization, condition, and increment/decrement in one line, while a while loop separates these into distinct parts.
+
+(------------------------------------------------------------------------)
+
 
