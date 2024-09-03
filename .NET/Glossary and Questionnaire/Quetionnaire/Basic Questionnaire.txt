@@ -5763,3 +5763,9 @@ Ans- .NET Core is a cross-platform, open-source version of the .NET Framework de
 
 (------------------------------------------------------------------------)
 
+963- What is the purpose of the Base Class Library (BCL) in .NET?
+
+Ans- The BCL provides fundamental APIs that developers use for common tasks like file access, string manipulation, and data collections.
+
+(------------------------------------------------------------------------)
+
