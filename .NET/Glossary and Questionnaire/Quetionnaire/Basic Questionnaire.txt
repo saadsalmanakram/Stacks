@@ -6051,4 +6051,10 @@ Ans- A for loop includes initialization, condition, and increment/decrement in o
 
 (------------------------------------------------------------------------)
 
+1011- What is implicit type conversion in C#?
+
+Ans- Implicit type conversion automatically occurs when the conversion is safe and straightforward, such as converting from a smaller numeric type to a larger one.
+
+(------------------------------------------------------------------------)
+
 
