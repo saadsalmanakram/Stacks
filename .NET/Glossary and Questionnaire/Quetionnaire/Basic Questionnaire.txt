@@ -6243,3 +6243,9 @@ Ans- Pads the string with spaces (or a specified character) on the left to reach
 
 (-------------------------------------------------------------------------)
 
+1043- How do you define a simple function in C# that doesn’t return any data?
+
+Ans- Use the void keyword and include the function name followed by parentheses, e.g., static void MyFunction().
+
+(-------------------------------------------------------------------------)
+
