@@ -5949,5 +5949,9 @@ Ans- Operators are classified as Unary, Binary, and Ternary.
 
 (------------------------------------------------------------------------)
 
+994- What is the purpose of the unary + operator in C#?
 
- 
+Ans- The unary + operator does nothing to the operand, merely returning its value.
+
+(------------------------------------------------------------------------)
+
