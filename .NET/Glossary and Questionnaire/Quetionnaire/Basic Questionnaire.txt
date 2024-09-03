@@ -6087,4 +6087,9 @@ Ans- An enumeration is a user-defined type consisting of a set of named integral
 
 (------------------------------------------------------------------------)
 
+1017- How do you define an enumeration in C#?
+
+Ans- Use the enum keyword followed by the type name and a list of possible values enclosed in curly braces.
+
+(------------------------------------------------------------------------)
 
