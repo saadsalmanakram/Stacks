@@ -6008,3 +6008,11 @@ Ans- It ensures case-insensitive comparison of the user input with constant stri
 Ans- It does nothing for unmatched cases unless a default case is provided, which is not included in the provided code.
 
 (------------------------------------------------------------------------)
+
+1004- Why is the ReadKey() method used at the end of the program?
+
+Ans- It pauses the console application so the user can see the output before the console window closes.
+
+(------------------------------------------------------------------------)
+
+
