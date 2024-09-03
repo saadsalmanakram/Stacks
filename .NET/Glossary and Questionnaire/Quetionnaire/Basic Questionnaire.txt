@@ -5841,3 +5841,9 @@ Ans- CTS defines how types are declared, used, and managed in the CLR, ensuring 
 
 (------------------------------------------------------------------------)
 
+976- What are the main components of the .NET Framework?
+
+Ans- The main components are the CLR, the .NET Framework Class Library, and development tools like Visual Studio.
+
+(------------------------------------------------------------------------)
+
