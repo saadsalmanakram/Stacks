@@ -5925,5 +5925,11 @@ Ans- Binary literals start with 0b.
 
 (------------------------------------------------------------------------)
 
+990- What is the purpose of digit separators in C#?
+
+Ans- Digit separators (underscores) improve the readability of large numbers in code.
+
+(------------------------------------------------------------------------)
+
 
  
