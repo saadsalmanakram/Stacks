@@ -5787,4 +5787,10 @@ Ans- JIT compilation converts CIL code to native code specific to the operating 
 
 (------------------------------------------------------------------------)
 
+967- What is an assembly in .NET?
+
+Ans- An assembly is a compiled code library in .NET, which can be either an executable (.exe) or a library (.dll).
+
+(------------------------------------------------------------------------)
+
 
