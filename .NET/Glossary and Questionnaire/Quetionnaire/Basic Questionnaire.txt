@@ -5829,3 +5829,9 @@ Ans- .NET Core is designed to run on various operating systems, including Window
 
 (------------------------------------------------------------------------)
 
+974- What is the difference between .NET Framework and .NET Core?
+
+Ans- .NET Framework is Windows-only and more mature, while .NET Core is cross-platform, open-source, and optimized for cloud and modern workloads.
+
+(------------------------------------------------------------------------)
+
