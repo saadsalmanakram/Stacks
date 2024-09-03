@@ -5985,3 +5985,9 @@ Ans- You can use \\ to represent the backslash, which has the hexadecimal value 
 
 (------------------------------------------------------------------------)
 
+1000- What is the difference between && and & operators?
+
+Ans- && is a conditional AND operator that short-circuits (stops evaluation if the first operand is false), while & always evaluates both operands.
+
+(------------------------------------------------------------------------)
+
