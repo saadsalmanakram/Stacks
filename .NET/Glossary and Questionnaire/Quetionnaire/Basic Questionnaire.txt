@@ -5913,5 +5913,11 @@ Ans- You can add u or U to make it an unsigned integer, e.g., 100U.
 
 (------------------------------------------------------------------------)
 
+988- What suffixes are used for float, double, and decimal literals?
+
+Ans- For float, use f or F; for double, use d or D; and for decimal, use m or M.
+
+(------------------------------------------------------------------------)
+
 
  
