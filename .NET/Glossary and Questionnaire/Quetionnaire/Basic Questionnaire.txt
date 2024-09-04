@@ -6771,3 +6771,9 @@ Ans- Composition is a strong form of aggregation where the contained class canno
 
 (------------------------------------------------------------------------)
 
+1131- What is dependency in OOP?
+
+Ans- Dependency indicates that one class depends on another, typically through method parameters or return types.
+
+(------------------------------------------------------------------------)
+
