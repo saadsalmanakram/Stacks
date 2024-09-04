@@ -6657,3 +6657,10 @@ Ans- OOP organizes code into objects and classes, whereas procedural programming
 
 (-------------------------------------------------------------------------)
 
+1112- What is the difference between a field and a property in C#?
+
+Ans- Fields are variables that hold data directly, while properties provide controlled access to fields.
+
+(-------------------------------------------------------------------------)
+
+
