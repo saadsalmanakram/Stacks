@@ -6795,3 +6795,9 @@ Ans- They must have at least one operand of the type that is overloading the ope
 
 (------------------------------------------------------------------------)
 
+1135- Can operator overloading change the precedence of operators?
+
+Ans- No, operator precedence remains the same regardless of overloading.
+
+(------------------------------------------------------------------------)
+
