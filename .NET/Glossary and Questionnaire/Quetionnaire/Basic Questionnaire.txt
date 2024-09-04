@@ -6939,3 +6939,8 @@ Ans- The ICloneable interface does not enforce whether the copy should be shallo
 
 (-------------------------------------------------------------------------)
 
+1159- How would you define a non-creatable class in C#?
+
+Ans- By declaring the class as abstract, making it impossible to instantiate directly.
+
+(-------------------------------------------------------------------------)
