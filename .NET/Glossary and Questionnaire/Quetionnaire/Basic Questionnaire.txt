@@ -6705,3 +6705,9 @@ Ans- OOP allows for modular design and code reuse, making it easier to extend an
 
 (-------------------------------------------------------------------------)
 
+1120- What is the difference between default and nondefault constructors?
+
+Ans- Default constructors have no parameters and initialize objects with default values, while nondefault constructors accept parameters to initialize objects with specific values.
+
+(-------------------------------------------------------------------------)
+
