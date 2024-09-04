@@ -7059,3 +7059,9 @@ Ans- Hiding replaces a base method without polymorphism, while overriding replac
 
 (------------------------------------------------------------------------)
 
+1179- How can you access a hidden or overridden base class method in C#?
+
+Ans- Use the base keyword within the derived class.
+
+(------------------------------------------------------------------------)
+
