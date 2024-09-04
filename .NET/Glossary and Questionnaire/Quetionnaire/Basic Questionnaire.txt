@@ -6879,3 +6879,9 @@ Ans- The compiler provides a default constructor that calls the base class’s d
 
 (-------------------------------------------------------------------------)
 
+1149- Why might you want to call a non-default base class constructor in a derived class?
+
+Ans- To pass specific parameters to the base class for proper initialization.
+
+(-------------------------------------------------------------------------)
+
