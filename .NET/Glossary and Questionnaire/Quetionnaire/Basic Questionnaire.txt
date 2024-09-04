@@ -6429,3 +6429,9 @@ Ans- It centralizes and simplifies common operations on struct data, making the 
 
 (-------------------------------------------------------------------------)
 
+1074- Why is it not necessary to use the static modifier for struct functions?
+
+Ans- Because struct functions operate on instance data and do not need to be shared across all instances.
+
+(-------------------------------------------------------------------------)
+
