@@ -6717,3 +6717,9 @@ Ans- The class is noncreatable from outside its definition, often used for utili
 
 (-------------------------------------------------------------------------)
 
+1122- How do you implement multiple interfaces in a class?
+
+Ans- By listing each interface in the class declaration, separated by commas.
+
+(------------------------------------------------------------------------)
+
