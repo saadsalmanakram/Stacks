@@ -6885,3 +6885,9 @@ Ans- To pass specific parameters to the base class for proper initialization.
 
 (-------------------------------------------------------------------------)
 
+1150- Can you pass literal values to a base class constructor from a derived class constructor?
+
+Ans- Yes, you can pass literal values using the base keyword.
+
+(-------------------------------------------------------------------------)
+
