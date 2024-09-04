@@ -6645,3 +6645,9 @@ Ans- Syntax errors are detected at compile time and prevent the program from run
 
 (-------------------------------------------------------------------------)
 
+1110- What are the main principles of OOP?
+
+Ans- Encapsulation, inheritance, polymorphism, and abstraction.
+
+(-------------------------------------------------------------------------)
+
