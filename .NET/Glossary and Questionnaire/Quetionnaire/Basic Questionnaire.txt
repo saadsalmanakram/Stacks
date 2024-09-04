@@ -7035,3 +7035,9 @@ Ans- const fields are compile-time constants and cannot be changed, while readon
 
 (------------------------------------------------------------------------)
 
+1175- What is an expression-bodied member in C#?
+
+Ans- A concise syntax that allows the implementation of a property, method, or indexer with a single expression.
+
+(------------------------------------------------------------------------)
+
