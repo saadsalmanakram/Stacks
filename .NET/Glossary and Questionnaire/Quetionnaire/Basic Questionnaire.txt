@@ -6357,4 +6357,10 @@ Ans- You get a compilation error because strings are immutable in C# and cannot 
 
 (-------------------------------------------------------------------------)
 
+1062- How can you differentiate between global and local variables with the same name?
+
+Ans- Use the class name to refer to the global variable and the variable name alone for the local variable.
+
+(-------------------------------------------------------------------------)
+
 
