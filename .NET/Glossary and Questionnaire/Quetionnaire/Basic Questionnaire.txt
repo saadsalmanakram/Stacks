@@ -7041,3 +7041,9 @@ Ans- A concise syntax that allows the implementation of a property, method, or i
 
 (------------------------------------------------------------------------)
 
+1176- Why are properties preferred for accessing the state of an object?
+
+Ans- Properties shield external code from the implementation details and offer greater control over data access.
+
+(------------------------------------------------------------------------)
+
