@@ -6423,3 +6423,9 @@ Ans- Yes, structs can contain functions along with data.
 
 (-------------------------------------------------------------------------)
 
+1073- What is the advantage of adding functions to structs?
+
+Ans- It centralizes and simplifies common operations on struct data, making the code cleaner.
+
+(-------------------------------------------------------------------------)
+
