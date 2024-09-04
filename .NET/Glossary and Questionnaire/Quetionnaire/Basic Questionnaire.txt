@@ -7029,3 +7029,9 @@ Ans- When you want a field to be assigned only during construction and not modif
 
 (------------------------------------------------------------------------)
 
+1174- How does a const differ from a readonly field?
+
+Ans- const fields are compile-time constants and cannot be changed, while readonly fields can be assigned once at runtime.
+
+(------------------------------------------------------------------------)
+
