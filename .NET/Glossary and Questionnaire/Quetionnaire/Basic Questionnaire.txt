@@ -6747,3 +6747,9 @@ Ans- Method overriding enables a derived class to provide a specific implementat
 
 (------------------------------------------------------------------------)
 
+1127- What is the difference between overriding and overloading?
+
+Ans- Overriding changes the behavior of a base class method in a derived class, while overloading allows multiple methods with the same name but different signatures.
+
+(------------------------------------------------------------------------)
+
