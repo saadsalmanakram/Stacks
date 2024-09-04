@@ -6351,4 +6351,10 @@ Ans- You specify the return type as ref in the method signature and also use ref
 
 (-------------------------------------------------------------------------)
 
+1061- What happens if you attempt to return a string by reference?
+
+Ans- You get a compilation error because strings are immutable in C# and cannot be returned by reference.
+
+(-------------------------------------------------------------------------)
+
 
