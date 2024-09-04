@@ -6699,3 +6699,9 @@ Ans- Access modifiers determine the visibility and accessibility of class member
 
 (-------------------------------------------------------------------------)
 
+1119- What role does OOP play in improving application extensibility?
+
+Ans- OOP allows for modular design and code reuse, making it easier to extend and modify applications.
+
+(-------------------------------------------------------------------------)
+
