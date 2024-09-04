@@ -6669,3 +6669,9 @@ Ans- Properties allow controlled access to data and can enforce rules or validat
 
 (-------------------------------------------------------------------------)
 
+1114- What is encapsulation in OOP?
+
+Ans- Encapsulation is the principle of bundling data and methods that operate on that data within a single unit or class.
+
+(-------------------------------------------------------------------------)
+
