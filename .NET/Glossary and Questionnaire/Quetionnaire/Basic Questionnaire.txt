@@ -6453,3 +6453,9 @@ Ans- Based on the function signature that matches the provided arguments.
 
 (-------------------------------------------------------------------------)
 
+1078- Can you overload functions based on return type alone?
+
+Ans- No, overloading requires different parameter lists; return types alone are not sufficient.
+
+(-------------------------------------------------------------------------)
+
