@@ -6861,3 +6861,9 @@ Ans- It will result in a SystemOverflowException at runtime.
 
 (-------------------------------------------------------------------------)
 
+1146- Why is it important to understand the sequence of constructor calls in class inheritance?
+
+Ans- It helps prevent errors during object instantiation, particularly with incorrect base class initialization.
+
+(-------------------------------------------------------------------------)
+
