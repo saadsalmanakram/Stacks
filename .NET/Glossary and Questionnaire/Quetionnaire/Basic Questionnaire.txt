@@ -6483,3 +6483,9 @@ Ans- Invoke the delegate like a regular method, e.g., process(param1, param2);.
 
 (-------------------------------------------------------------------------)
 
+1083- Can a delegate be passed as a parameter to a method?
+
+Ans- Yes, delegates can be passed as parameters, enabling method calls to be decided at runtime.
+
+(-------------------------------------------------------------------------)
+
