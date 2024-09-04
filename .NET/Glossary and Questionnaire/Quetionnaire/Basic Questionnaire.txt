@@ -6729,3 +6729,9 @@ Ans- Yes, interfaces can inherit from multiple interfaces.
 
 (------------------------------------------------------------------------)
 
+1124- What happens if a class does not implement all the methods of an interface?
+
+Ans- The class must be declared abstract if it doesn’t implement all interface methods.
+
+(------------------------------------------------------------------------)
+
