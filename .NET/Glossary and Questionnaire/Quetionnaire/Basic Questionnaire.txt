@@ -6777,3 +6777,9 @@ Ans- Dependency indicates that one class depends on another, typically through m
 
 (------------------------------------------------------------------------)
 
+1132- What is the difference between association and dependency?
+
+Ans- Association is a broader relationship between classes, while dependency specifically indicates that one class relies on another to function.
+
+(------------------------------------------------------------------------)
+
