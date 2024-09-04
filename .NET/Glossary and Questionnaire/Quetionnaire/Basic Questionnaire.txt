@@ -6723,3 +6723,9 @@ Ans- By listing each interface in the class declaration, separated by commas.
 
 (------------------------------------------------------------------------)
 
+1123- Can interfaces inherit from other interfaces?
+
+Ans- Yes, interfaces can inherit from multiple interfaces.
+
+(------------------------------------------------------------------------)
+
