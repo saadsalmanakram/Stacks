@@ -6375,3 +6375,9 @@ Ans- Variable scope in C# refers to the visibility and lifetime of a variable wi
 
 (-------------------------------------------------------------------------)
 
+1065- What happens to a variable's value when you declare it inside a loop but initialize it outside?
+
+Ans- The variable retains its last assigned value from within the loop when accessed outside.
+
+(-------------------------------------------------------------------------)
+
