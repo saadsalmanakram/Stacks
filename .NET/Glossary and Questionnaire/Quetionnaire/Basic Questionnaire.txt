@@ -6663,4 +6663,9 @@ Ans- Fields are variables that hold data directly, while properties provide cont
 
 (-------------------------------------------------------------------------)
 
+1113- Why are properties preferred over fields in OOP?
+
+Ans- Properties allow controlled access to data and can enforce rules or validation on the data being set.
+
+(-------------------------------------------------------------------------)
 
