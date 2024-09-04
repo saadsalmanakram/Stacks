@@ -6441,3 +6441,8 @@ Ans- Function overloading allows multiple functions with the same name but diffe
 
 (-------------------------------------------------------------------------)
 
+1076- What part of a function's signature is considered when overloading?
+
+Ans- The function name and parameter list, not the return type.
+
+(-------------------------------------------------------------------------)
