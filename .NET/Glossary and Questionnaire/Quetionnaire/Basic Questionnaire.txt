@@ -7076,3 +7076,10 @@ Ans- It refers to the current instance of the class and is used to qualify membe
 Ans- No, because static members are not part of an object instance.
 
 (------------------------------------------------------------------------)
+
+1182- Can you define a private field in an interface?
+
+Ans- No, interfaces cannot define field members, only public abstract members.
+
+(------------------------------------------------------------------------)
+
