@@ -6339,3 +6339,16 @@ Ans- It results in a compilation error because const variables cannot be modifie
 
 (-------------------------------------------------------------------------)
 
+1059- Can you use the ref keyword with local variables?
+
+Ans- Yes, local variables can be passed by reference using the ref keyword.
+
+(-------------------------------------------------------------------------)
+
+1060- How do you use the ref keyword as a return type?
+
+Ans- You specify the return type as ref in the method signature and also use ref in the return statement.
+
+(-------------------------------------------------------------------------)
+
+
