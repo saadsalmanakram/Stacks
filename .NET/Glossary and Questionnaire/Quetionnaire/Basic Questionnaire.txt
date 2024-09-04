@@ -6849,4 +6849,10 @@ Ans- Yes, using the this keyword, a constructor can call another constructor in 
 
 (-------------------------------------------------------------------------)
 
+1144- What happens when a derived class object is instantiated?
+
+Ans- The base class constructor is called first, followed by the derived class constructor.
+
+(-------------------------------------------------------------------------)
+
 
