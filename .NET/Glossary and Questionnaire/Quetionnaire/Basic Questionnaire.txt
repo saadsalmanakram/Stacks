@@ -6369,3 +6369,9 @@ Ans- Risks include concurrency issues, unintentional modifications, and loss of 
 
 (-------------------------------------------------------------------------)
 
+1064- What is variable scope in C#?
+
+Ans- Variable scope in C# refers to the visibility and lifetime of a variable within different code blocks, such as loops or methods.
+
+(-------------------------------------------------------------------------)
+
