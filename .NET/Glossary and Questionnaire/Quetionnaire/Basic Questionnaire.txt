@@ -6537,3 +6537,9 @@ Ans- Yes, delegates can be defined with a void return type and used with methods
 
 (-------------------------------------------------------------------------)
 
+1092- What is multicast delegate?
+
+Ans- A multicast delegate holds references to multiple methods, invoking all of them in sequence when called.
+
+(-------------------------------------------------------------------------)
+
