@@ -6783,3 +6783,15 @@ Ans- Association is a broader relationship between classes, while dependency spe
 
 (------------------------------------------------------------------------)
 
+1133- What is operator overloading?
+
+Ans- Operator overloading allows you to redefine the way operators work with class instances.
+
+(------------------------------------------------------------------------)
+
+1134- What must be true for two overloaded operators in C#?
+
+Ans- They must have at least one operand of the type that is overloading the operator.
+
+(------------------------------------------------------------------------)
+
