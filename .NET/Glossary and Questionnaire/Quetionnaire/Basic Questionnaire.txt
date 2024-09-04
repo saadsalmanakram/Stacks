@@ -6837,3 +6837,10 @@ Ans- Boxing is converting a value type to a reference type, and unboxing is conv
 
 (------------------------------------------------------------------------)
 
+1142- What is the purpose of a constructor in a class?
+
+Ans- A constructor initializes an instance of a class when it is created.
+
+(------------------------------------------------------------------------)
+
+
