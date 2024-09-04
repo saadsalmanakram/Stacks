@@ -6501,3 +6501,9 @@ Ans- Use method group conversion, e.g., process = Multiply; instead of new Proce
 
 (-------------------------------------------------------------------------)
 
+1086- What are some common use cases for delegates?
+
+Ans- Delegates are often used for event handling, callbacks, and passing methods as arguments.
+
+(-------------------------------------------------------------------------)
+
