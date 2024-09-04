@@ -6711,3 +6711,9 @@ Ans- Default constructors have no parameters and initialize objects with default
 
 (-------------------------------------------------------------------------)
 
+1121- What does it mean if a class has no public constructors?
+
+Ans- The class is noncreatable from outside its definition, often used for utility or factory classes.
+
+(-------------------------------------------------------------------------)
+
