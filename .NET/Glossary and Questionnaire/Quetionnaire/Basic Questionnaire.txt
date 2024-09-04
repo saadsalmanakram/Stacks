@@ -6495,3 +6495,9 @@ Ans- A lambda expression is a shorthand for creating anonymous methods, which ca
 
 (-------------------------------------------------------------------------)
 
+1085- How can you simplify delegate instantiation in C#?
+
+Ans- Use method group conversion, e.g., process = Multiply; instead of new ProcessDelegate(Multiply);.
+
+(-------------------------------------------------------------------------)
+
