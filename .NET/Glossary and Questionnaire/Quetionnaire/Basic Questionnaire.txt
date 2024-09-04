@@ -6519,3 +6519,9 @@ Ans- Ensure that the delegate is assigned a method with a matching signature bef
 
 (-------------------------------------------------------------------------)
 
+1089- Can delegates be used with anonymous methods?
+
+Ans- Yes, delegates can reference anonymous methods or lambda expressions.
+
+(-------------------------------------------------------------------------)
+
