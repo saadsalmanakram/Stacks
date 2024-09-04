@@ -6801,3 +6801,9 @@ Ans- No, operator precedence remains the same regardless of overloading.
 
 (------------------------------------------------------------------------)
 
+1136- What is the purpose of operator overloading?
+
+Ans- To allow operators to be used more intuitively with user-defined types.
+
+(------------------------------------------------------------------------)
+
