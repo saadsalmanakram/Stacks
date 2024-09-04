@@ -6309,3 +6309,9 @@ Ans- Yes, but the variable must be declared with ref in both the return type and
 
 (------------------------------------------------------------------------)
 
+1054- What is an out parameter in C#?
+
+Ans- An out parameter allows a function to return multiple values and must be initialized within the function.
+
+(-------------------------------------------------------------------------)
+
