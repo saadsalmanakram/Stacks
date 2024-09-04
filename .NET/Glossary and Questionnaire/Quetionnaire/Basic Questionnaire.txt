@@ -7047,3 +7047,9 @@ Ans- Properties shield external code from the implementation details and offer g
 
 (------------------------------------------------------------------------)
 
+1177- What are automatic properties in C#?
+
+Ans- Automatic properties simplify property declaration by allowing the compiler to generate the backing field.
+
+(------------------------------------------------------------------------)
+
