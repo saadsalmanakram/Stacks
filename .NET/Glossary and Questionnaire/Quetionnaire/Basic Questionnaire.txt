@@ -6411,3 +6411,9 @@ Ans- Yes, local functions can be asynchronous by using the async keyword.
 
 (-------------------------------------------------------------------------)
 
+1071- What is the benefit of using local functions within a method?
+
+Ans- They provide a way to keep related functionality together, improving code organization and readability.
+
+(-------------------------------------------------------------------------)
+
