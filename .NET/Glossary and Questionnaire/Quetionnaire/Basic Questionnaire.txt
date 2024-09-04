@@ -6735,3 +6735,9 @@ Ans- The class must be declared abstract if it doesn’t implement all interface
 
 (------------------------------------------------------------------------)
 
+1125- What is a sealed class?
+
+Ans- A sealed class is one that cannot be inherited.
+
+(------------------------------------------------------------------------)
+
