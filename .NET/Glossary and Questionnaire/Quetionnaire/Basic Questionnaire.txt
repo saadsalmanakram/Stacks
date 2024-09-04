@@ -6572,3 +6572,10 @@ Ans- Delegates provide flexibility in method invocation, support callback mechan
 Ans- A tracepoint is a type of breakpoint that allows you to log a message without modifying your code.
 
 (-------------------------------------------------------------------------)
+
+1098- What is the difference between Debug and Release configurations in Visual Studio?
+
+Ans- Debug configuration includes symbolic information for debugging, while Release configuration optimizes the code and excludes this information.
+
+(-------------------------------------------------------------------------)
+
