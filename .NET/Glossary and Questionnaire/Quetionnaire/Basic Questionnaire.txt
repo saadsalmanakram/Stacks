@@ -6543,3 +6543,9 @@ Ans- A multicast delegate holds references to multiple methods, invoking all of 
 
 (-------------------------------------------------------------------------)
 
+1093- How can you remove a method from a multicast delegate?
+
+Ans- Use the -= operator to remove a method from the delegate’s invocation list.
+
+(-------------------------------------------------------------------------)
+
