@@ -6903,3 +6903,9 @@ Ans- You can only specify a single constructor to call, either in the base class
 
 (-------------------------------------------------------------------------)
 
+1153- How can errors during constructor calls affect object behavior?
+
+Ans- Errors can lead to incomplete or incorrect object initialization, causing unexpected behavior.
+
+(-------------------------------------------------------------------------)
+
