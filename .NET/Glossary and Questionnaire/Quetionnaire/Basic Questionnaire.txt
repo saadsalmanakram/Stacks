@@ -6944,3 +6944,10 @@ Ans- The ICloneable interface does not enforce whether the copy should be shallo
 Ans- By declaring the class as abstract, making it impossible to instantiate directly.
 
 (-------------------------------------------------------------------------)
+
+1160- Why are non-creatable (abstract) classes still useful?
+
+Ans- They provide a common base for other classes, allowing shared code and enforcing a consistent interface across derived classes.
+
+(-------------------------------------------------------------------------)
+
