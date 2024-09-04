@@ -6999,3 +6999,9 @@ Ans- Use the sealed keyword on the method.
 
 (------------------------------------------------------------------------)
 
+1169- What is a partial class in C#?
+
+Ans- A class whose definition is split across multiple files.
+
+(------------------------------------------------------------------------)
+
