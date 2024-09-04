@@ -6897,3 +6897,9 @@ Ans- It allows one constructor to call another constructor in the same class.
 
 (-------------------------------------------------------------------------)
 
+1152- What is the limitation of using constructor initializers?
+
+Ans- You can only specify a single constructor to call, either in the base class or the same class.
+
+(-------------------------------------------------------------------------)
+
