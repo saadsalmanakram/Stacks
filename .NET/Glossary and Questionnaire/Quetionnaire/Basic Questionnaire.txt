@@ -6765,3 +6765,9 @@ Ans- Aggregation is a special form of association where one class contains anoth
 
 (------------------------------------------------------------------------)
 
+1130- What is composition?
+
+Ans- Composition is a strong form of aggregation where the contained class cannot exist independently of the containing class.
+
+(------------------------------------------------------------------------)
+
