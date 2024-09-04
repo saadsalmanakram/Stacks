@@ -6693,3 +6693,9 @@ Ans- Unified Modeling Language (UML) is a standardized modeling language used to
 
 (-------------------------------------------------------------------------)
 
+1118- What is the significance of access modifiers in OOP?
+
+Ans- Access modifiers determine the visibility and accessibility of class members, such as public, private, and protected.
+
+(-------------------------------------------------------------------------)
+
