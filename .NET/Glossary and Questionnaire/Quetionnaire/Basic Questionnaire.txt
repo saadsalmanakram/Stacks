@@ -6507,3 +6507,9 @@ Ans- Delegates are often used for event handling, callbacks, and passing methods
 
 (-------------------------------------------------------------------------)
 
+1087- What are the differences between delegates and events?
+
+Ans- Delegates are types that reference methods, while events are a higher-level abstraction that use delegates to provide a publish-subscribe mechanism.
+
+(-------------------------------------------------------------------------)
+
