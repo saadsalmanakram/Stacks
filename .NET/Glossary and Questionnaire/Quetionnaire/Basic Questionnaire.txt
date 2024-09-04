@@ -6651,3 +6651,9 @@ Ans- Encapsulation, inheritance, polymorphism, and abstraction.
 
 (-------------------------------------------------------------------------)
 
+1111- How does OOP differ from procedural programming?
+
+Ans- OOP organizes code into objects and classes, whereas procedural programming organizes code into functions and data structures.
+
+(-------------------------------------------------------------------------)
+
