@@ -6915,3 +6915,9 @@ Ans- A shallow copy copies the object's members by reference, while a deep copy 
 
 (-------------------------------------------------------------------------)
 
+1155- What method is used to perform a shallow copy in .NET?
+
+Ans- The MemberwiseClone() method is used to perform a shallow copy.
+
+(-------------------------------------------------------------------------)
+
