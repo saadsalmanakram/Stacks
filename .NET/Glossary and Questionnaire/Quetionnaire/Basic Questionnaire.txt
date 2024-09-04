@@ -6921,3 +6921,9 @@ Ans- The MemberwiseClone() method is used to perform a shallow copy.
 
 (-------------------------------------------------------------------------)
 
+1156- Why is shallow copying not ideal in some cases?
+
+Ans- Because reference members in the copied object still refer to the same instances as in the original object, which can lead to unintended side effects.
+
+(-------------------------------------------------------------------------)
+
