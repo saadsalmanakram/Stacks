@@ -6417,3 +6417,9 @@ Ans- They provide a way to keep related functionality together, improving code o
 
 (-------------------------------------------------------------------------)
 
+1072- Can structs in C# contain functions?
+
+Ans- Yes, structs can contain functions along with data.
+
+(-------------------------------------------------------------------------)
+
