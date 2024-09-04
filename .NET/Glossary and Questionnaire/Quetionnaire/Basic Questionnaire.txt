@@ -6405,3 +6405,9 @@ Ans- Local functions are functions defined within another function, offering enc
 
 (-------------------------------------------------------------------------)
 
+1070- Can local functions be asynchronous in C#?
+
+Ans- Yes, local functions can be asynchronous by using the async keyword.
+
+(-------------------------------------------------------------------------)
+
