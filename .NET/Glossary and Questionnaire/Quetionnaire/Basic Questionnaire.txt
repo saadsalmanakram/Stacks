@@ -6639,3 +6639,9 @@ Ans- Fatal errors are severe issues that cause the application to fail completel
 
 (-------------------------------------------------------------------------)
 
+1109- What is the difference between semantic errors and syntax errors?
+
+Ans- Syntax errors are detected at compile time and prevent the program from running, while semantic errors occur at runtime and cause incorrect behavior.
+
+(-------------------------------------------------------------------------)
+
