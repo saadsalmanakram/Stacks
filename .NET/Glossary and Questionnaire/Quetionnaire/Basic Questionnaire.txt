@@ -6489,3 +6489,9 @@ Ans- Yes, delegates can be passed as parameters, enabling method calls to be dec
 
 (-------------------------------------------------------------------------)
 
+1084- What is a lambda expression and how is it related to delegates?
+
+Ans- A lambda expression is a shorthand for creating anonymous methods, which can be assigned to delegates.
+
+(-------------------------------------------------------------------------)
+
