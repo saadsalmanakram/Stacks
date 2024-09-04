@@ -6831,3 +6831,9 @@ Ans- Value types store data directly, while reference types store a reference to
 
 (------------------------------------------------------------------------)
 
+1141- What is boxing and unboxing in C#?
+
+Ans- Boxing is converting a value type to a reference type, and unboxing is converting it back to a value type.
+
+(------------------------------------------------------------------------)
+
