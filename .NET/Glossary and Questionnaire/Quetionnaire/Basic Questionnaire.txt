@@ -6381,3 +6381,9 @@ Ans- The variable retains its last assigned value from within the loop when acce
 
 (-------------------------------------------------------------------------)
 
+1066- What is the difference between using global data and function parameters for exchanging data?
+
+Ans- Global data is shared across the application, while function parameters provide explicit data exchange between functions.
+
+(-------------------------------------------------------------------------)
+
