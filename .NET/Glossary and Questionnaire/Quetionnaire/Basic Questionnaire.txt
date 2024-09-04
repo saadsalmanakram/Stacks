@@ -6560,3 +6560,15 @@ Ans- Delegates can be used to handle callbacks and manage asynchronous operation
 Ans- Yes, delegates can be used within structs just like in classes.
 
 (-------------------------------------------------------------------------)
+
+1096- What are the benefits of using delegates?
+
+Ans- Delegates provide flexibility in method invocation, support callback mechanisms, and enhance code modularity and maintainability.
+
+(-------------------------------------------------------------------------)
+
+1097- What is a tracepoint in Visual Studio?
+
+Ans- A tracepoint is a type of breakpoint that allows you to log a message without modifying your code.
+
+(-------------------------------------------------------------------------)
