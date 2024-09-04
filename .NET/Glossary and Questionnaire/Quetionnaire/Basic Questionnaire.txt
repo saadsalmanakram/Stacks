@@ -7065,3 +7065,9 @@ Ans- Use the base keyword within the derived class.
 
 (------------------------------------------------------------------------)
 
+1180- What is the this keyword used for in C#?
+
+Ans- It refers to the current instance of the class and is used to qualify members or pass the instance to methods.
+
+(------------------------------------------------------------------------)
+
