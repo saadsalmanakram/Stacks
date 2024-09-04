@@ -7053,3 +7053,9 @@ Ans- Automatic properties simplify property declaration by allowing the compiler
 
 (------------------------------------------------------------------------)
 
+1178- What is the difference between hiding and overriding a method in C#?
+
+Ans- Hiding replaces a base method without polymorphism, while overriding replaces a base method with polymorphism.
+
+(------------------------------------------------------------------------)
+
