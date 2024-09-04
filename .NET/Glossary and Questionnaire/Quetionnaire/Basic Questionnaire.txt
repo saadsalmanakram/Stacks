@@ -6477,3 +6477,9 @@ Ans- Instantiate a delegate by assigning it a method that matches its signature,
 
 (-------------------------------------------------------------------------)
 
+1082- How do you use a delegate to call a method?
+
+Ans- Invoke the delegate like a regular method, e.g., process(param1, param2);.
+
+(-------------------------------------------------------------------------)
+
