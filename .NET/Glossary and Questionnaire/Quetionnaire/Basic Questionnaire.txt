@@ -6813,3 +6813,9 @@ Ans- An event is a message that an object sends to signal the occurrence of an a
 
 (------------------------------------------------------------------------)
 
+1138- How are events different from methods?
+
+Ans- Events are used to trigger methods (event handlers) in response to certain actions.
+
+(------------------------------------------------------------------------)
+
