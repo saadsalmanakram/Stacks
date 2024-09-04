@@ -6435,3 +6435,9 @@ Ans- Because struct functions operate on instance data and do not need to be sha
 
 (-------------------------------------------------------------------------)
 
+1075- What is function overloading in C#?
+
+Ans- Function overloading allows multiple functions with the same name but different parameter types or counts.
+
+(-------------------------------------------------------------------------)
+
