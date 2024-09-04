@@ -6285,3 +6285,11 @@ Ans- Delegates are type-safe function pointers that allow methods to be passed a
 
 (------------------------------------------------------------------------)
 
+1050- What is the difference between passing parameters by value and by reference in C#?
+
+Ans- Passing by value creates a copy of the data, while passing by reference allows the function to modify the original data.
+
+(------------------------------------------------------------------------)
+
+
+
