@@ -6807,3 +6807,9 @@ Ans- To allow operators to be used more intuitively with user-defined types.
 
 (------------------------------------------------------------------------)
 
+1137- What is an event in C#?
+
+Ans- An event is a message that an object sends to signal the occurrence of an action, handled by event listeners.
+
+(------------------------------------------------------------------------)
+
