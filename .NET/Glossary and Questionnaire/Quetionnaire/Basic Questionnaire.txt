@@ -6603,3 +6603,9 @@ Ans- Syntax errors occur during compilation due to incorrect code structure, whi
 
 (-------------------------------------------------------------------------)
 
+1103- What is a semantic error in C#?
+
+Ans- A logic error in the code that causes the application to produce incorrect results or behave unexpectedly.
+
+(-------------------------------------------------------------------------)
+
