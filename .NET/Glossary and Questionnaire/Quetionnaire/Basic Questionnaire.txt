@@ -7017,3 +7017,9 @@ Ans- No, all parts of a partial class must have the same accessibility.
 
 (------------------------------------------------------------------------)
 
+1172- What is the difference between a field and a property in C#?
+
+Ans- A field is a variable directly accessible from the class, while a property controls access to a field through getters and setters.
+
+(------------------------------------------------------------------------)
+
