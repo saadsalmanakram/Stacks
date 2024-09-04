@@ -6525,3 +6525,8 @@ Ans- Yes, delegates can reference anonymous methods or lambda expressions.
 
 (-------------------------------------------------------------------------)
 
+1090- What is method group conversion?
+
+Ans- Method group conversion allows direct assignment of a method to a delegate without explicitly creating a delegate instance.
+
+(-------------------------------------------------------------------------)
