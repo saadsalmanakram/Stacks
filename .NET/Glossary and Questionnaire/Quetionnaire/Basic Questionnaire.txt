@@ -6681,3 +6681,9 @@ Ans- A constructor is a special method used to initialize a new instance of a cl
 
 (-------------------------------------------------------------------------)
 
+1116- What is a destructor in C#?
+
+Ans- A destructor is a method used to perform cleanup before an object is destroyed, though in C#, it is typically managed automatically by the garbage collector.
+
+(-------------------------------------------------------------------------)
+
