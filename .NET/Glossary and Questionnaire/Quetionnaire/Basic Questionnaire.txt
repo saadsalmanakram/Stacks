@@ -6291,5 +6291,11 @@ Ans- Passing by value creates a copy of the data, while passing by reference all
 
 (------------------------------------------------------------------------)
 
+1051- What does the ref keyword do in C#?
+
+Ans- The ref keyword allows a function to modify the value of a parameter passed into it, reflecting changes in the calling method.
+
+(------------------------------------------------------------------------)
+
 
 
