@@ -6993,3 +6993,9 @@ Ans- Static members belong to the class itself, not to any object instance.
 
 (------------------------------------------------------------------------)
 
+1168- How do you prevent a base class member from being overridden in a derived class?
+
+Ans- Use the sealed keyword on the method.
+
+(------------------------------------------------------------------------)
+
