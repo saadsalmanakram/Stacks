@@ -6855,4 +6855,9 @@ Ans- The base class constructor is called first, followed by the derived class c
 
 (-------------------------------------------------------------------------)
 
+1145- What happens if you create a circular constructor reference in C#?
+
+Ans- It will result in a SystemOverflowException at runtime.
+
+(-------------------------------------------------------------------------)
 
