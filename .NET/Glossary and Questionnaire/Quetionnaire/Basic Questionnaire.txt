@@ -6753,3 +6753,9 @@ Ans- Overriding changes the behavior of a base class method in a derived class, 
 
 (------------------------------------------------------------------------)
 
+1128- What is association in OOP?
+
+Ans- Association represents a relationship between two classes where one class uses or interacts with another.
+
+(------------------------------------------------------------------------)
+
