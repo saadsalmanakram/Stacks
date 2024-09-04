@@ -6621,3 +6621,9 @@ Ans- throw in an expression allows for throwing an exception if a certain condit
 
 (-------------------------------------------------------------------------)
 
+1106- How would you generate an error in a loop after 5,000 cycles in C#?
+
+Ans- You can generate an error by accessing an invalid array index, such as myArray[1000] in an array with only 100 elements.
+
+(-------------------------------------------------------------------------)
+
