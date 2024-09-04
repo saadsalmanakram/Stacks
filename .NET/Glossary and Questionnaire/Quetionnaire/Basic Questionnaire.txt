@@ -6392,3 +6392,10 @@ Ans- Global data is shared across the application, while function parameters pro
 Ans- Global variables can be modified unpredictably by different parts of the application, making code harder to understand and maintain.
 
 (-------------------------------------------------------------------------)
+
+1068- How does passing data through function parameters enhance code clarity?
+
+Ans- It makes it explicit what data is being used and modified, improving readability and maintainability.
+
+(-------------------------------------------------------------------------)
+
