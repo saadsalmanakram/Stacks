@@ -6321,3 +6321,9 @@ Ans- out parameters do not require initialization before being passed in and mus
 
 (-------------------------------------------------------------------------)
 
+1056- What is a tuple in C# and how is it used?
+
+Ans- A tuple is a data structure that can hold multiple values of different types and is used to return multiple values from a function.
+
+(-------------------------------------------------------------------------)
+
