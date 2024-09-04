@@ -6446,3 +6446,10 @@ Ans- Function overloading allows multiple functions with the same name but diffe
 Ans- The function name and parameter list, not the return type.
 
 (-------------------------------------------------------------------------)
+
+1077- How does the C# compiler determine which overloaded function to call?
+
+Ans- Based on the function signature that matches the provided arguments.
+
+(-------------------------------------------------------------------------)
+
