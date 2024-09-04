@@ -6987,3 +6987,9 @@ Ans- Public, private, internal, protected, and protected internal.
 
 (------------------------------------------------------------------------)
 
+1167- How is a static member different from an instance member?
+
+Ans- Static members belong to the class itself, not to any object instance.
+
+(------------------------------------------------------------------------)
+
