@@ -6909,3 +6909,9 @@ Ans- Errors can lead to incomplete or incorrect object initialization, causing u
 
 (-------------------------------------------------------------------------)
 
+1154- What is the difference between a shallow copy and a deep copy of an object?
+
+Ans- A shallow copy copies the object's members by reference, while a deep copy creates new instances of the referenced objects.
+
+(-------------------------------------------------------------------------)
+
