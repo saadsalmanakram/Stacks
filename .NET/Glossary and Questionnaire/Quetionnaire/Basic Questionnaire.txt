@@ -6867,3 +6867,15 @@ Ans- It helps prevent errors during object instantiation, particularly with inco
 
 (-------------------------------------------------------------------------)
 
+1147- What is a constructor initializer, and when would you use it?
+
+Ans- A constructor initializer specifies another constructor to be called before the current one; it’s used to centralize and reuse initialization logic.
+
+(-------------------------------------------------------------------------)
+
+1148- What happens if you don’t specify a constructor in your C# class?
+
+Ans- The compiler provides a default constructor that calls the base class’s default constructor.
+
+(-------------------------------------------------------------------------)
+
