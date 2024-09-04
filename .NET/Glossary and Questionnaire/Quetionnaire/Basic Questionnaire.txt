@@ -6327,3 +6327,9 @@ Ans- A tuple is a data structure that can hold multiple values of different type
 
 (-------------------------------------------------------------------------)
 
+1057- Why might you prefer using tuples over other methods to return multiple values?
+
+Ans- Tuples offer a simple and efficient way to return multiple values without the overhead of defining custom structs or classes.
+
+(-------------------------------------------------------------------------)
+
