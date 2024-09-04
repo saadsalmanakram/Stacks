@@ -6957,3 +6957,9 @@ Ans- Constructors initialize an object, while destructors are called when an obj
 
 (-------------------------------------------------------------------------)
 
+1162- What are class library projects used for in C#?
+
+Ans- Class library projects are used to define reusable classes and code, which can be referenced by other executable projects.
+
+(-------------------------------------------------------------------------)
+
