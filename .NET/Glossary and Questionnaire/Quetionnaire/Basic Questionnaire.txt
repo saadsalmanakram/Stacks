@@ -6530,3 +6530,10 @@ Ans- Yes, delegates can reference anonymous methods or lambda expressions.
 Ans- Method group conversion allows direct assignment of a method to a delegate without explicitly creating a delegate instance.
 
 (-------------------------------------------------------------------------)
+
+1091- Can you use delegates with functions that return void?
+
+Ans- Yes, delegates can be defined with a void return type and used with methods that return void.
+
+(-------------------------------------------------------------------------)
+
