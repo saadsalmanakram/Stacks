@@ -6555,3 +6555,8 @@ Ans- Delegates can be used to handle callbacks and manage asynchronous operation
 
 (-------------------------------------------------------------------------)
 
+1095- Can you use delegates in structs?
+
+Ans- Yes, delegates can be used within structs just like in classes.
+
+(-------------------------------------------------------------------------)
