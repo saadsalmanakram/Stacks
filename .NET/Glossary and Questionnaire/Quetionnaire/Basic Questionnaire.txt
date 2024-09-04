@@ -6333,3 +6333,9 @@ Ans- Tuples offer a simple and efficient way to return multiple values without t
 
 (-------------------------------------------------------------------------)
 
+1058- What error occurs if you attempt to use a const variable with the ref keyword?
+
+Ans- It results in a compilation error because const variables cannot be modified.
+
+(-------------------------------------------------------------------------)
+
