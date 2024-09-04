@@ -6891,3 +6891,9 @@ Ans- Yes, you can pass literal values using the base keyword.
 
 (-------------------------------------------------------------------------)
 
+1151- What is the role of the this keyword in a constructor?
+
+Ans- It allows one constructor to call another constructor in the same class.
+
+(-------------------------------------------------------------------------)
+
