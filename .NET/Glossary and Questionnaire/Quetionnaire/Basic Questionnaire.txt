@@ -7023,3 +7023,9 @@ Ans- A field is a variable directly accessible from the class, while a property 
 
 (------------------------------------------------------------------------)
 
+1173- When would you use the readonly keyword in C#?
+
+Ans- When you want a field to be assigned only during construction and not modified afterward.
+
+(------------------------------------------------------------------------)
+
