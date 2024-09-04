@@ -6825,3 +6825,9 @@ Ans- Yes, events can be declared as static if they need to be associated with a 
 
 (------------------------------------------------------------------------)
 
+1140- What is the difference between value types and reference types?
+
+Ans- Value types store data directly, while reference types store a reference to the data.
+
+(------------------------------------------------------------------------)
+
