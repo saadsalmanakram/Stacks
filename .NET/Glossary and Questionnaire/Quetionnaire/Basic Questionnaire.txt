@@ -7071,3 +7071,8 @@ Ans- It refers to the current instance of the class and is used to qualify membe
 
 (------------------------------------------------------------------------)
 
+1181- Can static members use the this keyword?
+
+Ans- No, because static members are not part of an object instance.
+
+(------------------------------------------------------------------------)
