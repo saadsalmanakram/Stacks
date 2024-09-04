@@ -7005,3 +7005,9 @@ Ans- A class whose definition is split across multiple files.
 
 (------------------------------------------------------------------------)
 
+1170- Why would you use partial classes?
+
+Ans- To organize large classes across multiple files, often used in auto-generated code scenarios.
+
+(------------------------------------------------------------------------)
+
