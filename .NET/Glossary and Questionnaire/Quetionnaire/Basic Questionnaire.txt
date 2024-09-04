@@ -6843,4 +6843,10 @@ Ans- A constructor initializes an instance of a class when it is created.
 
 (------------------------------------------------------------------------)
 
+1143- Can a constructor call another constructor in the same class?
+
+Ans- Yes, using the this keyword, a constructor can call another constructor in the same class.
+
+(-------------------------------------------------------------------------)
+
 
