@@ -6315,3 +6315,9 @@ Ans- An out parameter allows a function to return multiple values and must be in
 
 (-------------------------------------------------------------------------)
 
+1055- How does an out parameter differ from a ref parameter?
+
+Ans- out parameters do not require initialization before being passed in and must be assigned within the function, unlike ref parameters.
+
+(-------------------------------------------------------------------------)
+
