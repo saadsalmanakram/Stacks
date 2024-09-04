@@ -6627,3 +6627,9 @@ Ans- You can generate an error by accessing an invalid array index, such as myAr
 
 (-------------------------------------------------------------------------)
 
+1107- How can you safely cast a byte to an enum type in C#?
+
+Ans- Use the checked keyword for safe casting, such as myDirection = checked((Orientation)myByte);.
+
+(-------------------------------------------------------------------------)
+
