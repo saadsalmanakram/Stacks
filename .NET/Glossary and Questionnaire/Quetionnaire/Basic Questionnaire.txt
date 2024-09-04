@@ -6927,3 +6927,9 @@ Ans- Because reference members in the copied object still refer to the same inst
 
 (-------------------------------------------------------------------------)
 
+1157- What is the purpose of the ICloneable interface in .NET?
+
+Ans- The ICloneable interface provides a standard way to implement object cloning, allowing either shallow or deep copying depending on the implementation of the Clone() method.
+
+(-------------------------------------------------------------------------)
+
