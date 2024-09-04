@@ -6933,3 +6933,9 @@ Ans- The ICloneable interface provides a standard way to implement object clonin
 
 (-------------------------------------------------------------------------)
 
+1158- Why do some recommend avoiding the use of the ICloneable interface?
+
+Ans- The ICloneable interface does not enforce whether the copy should be shallow or deep, leading to ambiguity and potential misuse.
+
+(-------------------------------------------------------------------------)
+
