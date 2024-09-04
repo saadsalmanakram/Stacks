@@ -6741,3 +6741,9 @@ Ans- A sealed class is one that cannot be inherited.
 
 (------------------------------------------------------------------------)
 
+1126- How is method overriding related to polymorphism?
+
+Ans- Method overriding enables a derived class to provide a specific implementation of a method that is already defined in its base class.
+
+(------------------------------------------------------------------------)
+
