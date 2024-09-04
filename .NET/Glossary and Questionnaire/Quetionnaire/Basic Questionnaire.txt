@@ -6585,3 +6585,9 @@ Ans- To gracefully handle runtime errors and prevent application crashes by usin
 
 (-------------------------------------------------------------------------)
 
+1100- How do you catch exceptions in C#?
+
+Ans- By using a try block followed by one or more catch blocks.
+
+(-------------------------------------------------------------------------)
+
