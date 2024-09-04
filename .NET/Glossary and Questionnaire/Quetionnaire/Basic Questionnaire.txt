@@ -6819,3 +6819,9 @@ Ans- Events are used to trigger methods (event handlers) in response to certain 
 
 (------------------------------------------------------------------------)
 
+1139- Can events be declared as static?
+
+Ans- Yes, events can be declared as static if they need to be associated with a class rather than an instance.
+
+(------------------------------------------------------------------------)
+
