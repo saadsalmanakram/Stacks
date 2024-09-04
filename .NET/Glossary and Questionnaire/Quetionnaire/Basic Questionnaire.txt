@@ -6579,3 +6579,9 @@ Ans- Debug configuration includes symbolic information for debugging, while Rele
 
 (-------------------------------------------------------------------------)
 
+1099- What is the purpose of exception handling in C#?
+
+Ans- To gracefully handle runtime errors and prevent application crashes by using try, catch, and finally blocks.
+
+(-------------------------------------------------------------------------)
+
