@@ -6759,3 +6759,9 @@ Ans- Association represents a relationship between two classes where one class u
 
 (------------------------------------------------------------------------)
 
+1129- What is aggregation?
+
+Ans- Aggregation is a special form of association where one class contains another class but both can exist independently.
+
+(------------------------------------------------------------------------)
+
