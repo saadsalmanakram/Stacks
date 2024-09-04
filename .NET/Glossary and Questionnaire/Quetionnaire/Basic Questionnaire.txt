@@ -6963,3 +6963,9 @@ Ans- Class library projects are used to define reusable classes and code, which 
 
 (-------------------------------------------------------------------------)
 
+1163- How do you enforce that a derived class must implement a specific method?
+
+Ans- By defining the method in an interface or as an abstract method in the base class.
+
+(-------------------------------------------------------------------------)
+
