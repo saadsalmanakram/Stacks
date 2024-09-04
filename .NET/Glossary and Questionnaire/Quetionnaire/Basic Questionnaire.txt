@@ -6969,3 +6969,9 @@ Ans- By defining the method in an interface or as an abstract method in the base
 
 (-------------------------------------------------------------------------)
 
+1164- How can you control the sequence in which constructors are executed in derived classes?
+
+Ans- By using the base keyword to explicitly call the base class constructor.
+
+(------------------------------------------------------------------------)
+
