@@ -6387,3 +6387,8 @@ Ans- Global data is shared across the application, while function parameters pro
 
 (-------------------------------------------------------------------------)
 
+1067- Why might using global variables be less desirable compared to using function parameters?
+
+Ans- Global variables can be modified unpredictably by different parts of the application, making code harder to understand and maintain.
+
+(-------------------------------------------------------------------------)
