@@ -6459,3 +6459,15 @@ Ans- No, overloading requires different parameter lists; return types alone are 
 
 (-------------------------------------------------------------------------)
 
+1079- What is a delegate in C#?
+
+Ans- A delegate is a type that holds references to methods with a specific signature.
+
+(-------------------------------------------------------------------------)
+
+1080- How do you declare a delegate?
+
+Ans- Use the delegate keyword followed by the return type and parameter list, e.g., delegate double ProcessDelegate(double param1, double param2);.
+
+(-------------------------------------------------------------------------)
+
