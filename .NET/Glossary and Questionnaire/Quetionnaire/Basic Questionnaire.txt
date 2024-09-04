@@ -6951,3 +6951,9 @@ Ans- They provide a common base for other classes, allowing shared code and enfo
 
 (-------------------------------------------------------------------------)
 
+1161- What is the default behavior of a constructor and destructor in C#?
+
+Ans- Constructors initialize an object, while destructors are called when an object is destroyed, but custom destructors are rarely needed.
+
+(-------------------------------------------------------------------------)
+
