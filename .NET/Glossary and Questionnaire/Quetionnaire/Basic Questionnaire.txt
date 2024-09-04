@@ -6687,3 +6687,9 @@ Ans- A destructor is a method used to perform cleanup before an object is destro
 
 (-------------------------------------------------------------------------)
 
+1117- What is UML?
+
+Ans- Unified Modeling Language (UML) is a standardized modeling language used to visualize the design of a system.
+
+(-------------------------------------------------------------------------)
+
