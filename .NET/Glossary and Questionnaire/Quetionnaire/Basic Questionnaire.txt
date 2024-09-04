@@ -6609,3 +6609,15 @@ Ans- A logic error in the code that causes the application to produce incorrect 
 
 (-------------------------------------------------------------------------)
 
+1104- What is the purpose of the null-coalescing operator (??) in C#?
+
+Ans- The null-coalescing operator checks if a value is null; if so, it throws an exception or returns a default value.
+
+(-------------------------------------------------------------------------)
+
+1105- How does throw work in an expression?
+
+Ans- throw in an expression allows for throwing an exception if a certain condition is met, often used with the null-coalescing operator.
+
+(-------------------------------------------------------------------------)
+
