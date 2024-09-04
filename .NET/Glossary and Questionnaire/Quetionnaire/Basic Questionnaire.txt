@@ -6675,3 +6675,9 @@ Ans- Encapsulation is the principle of bundling data and methods that operate on
 
 (-------------------------------------------------------------------------)
 
+1115- What is a constructor in C#?
+
+Ans- A constructor is a special method used to initialize a new instance of a class.
+
+(-------------------------------------------------------------------------)
+
