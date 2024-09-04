@@ -6975,3 +6975,9 @@ Ans- By using the base keyword to explicitly call the base class constructor.
 
 (------------------------------------------------------------------------)
 
+1165- How do class families work in C#?
+
+Ans- Class families share common behavior or characteristics, often through inheritance from a base class or by implementing shared interfaces.
+
+(------------------------------------------------------------------------)
+
