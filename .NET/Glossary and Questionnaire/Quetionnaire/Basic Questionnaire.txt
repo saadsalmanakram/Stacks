@@ -6471,3 +6471,9 @@ Ans- Use the delegate keyword followed by the return type and parameter list, e.
 
 (-------------------------------------------------------------------------)
 
+1081- How do you instantiate a delegate?
+
+Ans- Instantiate a delegate by assigning it a method that matches its signature, e.g., ProcessDelegate process = new ProcessDelegate(Multiply);.
+
+(-------------------------------------------------------------------------)
+
