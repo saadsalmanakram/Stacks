@@ -6633,3 +6633,9 @@ Ans- Use the checked keyword for safe casting, such as myDirection = checked((Or
 
 (-------------------------------------------------------------------------)
 
+1108- What are fatal errors in programming?
+
+Ans- Fatal errors are severe issues that cause the application to fail completely, either at compile time or runtime.
+
+(-------------------------------------------------------------------------)
+
