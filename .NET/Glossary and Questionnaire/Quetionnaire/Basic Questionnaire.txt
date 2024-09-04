@@ -6549,3 +6549,9 @@ Ans- Use the -= operator to remove a method from the delegate’s invocation lis
 
 (-------------------------------------------------------------------------)
 
+1094- What is the role of delegates in asynchronous programming?
+
+Ans- Delegates can be used to handle callbacks and manage asynchronous operations in a cleaner way.
+
+(-------------------------------------------------------------------------)
+
