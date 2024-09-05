@@ -7348,3 +7348,9 @@ Ans- You can provide overloads with the parameters in the reverse order to ensur
 
 (-----------------------------------------------------------------------)
 
+1227- What is the purpose of the ?. operator in the overloaded == operator?
+
+Ans- The null conditional operator checks if an object is null before accessing its members to prevent a NullReferenceException.
+
+(----------------------------------------------------------------------)
+
