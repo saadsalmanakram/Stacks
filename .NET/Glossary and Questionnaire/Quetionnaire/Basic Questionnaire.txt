@@ -7581,3 +7581,9 @@ Ans- It defines a collection that can be enumerated (iterated over) using a fore
 Ans- Use the FindAll method with a Predicate<T> to filter elements based on a condition.
 
 (-----------------------------------------------------------------------)
+
+1266- What does the AddRange method in List<T> do?
+
+Ans- It adds the elements of a specified collection to the end of the List<T>.
+
+(-----------------------------------------------------------------------)
