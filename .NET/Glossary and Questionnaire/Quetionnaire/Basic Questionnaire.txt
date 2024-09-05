@@ -7257,3 +7257,9 @@ Ans- It provides a base class for creating strongly-typed collections by managin
 
 (-----------------------------------------------------------------------)
 
+1212- What is the key difference between CollectionBase and DictionaryBase?
+
+Ans- CollectionBase indexes items by integer indices, while DictionaryBase indexes items by keys.
+
+(-----------------------------------------------------------------------)
+
