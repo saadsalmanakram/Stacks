@@ -7396,3 +7396,9 @@ Ans- It allows class instances to be used with standard operators, making the cl
 
 (-----------------------------------------------------------------------)
 
+1235- Why can't the += operator be explicitly overloaded?
+
+Ans- += automatically uses the overloaded + operator, so explicit overloading is not necessary.
+
+(-----------------------------------------------------------------------)
+
