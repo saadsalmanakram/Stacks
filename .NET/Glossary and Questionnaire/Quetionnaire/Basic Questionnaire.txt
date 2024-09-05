@@ -7233,3 +7233,9 @@ Ans- Comparisons are essential for tasks like sorting and searching within colle
 
 (-----------------------------------------------------------------------)
 
+1208- What is type casting in C#?
+
+Ans- Type casting converts one data type to another, either implicitly or explicitly.
+
+(-----------------------------------------------------------------------)
+
