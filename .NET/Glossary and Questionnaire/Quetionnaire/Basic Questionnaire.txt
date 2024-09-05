@@ -7131,3 +7131,9 @@ Ans- No, partial methods cannot have a return type.
 
 (-----------------------------------------------------------------------)
 
+1191- What happens if a partial method is declared but not implemented?
+
+Ans- If a partial method is not implemented, both the method and its calls are removed during compilation.
+
+(-----------------------------------------------------------------------)
+
