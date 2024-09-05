@@ -7576,3 +7576,8 @@ Ans- It defines a collection that can be enumerated (iterated over) using a fore
 
 (-----------------------------------------------------------------------)
 
+1265- How can you filter elements in a List<T>?
+
+Ans- Use the FindAll method with a Predicate<T> to filter elements based on a condition.
+
+(-----------------------------------------------------------------------)
