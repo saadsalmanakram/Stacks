@@ -7462,4 +7462,10 @@ Ans- It throws a System.InvalidOperationException.
 
 (-----------------------------------------------------------------------)
 
+1246- How do nullable types handle operators like +, -, etc.?
+
+Ans- Operators work as expected, but if one operand is null, the result will be null.
+
+(-----------------------------------------------------------------------)
+
 
