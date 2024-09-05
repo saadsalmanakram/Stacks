@@ -7426,3 +7426,9 @@ Ans- By using the CaseInsensitiveComparer class.
 
 (-----------------------------------------------------------------------)
 
+1240- Why might you need to overload conversion operators between two classes?
+
+Ans- To enable implicit or explicit conversions between unrelated types.
+
+(-----------------------------------------------------------------------)
+
