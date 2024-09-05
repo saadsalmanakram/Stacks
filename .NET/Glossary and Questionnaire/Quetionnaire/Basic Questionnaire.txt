@@ -7107,3 +7107,9 @@ Ans- Use the partial keyword with the class definition in each file containing p
 
 (------------------------------------------------------------------------)
 
+1187-What are the advantages of using partial classes?
+
+Ans- Partial classes help organize code by splitting it into manageable sections, improving maintainability.
+
+(------------------------------------------------------------------------)
+
