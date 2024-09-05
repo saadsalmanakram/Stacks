@@ -7468,4 +7468,10 @@ Ans- Operators work as expected, but if one operand is null, the result will be 
 
 (-----------------------------------------------------------------------)
 
+1247- What does the ?? (null coalescing) operator do?
+
+Ans- It returns the first non-null value between two operands.
+
+(-----------------------------------------------------------------------)
+
 
