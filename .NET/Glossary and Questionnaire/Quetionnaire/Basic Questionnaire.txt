@@ -7318,3 +7318,9 @@ Ans- Boxed value types refer to a copy, while reference types point to the origi
 
 (-----------------------------------------------------------------------)
 
+1222- How is a binary operator overloaded in C#?
+
+Ans- A binary operator is overloaded by defining a static method with two parameters of the types to be operated on, as seen with the + operator.
+
+(-----------------------------------------------------------------------)
+
