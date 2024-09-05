@@ -7306,3 +7306,9 @@ Ans- A new object is created containing a reference to a copy of the value type.
 
 (-----------------------------------------------------------------------)
 
+1220- Why does unboxing require explicit casting in C#?
+
+Ans- Because unboxing converts from a reference type back to the original value type, which requires verification.
+
+(-----------------------------------------------------------------------)
+
