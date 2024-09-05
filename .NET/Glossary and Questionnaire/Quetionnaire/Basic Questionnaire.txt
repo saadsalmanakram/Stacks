@@ -7197,3 +7197,9 @@ Ans- Collections in C# are classes that store groups of related objects, providi
 
 (-----------------------------------------------------------------------)
 
+1202- What is the main limitation of arrays in C#?
+
+Ans- Arrays have a fixed size once created, meaning you can't add or remove elements dynamically.
+
+(-----------------------------------------------------------------------)
+
