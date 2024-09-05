@@ -7173,3 +7173,9 @@ Ans- No, applying an interface to one part of a partial class applies it to the 
 
 (-----------------------------------------------------------------------)
 
+1198- In the context of partial classes, how does C# handle multiple parts implementing the same method?
+
+Ans- C# will compile an error if multiple parts of a partial class implement the same method with a body.
+
+(-----------------------------------------------------------------------)
+
