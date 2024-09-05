@@ -7432,3 +7432,9 @@ Ans- To enable implicit or explicit conversions between unrelated types.
 
 (-----------------------------------------------------------------------)
 
+1241- What are generics in .NET?
+
+Ans- Generics allow for defining classes, methods, and interfaces with a placeholder for data types, enhancing reusability and type safety.
+
+(-----------------------------------------------------------------------)
+
