@@ -7456,3 +7456,10 @@ Ans- In C#, generics are handled at runtime, while in C++, templates are handled
 
 (-----------------------------------------------------------------------)
 
+1245- What happens if you access the Value property of a nullable type when it’s null?
+
+Ans- It throws a System.InvalidOperationException.
+
+(-----------------------------------------------------------------------)
+
+
