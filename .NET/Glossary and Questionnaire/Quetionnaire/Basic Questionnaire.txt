@@ -7360,3 +7360,9 @@ Ans- Operators like < and > must be overloaded in pairs to ensure consistent com
 
 (-----------------------------------------------------------------------)
 
+1229- What is the importance of overriding Equals() and GetHashCode() in conjunction with == and !=?
+
+Ans- Overriding these methods ensures that both reference equality and value equality are handled consistently across different comparison techniques.
+
+(-----------------------------------------------------------------------)
+
