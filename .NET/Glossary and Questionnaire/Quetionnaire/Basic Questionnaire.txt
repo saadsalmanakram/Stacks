@@ -7474,4 +7474,9 @@ Ans- It returns the first non-null value between two operands.
 
 (-----------------------------------------------------------------------)
 
+1248- How does the ?. (null conditional) operator work?
+
+Ans- It returns null if the preceding object is null, preventing exceptions when accessing members of null objects.
+
+(-----------------------------------------------------------------------)
 
