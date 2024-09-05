@@ -7402,3 +7402,9 @@ Ans- += automatically uses the overloaded + operator, so explicit overloading is
 
 (-----------------------------------------------------------------------)
 
+1236- What is the IComparer interface used for in .NET?
+
+Ans- It is used to compare two objects and is implemented to define custom sorting.
+
+(-----------------------------------------------------------------------)
+
