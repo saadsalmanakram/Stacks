@@ -7450,3 +7450,9 @@ Ans- Generics eliminate the need for casting and type checking in collections, e
 
 (-----------------------------------------------------------------------)
 
+1244- How do generics differ from C++ templates?
+
+Ans- In C#, generics are handled at runtime, while in C++, templates are handled at compile time.
+
+(-----------------------------------------------------------------------)
+
