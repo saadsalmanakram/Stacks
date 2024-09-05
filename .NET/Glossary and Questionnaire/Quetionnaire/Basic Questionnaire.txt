@@ -7444,3 +7444,9 @@ Ans- Generics improve code flexibility by allowing you to write strongly typed c
 
 (-----------------------------------------------------------------------)
 
+1243- What problem do generics solve in collections?
+
+Ans- Generics eliminate the need for casting and type checking in collections, ensuring type safety.
+
+(-----------------------------------------------------------------------)
+
