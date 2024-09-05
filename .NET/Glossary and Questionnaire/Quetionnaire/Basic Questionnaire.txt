@@ -7095,3 +7095,9 @@ Ans- A region is defined using #region and #endregion directives.
 
 (------------------------------------------------------------------------)
 
+1185- What is a partial class in C#?
+
+Ans- A partial class allows splitting the definition of a class across multiple files.
+
+(------------------------------------------------------------------------)
+
