@@ -7498,3 +7498,9 @@ Ans- Yes, generic methods can exist independently in non-generic classes.
 
 (-----------------------------------------------------------------------)
 
+1252- What is the default keyword in generics?
+
+Ans- It provides the default value for a generic type, which is null for reference types and 0 for value types.
+
+(-----------------------------------------------------------------------)
+
