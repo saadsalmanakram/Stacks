@@ -7558,3 +7558,9 @@ Ans- It defines a method that returns a boolean, often used to search or filter 
 
 (-----------------------------------------------------------------------)
 
+1262- What is the difference between Comparison<T> and Predicate<T>?
+
+Ans- Comparison<T> is used for sorting two objects, while Predicate<T> is used to test a condition on one object.
+
+(-----------------------------------------------------------------------)
+
