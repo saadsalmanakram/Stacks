@@ -7516,3 +7516,9 @@ Ans- A generic collection that holds elements of a specified type, supporting dy
 
 (-----------------------------------------------------------------------)
 
+1255- What is a Dictionary<K, V>?
+
+Ans- A collection of key-value pairs where each key must be unique, and values are accessed by their respective keys.
+
+(-----------------------------------------------------------------------)
+
