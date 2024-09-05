@@ -7324,3 +7324,9 @@ Ans- A binary operator is overloaded by defining a static method with two parame
 
 (-----------------------------------------------------------------------)
 
+1223- How is a unary operator overloaded in C#?
+
+Ans- A unary operator is overloaded by defining a static method with a single parameter, like the - operator in the example.
+
+(-----------------------------------------------------------------------)
+
