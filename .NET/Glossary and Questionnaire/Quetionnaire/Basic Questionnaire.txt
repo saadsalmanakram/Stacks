@@ -7118,3 +7118,16 @@ Ans- Partial classes help organize code by splitting it into manageable sections
 Ans- No, all parts of a partial class must inherit from the same base class.
 
 (-----------------------------------------------------------------------)
+
+1189- What is a partial method in C#?
+
+Ans- A partial method is a method defined in one part of a partial class and optionally implemented in another part.
+
+(-----------------------------------------------------------------------)
+
+1190- Can partial methods have a return type?
+
+Ans- No, partial methods cannot have a return type.
+
+(-----------------------------------------------------------------------)
+
