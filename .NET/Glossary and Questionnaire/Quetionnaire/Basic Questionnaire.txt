@@ -7528,3 +7528,9 @@ Ans- List<YourType> list = new List<YourType>();
 
 (-----------------------------------------------------------------------)
 
+1257- What’s the difference between List<T> and Dictionary<K, V>?
+
+Ans- List<T> stores elements indexed by position, while Dictionary<K, V> stores values indexed by unique keys.
+
+(-----------------------------------------------------------------------)
+
