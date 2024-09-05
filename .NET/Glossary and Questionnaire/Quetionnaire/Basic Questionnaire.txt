@@ -7408,3 +7408,9 @@ Ans- It is used to compare two objects and is implemented to define custom sorti
 
 (-----------------------------------------------------------------------)
 
+1237- What happens when you compare a null value using Comparer.Compare()?
+
+Ans- Null values are considered less than any non-null object.
+
+(-----------------------------------------------------------------------)
+
