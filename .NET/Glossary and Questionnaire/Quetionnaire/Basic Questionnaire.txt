@@ -7300,3 +7300,9 @@ Ans- It allows the is operator to perform type checks and extract information fr
 
 (-----------------------------------------------------------------------)
 
+1219- What is the result of boxing a value type?
+
+Ans- A new object is created containing a reference to a copy of the value type.
+
+(-----------------------------------------------------------------------)
+
