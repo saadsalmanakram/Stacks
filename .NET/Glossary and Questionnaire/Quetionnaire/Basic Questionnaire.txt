@@ -7510,3 +7510,9 @@ Ans- It provides generic types for collections, allowing type-safe, reusable, an
 
 (-----------------------------------------------------------------------)
 
+1254- What is a List<T>?
+
+Ans- A generic collection that holds elements of a specified type, supporting dynamic resizing and various methods like Add, Remove, and Sort.
+
+(-----------------------------------------------------------------------)
+
