@@ -7179,3 +7179,9 @@ Ans- C# will compile an error if multiple parts of a partial class implement the
 
 (-----------------------------------------------------------------------)
 
+1199- How do partial methods improve performance when not implemented?
+
+Ans- If a partial method is not implemented, the compiler removes both the method and its calls, avoiding unnecessary overhead.
+
+(-----------------------------------------------------------------------)
+
