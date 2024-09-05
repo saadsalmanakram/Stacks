@@ -7161,3 +7161,9 @@ Ans- A class diagram tool helps visualize class structures, relationships, and g
 
 (-----------------------------------------------------------------------)
 
+1196- What are the benefits of splitting code into multiple files using partial classes?
+
+Ans- It allows for cleaner organization, easier collaboration, and reduces the complexity of large classes.
+
+(-----------------------------------------------------------------------)
+
