@@ -7564,3 +7564,9 @@ Ans- Comparison<T> is used for sorting two objects, while Predicate<T> is used t
 
 (-----------------------------------------------------------------------)
 
+1263- How can you sort a List<T> using a delegate?
+
+Ans- By using the Sort method with a Comparison<T> delegate for custom sorting logic.
+
+(-----------------------------------------------------------------------)
+
