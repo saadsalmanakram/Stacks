@@ -7113,3 +7113,8 @@ Ans- Partial classes help organize code by splitting it into manageable sections
 
 (------------------------------------------------------------------------)
 
+1188- Can partial classes inherit from different base classes?
+
+Ans- No, all parts of a partial class must inherit from the same base class.
+
+(-----------------------------------------------------------------------)
