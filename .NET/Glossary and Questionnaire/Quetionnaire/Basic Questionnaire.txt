@@ -7420,3 +7420,9 @@ Ans- An ArgumentException is thrown.
 
 (-----------------------------------------------------------------------)
 
+1239- How can you perform a case-insensitive string comparison using the Comparer class?
+
+Ans- By using the CaseInsensitiveComparer class.
+
+(-----------------------------------------------------------------------)
+
