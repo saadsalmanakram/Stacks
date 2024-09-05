@@ -7480,3 +7480,9 @@ Ans- It returns null if the preceding object is null, preventing exceptions when
 
 (-----------------------------------------------------------------------)
 
+1249- What is the difference between covariance and contravariance in C#?
+
+Ans- Covariance allows a method to return more derived types, while contravariance allows a method to accept less derived types.
+
+(-----------------------------------------------------------------------)
+
