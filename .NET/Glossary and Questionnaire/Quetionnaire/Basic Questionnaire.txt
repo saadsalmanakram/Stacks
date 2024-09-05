@@ -7227,3 +7227,9 @@ Ans- Yes, ArrayList can store objects of any type as it stores items as object.
 
 (-----------------------------------------------------------------------)
 
+1207- Why are comparisons important in collections?
+
+Ans- Comparisons are essential for tasks like sorting and searching within collections.
+
+(-----------------------------------------------------------------------)
+
