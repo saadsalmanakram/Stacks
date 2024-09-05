@@ -7330,3 +7330,9 @@ Ans- A unary operator is overloaded by defining a static method with a single pa
 
 (-----------------------------------------------------------------------)
 
+1224- What types of operators can be overloaded in C#?
+
+Ans- Unary, binary, and comparison operators can be overloaded, but assignment operators like += cannot.
+
+(-----------------------------------------------------------------------)
+
