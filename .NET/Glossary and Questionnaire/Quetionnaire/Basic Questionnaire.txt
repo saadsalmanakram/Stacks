@@ -7372,3 +7372,9 @@ Ans- No, the = assignment operator cannot be overloaded.
 
 (-----------------------------------------------------------------------)
 
+1231- Why should you overload both true and false operators together?
+
+Ans- Overloading both allows a class to be used in Boolean expressions like if.
+
+(-----------------------------------------------------------------------)
+
