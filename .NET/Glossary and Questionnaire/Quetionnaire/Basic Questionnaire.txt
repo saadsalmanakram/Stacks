@@ -7414,3 +7414,9 @@ Ans- Null values are considered less than any non-null object.
 
 (-----------------------------------------------------------------------)
 
+1238- What happens if you try to compare incompatible types using Comparer.Compare()?
+
+Ans- An ArgumentException is thrown.
+
+(-----------------------------------------------------------------------)
+
