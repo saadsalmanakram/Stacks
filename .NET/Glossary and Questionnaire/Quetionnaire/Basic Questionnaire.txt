@@ -7167,3 +7167,9 @@ Ans- It allows for cleaner organization, easier collaboration, and reduces the c
 
 (-----------------------------------------------------------------------)
 
+1197- Can you apply an interface to only one part of a partial class?
+
+Ans- No, applying an interface to one part of a partial class applies it to the entire class.
+
+(-----------------------------------------------------------------------)
+
