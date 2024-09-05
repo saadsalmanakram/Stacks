@@ -7294,3 +7294,9 @@ Ans- Each object in the collection must be cloned, not just the collection itsel
 
 (-----------------------------------------------------------------------)
 
+1218- How does pattern matching enhance the is operator in C#?
+
+Ans- It allows the is operator to perform type checks and extract information from the matched object directly.
+
+(-----------------------------------------------------------------------)
+
