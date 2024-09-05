@@ -7083,3 +7083,9 @@ Ans- No, interfaces cannot define field members, only public abstract members.
 
 (------------------------------------------------------------------------)
 
+1183- What is the purpose of using regions in code?
+
+Ans- Regions allow collapsing and expanding sections of code to improve readability.
+
+(------------------------------------------------------------------------)
+
