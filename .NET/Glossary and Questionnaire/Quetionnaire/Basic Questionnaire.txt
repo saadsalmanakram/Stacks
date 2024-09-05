@@ -7191,3 +7191,9 @@ Ans- Because the compiler needs to ensure that no external state is affected if 
 
 (-----------------------------------------------------------------------)
 
+1201- What are collections in C#?
+
+Ans- Collections in C# are classes that store groups of related objects, providing more functionality than arrays like dynamic sizing and sorting.
+
+(-----------------------------------------------------------------------)
+
