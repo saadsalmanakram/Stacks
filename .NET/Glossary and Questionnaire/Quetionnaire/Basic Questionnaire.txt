@@ -7245,3 +7245,9 @@ Ans- Implicit conversions happen automatically, while explicit conversions requi
 
 (-----------------------------------------------------------------------)
 
+1210- What are user-defined conversions?
+
+Ans- User-defined conversions allow custom logic for casting between non-compatible types by overloading implicit or explicit operators.
+
+(-----------------------------------------------------------------------)
+
