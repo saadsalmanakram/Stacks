@@ -7209,3 +7209,9 @@ Ans- ArrayList is a collection class that allows dynamic resizing and provides m
 
 (-----------------------------------------------------------------------)
 
+1204- What is the difference between Array and ArrayList in C#?
+
+Ans- Array is fixed in size, whereas ArrayList allows dynamic resizing.
+
+(-----------------------------------------------------------------------)
+
