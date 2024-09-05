@@ -7540,3 +7540,9 @@ Ans- Generics provide type safety at compile-time, reduce boxing/unboxing, and i
 
 (-----------------------------------------------------------------------)
 
+1259- What is the purpose of IComparer<T> in generics?
+
+Ans- It provides a way to define custom comparison logic between two objects for sorting.
+
+(-----------------------------------------------------------------------)
+
