@@ -7570,3 +7570,9 @@ Ans- By using the Sort method with a Comparison<T> delegate for custom sorting l
 
 (-----------------------------------------------------------------------)
 
+1264- What is the role of IEnumerable<T> in generic collections?
+
+Ans- It defines a collection that can be enumerated (iterated over) using a foreach loop.
+
+(-----------------------------------------------------------------------)
+
