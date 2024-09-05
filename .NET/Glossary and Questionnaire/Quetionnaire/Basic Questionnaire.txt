@@ -7378,3 +7378,9 @@ Ans- Overloading both allows a class to be used in Boolean expressions like if.
 
 (-----------------------------------------------------------------------)
 
+1232- Why is it important to check object types before casting in Equals()?
+
+Ans- To prevent invalid cast exceptions and ensure that the comparison is performed only between compatible types.
+
+(-----------------------------------------------------------------------)
+
