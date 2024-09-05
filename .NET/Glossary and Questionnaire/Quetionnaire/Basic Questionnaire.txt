@@ -7492,3 +7492,9 @@ Ans- Type constraints limit the types that can be used with generics, ensuring t
 
 (-----------------------------------------------------------------------)
 
+1251- Can you define generic methods without defining a generic class?
+
+Ans- Yes, generic methods can exist independently in non-generic classes.
+
+(-----------------------------------------------------------------------)
+
