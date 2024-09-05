@@ -7336,3 +7336,9 @@ Ans- Unary, binary, and comparison operators can be overloaded, but assignment o
 
 (-----------------------------------------------------------------------)
 
+1225- What will happen if you overload an operator with the same signature in multiple classes?
+
+Ans- It will cause ambiguity and the code will fail to compile, as the compiler cannot determine which overload to use.
+
+(-----------------------------------------------------------------------)
+
