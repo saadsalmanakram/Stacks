@@ -7438,3 +7438,9 @@ Ans- Generics allow for defining classes, methods, and interfaces with a placeho
 
 (-----------------------------------------------------------------------)
 
+1242- Why are generics useful?
+
+Ans- Generics improve code flexibility by allowing you to write strongly typed collections and methods without specifying exact types.
+
+(-----------------------------------------------------------------------)
+
