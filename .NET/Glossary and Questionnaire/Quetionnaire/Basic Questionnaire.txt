@@ -7251,3 +7251,9 @@ Ans- User-defined conversions allow custom logic for casting between non-compati
 
 (-----------------------------------------------------------------------)
 
+1211- What is the purpose of CollectionBase in C#?
+
+Ans- It provides a base class for creating strongly-typed collections by managing items in an underlying ArrayList.
+
+(-----------------------------------------------------------------------)
+
