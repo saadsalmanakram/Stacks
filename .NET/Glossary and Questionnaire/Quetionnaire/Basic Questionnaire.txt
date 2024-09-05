@@ -7390,3 +7390,9 @@ Ans- For consistency and to ensure that all comparison operators are available f
 
 (-----------------------------------------------------------------------)
 
+1234- How does operator overloading enhance class usability in C#?
+
+Ans- It allows class instances to be used with standard operators, making the class more intuitive and easier to work with.
+
+(-----------------------------------------------------------------------)
+
