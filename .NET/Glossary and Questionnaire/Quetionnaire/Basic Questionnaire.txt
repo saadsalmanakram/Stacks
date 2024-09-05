@@ -7275,3 +7275,9 @@ Ans- You clone each object in the collection individually using a loop.
 
 (-----------------------------------------------------------------------)
 
+1215- What is the purpose of boxing in C#?
+
+Ans- Boxing allows value types to be treated as objects or interface types.
+
+(-----------------------------------------------------------------------)
+
