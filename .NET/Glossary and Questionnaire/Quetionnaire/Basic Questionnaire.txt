@@ -7288,3 +7288,9 @@ Ans- Unboxing is the conversion from a reference type back to a value type, requ
 
 (-----------------------------------------------------------------------)
 
+1217- Why is deep copying more complicated for collections than individual objects?
+
+Ans- Each object in the collection must be cloned, not just the collection itself.
+
+(-----------------------------------------------------------------------)
+
