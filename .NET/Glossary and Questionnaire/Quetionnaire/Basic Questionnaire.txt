@@ -7522,3 +7522,9 @@ Ans- A collection of key-value pairs where each key must be unique, and values a
 
 (-----------------------------------------------------------------------)
 
+1256- How do you instantiate a List<T> in C#?
+
+Ans- List<YourType> list = new List<YourType>();
+
+(-----------------------------------------------------------------------)
+
