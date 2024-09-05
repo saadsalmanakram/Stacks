@@ -7215,3 +7215,9 @@ Ans- Array is fixed in size, whereas ArrayList allows dynamic resizing.
 
 (-----------------------------------------------------------------------)
 
+1205- How do you add items to an ArrayList?
+
+Ans- You can add items using the Add() method of the ArrayList class.
+
+(-----------------------------------------------------------------------)
+
