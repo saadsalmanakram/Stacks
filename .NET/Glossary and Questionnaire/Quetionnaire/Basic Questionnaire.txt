@@ -7552,3 +7552,9 @@ Ans- It allows objects to compare themselves with others of the same type for so
 
 (-----------------------------------------------------------------------)
 
+1261- What is Predicate<T> used for?
+
+Ans- It defines a method that returns a boolean, often used to search or filter collections.
+
+(-----------------------------------------------------------------------)
+
