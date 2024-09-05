@@ -7089,3 +7089,9 @@ Ans- Regions allow collapsing and expanding sections of code to improve readabil
 
 (------------------------------------------------------------------------)
 
+1184- How do you define a region in C#?
+
+Ans- A region is defined using #region and #endregion directives.
+
+(------------------------------------------------------------------------)
+
