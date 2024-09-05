@@ -7342,3 +7342,9 @@ Ans- It will cause ambiguity and the code will fail to compile, as the compiler 
 
 (-----------------------------------------------------------------------)
 
+1226- How can you resolve operator overloading ambiguity when mixing types?
+
+Ans- You can provide overloads with the parameters in the reverse order to ensure proper operator resolution.
+
+(-----------------------------------------------------------------------)
+
