@@ -7149,3 +7149,9 @@ Ans- Partial methods are always private.
 
 (-----------------------------------------------------------------------)
 
+1194- What is the significance of the private modifier in a constructor?
+
+Ans- It prevents creating instances of the class without initializing the required fields, ensuring valid object states.
+
+(-----------------------------------------------------------------------)
+
