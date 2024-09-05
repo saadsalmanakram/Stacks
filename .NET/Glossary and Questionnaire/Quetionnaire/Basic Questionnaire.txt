@@ -7504,3 +7504,9 @@ Ans- It provides the default value for a generic type, which is null for referen
 
 (-----------------------------------------------------------------------)
 
+1253- What is the System.Collections.Generic namespace?
+
+Ans- It provides generic types for collections, allowing type-safe, reusable, and efficient handling of objects.
+
+(-----------------------------------------------------------------------)
+
