@@ -7384,3 +7384,9 @@ Ans- To prevent invalid cast exceptions and ensure that the comparison is perfor
 
 (-----------------------------------------------------------------------)
 
+1233- Why is it necessary to overload <= and >= if you overload < and >?
+
+Ans- For consistency and to ensure that all comparison operators are available for use.
+
+(-----------------------------------------------------------------------)
+
