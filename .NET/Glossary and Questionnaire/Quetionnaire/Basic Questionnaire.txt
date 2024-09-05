@@ -7546,3 +7546,9 @@ Ans- It provides a way to define custom comparison logic between two objects for
 
 (-----------------------------------------------------------------------)
 
+1260- What does IComparable<T> allow in generic types?
+
+Ans- It allows objects to compare themselves with others of the same type for sorting.
+
+(-----------------------------------------------------------------------)
+
