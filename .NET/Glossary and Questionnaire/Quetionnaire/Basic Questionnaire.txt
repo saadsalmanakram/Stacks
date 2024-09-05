@@ -7263,3 +7263,9 @@ Ans- CollectionBase indexes items by integer indices, while DictionaryBase index
 
 (-----------------------------------------------------------------------)
 
+1213- What is the difference between a shallow and deep copy?
+
+Ans- A shallow copy copies references, while a deep copy duplicates the actual objects.
+
+(-----------------------------------------------------------------------)
+
