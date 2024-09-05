@@ -7354,3 +7354,9 @@ Ans- The null conditional operator checks if an object is null before accessing 
 
 (----------------------------------------------------------------------)
 
+1228- Why must some operators be overloaded in pairs?
+
+Ans- Operators like < and > must be overloaded in pairs to ensure consistent comparisons.
+
+(-----------------------------------------------------------------------)
+
