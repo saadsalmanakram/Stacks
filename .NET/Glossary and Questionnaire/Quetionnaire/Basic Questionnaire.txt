@@ -7486,3 +7486,9 @@ Ans- Covariance allows a method to return more derived types, while contravarian
 
 (-----------------------------------------------------------------------)
 
+1250- What is the purpose of type constraints in generics?
+
+Ans- Type constraints limit the types that can be used with generics, ensuring type safety by enforcing certain conditions like implementing an interface.
+
+(-----------------------------------------------------------------------)
+
