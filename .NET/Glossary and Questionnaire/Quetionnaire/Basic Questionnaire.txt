@@ -7281,3 +7281,10 @@ Ans- Boxing allows value types to be treated as objects or interface types.
 
 (-----------------------------------------------------------------------)
 
+1216- What is unboxing, and how does it differ from boxing?
+
+Ans- Unboxing is the conversion from a reference type back to a value type, requiring explicit casting.
+
+
+(-----------------------------------------------------------------------)
+
