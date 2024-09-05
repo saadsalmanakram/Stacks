@@ -7155,3 +7155,9 @@ Ans- It prevents creating instances of the class without initializing the requir
 
 (-----------------------------------------------------------------------)
 
+1195- How can using a class diagram tool help in designing classes?
+
+Ans- A class diagram tool helps visualize class structures, relationships, and generate code skeletons.
+
+(-----------------------------------------------------------------------)
+
