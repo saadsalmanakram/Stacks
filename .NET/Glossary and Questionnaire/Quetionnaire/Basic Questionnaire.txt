@@ -7239,3 +7239,9 @@ Ans- Type casting converts one data type to another, either implicitly or explic
 
 (-----------------------------------------------------------------------)
 
+1209- What is the difference between implicit and explicit conversions?
+
+Ans- Implicit conversions happen automatically, while explicit conversions require a cast operator.
+
+(-----------------------------------------------------------------------)
+
