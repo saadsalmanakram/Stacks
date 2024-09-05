@@ -7366,3 +7366,9 @@ Ans- Overriding these methods ensures that both reference equality and value equ
 
 (-----------------------------------------------------------------------)
 
+1230- Can the = assignment operator be overloaded in C#?
+
+Ans- No, the = assignment operator cannot be overloaded.
+
+(-----------------------------------------------------------------------)
+
