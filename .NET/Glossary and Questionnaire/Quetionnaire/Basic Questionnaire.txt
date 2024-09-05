@@ -7221,3 +7221,9 @@ Ans- You can add items using the Add() method of the ArrayList class.
 
 (-----------------------------------------------------------------------)
 
+1206- Can an ArrayList hold different data types?
+
+Ans- Yes, ArrayList can store objects of any type as it stores items as object.
+
+(-----------------------------------------------------------------------)
+
