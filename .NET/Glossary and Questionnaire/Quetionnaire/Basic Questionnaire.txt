@@ -7312,3 +7312,9 @@ Ans- Because unboxing converts from a reference type back to the original value 
 
 (-----------------------------------------------------------------------)
 
+1221- What’s the key difference between comparing boxed value types and reference types?
+
+Ans- Boxed value types refer to a copy, while reference types point to the original object.
+
+(-----------------------------------------------------------------------)
+
