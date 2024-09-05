@@ -7137,3 +7137,15 @@ Ans- If a partial method is not implemented, both the method and its calls are r
 
 (-----------------------------------------------------------------------)
 
+1192- Why can't partial methods be virtual or abstract?
+
+Ans- Partial methods are designed for optional implementation, so they cannot be virtual or abstract.
+
+(-----------------------------------------------------------------------)
+
+1193- What is the visibility scope of a partial method?
+
+Ans- Partial methods are always private.
+
+(-----------------------------------------------------------------------)
+
