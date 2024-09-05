@@ -7101,3 +7101,9 @@ Ans- A partial class allows splitting the definition of a class across multiple 
 
 (------------------------------------------------------------------------)
 
+1186- How do you declare a partial class in C#?
+
+Ans- Use the partial keyword with the class definition in each file containing part of the class.
+
+(------------------------------------------------------------------------)
+
