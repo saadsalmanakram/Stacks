@@ -7185,3 +7185,9 @@ Ans- If a partial method is not implemented, the compiler removes both the metho
 
 (-----------------------------------------------------------------------)
 
+1200- Why is it important that partial methods cannot have out parameters?
+
+Ans- Because the compiler needs to ensure that no external state is affected if the method is not implemented.
+
+(-----------------------------------------------------------------------)
+
