@@ -7534,3 +7534,9 @@ Ans- List<T> stores elements indexed by position, while Dictionary<K, V> stores 
 
 (-----------------------------------------------------------------------)
 
+1258- What is the benefit of using generics in collections?
+
+Ans- Generics provide type safety at compile-time, reduce boxing/unboxing, and improve performance.
+
+(-----------------------------------------------------------------------)
+
