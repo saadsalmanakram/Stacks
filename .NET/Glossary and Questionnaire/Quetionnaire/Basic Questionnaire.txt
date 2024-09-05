@@ -7203,3 +7203,9 @@ Ans- Arrays have a fixed size once created, meaning you can't add or remove elem
 
 (-----------------------------------------------------------------------)
 
+1203- What is the ArrayList class?
+
+Ans- ArrayList is a collection class that allows dynamic resizing and provides more flexibility compared to arrays.
+
+(-----------------------------------------------------------------------)
+
