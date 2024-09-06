@@ -8476,3 +8476,9 @@ Ans- A 400 HTTP status error is returned.
 
 (----------------------------------------------------------------------)
 
+1415- What is Razor in ASP.NET?
+
+Ans- Razor is a view engine introduced with ASP.NET MVC that allows embedding C# code in HTML using @{...} blocks.
+
+(----------------------------------------------------------------------)
+
