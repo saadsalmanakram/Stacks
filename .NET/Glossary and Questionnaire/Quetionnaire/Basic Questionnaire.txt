@@ -8530,3 +8530,9 @@ Ans- JIT (Just-In-Time) compilation and AOT (Ahead-Of-Time) compilation.
 
 (----------------------------------------------------------------------)
 
+1424- What is CoreCLR?
+
+Ans- CoreCLR is the cross-platform version of the CLR used in .NET Core for running applications across different operating systems.
+
+(----------------------------------------------------------------------)
+
