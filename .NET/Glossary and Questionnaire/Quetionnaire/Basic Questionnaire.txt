@@ -8074,3 +8074,9 @@ Ans- As Func<int, int, int>.
 
 (-----------------------------------------------------------------------)
 
+1348- What is an expression tree in the context of lambda expressions?
+
+Ans- An abstract representation of a lambda expression used for analysis or conversion.
+
+(-----------------------------------------------------------------------)
+
