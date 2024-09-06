@@ -7660,3 +7660,9 @@ Ans- Yes, operators can be overridden in generic classes using the usual method 
 
 (-----------------------------------------------------------------------)
 
+1279- How can you implement an implicit conversion operator in a generic class?
+
+Ans- Define the conversion operator, e.g., public static implicit operator List<Animal>(Farm<T> farm) { ... }.
+
+(-----------------------------------------------------------------------)
+
