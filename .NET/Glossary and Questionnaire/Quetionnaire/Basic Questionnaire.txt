@@ -7996,3 +7996,9 @@ Ans- Yes, but all positional parameters must be specified before named parameter
 
 (-----------------------------------------------------------------------)
 
+1335- Is it possible to specify only some of the optional parameters using named parameters?
+
+Ans- Yes, you can specify values for only some of the optional parameters and leave others as default.
+
+(-----------------------------------------------------------------------)
+
