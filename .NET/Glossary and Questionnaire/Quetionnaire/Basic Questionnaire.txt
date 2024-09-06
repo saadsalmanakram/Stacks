@@ -8740,3 +8740,15 @@ Ans- Claims are key-value pairs that provide information about a user's identity
 
 (------------------------------------------------------------------------)
 
+1459- What is Dependency Injection (DI) in ASP.NET Core?
+
+Ans- DI is a design pattern that helps in decoupling classes by injecting dependencies rather than creating them within the class.
+
+(------------------------------------------------------------------------)
+
+1460- What is a stream in .NET?
+
+Ans- An abstract representation of a sequence of bytes for reading or writing data.
+
+(------------------------------------------------------------------------)
+
