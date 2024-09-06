@@ -8956,3 +8956,9 @@ Ans- XML is used for data interchange and storage, providing a structured format
 
 (------------------------------------------------------------------------)
 
+1495- How does Entity Framework handle database relationships with virtual properties?
+
+Ans- Virtual properties allow Entity Framework to use lazy loading and manage relationships between entities, automatically handling foreign key columns in the database.
+
+(------------------------------------------------------------------------)
+
