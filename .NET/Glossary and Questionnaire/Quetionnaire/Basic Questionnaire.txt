@@ -9046,3 +9046,9 @@ Ans- A service contract defines the operations a service offers and how clients 
 
 (------------------------------------------------------------------------)
 
+1510- What is an operation contract?
+
+Ans- An operation contract specifies a method in a service, including its parameters and return types.
+
+(------------------------------------------------------------------------)
+
