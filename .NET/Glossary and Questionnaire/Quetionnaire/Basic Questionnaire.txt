@@ -9100,3 +9100,9 @@ Ans- BasicHttpBinding is the simplest HTTP binding used for basic web services w
 
 (------------------------------------------------------------------------)
 
+1519- What capabilities does WSHttpBinding offer?
+
+Ans- WSHttpBinding supports advanced features such as security, reliability, and transactions.
+
+(------------------------------------------------------------------------)
+
