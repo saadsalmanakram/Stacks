@@ -8536,3 +8536,9 @@ Ans- CoreCLR is the cross-platform version of the CLR used in .NET Core for runn
 
 (----------------------------------------------------------------------)
 
+1425- What is CoreRT?
+
+Ans- CoreRT is a runtime that compiles .NET Core applications ahead of time (AOT), removing unnecessary code and metadata for faster execution.
+
+(----------------------------------------------------------------------)
+
