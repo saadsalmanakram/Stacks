@@ -8734,3 +8734,9 @@ Ans- OAuth is used for authorization by allowing users to authenticate via third
 
 (------------------------------------------------------------------------)
 
+1458- What are claims in ASP.NET Core?
+
+Ans- Claims are key-value pairs that provide information about a user's identity and permissions.
+
+(------------------------------------------------------------------------)
+
