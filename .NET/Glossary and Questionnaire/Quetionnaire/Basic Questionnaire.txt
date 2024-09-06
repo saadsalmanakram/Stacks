@@ -7924,3 +7924,9 @@ Ans- The dynamic keyword is used to declare variables whose type is resolved at 
 
 (-----------------------------------------------------------------------)
 
+1323- How does the dynamic type differ from the var type?
+
+Ans- dynamic type resolves the type at runtime and bypasses compile-time type checking, whereas var uses compile-time type inference.
+
+(-----------------------------------------------------------------------)
+
