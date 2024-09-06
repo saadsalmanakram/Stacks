@@ -7726,3 +7726,9 @@ Ans- Anonymous methods are inline delegate definitions that provide a way to def
 
 (-----------------------------------------------------------------------)
 
+1290- How do lambda expressions simplify event handling in C#?
+
+Ans- Lambda expressions provide a concise syntax for defining inline event handlers and delegates, making the code cleaner and more readable.
+
+(-----------------------------------------------------------------------)
+
