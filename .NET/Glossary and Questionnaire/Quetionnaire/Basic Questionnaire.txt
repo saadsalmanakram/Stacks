@@ -8488,3 +8488,9 @@ Ans- Razor compiles and executes C# code embedded in HTML when the page is reque
 
 (----------------------------------------------------------------------)
 
+1417- Why is ASP.NET considered stateless, and how can you store state across requests?
+
+Ans- ASP.NET is stateless because each web request is independent. You can store state using mechanisms like session variables, cookies, or query strings.
+
+(----------------------------------------------------------------------)
+
