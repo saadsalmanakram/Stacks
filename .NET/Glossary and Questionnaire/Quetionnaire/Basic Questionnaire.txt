@@ -7672,3 +7672,9 @@ Ans- It allows you to combine two instances of the class or perform operations t
 
 (-----------------------------------------------------------------------)
 
+1281- What is covariance in C#?
+
+Ans- Covariance allows a type to be substituted with a more derived type in generic interfaces or delegates.
+
+(-----------------------------------------------------------------------)
+
