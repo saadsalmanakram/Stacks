@@ -9040,3 +9040,9 @@ Ans- Bindings define how the service communicates by specifying the protocol and
 
 (------------------------------------------------------------------------)
 
+1509- What is a service contract in WCF?
+
+Ans- A service contract defines the operations a service offers and how clients interact with them.
+
+(------------------------------------------------------------------------)
+
