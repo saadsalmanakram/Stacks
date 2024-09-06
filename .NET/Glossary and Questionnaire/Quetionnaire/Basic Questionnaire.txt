@@ -8926,3 +8926,8 @@ Ans- LINQ to Entities queries a database using Entity Framework, whereas LINQ to
 
 (------------------------------------------------------------------------)
 
+1490- How does Entity Framework handle database relationships?
+
+Ans- Entity Framework automatically maps and manages relationships between tables based on navigation properties and data annotations.
+
+(------------------------------------------------------------------------)
