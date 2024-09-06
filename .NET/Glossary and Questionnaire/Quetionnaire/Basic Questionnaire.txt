@@ -8548,4 +8548,8 @@ Ans- .NET Native is a tool that compiles .NET code into native machine code befo
 
 (----------------------------------------------------------------------)
 
+1427- What is a Target Framework Moniker (TFM)?
 
+Ans- TFM is a shorthand representation of a specific .NET framework version that a program targets, like netstandard2.0 or netcoreapp3.1.
+
+(----------------------------------------------------------------------)
