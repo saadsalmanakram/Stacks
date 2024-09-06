@@ -7587,3 +7587,10 @@ Ans- Use the FindAll method with a Predicate<T> to filter elements based on a co
 Ans- It adds the elements of a specified collection to the end of the List<T>.
 
 (-----------------------------------------------------------------------)
+
+1267- Can you instantiate a generic class with a type that does not have a default constructor?
+
+Ans- No, because you can't create an instance of the type without a parameterless constructor.
+
+(-----------------------------------------------------------------------)
+
