@@ -9142,4 +9142,10 @@ Ans- WCF uses data contracts to serialize and deserialize complex data structure
 
 (------------------------------------------------------------------------)
 
+1526- What is the purpose of service behaviors in WCF?
+
+Ans- Service behaviors configure various aspects of the service's runtime behavior, such as metadata availability and debugging options.
+
+(------------------------------------------------------------------------)
+
 
