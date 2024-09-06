@@ -7858,3 +7858,9 @@ Ans- They allow for more concise object and collection initialization but do not
 
 (-----------------------------------------------------------------------)
 
+1312- What happens if you use an object initializer with a class that has a non-default constructor?
+
+Ans- The non-default constructor is called first, and then the object initializer sets property values.
+
+(-----------------------------------------------------------------------)
+
