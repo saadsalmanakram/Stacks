@@ -8314,3 +8314,9 @@ Ans- They help examine the runtime behavior and properties of UI elements to res
 
 (----------------------------------------------------------------------)
 
+1388- What is the base class for all layout panels in WPF?
+
+Ans- All layout panels derive from the abstract Panel class.
+
+(----------------------------------------------------------------------)
+
