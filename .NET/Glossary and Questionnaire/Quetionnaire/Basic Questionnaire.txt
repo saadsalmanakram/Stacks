@@ -9004,3 +9004,9 @@ Ans- WCF supports HTTP, TCP, UDP, Named Pipes, and MSMQ protocols.
 
 (------------------------------------------------------------------------)
 
+1503- What is the purpose of HTTP in WCF?
+
+Ans- HTTP enables communication over the Internet and is used for web services.
+
+(------------------------------------------------------------------------)
+
