@@ -8080,3 +8080,9 @@ Ans- An abstract representation of a lambda expression used for analysis or conv
 
 (-----------------------------------------------------------------------)
 
+1349- How can you use an expression tree with LINQ?
+
+Ans- Expression trees can convert lambda expressions to SQL queries for databases.
+
+(-----------------------------------------------------------------------)
+
