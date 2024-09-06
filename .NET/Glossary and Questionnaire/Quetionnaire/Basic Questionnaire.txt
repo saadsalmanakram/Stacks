@@ -9016,3 +9016,9 @@ Ans- TCP is more efficient than HTTP and is used for high-performance communicat
 
 (------------------------------------------------------------------------)
 
+1505- How does UDP differ from TCP in WCF?
+
+Ans- UDP allows broadcasting messages and is suitable for scenarios where message loss is acceptable.
+
+(------------------------------------------------------------------------)
+
