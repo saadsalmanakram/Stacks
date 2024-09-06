@@ -7822,3 +7822,9 @@ Ans- Use the Type.GetCustomAttributes() method.
 
 (-----------------------------------------------------------------------)
 
+1306- How does an object initializer simplify object creation in C#?
+
+Ans- It combines object creation and property initialization into a single statement.
+
+(-----------------------------------------------------------------------)
+
