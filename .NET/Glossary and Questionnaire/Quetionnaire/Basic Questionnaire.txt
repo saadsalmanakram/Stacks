@@ -8464,3 +8464,10 @@ Ans- It allows applications to handle varying loads by dynamically adjusting res
 
 (----------------------------------------------------------------------)
 
+1413- How does cloud programming handle downtime or latency issues?
+
+Ans- By incorporating resiliency patterns like retries and circuit breakers to manage and recover from service disruptions.
+
+(----------------------------------------------------------------------)
+
+
