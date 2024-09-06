@@ -7798,3 +7798,9 @@ Ans- Anonymous methods can be used to handle events inline without defining a se
 
 (-----------------------------------------------------------------------)
 
+1302- How can you retrieve custom attributes of a class in C#?
+
+Ans- Use the Type.GetCustomAttributes() method to retrieve custom attributes.
+
+(-----------------------------------------------------------------------)
+
