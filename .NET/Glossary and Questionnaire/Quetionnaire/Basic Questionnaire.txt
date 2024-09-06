@@ -7774,3 +7774,9 @@ Ans- Initializers provide a way to set the initial values of fields or propertie
 
 (-----------------------------------------------------------------------)
 
+1298- What is the purpose of attaching an event handler to an event?
+
+Ans- Attaching an event handler allows you to define the code that will be executed when the event is raised.
+
+(-----------------------------------------------------------------------)
+
