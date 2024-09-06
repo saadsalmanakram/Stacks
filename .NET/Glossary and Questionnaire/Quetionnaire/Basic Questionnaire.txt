@@ -8998,3 +8998,9 @@ Ans- WCF enables communication across process, machine, and network boundaries a
 
 (------------------------------------------------------------------------)
 
+1502- What protocols does WCF support?
+
+Ans- WCF supports HTTP, TCP, UDP, Named Pipes, and MSMQ protocols.
+
+(------------------------------------------------------------------------)
+
