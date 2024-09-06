@@ -8692,3 +8692,9 @@ Ans- The page lifecycle determines how and when server controls are processed an
 
 (-----------------------------------------------------------------------)
 
+1451- What is the impact of dynamic compilation in Web Sites on performance?
+
+Ans- Dynamic compilation can lead to slower performance on the first request as code is compiled at runtime.
+
+(-----------------------------------------------------------------------)
+
