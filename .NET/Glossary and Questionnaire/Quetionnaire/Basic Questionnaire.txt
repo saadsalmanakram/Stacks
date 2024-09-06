@@ -9136,4 +9136,10 @@ Ans- A Data Contract defines the structure of the data exchanged between the WCF
 
 (------------------------------------------------------------------------)
 
+1525- How does WCF handle data serialization?
+
+Ans- WCF uses data contracts to serialize and deserialize complex data structures for transmission between the service and clients.
+
+(------------------------------------------------------------------------)
+
 
