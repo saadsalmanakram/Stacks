@@ -7744,3 +7744,9 @@ Ans- The var keyword is used for implicit type inference, allowing the compiler 
 
 (-----------------------------------------------------------------------)
 
+1293- How do you use anonymous types in C#?
+
+Ans- Anonymous types are used to create objects without explicitly defining a class, useful for simple data structures or projections.
+
+(-----------------------------------------------------------------------)
+
