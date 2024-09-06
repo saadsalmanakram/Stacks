@@ -7750,3 +7750,9 @@ Ans- Anonymous types are used to create objects without explicitly defining a cl
 
 (-----------------------------------------------------------------------)
 
+1294- What is the dynamic type in C#?
+
+Ans- The dynamic type allows for dynamic typing and bypasses compile-time type checking, deferring type resolution to runtime.
+
+(-----------------------------------------------------------------------)
+
