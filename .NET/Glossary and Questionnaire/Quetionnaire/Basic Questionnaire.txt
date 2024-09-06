@@ -8944,3 +8944,9 @@ Ans- A one-to-one relationship is where each entity in one table is related to a
 
 (------------------------------------------------------------------------)
 
+1493- How can you create XML from a database using C#?
+
+Ans- You can use LINQ to XML or other XML libraries to query and convert database data to XML format.
+
+(------------------------------------------------------------------------)
+
