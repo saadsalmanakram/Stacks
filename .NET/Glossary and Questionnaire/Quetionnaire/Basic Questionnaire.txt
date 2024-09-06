@@ -9184,3 +9184,9 @@ Ans- WCF separates contracts (interfaces) from the implementation (class), allow
 
 (------------------------------------------------------------------------)
 
+1533- What happens if you disable metadata exchange in WCF?
+
+Ans- Disabling metadata exchange prevents clients from using tools like Add Service Reference to generate service proxies but doesn’t affect existing clients that already have the necessary metadata.
+
+(------------------------------------------------------------------------)
+
