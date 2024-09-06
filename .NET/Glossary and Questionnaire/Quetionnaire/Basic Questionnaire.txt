@@ -8914,3 +8914,9 @@ Ans- ORM is a technique that maps C# classes to database tables, simplifying dat
 
 (------------------------------------------------------------------------)
 
+1488- How do you create a database using Code First?
+
+Ans- Define your C# classes, set up a DbContext, and Entity Framework will automatically generate the database schema.
+
+(------------------------------------------------------------------------)
+
