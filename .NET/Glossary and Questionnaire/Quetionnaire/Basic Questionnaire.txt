@@ -8008,3 +8008,9 @@ Ans- Named parameters can be specified in any order, but all required parameters
 
 (-----------------------------------------------------------------------)
 
+1337- What is the purpose of the Optional attribute in method parameters?
+
+Ans- The Optional attribute is used to indicate that a parameter is optional, though it does not allow specifying a default value.
+
+(-----------------------------------------------------------------------)
+
