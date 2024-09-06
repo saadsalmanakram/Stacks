@@ -8308,3 +8308,9 @@ Ans- The Preview prefix indicates a tunneling event, which occurs before the cor
 
 (----------------------------------------------------------------------)
 
+1387- What is the purpose of visual debugging tools in UI development?
+
+Ans- They help examine the runtime behavior and properties of UI elements to resolve layout issues.
+
+(----------------------------------------------------------------------)
+
