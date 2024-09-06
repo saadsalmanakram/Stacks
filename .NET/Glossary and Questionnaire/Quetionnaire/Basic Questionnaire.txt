@@ -8542,3 +8542,10 @@ Ans- CoreRT is a runtime that compiles .NET Core applications ahead of time (AOT
 
 (----------------------------------------------------------------------)
 
+1426- What is .NET Native?
+
+Ans- .NET Native is a tool that compiles .NET code into native machine code before deployment, primarily used with Universal Windows Platform (UWP) applications.
+
+(----------------------------------------------------------------------)
+
+
