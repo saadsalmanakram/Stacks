@@ -7738,3 +7738,9 @@ Ans- Attributes provide metadata about code elements, such as classes, methods, 
 
 (-----------------------------------------------------------------------)
 
+1292- What is the purpose of the var keyword in C#?
+
+Ans- The var keyword is used for implicit type inference, allowing the compiler to determine the type of a variable based on the assigned value.
+
+(-----------------------------------------------------------------------)
+
