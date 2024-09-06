@@ -7846,3 +7846,9 @@ Ans- It extends the object initializer syntax to initialize collections in a sin
 
 (-----------------------------------------------------------------------)
 
+1310- What changes are needed in a class to support collection initializers?
+
+Ans- The class should expose an Add() method or support property initializers for the collection.
+
+(-----------------------------------------------------------------------)
+
