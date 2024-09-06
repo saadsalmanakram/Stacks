@@ -8050,3 +8050,15 @@ Ans- param1 => param1 * param1 defines a lambda with one parameter.
 
 (-----------------------------------------------------------------------)
 
+1344- What is required in a lambda expression with multiple statements and a non-void return type?
+
+Ans- You must use the return keyword to return a value.
+
+(-----------------------------------------------------------------------)
+
+1345- When is it preferable to use a non-anonymous method instead of a lambda expression?
+
+Ans- When the lambda expression requires multiple statements for clarity.
+
+(-----------------------------------------------------------------------)
+
