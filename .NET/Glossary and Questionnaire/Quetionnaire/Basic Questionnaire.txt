@@ -8446,3 +8446,9 @@ Ans- It involves retrying operations after transient failures within a specified
 
 (----------------------------------------------------------------------)
 
+1410- What is ASP.NET used for in cloud programming?
+
+Ans- ASP.NET is used to build web applications that can run on cloud platforms, leveraging cloud resources for scalability and availability.
+
+(----------------------------------------------------------------------)
+
