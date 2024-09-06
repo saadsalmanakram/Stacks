@@ -8986,3 +8986,9 @@ Ans- WCF (Windows Communication Foundation) is a framework for building and depl
 
 (------------------------------------------------------------------------)
 
+1500- How does WCF improve upon traditional web services?
+
+Ans- WCF integrates web services and remoting to provide a more versatile and powerful communication infrastructure.
+
+(------------------------------------------------------------------------)
+
