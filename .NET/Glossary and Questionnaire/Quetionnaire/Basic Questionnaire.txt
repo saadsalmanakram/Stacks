@@ -7966,3 +7966,9 @@ Ans- No, default values must be literal values, constant values, or default valu
 
 (-----------------------------------------------------------------------)
 
+1330- What is the restriction on the order of optional parameters?
+
+Ans- Optional parameters must be placed at the end of the parameter list in a method.
+
+(-----------------------------------------------------------------------)
+
