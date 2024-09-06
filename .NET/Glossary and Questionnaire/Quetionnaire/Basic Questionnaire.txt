@@ -7594,3 +7594,9 @@ Ans- No, because you can't create an instance of the type without a parameterles
 
 (-----------------------------------------------------------------------)
 
+1268- How do you handle a situation where you need a default value for a generic type?
+
+Ans- Use the default keyword, e.g., innerT1Object = default(T1);.
+
+(-----------------------------------------------------------------------)
+
