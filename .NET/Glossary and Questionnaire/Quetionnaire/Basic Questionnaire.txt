@@ -8194,3 +8194,9 @@ Ans- A dependency property is a special type of property in WPF that supports ad
 
 (-----------------------------------------------------------------------)
 
+1368- Why are Dependency Properties needed in WPF?
+
+Ans- They provide extended functionality beyond standard .NET properties, including property value inheritance, change notifications, and the ability to apply styles and animations.
+
+(-----------------------------------------------------------------------)
+
