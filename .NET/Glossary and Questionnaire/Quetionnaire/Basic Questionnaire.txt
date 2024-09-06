@@ -7600,3 +7600,15 @@ Ans- Use the default keyword, e.g., innerT1Object = default(T1);.
 
 (-----------------------------------------------------------------------)
 
+1269- Why might you use the default keyword in a generic class constructor?
+
+Ans- To assign a default value for the generic type T1, which could be null for reference types or a default value for value types.
+
+(-----------------------------------------------------------------------)
+
+1270- What does the where keyword do in generic class definitions?
+
+Ans- It constrains the types that can be used as type arguments for the generic class.
+
+(-----------------------------------------------------------------------)
+
