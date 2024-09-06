@@ -8830,3 +8830,15 @@ Ans- PLINQ (Parallel LINQ) is an extension of LINQ to Objects that allows querie
 
 (------------------------------------------------------------------------)
 
+1474- How do you group query results in LINQ?
+
+Ans- Use the GroupBy() method to group results based on a specified key.
+
+(------------------------------------------------------------------------)
+
+1475- How do you perform joins in LINQ?
+
+Ans- Use join clauses in query syntax or Join() method in method syntax to combine data from multiple sources based on a key.
+
+(------------------------------------------------------------------------)
+
