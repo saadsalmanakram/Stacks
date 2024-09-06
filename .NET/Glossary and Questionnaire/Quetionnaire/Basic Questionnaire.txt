@@ -8608,3 +8608,15 @@ Ans- Mono was an open-source project that brought .NET compatibility to non-Wind
 
 (----------------------------------------------------------------------)
 
+1437- How do you build a .NET Standard library?
+
+Ans- Using Visual Studio or .NET CLI, you can create a library targeting a specific .NET Standard version to ensure cross-platform compatibility.
+
+(----------------------------------------------------------------------)
+
+1438- What are the challenges in porting from .NET Framework to .NET Core?
+
+Ans- Differences in APIs, platform dependencies, and the need for cross-platform support can complicate the porting process.
+
+(----------------------------------------------------------------------)
+
