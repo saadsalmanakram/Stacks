@@ -8650,3 +8650,9 @@ Ans- In Projects, code-behind files are compiled into a single assembly, whereas
 
 (-----------------------------------------------------------------------)
 
+1444- How does memory consumption differ between ASP.NET Projects and Web Sites?
+
+Ans- Projects consume more memory as the entire application is loaded, while Web Sites only compile and load requested files.
+
+(-----------------------------------------------------------------------)
+
