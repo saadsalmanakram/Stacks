@@ -8974,3 +8974,9 @@ Ans- Use LINQ to Entities for querying the data and LINQ to XML classes to trans
 
 (------------------------------------------------------------------------)
 
+1498- How do you avoid creating duplicate records when running a database initialization script repeatedly?
+
+Ans- Implement checks to ensure records are not duplicated, such as checking for existing entries before adding new ones.
+
+(------------------------------------------------------------------------)
+
