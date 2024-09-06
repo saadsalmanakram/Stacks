@@ -7942,3 +7942,9 @@ Ans- Use dynamic types when interacting with objects whose types are not known a
 
 (-----------------------------------------------------------------------)
 
+1326- Why is it important to be cautious with dynamic types?
+
+Ans- Because type checking is deferred to runtime, using dynamic types can lead to runtime errors and performance issues due to the loss of compile-time type safety.
+
+(-----------------------------------------------------------------------)
+
