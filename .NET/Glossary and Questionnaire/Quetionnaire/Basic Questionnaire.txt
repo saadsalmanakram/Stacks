@@ -9178,3 +9178,9 @@ Ans- The WCF Test Client is a tool provided by Visual Studio to test WCF service
 
 (------------------------------------------------------------------------)
 
+1532- How does WCF separate service contracts from implementation?
+
+Ans- WCF separates contracts (interfaces) from the implementation (class), allowing clients to interact with the service through the contract without knowing the implementation details.
+
+(------------------------------------------------------------------------)
+
