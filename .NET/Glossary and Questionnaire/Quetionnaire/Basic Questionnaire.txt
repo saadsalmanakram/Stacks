@@ -9088,3 +9088,9 @@ Ans- WCF services can be hosted in IIS, a Windows service, an executable, or Win
 
 (------------------------------------------------------------------------)
 
+1517- How does hosting in IIS benefit WCF services?
+
+Ans- Hosting in IIS provides advanced features like activation, process recycling, and integration with IIS security.
+
+(------------------------------------------------------------------------)
+
