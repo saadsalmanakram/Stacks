@@ -8452,3 +8452,9 @@ Ans- ASP.NET is used to build web applications that can run on cloud platforms, 
 
 (----------------------------------------------------------------------)
 
+1411- How does cloud programming differ from traditional desktop programming?
+
+Ans- Cloud programming must account for scalability, elasticity, and the stateless nature of cloud resources, unlike traditional desktop applications.
+
+(----------------------------------------------------------------------)
+
