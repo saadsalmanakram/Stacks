@@ -7792,3 +7792,9 @@ Ans- Events provide a decoupled way of notifying subscribers about changes, allo
 
 (-----------------------------------------------------------------------)
 
+1301- How do anonymous methods interact with event handling in C#?
+
+Ans- Anonymous methods can be used to handle events inline without defining a separate method, e.g., myConnection1.MessageArrived += delegate(Connection source, MessageArrivedEventArgs e) { /* code */ };.
+
+(-----------------------------------------------------------------------)
+
