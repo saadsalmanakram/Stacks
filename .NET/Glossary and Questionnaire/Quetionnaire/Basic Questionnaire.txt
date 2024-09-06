@@ -7948,3 +7948,9 @@ Ans- Because type checking is deferred to runtime, using dynamic types can lead 
 
 (-----------------------------------------------------------------------)
 
+1327- What is an optional parameter in C#?
+
+Ans- An optional parameter in C# is a parameter that has a default value specified in the method definition.
+
+(-----------------------------------------------------------------------)
+
