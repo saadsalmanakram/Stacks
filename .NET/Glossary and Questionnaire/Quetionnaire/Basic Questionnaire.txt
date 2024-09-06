@@ -7852,3 +7852,9 @@ Ans- The class should expose an Add() method or support property initializers fo
 
 (-----------------------------------------------------------------------)
 
+1311- How do object and collection initializers affect constructor usage?
+
+Ans- They allow for more concise object and collection initialization but do not replace the need for constructors.
+
+(-----------------------------------------------------------------------)
+
