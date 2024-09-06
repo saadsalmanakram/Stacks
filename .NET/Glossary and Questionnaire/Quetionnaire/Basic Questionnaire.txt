@@ -7930,3 +7930,9 @@ Ans- dynamic type resolves the type at runtime and bypasses compile-time type ch
 
 (-----------------------------------------------------------------------)
 
+1324- What will happen if you attempt to call a non-existent method on a dynamic variable?
+
+Ans- A RuntimeBinderException will be thrown at runtime if the method or property does not exist.
+
+(-----------------------------------------------------------------------)
+
