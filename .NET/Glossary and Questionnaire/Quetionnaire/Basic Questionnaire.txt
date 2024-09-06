@@ -7954,3 +7954,9 @@ Ans- An optional parameter in C# is a parameter that has a default value specifi
 
 (-----------------------------------------------------------------------)
 
+1328- How do you define an optional parameter in a method?
+
+Ans- By assigning a default value to the parameter in the method signature, e.g., bool capitalizeWords = false.
+
+(-----------------------------------------------------------------------)
+
