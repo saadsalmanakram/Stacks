@@ -8170,3 +8170,9 @@ Ans- Events are handled using event handlers defined in the code-behind file, wh
 
 (-----------------------------------------------------------------------)
 
+1364- What is the use of the Grid control in WPF?
+
+Ans- The Grid control is used to arrange UI elements in rows and columns, providing a flexible layout.
+
+(-----------------------------------------------------------------------)
+
