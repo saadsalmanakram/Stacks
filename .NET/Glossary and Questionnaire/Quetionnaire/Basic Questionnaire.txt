@@ -9076,3 +9076,9 @@ Ans- One-way messaging sends a message to the service without expecting a respon
 
 (------------------------------------------------------------------------)
 
+1515- What is duplex messaging?
+
+Ans- Duplex messaging allows both the client and server to initiate communication, enabling two-way interaction.
+
+(------------------------------------------------------------------------)
+
