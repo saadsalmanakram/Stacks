@@ -8404,3 +8404,9 @@ Ans- IaaS provides infrastructure; PaaS offers a platform for applications; SaaS
 
 (----------------------------------------------------------------------)
 
+1403- What is elasticity in the cloud?
+
+Ans- Elasticity refers to the ability to scale resources up or down based on demand with minimal effort.
+
+(----------------------------------------------------------------------)
+
