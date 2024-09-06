@@ -8686,3 +8686,9 @@ Ans- Authentication verifies user identity, while authorization determines acces
 
 (-----------------------------------------------------------------------)
 
+1450- How does the ASP.NET Web Forms page lifecycle affect server controls?
+
+Ans- The page lifecycle determines how and when server controls are processed and events are handled during page requests.
+
+(-----------------------------------------------------------------------)
+
