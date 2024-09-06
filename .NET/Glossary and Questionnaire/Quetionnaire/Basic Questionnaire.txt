@@ -8320,21 +8320,4 @@ Ans- All layout panels derive from the abstract Panel class.
 
 (----------------------------------------------------------------------)
 
-1389- Can you directly use the Panel class for layout in WPF?
-
-Ans- No, the Panel class itself cannot be used directly for layout.
-
-(----------------------------------------------------------------------)
-
-1390- What is the Canvas control used for in WPF?
-
-Ans- It allows complete freedom in positioning child controls without alignment constraints.
-
-(----------------------------------------------------------------------)
-
-1391- How does the order of controls in a DockPanel affect layout?
-
-Ans- The stack order is important; each control reduces the available space for subsequent controls.
-
-(----------------------------------------------------------------------)
 
