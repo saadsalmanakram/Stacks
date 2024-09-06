@@ -7618,3 +7618,9 @@ Ans- Use where T : class.
 
 (-----------------------------------------------------------------------)
 
+1272- How can you constrain a generic type to be a value type?
+
+Ans- Use where T : struct.
+
+(-----------------------------------------------------------------------)
+
