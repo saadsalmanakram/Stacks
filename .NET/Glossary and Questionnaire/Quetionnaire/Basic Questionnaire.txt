@@ -8368,3 +8368,9 @@ Ans- ControlTemplate modifies the look and feel of a control, while DataTemplate
 
 (----------------------------------------------------------------------)
 
+1397- What role does the LinearGradientBrush play in XAML?
+
+Ans- LinearGradientBrush defines a gradient fill for a control, transitioning colors along a specified line from the start point to the end point.
+
+(----------------------------------------------------------------------)
+
