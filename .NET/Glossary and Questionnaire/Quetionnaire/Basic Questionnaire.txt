@@ -8704,3 +8704,9 @@ Ans- Kestrel serves as an internal web server behind IIS, which forwards request
 
 (-----------------------------------------------------------------------)
 
+1453- What is self-hosting in ASP.NET Core?
+
+Ans- Self-hosting refers to running an ASP.NET Core application with Kestrel alone, without relying on IIS or other web servers.
+
+(-----------------------------------------------------------------------)
+
