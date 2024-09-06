@@ -8380,3 +8380,9 @@ Ans- DropShadowEffect adds a shadow to a control, creating a visual effect that 
 
 (----------------------------------------------------------------------)
 
+1399- What are routed commands and how are they beneficial?
+
+Ans- Routed commands are used to handle actions in WPF applications, allowing for centralized command handling, conditional availability of commands, and separation of UI logic from event handling.
+
+(----------------------------------------------------------------------)
+
