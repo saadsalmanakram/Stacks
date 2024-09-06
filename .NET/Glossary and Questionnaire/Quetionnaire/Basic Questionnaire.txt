@@ -8296,3 +8296,9 @@ Ans- The KeyDown event is triggered when a key is pressed while a control has fo
 
 (----------------------------------------------------------------------)
 
+1385- What is the Click event in WPF?
+
+Ans- The Click event occurs when a control, like a button, is clicked, or when a user presses Enter or Space on the control.
+
+(----------------------------------------------------------------------)
+
