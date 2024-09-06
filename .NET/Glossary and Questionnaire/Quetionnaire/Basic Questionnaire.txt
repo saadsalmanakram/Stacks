@@ -8896,3 +8896,9 @@ Ans- SQL Server Express is a free, lightweight version of Microsoft SQL Server, 
 
 (------------------------------------------------------------------------)
 
+1485- What is Entity Framework?
+
+Ans- Entity Framework is a .NET class library that facilitates object-relational mapping (ORM) to handle database operations using C#.
+
+(------------------------------------------------------------------------)
+
