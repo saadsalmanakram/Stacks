@@ -8026,3 +8026,9 @@ Ans- Default parameter values simplify method signatures and reduce code duplica
 
 (-----------------------------------------------------------------------)
 
+1340- How do you define a lambda expression with two parameters in C#?
+
+Ans- (paramA, paramB) => paramA + paramB defines a lambda with two parameters.
+
+(-----------------------------------------------------------------------)
+
