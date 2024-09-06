@@ -8338,3 +8338,15 @@ Ans- StaticResource is evaluated once at application startup, while DynamicResou
 
 (----------------------------------------------------------------------)
 
+1392- What is a Trigger in WPF?
+
+Ans- A Trigger is a mechanism used to change properties of controls based on certain conditions or property values.
+
+(----------------------------------------------------------------------)
+
+1393- How do you use a Resource Dictionary in WPF?
+
+Ans- You define a Resource Dictionary in XAML and merge it into your application to provide shared resources like styles and templates.
+
+(----------------------------------------------------------------------)
+
