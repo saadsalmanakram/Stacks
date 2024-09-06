@@ -8824,3 +8824,9 @@ Ans- LINQ to Objects, LINQ to XML, LINQ to Entities, LINQ to DataSet, LINQ to SQ
 
 (------------------------------------------------------------------------)
 
+1473- What is PLINQ?
+
+Ans- PLINQ (Parallel LINQ) is an extension of LINQ to Objects that allows queries to be executed in parallel, improving performance on multicore processors.
+
+(------------------------------------------------------------------------)
+
