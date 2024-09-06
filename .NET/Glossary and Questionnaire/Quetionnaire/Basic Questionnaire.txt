@@ -8374,3 +8374,9 @@ Ans- LinearGradientBrush defines a gradient fill for a control, transitioning co
 
 (----------------------------------------------------------------------)
 
+1398- Explain how DropShadowEffect is used in XAML.
+
+Ans- DropShadowEffect adds a shadow to a control, creating a visual effect that gives depth and separation from the background.
+
+(----------------------------------------------------------------------)
+
