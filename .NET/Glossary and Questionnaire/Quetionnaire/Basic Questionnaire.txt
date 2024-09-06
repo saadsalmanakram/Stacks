@@ -8620,3 +8620,9 @@ Ans- Differences in APIs, platform dependencies, and the need for cross-platform
 
 (----------------------------------------------------------------------)
 
+1439- What is Kestrel in ASP.NET Core?
+
+Ans- Kestrel is a cross-platform web server for ASP.NET Core applications.
+
+(----------------------------------------------------------------------)
+
