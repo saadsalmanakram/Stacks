@@ -7786,3 +7786,9 @@ Ans- You attach the event handler using the += operator, e.g., MyEvent += MyEven
 
 (-----------------------------------------------------------------------)
 
+1300- What is the benefit of using events over directly calling methods?
+
+Ans- Events provide a decoupled way of notifying subscribers about changes, allowing multiple subscribers and easier maintenance.
+
+(-----------------------------------------------------------------------)
+
