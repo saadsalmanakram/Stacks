@@ -8410,3 +8410,8 @@ Ans- Elasticity refers to the ability to scale resources up or down based on dem
 
 (----------------------------------------------------------------------)
 
+1404- What does a cloud-optimized stack refer to?
+
+Ans- It refers to software designed to run efficiently in the cloud, minimizing dependencies and supporting cross-platform execution.
+
+(----------------------------------------------------------------------)
