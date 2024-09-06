@@ -8032,3 +8032,9 @@ Ans- (paramA, paramB) => paramA + paramB defines a lambda with two parameters.
 
 (-----------------------------------------------------------------------)
 
+1341- Can you mix implicitly and explicitly typed parameters in a lambda expression?
+
+Ans- No, you cannot mix implicit and explicit types in a lambda expression.
+
+(-----------------------------------------------------------------------)
+
