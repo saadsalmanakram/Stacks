@@ -8842,3 +8842,9 @@ Ans- Use join clauses in query syntax or Join() method in method syntax to combi
 
 (------------------------------------------------------------------------)
 
+1476- What is deferred query execution in LINQ?
+
+Ans- Deferred query execution means the query is not executed until the results are iterated over, enabling lazy evaluation.
+
+(------------------------------------------------------------------------)
+
