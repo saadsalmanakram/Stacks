@@ -8890,3 +8890,9 @@ Ans- Aggregate operators perform operations like sum, average, count, and min/ma
 
 (------------------------------------------------------------------------)
 
+1484- What is SQL Server Express?
+
+Ans- SQL Server Express is a free, lightweight version of Microsoft SQL Server, suitable for development and learning.
+
+(------------------------------------------------------------------------)
+
