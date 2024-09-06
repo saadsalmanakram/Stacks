@@ -8980,3 +8980,9 @@ Ans- Implement checks to ensure records are not duplicated, such as checking for
 
 (------------------------------------------------------------------------)
 
+1499- What is WCF?
+
+Ans- WCF (Windows Communication Foundation) is a framework for building and deploying service-oriented applications.
+
+(------------------------------------------------------------------------)
+
