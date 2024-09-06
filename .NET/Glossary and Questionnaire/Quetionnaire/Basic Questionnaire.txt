@@ -8326,3 +8326,9 @@ Ans- A routed command is a type of command that can be executed by multiple cont
 
 (----------------------------------------------------------------------)
 
+1390- How does a routed command differ from an event?
+
+Ans- Routed commands are more abstract and reusable, allowing for centralized command handling, while events are specific to individual controls.
+
+(----------------------------------------------------------------------)
+
