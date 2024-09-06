@@ -8188,3 +8188,9 @@ Ans- Vector graphics in WPF allow UI elements to be scaled, rotated, and transfo
 
 (-----------------------------------------------------------------------)
 
+1367- What is a Dependency Property in WPF?
+
+Ans- A dependency property is a special type of property in WPF that supports additional functionality, such as change notifications, styles, animations, and data binding.
+
+(-----------------------------------------------------------------------)
+
