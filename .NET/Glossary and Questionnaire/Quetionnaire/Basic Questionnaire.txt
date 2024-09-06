@@ -9160,3 +9160,9 @@ Ans- Clients access WCF services using a generated proxy, which can be created b
 
 (------------------------------------------------------------------------)
 
+1529- What are the basic components of WCF service configuration?
+
+Ans- The basic components include endpoints (address, binding, contract), behaviors, and bindings.
+
+(------------------------------------------------------------------------)
+
