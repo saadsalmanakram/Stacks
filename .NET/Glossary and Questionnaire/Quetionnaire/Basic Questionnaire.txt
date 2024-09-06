@@ -8127,3 +8127,10 @@ Ans- XAML separates UI design from business logic, making it easier for develope
 Ans- WPF uses layout panels like Grid, StackPanel, and DockPanel to organize and position UI elements.
 
 (-----------------------------------------------------------------------)
+
+1357- What is the difference between a Label and a TextBlock control in WPF?
+
+Ans- Both are used to display text, but TextBlock supports inline formatting, whereas Label is used for simple text display.
+
+(-----------------------------------------------------------------------)
+
