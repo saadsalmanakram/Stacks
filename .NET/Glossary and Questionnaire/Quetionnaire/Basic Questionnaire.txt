@@ -7648,3 +7648,9 @@ Ans- It results in a compilation error because the derived class must meet the c
 
 (-----------------------------------------------------------------------)
 
+1277- How do you specify type parameters when inheriting from a generic class?
+
+Ans- You must provide all type parameters in the derived class definition, e.g., class Derived : Base<T> { ... }.
+
+(-----------------------------------------------------------------------)
+
