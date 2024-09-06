@@ -8218,3 +8218,9 @@ Ans- Attached properties allow child elements to set values for properties defin
 
 (-----------------------------------------------------------------------)
 
+1372- How do Attached Properties work with Grid control?
+
+Ans- Attached properties like Grid.Row and Grid.Column specify where a child control should be placed within the grid.
+
+(-----------------------------------------------------------------------)
+
