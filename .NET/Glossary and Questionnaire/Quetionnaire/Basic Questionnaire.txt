@@ -8422,3 +8422,9 @@ Ans- CQRS (Command and Query Responsibility Segregation) separates read and writ
 
 (----------------------------------------------------------------------)
 
+1406- What does the Sharding pattern involve?
+
+Ans- Sharding divides data into smaller, manageable pieces distributed across multiple servers to improve performance.
+
+(----------------------------------------------------------------------)
+
