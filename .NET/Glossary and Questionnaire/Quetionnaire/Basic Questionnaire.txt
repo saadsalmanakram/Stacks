@@ -7714,3 +7714,9 @@ Ans- An event is a mechanism for an object to notify other objects or methods th
 
 (-----------------------------------------------------------------------)
 
+1288- How do you subscribe to an event in C#?
+
+Ans- You subscribe to an event by adding an event handler method that matches the delegate signature using the += operator.
+
+(-----------------------------------------------------------------------)
+
