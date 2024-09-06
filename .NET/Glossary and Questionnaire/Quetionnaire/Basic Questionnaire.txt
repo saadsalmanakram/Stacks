@@ -8511,3 +8511,10 @@ Ans- Scaling ensures that the application can handle increased demand without br
 Ans- High CPU, memory, and bandwidth usage caused by increased traffic or usage of the Web API.
 
 (----------------------------------------------------------------------)
+
+1421- What is the Common Intermediate Language (CIL)?
+
+Ans- CIL is the intermediate code compiled from .NET languages, which is then converted into native code by the runtime.
+
+(----------------------------------------------------------------------)
+
