@@ -8674,3 +8674,9 @@ Ans- It uses validation controls that perform both client-side and server-side v
 
 (-----------------------------------------------------------------------)
 
+1448- What are the main types of state management in ASP.NET Web Forms?
+
+Ans- View State, Cookies, Session State, Application State, and Cache.
+
+(-----------------------------------------------------------------------)
+
