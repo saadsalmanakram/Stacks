@@ -8236,3 +8236,9 @@ Ans- Routed events are WPF-specific events that can travel up or down the contro
 
 (-----------------------------------------------------------------------)
 
+1375- What are Bubbling and Tunneling events in WPF?
+
+Ans- Bubbling events propagate from the control that raised the event upwards in the visual tree, while tunneling events go from the root to the control, starting with a "Preview" prefix.
+
+(-----------------------------------------------------------------------)
+
