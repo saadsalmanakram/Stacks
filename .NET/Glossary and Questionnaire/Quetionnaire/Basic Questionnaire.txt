@@ -8584,3 +8584,9 @@ Ans- NuGet is the package manager for .NET, allowing developers to create, share
 
 (----------------------------------------------------------------------)
 
+1433- How does .NET Core handle dependencies?
+
+Ans- .NET Core applications list required dependencies in project files, which are restored via NuGet.
+
+(----------------------------------------------------------------------)
+
