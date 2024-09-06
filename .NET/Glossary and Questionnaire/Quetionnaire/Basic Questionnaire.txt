@@ -7678,3 +7678,8 @@ Ans- Covariance allows a type to be substituted with a more derived type in gene
 
 (-----------------------------------------------------------------------)
 
+1282- Can covariant type parameters be used as method parameters?
+
+Ans- No, they can only be used as return types or property get accessors.
+
+(-----------------------------------------------------------------------)
