@@ -7756,3 +7756,9 @@ Ans- The dynamic type allows for dynamic typing and bypasses compile-time type c
 
 (-----------------------------------------------------------------------)
 
+1295- How do named and optional parameters work in C# methods?
+
+Ans- Named parameters allow specifying arguments by name, and optional parameters enable parameters to have default values, simplifying method calls.
+
+(-----------------------------------------------------------------------)
+
