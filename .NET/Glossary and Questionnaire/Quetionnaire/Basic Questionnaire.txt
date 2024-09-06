@@ -8121,3 +8121,9 @@ Ans- Code-behind files contain C# logic for handling the UI behavior declared in
 Ans- XAML separates UI design from business logic, making it easier for developers and designers to collaborate.
 
 (-----------------------------------------------------------------------)
+
+1356- How does WPF handle layout in applications?
+
+Ans- WPF uses layout panels like Grid, StackPanel, and DockPanel to organize and position UI elements.
+
+(-----------------------------------------------------------------------)
