@@ -9082,3 +9082,9 @@ Ans- Duplex messaging allows both the client and server to initiate communicatio
 
 (------------------------------------------------------------------------)
 
+1516- What are the hosting options for WCF services?
+
+Ans- WCF services can be hosted in IIS, a Windows service, an executable, or Windows Activation Service (WAS).
+
+(------------------------------------------------------------------------)
+
