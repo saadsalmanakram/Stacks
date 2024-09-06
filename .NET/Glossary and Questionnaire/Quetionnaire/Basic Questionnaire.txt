@@ -7804,3 +7804,15 @@ Ans- Use the Type.GetCustomAttributes() method to retrieve custom attributes.
 
 (-----------------------------------------------------------------------)
 
+1303- How do you define a custom attribute in C#?
+
+Ans- By deriving from the System.Attribute class and optionally using the AttributeUsage attribute.
+
+(-----------------------------------------------------------------------)
+
+1304- What is reflection in C#?
+
+Ans- Reflection is a technique that allows inspecting and interacting with type information at runtime.
+
+(-----------------------------------------------------------------------)
+
