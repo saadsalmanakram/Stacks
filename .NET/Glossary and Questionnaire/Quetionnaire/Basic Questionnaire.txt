@@ -8902,3 +8902,9 @@ Ans- Entity Framework is a .NET class library that facilitates object-relational
 
 (------------------------------------------------------------------------)
 
+1486- What is Code First in Entity Framework?
+
+Ans- Code First is an approach where you define your database schema using C# classes and Entity Framework generates the database.
+
+(------------------------------------------------------------------------)
+
