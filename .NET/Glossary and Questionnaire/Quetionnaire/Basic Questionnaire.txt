@@ -9058,3 +9058,9 @@ Ans- A data contract defines the structure of data exchanged in WCF services, sp
 
 (------------------------------------------------------------------------)
 
+1512- What is a fault contract?
+
+Ans- A fault contract specifies the errors that operations can return, allowing for error handling in clients.
+
+(------------------------------------------------------------------------)
+
