@@ -8332,3 +8332,9 @@ Ans- Routed commands are more abstract and reusable, allowing for centralized co
 
 (----------------------------------------------------------------------)
 
+1391- What is the difference between static and dynamic resources in WPF?
+
+Ans- StaticResource is evaluated once at application startup, while DynamicResource can change at runtime if the resource changes.
+
+(----------------------------------------------------------------------)
+
