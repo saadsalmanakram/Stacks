@@ -7840,3 +7840,9 @@ Ans- It's a way to initialize properties of an object that are themselves object
 
 (-----------------------------------------------------------------------)
 
+1309- What is a collection initializer in C#?
+
+Ans- It extends the object initializer syntax to initialize collections in a single step.
+
+(-----------------------------------------------------------------------)
+
