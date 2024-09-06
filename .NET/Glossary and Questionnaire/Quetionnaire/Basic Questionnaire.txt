@@ -7834,3 +7834,9 @@ Ans- Object initializers call the default constructor first, and then set proper
 
 (-----------------------------------------------------------------------)
 
+1308- What is a nested object initializer?
+
+Ans- It's a way to initialize properties of an object that are themselves objects, using a similar initializer syntax.
+
+(-----------------------------------------------------------------------)
+
