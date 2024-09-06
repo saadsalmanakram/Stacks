@@ -8578,3 +8578,9 @@ Ans- Metapackages are collections of related NuGet packages bundled together, bu
 
 (----------------------------------------------------------------------)
 
+1432- What is the role of NuGet in .NET?
+
+Ans- NuGet is the package manager for .NET, allowing developers to create, share, and consume libraries and frameworks.
+
+(----------------------------------------------------------------------)
+
