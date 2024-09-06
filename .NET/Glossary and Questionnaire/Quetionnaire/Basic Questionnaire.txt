@@ -8769,3 +8769,10 @@ Ans- Use Decoder and Encoder classes for converting between byte arrays and char
 Ans- Attributes are name-value pairs within an element's tag, while elements are the basic building blocks containing data and other elements.
 
 (------------------------------------------------------------------------)
+
+1464- What is an XML Schema?
+
+Ans- An XML Schema defines the structure, content, and data types allowed in an XML document.
+
+(------------------------------------------------------------------------
+
