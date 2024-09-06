@@ -7690,3 +7690,9 @@ Ans- No, they can only be used as method parameters.
 
 (-----------------------------------------------------------------------)
 
+1284- What is the :: operator used for in C#?
+
+Ans- The :: operator is used to access types in a namespace hierarchy and to specify the global namespace.
+
+(-----------------------------------------------------------------------)
+
