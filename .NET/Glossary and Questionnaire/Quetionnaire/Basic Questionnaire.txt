@@ -7702,3 +7702,9 @@ Ans- Derive a new class from Exception, add any custom properties or methods, an
 
 (-----------------------------------------------------------------------)
 
+1286- What is the purpose of the global keyword in C#?
+
+Ans- It specifies that you are referring to the top-level namespace, helping to avoid conflicts with similarly named namespaces in your project.
+
+(-----------------------------------------------------------------------)
+
