@@ -8212,3 +8212,9 @@ Ans- Coercion allows one property to force related properties to update in respo
 
 (-----------------------------------------------------------------------)
 
+1371- What are Attached Properties in WPF?
+
+Ans- Attached properties allow child elements to set values for properties defined by parent elements, such as positioning children in a Grid.
+
+(-----------------------------------------------------------------------)
+
