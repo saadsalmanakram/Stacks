@@ -8158,3 +8158,9 @@ Ans- Storyboarding is a technique in WPF used for creating animations based on u
 
 (-----------------------------------------------------------------------)
 
+1362- What are reusable resources in WPF?
+
+Ans- Reusable resources in WPF allow developers to dynamically style and configure controls across the application.
+
+(-----------------------------------------------------------------------)
+
