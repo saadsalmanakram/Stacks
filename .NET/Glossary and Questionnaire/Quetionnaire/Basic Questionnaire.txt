@@ -9190,3 +9190,9 @@ Ans- Disabling metadata exchange prevents clients from using tools like Add Serv
 
 (------------------------------------------------------------------------)
 
+1534- What is a binding in WCF?
+
+Ans- A binding defines how the WCF service communicates with its clients, specifying protocols, security requirements, and data encoding formats.
+
+(------------------------------------------------------------------------)
+
