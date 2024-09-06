@@ -8284,3 +8284,9 @@ Ans- You can define an event handler in XAML by specifying the event name and th
 
 (----------------------------------------------------------------------)
 
+1383- How can you stop event propagation in a Routed Event?
+
+Ans- Set the Handled property of the RoutedEventArgs to true to stop further propagation of the event.
+
+(----------------------------------------------------------------------)
+
