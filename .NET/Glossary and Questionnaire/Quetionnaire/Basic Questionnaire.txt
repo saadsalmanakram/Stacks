@@ -9154,3 +9154,9 @@ Ans- Metadata describes the service and is exposed through a metadata exchange (
 
 (------------------------------------------------------------------------)
 
+1528- How do clients access WCF services?
+
+Ans- Clients access WCF services using a generated proxy, which can be created by adding a service reference that uses the service's metadata.
+
+(------------------------------------------------------------------------)
+
