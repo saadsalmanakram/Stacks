@@ -7630,3 +7630,9 @@ Ans- It requires that the generic type T have a public parameterless constructor
 
 (-----------------------------------------------------------------------)
 
+1274- Can you constrain one type parameter based on another in a generic class?
+
+Ans- Yes, using constraints like where T2 : T1 where T2 must be the same type or inherit from T1.
+
+(-----------------------------------------------------------------------)
+
