@@ -8938,3 +8938,9 @@ Ans- A one-to-many relationship is where one entity (e.g., Store) can have multi
 
 (------------------------------------------------------------------------)
 
+1492- What is a one-to-one relationship in Entity Framework?
+
+Ans- A one-to-one relationship is where each entity in one table is related to a single entity in another table.
+
+(------------------------------------------------------------------------)
+
