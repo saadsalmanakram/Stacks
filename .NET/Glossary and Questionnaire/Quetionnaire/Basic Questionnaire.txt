@@ -7636,3 +7636,15 @@ Ans- Yes, using constraints like where T2 : T1 where T2 must be the same type or
 
 (-----------------------------------------------------------------------)
 
+1275- What is a circular type constraint and why is it not allowed?
+
+Ans- A circular type constraint, such as where T1 : T2 and where T2 : T1, is not allowed because it creates an ambiguous dependency between type parameters.
+
+(-----------------------------------------------------------------------)
+
+1276- What happens if you inherit from a generic class with more relaxed constraints than the base class?
+
+Ans- It results in a compilation error because the derived class must meet the constraints set by the base class.
+
+(-----------------------------------------------------------------------)
+
