@@ -8710,3 +8710,9 @@ Ans- Self-hosting refers to running an ASP.NET Core application with Kestrel alo
 
 (-----------------------------------------------------------------------)
 
+1454- What is the main advantage of Razor syntax over Web Forms?
+
+Ans- Razor syntax simplifies code embedding and is more readable with its @ syntax for inline C# code.
+
+(-----------------------------------------------------------------------)
+
