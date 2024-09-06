@@ -8752,3 +8752,9 @@ Ans- An abstract representation of a sequence of bytes for reading or writing da
 
 (------------------------------------------------------------------------)
 
+1461- What is serialization in .NET?
+
+Ans- The process of converting an object into a format that can be easily stored or transmitted.
+
+(------------------------------------------------------------------------)
+
