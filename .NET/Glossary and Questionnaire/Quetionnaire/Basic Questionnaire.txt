@@ -7983,3 +7983,10 @@ Ans- Yes, provided the constant field is defined as const, e.g., public const bo
 Ans- Use default parameter values in the method signature to avoid multiple overloads.
 
 (-----------------------------------------------------------------------)
+
+1333- What are named parameters in C#?
+
+Ans- Named parameters allow you to specify the name of the parameters when calling a method, enabling you to pass arguments in any order.
+
+(-----------------------------------------------------------------------)
+
