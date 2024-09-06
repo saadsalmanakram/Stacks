@@ -8248,3 +8248,9 @@ Ans- Standard events are handled directly by the control raising them, while rou
 
 (-----------------------------------------------------------------------)
 
+1377- What is the purpose of Routed Commands in WPF?
+
+Ans- Routed commands centralize the handling of actions, allowing code to be reused across multiple UI elements for tasks like saving data.
+
+(-----------------------------------------------------------------------)
+
