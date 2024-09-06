@@ -8806,3 +8806,9 @@ Ans- XPath is used for querying and navigating XML documents to find specific no
 
 (------------------------------------------------------------------------)
 
+1470- What is LINQ?
+
+Ans- LINQ (Language Integrated Query) is a feature in C# that provides a consistent way to query various types of data sources, such as arrays, collections, databases, and XML.
+
+(------------------------------------------------------------------------)
+
