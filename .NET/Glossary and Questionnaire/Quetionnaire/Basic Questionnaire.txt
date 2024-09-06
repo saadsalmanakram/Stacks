@@ -8794,3 +8794,9 @@ Ans- The XML DOM is a programming interface for accessing and manipulating XML d
 
 (------------------------------------------------------------------------)
 
+1468- What is the basic approach to convert XML to JSON?
+
+Ans- Convert XML elements and attributes to JSON objects and arrays, maintaining the hierarchical structure.
+
+(------------------------------------------------------------------------)
+
