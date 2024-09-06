@@ -8206,3 +8206,9 @@ Ans- Dependency properties use the WPF property system to notify other controls 
 
 (-----------------------------------------------------------------------)
 
+1370- What is Coercion in Dependency Properties?
+
+Ans- Coercion allows one property to force related properties to update in response to its value change.
+
+(-----------------------------------------------------------------------)
+
