@@ -8758,3 +8758,9 @@ Ans- The process of converting an object into a format that can be easily stored
 
 (------------------------------------------------------------------------)
 
+1462- How do you handle encoding when reading from or writing to files?
+
+Ans- Use Decoder and Encoder classes for converting between byte arrays and character arrays, respecting the file's encoding format.
+
+(------------------------------------------------------------------------)
+
