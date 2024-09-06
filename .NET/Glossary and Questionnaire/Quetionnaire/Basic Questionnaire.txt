@@ -8428,3 +8428,15 @@ Ans- Sharding divides data into smaller, manageable pieces distributed across mu
 
 (----------------------------------------------------------------------)
 
+1407- What is the Valet Key pattern used for?
+
+Ans- The Valet Key pattern allows clients direct access to a data store for large file operations, bypassing intermediary services.
+
+(----------------------------------------------------------------------)
+
+1408- What is the purpose of the Circuit Breaker pattern?
+
+Ans- It prevents system failures by detecting and handling faults in remote services gracefully.
+
+(----------------------------------------------------------------------)
+
