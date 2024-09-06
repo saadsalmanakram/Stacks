@@ -8164,3 +8164,9 @@ Ans- Reusable resources in WPF allow developers to dynamically style and configu
 
 (-----------------------------------------------------------------------)
 
+1363- How are events handled in WPF?
+
+Ans- Events are handled using event handlers defined in the code-behind file, which respond to user interactions with the UI.
+
+(-----------------------------------------------------------------------)
+
