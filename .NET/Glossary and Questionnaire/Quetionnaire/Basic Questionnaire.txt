@@ -8626,3 +8626,15 @@ Ans- Kestrel is a cross-platform web server for ASP.NET Core applications.
 
 (----------------------------------------------------------------------)
 
+1440- How does ASP.NET Core handle logging?
+
+Ans- ASP.NET Core provides built-in logging support with various providers like Console, Debug, and File.
+
+(-----------------------------------------------------------------------)
+
+1441- What is the purpose of Entity Framework Core in ASP.NET Core?
+
+Ans- Entity Framework Core is an ORM for accessing and managing database data using .NET objects.
+
+(-----------------------------------------------------------------------)
+
