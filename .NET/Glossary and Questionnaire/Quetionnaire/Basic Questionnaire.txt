@@ -8968,3 +8968,9 @@ Ans- Use Code First Migrations to update the database schema and manage changes 
 
 (------------------------------------------------------------------------)
 
+1497- How can you generate XML from database queries using LINQ?
+
+Ans- Use LINQ to Entities for querying the data and LINQ to XML classes to transform the query results into XML format.
+
+(------------------------------------------------------------------------)
+
