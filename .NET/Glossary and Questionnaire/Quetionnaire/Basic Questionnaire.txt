@@ -8962,3 +8962,9 @@ Ans- Virtual properties allow Entity Framework to use lazy loading and manage re
 
 (------------------------------------------------------------------------)
 
+1496- How can you view the changes in the database schema using Entity Framework?
+
+Ans- Use Code First Migrations to update the database schema and manage changes between your model and the database.
+
+(------------------------------------------------------------------------)
+
