@@ -8266,3 +8266,9 @@ Ans- Dependency properties allow values to be bound to data sources, making data
 
 (-----------------------------------------------------------------------)
 
+1380- Can you animate Dependency Properties?
+
+Ans- Yes, you can apply animations to dependency properties in WPF.
+
+(-----------------------------------------------------------------------)
+
