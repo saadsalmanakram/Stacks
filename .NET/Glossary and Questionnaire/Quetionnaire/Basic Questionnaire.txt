@@ -8878,3 +8878,15 @@ Ans- LINQ simplifies querying and processing large datasets, enabling more reada
 
 (------------------------------------------------------------------------)
 
+1482- What is a group query in LINQ?
+
+Ans- A group query in LINQ divides data into groups based on a key, allowing aggregation and sorting by these groups.
+
+(------------------------------------------------------------------------)
+
+1483- What are aggregate operators in LINQ?
+
+Ans- Aggregate operators perform operations like sum, average, count, and min/max on a collection, providing summary statistics.
+
+(------------------------------------------------------------------------)
+
