@@ -8482,3 +8482,9 @@ Ans- Razor is a view engine introduced with ASP.NET MVC that allows embedding C#
 
 (----------------------------------------------------------------------)
 
+1416- How does Razor work in the context of a web request?
+
+Ans- Razor compiles and executes C# code embedded in HTML when the page is requested from the browser.
+
+(----------------------------------------------------------------------)
+
