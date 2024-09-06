@@ -8662,3 +8662,9 @@ Ans- Server controls provide a structured, event-driven model for building web a
 
 (-----------------------------------------------------------------------)
 
+1446- What is the role of the RequiredFieldValidator control in ASP.NET?
+
+Ans- It ensures that a user provides input for a specific field before allowing form submission.
+
+(-----------------------------------------------------------------------)
+
