@@ -8002,3 +8002,9 @@ Ans- Yes, you can specify values for only some of the optional parameters and le
 
 (-----------------------------------------------------------------------)
 
+1336- How does the order of named parameters affect method calls?
+
+Ans- Named parameters can be specified in any order, but all required parameters must be supplied before named parameters.
+
+(-----------------------------------------------------------------------)
+
