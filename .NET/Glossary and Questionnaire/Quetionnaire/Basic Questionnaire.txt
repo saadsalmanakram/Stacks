@@ -8812,3 +8812,15 @@ Ans- LINQ (Language Integrated Query) is a feature in C# that provides a consist
 
 (------------------------------------------------------------------------)
 
+1471- What is the purpose of LINQ to XML?
+
+Ans- LINQ to XML provides a way to work with XML data using LINQ queries, simplifying the creation, manipulation, and querying of XML documents.
+
+(------------------------------------------------------------------------)
+
+1472- What are some common LINQ providers?
+
+Ans- LINQ to Objects, LINQ to XML, LINQ to Entities, LINQ to DataSet, LINQ to SQL, PLINQ, and LINQ to JSON.
+
+(------------------------------------------------------------------------)
+
