@@ -8800,3 +8800,9 @@ Ans- Convert XML elements and attributes to JSON objects and arrays, maintaining
 
 (------------------------------------------------------------------------)
 
+1469- What is XPath used for?
+
+Ans- XPath is used for querying and navigating XML documents to find specific nodes or data.
+
+(------------------------------------------------------------------------)
+
