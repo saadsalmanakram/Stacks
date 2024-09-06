@@ -8278,3 +8278,9 @@ Ans- Metadata in dependency properties specifies additional behaviors, such as U
 
 (-----------------------------------------------------------------------)
 
+1382- How do you define an event handler in XAML?
+
+Ans- You can define an event handler in XAML by specifying the event name and the handler method, or use the Visual Studio designer to generate the handler automatically.
+
+(----------------------------------------------------------------------)
+
