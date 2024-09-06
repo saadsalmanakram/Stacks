@@ -8350,3 +8350,9 @@ Ans- You define a Resource Dictionary in XAML and merge it into your application
 
 (----------------------------------------------------------------------)
 
+1394- What is the purpose of defining a DataTemplate in XAML?
+
+Ans- A DataTemplate is used to define the visual structure and layout of data in a control, allowing for custom display of data bound to the control.
+
+(----------------------------------------------------------------------)
+
