@@ -7720,3 +7720,9 @@ Ans- You subscribe to an event by adding an event handler method that matches th
 
 (-----------------------------------------------------------------------)
 
+1289- What are anonymous methods in C#?
+
+Ans- Anonymous methods are inline delegate definitions that provide a way to define a method without explicitly declaring it.
+
+(-----------------------------------------------------------------------)
+
