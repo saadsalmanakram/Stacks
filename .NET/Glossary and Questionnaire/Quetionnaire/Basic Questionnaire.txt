@@ -7828,3 +7828,9 @@ Ans- It combines object creation and property initialization into a single state
 
 (-----------------------------------------------------------------------)
 
+1307- How do object initializers interact with constructors?
+
+Ans- Object initializers call the default constructor first, and then set property values.
+
+(-----------------------------------------------------------------------)
+
