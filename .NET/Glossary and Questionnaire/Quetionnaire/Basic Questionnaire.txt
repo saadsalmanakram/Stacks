@@ -8140,3 +8140,9 @@ Ans- Events in WPF can be triggered by controls like Button, which can execute C
 
 (-----------------------------------------------------------------------)
 
+1359- What is a ListBox and how is it used in WPF?
+
+Ans- A ListBox displays a list of items, allowing the user to select one or more items from the list.
+
+(-----------------------------------------------------------------------)
+
