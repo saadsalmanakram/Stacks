@@ -7960,3 +7960,9 @@ Ans- By assigning a default value to the parameter in the method signature, e.g.
 
 (-----------------------------------------------------------------------)
 
+1329- Can you use non-constant default values for optional parameters?
+
+Ans- No, default values must be literal values, constant values, or default value type values.
+
+(-----------------------------------------------------------------------)
+
