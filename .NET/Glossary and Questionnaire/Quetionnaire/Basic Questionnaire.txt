@@ -8224,3 +8224,9 @@ Ans- Attached properties like Grid.Row and Grid.Column specify where a child con
 
 (-----------------------------------------------------------------------)
 
+1373- What is an event in WPF?
+
+Ans- An event in WPF is a notification sent when an action occurs, like a button click, and allows the programmer to execute functionality in response.
+
+(-----------------------------------------------------------------------)
+
