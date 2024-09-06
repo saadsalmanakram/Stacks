@@ -8134,3 +8134,9 @@ Ans- Both are used to display text, but TextBlock supports inline formatting, wh
 
 (-----------------------------------------------------------------------)
 
+1358- How do you trigger events in WPF using controls?
+
+Ans- Events in WPF can be triggered by controls like Button, which can execute C# code in the code-behind file when clicked.
+
+(-----------------------------------------------------------------------)
+
