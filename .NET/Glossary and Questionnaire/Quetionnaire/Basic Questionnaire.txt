@@ -7780,3 +7780,9 @@ Ans- Attaching an event handler allows you to define the code that will be execu
 
 (-----------------------------------------------------------------------)
 
+1299- How do you ensure that an event handler is called when an event is raised?
+
+Ans- You attach the event handler using the += operator, e.g., MyEvent += MyEventHandler;.
+
+(-----------------------------------------------------------------------)
+
