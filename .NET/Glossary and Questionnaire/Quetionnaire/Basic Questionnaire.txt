@@ -8014,3 +8014,9 @@ Ans- The Optional attribute is used to indicate that a parameter is optional, th
 
 (-----------------------------------------------------------------------)
 
+1338- How do default values for parameters affect method overloads?
+
+Ans- Default values reduce the need for multiple overloads by providing default behavior for parameters not explicitly supplied.
+
+(-----------------------------------------------------------------------)
+
