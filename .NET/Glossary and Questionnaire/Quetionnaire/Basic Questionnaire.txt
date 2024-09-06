@@ -8272,3 +8272,9 @@ Ans- Yes, you can apply animations to dependency properties in WPF.
 
 (-----------------------------------------------------------------------)
 
+1381- What is metadata in Dependency Properties?
+
+Ans- Metadata in dependency properties specifies additional behaviors, such as UI rearrangement when a property changes.
+
+(-----------------------------------------------------------------------)
+
