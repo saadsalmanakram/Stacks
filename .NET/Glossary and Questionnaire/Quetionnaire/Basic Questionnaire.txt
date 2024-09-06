@@ -8038,3 +8038,9 @@ Ans- No, you cannot mix implicit and explicit types in a lambda expression.
 
 (-----------------------------------------------------------------------)
 
+1342- How do you denote a lambda expression with no parameters?
+
+Ans- () => Math.PI denotes a lambda expression with no parameters.
+
+(-----------------------------------------------------------------------)
+
