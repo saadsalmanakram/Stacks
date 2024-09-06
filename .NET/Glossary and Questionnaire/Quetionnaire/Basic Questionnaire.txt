@@ -8415,3 +8415,10 @@ Ans- Elasticity refers to the ability to scale resources up or down based on dem
 Ans- It refers to software designed to run efficiently in the cloud, minimizing dependencies and supporting cross-platform execution.
 
 (----------------------------------------------------------------------)
+
+1405- What is the CQRS pattern?
+
+Ans- CQRS (Command and Query Responsibility Segregation) separates read and write operations to optimize performance and scalability.
+
+(----------------------------------------------------------------------)
+
