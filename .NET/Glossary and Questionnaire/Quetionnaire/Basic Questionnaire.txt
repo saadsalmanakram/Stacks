@@ -8230,3 +8230,9 @@ Ans- An event in WPF is a notification sent when an action occurs, like a button
 
 (-----------------------------------------------------------------------)
 
+1374- What is a Routed Event in WPF?
+
+Ans- Routed events are WPF-specific events that can travel up or down the control hierarchy, unlike standard .NET events.
+
+(-----------------------------------------------------------------------)
+
