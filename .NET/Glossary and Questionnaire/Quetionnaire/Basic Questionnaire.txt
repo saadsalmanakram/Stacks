@@ -7654,3 +7654,9 @@ Ans- You must provide all type parameters in the derived class definition, e.g.,
 
 (-----------------------------------------------------------------------)
 
+1278- Can you override operators in a generic class?
+
+Ans- Yes, operators can be overridden in generic classes using the usual method syntax.
+
+(-----------------------------------------------------------------------)
+
