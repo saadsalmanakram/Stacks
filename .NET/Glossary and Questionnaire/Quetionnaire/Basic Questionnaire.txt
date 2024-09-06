@@ -8020,3 +8020,9 @@ Ans- Default values reduce the need for multiple overloads by providing default 
 
 (-----------------------------------------------------------------------)
 
+1339- Why might you prefer default parameter values over multiple method overloads?
+
+Ans- Default parameter values simplify method signatures and reduce code duplication.
+
+(-----------------------------------------------------------------------)
+
