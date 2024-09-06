@@ -9070,3 +9070,9 @@ Ans- Request/response messaging is a pattern where a client sends a request and 
 
 (------------------------------------------------------------------------)
 
+1514- What is one-way messaging in WCF?
+
+Ans- One-way messaging sends a message to the service without expecting a response.
+
+(------------------------------------------------------------------------)
+
