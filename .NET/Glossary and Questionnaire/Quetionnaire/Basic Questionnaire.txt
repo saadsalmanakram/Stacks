@@ -8860,3 +8860,9 @@ Ans- A lambda expression is a concise way to define an anonymous method for use 
 
 (------------------------------------------------------------------------)
 
+1479- How can you sort results in descending order using LINQ?
+
+Ans- By adding the descending keyword in the orderby clause.
+
+(------------------------------------------------------------------------)
+
