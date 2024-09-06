@@ -8242,3 +8242,9 @@ Ans- Bubbling events propagate from the control that raised the event upwards in
 
 (-----------------------------------------------------------------------)
 
+1376- What is the difference between standard events and Routed Events?
+
+Ans- Standard events are handled directly by the control raising them, while routed events travel through the visual tree and can be handled by multiple elements.
+
+(-----------------------------------------------------------------------)
+
