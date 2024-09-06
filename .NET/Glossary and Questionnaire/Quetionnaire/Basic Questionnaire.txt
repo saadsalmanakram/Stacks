@@ -8523,3 +8523,10 @@ Ans- CIL is the intermediate code compiled from .NET languages, which is then co
 Ans- The Common Language Runtime (CLR) manages the execution of .NET programs, including memory management, security, and exception handling.
 
 (----------------------------------------------------------------------)
+
+1423- What are the two methods for compiling CIL to native code?
+
+Ans- JIT (Just-In-Time) compilation and AOT (Ahead-Of-Time) compilation.
+
+(----------------------------------------------------------------------)
+
