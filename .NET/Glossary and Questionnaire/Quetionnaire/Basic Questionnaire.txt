@@ -8392,3 +8392,15 @@ Ans- Cloud computing provides on-demand access to computing resources over the i
 
 (----------------------------------------------------------------------)
 
+1401- What are the main types of clouds?
+
+Ans- Public, private, and hybrid clouds.
+
+(----------------------------------------------------------------------)
+
+1402- What is the difference between IaaS, PaaS, and SaaS?
+
+Ans- IaaS provides infrastructure; PaaS offers a platform for applications; SaaS delivers software over the internet.
+
+(----------------------------------------------------------------------)
+
