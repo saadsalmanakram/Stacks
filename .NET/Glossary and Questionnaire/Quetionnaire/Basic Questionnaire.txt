@@ -9094,3 +9094,9 @@ Ans- Hosting in IIS provides advanced features like activation, process recyclin
 
 (------------------------------------------------------------------------)
 
+1518- What is BasicHttpBinding used for?
+
+Ans- BasicHttpBinding is the simplest HTTP binding used for basic web services with limited security and no transactional support.
+
+(------------------------------------------------------------------------)
+
