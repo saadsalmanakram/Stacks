@@ -8200,3 +8200,9 @@ Ans- They provide extended functionality beyond standard .NET properties, includ
 
 (-----------------------------------------------------------------------)
 
+1369- How do Dependency Properties notify changes?
+
+Ans- Dependency properties use the WPF property system to notify other controls or objects when their value changes through automatic change notifications.
+
+(-----------------------------------------------------------------------)
+
