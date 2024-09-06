@@ -8260,3 +8260,9 @@ Ans- Use commands when you need to handle an action in multiple locations, such 
 
 (-----------------------------------------------------------------------)
 
+1379- How does data binding work with Dependency Properties?
+
+Ans- Dependency properties allow values to be bound to data sources, making data binding possible in WPF.
+
+(-----------------------------------------------------------------------)
+
