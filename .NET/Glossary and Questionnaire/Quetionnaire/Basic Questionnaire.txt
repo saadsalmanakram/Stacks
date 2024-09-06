@@ -8698,3 +8698,9 @@ Ans- Dynamic compilation can lead to slower performance on the first request as 
 
 (-----------------------------------------------------------------------)
 
+1452- How does Kestrel work with IIS?
+
+Ans- Kestrel serves as an internal web server behind IIS, which forwards requests to Kestrel for processing.
+
+(-----------------------------------------------------------------------)
+
