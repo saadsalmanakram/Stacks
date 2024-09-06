@@ -8062,3 +8062,9 @@ Ans- When the lambda expression requires multiple statements for clarity.
 
 (-----------------------------------------------------------------------)
 
+1346- What are the generic delegate types for lambda expressions in C#?
+
+Ans- Action<> for void return type and Func<> for non-void return type.
+
+(-----------------------------------------------------------------------)
+
