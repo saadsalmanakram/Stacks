@@ -8848,3 +8848,9 @@ Ans- Deferred query execution means the query is not executed until the results 
 
 (------------------------------------------------------------------------)
 
+1477- What is the LINQ method syntax and how does it differ from query syntax?
+
+Ans- LINQ method syntax uses extension methods directly on collections, while query syntax uses a more SQL-like approach.
+
+(------------------------------------------------------------------------)
+
