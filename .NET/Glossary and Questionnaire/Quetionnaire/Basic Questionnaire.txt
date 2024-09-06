@@ -8386,3 +8386,9 @@ Ans- Routed commands are used to handle actions in WPF applications, allowing fo
 
 (----------------------------------------------------------------------)
 
+1400- What is cloud computing?
+
+Ans- Cloud computing provides on-demand access to computing resources over the internet, with scalable and elastic capabilities.
+
+(----------------------------------------------------------------------)
+
