@@ -7864,3 +7864,9 @@ Ans- The non-default constructor is called first, and then the object initialize
 
 (-----------------------------------------------------------------------)
 
+1313- How do you initialize a nested object within an object initializer?
+
+Ans- By using nested curly braces to initialize properties of the nested object.
+
+(-----------------------------------------------------------------------)
+
