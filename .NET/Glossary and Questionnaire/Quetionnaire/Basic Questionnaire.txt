@@ -9118,3 +9118,9 @@ Ans- MTOM (Message Transmission Optimization Mechanism) optimizes the packaging 
 
 (------------------------------------------------------------------------)
 
+1522- How does WCF handle message formatting?
+
+Ans- Message contracts allow customization of how data is formatted in SOAP messages, including header and body placement.
+
+(------------------------------------------------------------------------)
+
