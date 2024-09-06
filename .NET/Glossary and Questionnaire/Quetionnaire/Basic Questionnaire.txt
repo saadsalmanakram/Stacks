@@ -7912,3 +7912,9 @@ Ans- Methods like ToString(), GetHashCode(), and Equals() are automatically impl
 
 (-----------------------------------------------------------------------)
 
+1321- How does the Equals() method work for anonymous types?
+
+Ans- The Equals() method compares the values of all properties, returning true if all property values are the same.
+
+(-----------------------------------------------------------------------)
+
