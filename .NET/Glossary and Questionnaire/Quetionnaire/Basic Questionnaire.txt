@@ -8602,3 +8602,9 @@ Ans- CoreFX provides the foundational .NET Core libraries, such as System.* name
 
 (----------------------------------------------------------------------)
 
+1436- Why was Mono important for cross-platform .NET development?
+
+Ans- Mono was an open-source project that brought .NET compatibility to non-Windows platforms like Linux, Android, and macOS, inspiring parts of .NET Core.
+
+(----------------------------------------------------------------------)
+
