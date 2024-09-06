@@ -8290,3 +8290,9 @@ Ans- Set the Handled property of the RoutedEventArgs to true to stop further pro
 
 (----------------------------------------------------------------------)
 
+1384- What is a KeyDown event in WPF?
+
+Ans- The KeyDown event is triggered when a key is pressed while a control has focus.
+
+(----------------------------------------------------------------------)
+
