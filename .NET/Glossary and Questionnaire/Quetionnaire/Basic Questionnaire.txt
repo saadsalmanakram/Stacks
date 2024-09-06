@@ -7768,3 +7768,9 @@ Ans- Lambda expressions offer a more concise and readable syntax for writing ano
 
 (-----------------------------------------------------------------------)
 
+1297- What is the significance of initializers in C#?
+
+Ans- Initializers provide a way to set the initial values of fields or properties in a more compact and readable form than using constructors.
+
+(-----------------------------------------------------------------------)
+
