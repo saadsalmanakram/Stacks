@@ -8494,3 +8494,9 @@ Ans- ASP.NET is stateless because each web request is independent. You can store
 
 (----------------------------------------------------------------------)
 
+1418- How does Razor handle conditional rendering in this application?
+
+Ans- Conditional rendering is achieved through C# logic within the Razor syntax, determining what HTML content to show based on conditions like IsPost.
+
+(----------------------------------------------------------------------)
+
