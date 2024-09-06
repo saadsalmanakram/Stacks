@@ -7732,3 +7732,9 @@ Ans- Lambda expressions provide a concise syntax for defining inline event handl
 
 (-----------------------------------------------------------------------)
 
+1291- What are C# attributes used for?
+
+Ans- Attributes provide metadata about code elements, such as classes, methods, and properties, which can be used by the compiler or at runtime.
+
+(-----------------------------------------------------------------------)
+
