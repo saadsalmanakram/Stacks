@@ -7624,3 +7624,9 @@ Ans- Use where T : struct.
 
 (-----------------------------------------------------------------------)
 
+1273- What is the purpose of the new() constraint in a generic class?
+
+Ans- It requires that the generic type T have a public parameterless constructor.
+
+(-----------------------------------------------------------------------)
+
