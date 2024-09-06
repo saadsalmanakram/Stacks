@@ -8146,3 +8146,15 @@ Ans- A ListBox displays a list of items, allowing the user to select one or more
 
 (-----------------------------------------------------------------------)
 
+1360- What is the ComboBox control in WPF?
+
+Ans- ComboBox is a control that allows users to select an item from a dropdown list.
+
+(-----------------------------------------------------------------------)
+
+1361- What is storyboarding in WPF?
+
+Ans- Storyboarding is a technique in WPF used for creating animations based on user-triggered events.
+
+(-----------------------------------------------------------------------)
+
