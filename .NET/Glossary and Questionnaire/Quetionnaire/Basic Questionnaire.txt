@@ -8116,3 +8116,8 @@ Ans- Code-behind files contain C# logic for handling the UI behavior declared in
 
 (-----------------------------------------------------------------------)
 
+1355- How does XAML separate concerns in WPF development?
+
+Ans- XAML separates UI design from business logic, making it easier for developers and designers to collaborate.
+
+(-----------------------------------------------------------------------)
