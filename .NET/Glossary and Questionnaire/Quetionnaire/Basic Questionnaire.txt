@@ -7894,3 +7894,9 @@ Ans- The code will not compile if the array elements do not have a clear best ty
 
 (-----------------------------------------------------------------------)
 
+Can var be used for declaring an array?
+
+Ans- Yes, var can be used to declare an array, and its type will be inferred from the array initializer.
+
+(-----------------------------------------------------------------------)
+
