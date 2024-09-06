@@ -9130,3 +9130,10 @@ Ans- A WCF (Windows Communication Foundation) service is a framework for buildin
 
 (------------------------------------------------------------------------)
 
+1524- What is a Data Contract in WCF?
+
+Ans- A Data Contract defines the structure of the data exchanged between the WCF service and its clients, annotated with [DataContract] and [DataMember] attributes.
+
+(------------------------------------------------------------------------)
+
+
