@@ -8788,4 +8788,9 @@ Ans- You can validate an XML document against a schema using validation tools or
 
 (------------------------------------------------------------------------)
 
+1467- What is the XML Document Object Model (DOM)?
+
+Ans- The XML DOM is a programming interface for accessing and manipulating XML documents as a tree of nodes.
+
+(------------------------------------------------------------------------)
 
