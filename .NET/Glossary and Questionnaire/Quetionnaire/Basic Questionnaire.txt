@@ -8182,3 +8182,9 @@ Ans- Yes, WPF applications are technically platform-independent and can target p
 
 (-----------------------------------------------------------------------)
 
+1366- What are the advantages of vector graphics in WPF?
+
+Ans- Vector graphics in WPF allow UI elements to be scaled, rotated, and transformed without losing quality.
+
+(-----------------------------------------------------------------------)
+
