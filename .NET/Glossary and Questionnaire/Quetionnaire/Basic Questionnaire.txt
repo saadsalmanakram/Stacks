@@ -8638,3 +8638,15 @@ Ans- Entity Framework Core is an ORM for accessing and managing database data us
 
 (-----------------------------------------------------------------------)
 
+1442- What is the main difference between ASP.NET Projects and Web Sites?
+
+Ans- Projects use a .csproj file and compile code into a single assembly, while Web Sites compile source code dynamically and include all files in the directory.
+
+(-----------------------------------------------------------------------)
+
+1443- How are code-behind files compiled in ASP.NET Projects vs. Web Sites?
+
+Ans- In Projects, code-behind files are compiled into a single assembly, whereas Web Sites compile code dynamically on first request, often resulting in multiple assemblies.
+
+(-----------------------------------------------------------------------)
+
