@@ -8044,3 +8044,9 @@ Ans- () => Math.PI denotes a lambda expression with no parameters.
 
 (-----------------------------------------------------------------------)
 
+1343- What is the syntax for a lambda expression with a single parameter?
+
+Ans- param1 => param1 * param1 defines a lambda with one parameter.
+
+(-----------------------------------------------------------------------)
+
