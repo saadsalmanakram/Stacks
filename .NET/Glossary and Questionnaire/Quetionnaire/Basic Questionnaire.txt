@@ -8566,3 +8566,9 @@ Ans- PCL is a class library that can be shared across multiple .NET platforms wi
 
 (----------------------------------------------------------------------)
 
+1430- What is the difference between JIT and AOT compilation?
+
+Ans- JIT compiles code at runtime when it is needed, whereas AOT compiles code before runtime, resulting in faster execution but less flexibility.
+
+(----------------------------------------------------------------------)
+
