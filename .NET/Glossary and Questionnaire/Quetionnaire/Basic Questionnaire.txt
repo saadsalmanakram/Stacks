@@ -8872,3 +8872,9 @@ Ans- Yes, you can specify multiple criteria by chaining orderby clauses.
 
 (------------------------------------------------------------------------)
 
+1481- What is the benefit of using LINQ to query a large dataset?
+
+Ans- LINQ simplifies querying and processing large datasets, enabling more readable and maintainable code.
+
+(------------------------------------------------------------------------)
+
