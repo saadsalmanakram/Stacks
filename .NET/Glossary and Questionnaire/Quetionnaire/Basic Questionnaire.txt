@@ -7696,3 +7696,9 @@ Ans- The :: operator is used to access types in a namespace hierarchy and to spe
 
 (-----------------------------------------------------------------------)
 
+1285- How do you create a custom exception in C#?
+
+Ans- Derive a new class from Exception, add any custom properties or methods, and use it to throw specific error conditions.
+
+(-----------------------------------------------------------------------)
+
