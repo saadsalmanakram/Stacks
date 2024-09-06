@@ -8727,3 +8727,10 @@ Ans- Cookies are stored on the client-side with either temporary or persistent o
 Ans- OWIN (Open Web Interface for .NET) decouples web applications from web servers and enables self-hosting with Kestrel.
 
 (------------------------------------------------------------------------)
+
+1457- How does OAuth work in ASP.NET Core?
+
+Ans- OAuth is used for authorization by allowing users to authenticate via third-party services like Google or Facebook.
+
+(------------------------------------------------------------------------)
+
