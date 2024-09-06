@@ -7972,3 +7972,14 @@ Ans- Optional parameters must be placed at the end of the parameter list in a me
 
 (-----------------------------------------------------------------------)
 
+1331- Can you use a constant field as a default value for an optional parameter?
+
+Ans- Yes, provided the constant field is defined as const, e.g., public const bool CapitalizationDefault = false.
+
+(-----------------------------------------------------------------------)
+
+1332- How can you handle optional parameters if you want to avoid defining multiple overloads?
+
+Ans- Use default parameter values in the method signature to avoid multiple overloads.
+
+(-----------------------------------------------------------------------)
