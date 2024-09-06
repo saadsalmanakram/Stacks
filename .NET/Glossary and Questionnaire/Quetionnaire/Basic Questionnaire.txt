@@ -8440,3 +8440,9 @@ Ans- It prevents system failures by detecting and handling faults in remote serv
 
 (----------------------------------------------------------------------)
 
+1409- What is the Retry pattern in cloud programming?
+
+Ans- It involves retrying operations after transient failures within a specified timeframe.
+
+(----------------------------------------------------------------------)
+
