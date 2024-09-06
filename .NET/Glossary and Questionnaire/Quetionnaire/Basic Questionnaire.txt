@@ -7876,3 +7876,9 @@ Ans- The var keyword is used for implicit type inference, allowing the compiler 
 
 (-----------------------------------------------------------------------)
 
+1315- Can you declare a variable with var without initializing it?
+
+Ans- No, you must initialize the variable when using var because the compiler needs a value to infer the type.
+
+(-----------------------------------------------------------------------)
+
