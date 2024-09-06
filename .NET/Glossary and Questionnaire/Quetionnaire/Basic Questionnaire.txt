@@ -8866,3 +8866,9 @@ Ans- By adding the descending keyword in the orderby clause.
 
 (------------------------------------------------------------------------)
 
+1480- Can you specify multiple sorting criteria in a LINQ query?
+
+Ans- Yes, you can specify multiple criteria by chaining orderby clauses.
+
+(------------------------------------------------------------------------)
+
