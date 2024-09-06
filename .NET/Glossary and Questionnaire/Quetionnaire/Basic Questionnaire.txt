@@ -8470,4 +8470,9 @@ Ans- By incorporating resiliency patterns like retries and circuit breakers to m
 
 (----------------------------------------------------------------------)
 
+1414- What happens if a container name in Azure Storage does not meet naming requirements?
+
+Ans- A 400 HTTP status error is returned.
+
+(----------------------------------------------------------------------)
 
