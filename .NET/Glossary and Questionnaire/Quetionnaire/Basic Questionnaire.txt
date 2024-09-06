@@ -8596,3 +8596,9 @@ Ans- The BCL is a set of foundational classes, interfaces, and types used by .NE
 
 (----------------------------------------------------------------------)
 
+1435- What is the role of CoreFX in .NET Core?
+
+Ans- CoreFX provides the foundational .NET Core libraries, such as System.* namespaces, that are needed for cross-platform development.
+
+(----------------------------------------------------------------------)
+
