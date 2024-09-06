@@ -9010,3 +9010,9 @@ Ans- HTTP enables communication over the Internet and is used for web services.
 
 (------------------------------------------------------------------------)
 
+1504- What distinguishes TCP from HTTP in WCF?
+
+Ans- TCP is more efficient than HTTP and is used for high-performance communications on local or remote networks.
+
+(------------------------------------------------------------------------)
+
