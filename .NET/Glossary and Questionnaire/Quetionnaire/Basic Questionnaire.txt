@@ -8254,3 +8254,9 @@ Ans- Routed commands centralize the handling of actions, allowing code to be reu
 
 (-----------------------------------------------------------------------)
 
+1378- When should you use Commands over Events in WPF?
+
+Ans- Use commands when you need to handle an action in multiple locations, such as having both a menu item and a toolbar button trigger the same action.
+
+(-----------------------------------------------------------------------)
+
