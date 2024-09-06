@@ -8098,3 +8098,9 @@ Ans- It initializes the accumulator value before the first call.
 
 (-----------------------------------------------------------------------)
 
+1352- What is WPF in .NET?
+
+Ans- WPF (Windows Presentation Foundation) is a framework for building Windows desktop applications with advanced UI features.
+
+(-----------------------------------------------------------------------)
+
