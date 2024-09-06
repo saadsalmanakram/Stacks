@@ -7990,3 +7990,9 @@ Ans- Named parameters allow you to specify the name of the parameters when calli
 
 (-----------------------------------------------------------------------)
 
+1334- Can you mix named and positional parameters in a method call?
+
+Ans- Yes, but all positional parameters must be specified before named parameters.
+
+(-----------------------------------------------------------------------)
+
