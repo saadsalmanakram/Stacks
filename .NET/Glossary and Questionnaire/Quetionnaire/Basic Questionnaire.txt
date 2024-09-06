@@ -8908,3 +8908,9 @@ Ans- Code First is an approach where you define your database schema using C# cl
 
 (------------------------------------------------------------------------)
 
+1487- What is Object-Relational Mapping (ORM)?
+
+Ans- ORM is a technique that maps C# classes to database tables, simplifying data manipulation and retrieval without writing SQL.
+
+(------------------------------------------------------------------------)
+
