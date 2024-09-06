@@ -9166,3 +9166,15 @@ Ans- The basic components include endpoints (address, binding, contract), behavi
 
 (------------------------------------------------------------------------)
 
+1530- How does WCF handle different protocols?
+
+Ans- WCF supports multiple communication protocols like HTTP, TCP, and named pipes, which are configured using different bindings.
+
+(------------------------------------------------------------------------)
+
+1531- What is the WCF Test Client, and how is it used?
+
+Ans- The WCF Test Client is a tool provided by Visual Studio to test WCF services by invoking their operations and inspecting their results.
+
+(------------------------------------------------------------------------)
+
