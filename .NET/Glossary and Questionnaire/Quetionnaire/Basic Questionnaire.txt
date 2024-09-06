@@ -8668,3 +8668,9 @@ Ans- It ensures that a user provides input for a specific field before allowing 
 
 (-----------------------------------------------------------------------)
 
+1447- How does ASP.NET Web Forms handle input validation?
+
+Ans- It uses validation controls that perform both client-side and server-side validation.
+
+(-----------------------------------------------------------------------)
+
