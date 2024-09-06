@@ -8590,3 +8590,9 @@ Ans- .NET Core applications list required dependencies in project files, which a
 
 (----------------------------------------------------------------------)
 
+1434- What is the Base Class Library (BCL)?
+
+Ans- The BCL is a set of foundational classes, interfaces, and types used by .NET applications, shared across different .NET platforms.
+
+(----------------------------------------------------------------------)
+
