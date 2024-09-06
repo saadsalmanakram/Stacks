@@ -8176,3 +8176,9 @@ Ans- The Grid control is used to arrange UI elements in rows and columns, provid
 
 (-----------------------------------------------------------------------)
 
+1365- Can WPF applications be run on platforms other than Windows?
+
+Ans- Yes, WPF applications are technically platform-independent and can target platforms like Surface tablets and Xbox.
+
+(-----------------------------------------------------------------------)
+
