@@ -7612,3 +7612,9 @@ Ans- It constrains the types that can be used as type arguments for the generic 
 
 (-----------------------------------------------------------------------)
 
+1271- How can you constrain a generic type to be a reference type?
+
+Ans- Use where T : class.
+
+(-----------------------------------------------------------------------)
+
