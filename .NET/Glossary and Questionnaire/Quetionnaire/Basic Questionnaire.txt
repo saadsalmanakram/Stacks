@@ -9052,3 +9052,9 @@ Ans- An operation contract specifies a method in a service, including its parame
 
 (------------------------------------------------------------------------)
 
+1511- What is a data contract?
+
+Ans- A data contract defines the structure of data exchanged in WCF services, specifying how data is serialized.
+
+(------------------------------------------------------------------------)
+
