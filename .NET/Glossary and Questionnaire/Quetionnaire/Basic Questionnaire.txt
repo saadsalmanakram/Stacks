@@ -8553,3 +8553,10 @@ Ans- .NET Native is a tool that compiles .NET code into native machine code befo
 Ans- TFM is a shorthand representation of a specific .NET framework version that a program targets, like netstandard2.0 or netcoreapp3.1.
 
 (----------------------------------------------------------------------)
+
+1428- How does the .NET Core ecosystem support cross-platform development?
+
+Ans- Through a combination of CoreCLR, CoreFX, and platform-specific runtimes, enabling consistent behavior across Windows, macOS, and Linux.
+
+(----------------------------------------------------------------------)
+
