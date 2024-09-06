@@ -9064,3 +9064,9 @@ Ans- A fault contract specifies the errors that operations can return, allowing 
 
 (------------------------------------------------------------------------)
 
+1513- What is request/response messaging in WCF?
+
+Ans- Request/response messaging is a pattern where a client sends a request and waits for a response from the service.
+
+(------------------------------------------------------------------------)
+
