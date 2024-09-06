@@ -9022,3 +9022,9 @@ Ans- UDP allows broadcasting messages and is suitable for scenarios where messag
 
 (------------------------------------------------------------------------)
 
+1506- What is an endpoint in WCF?
+
+Ans- An endpoint is a combination of address, binding, and contract that defines how a service can be accessed.
+
+(------------------------------------------------------------------------)
+
