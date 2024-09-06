@@ -8920,3 +8920,9 @@ Ans- Define your C# classes, set up a DbContext, and Entity Framework will autom
 
 (------------------------------------------------------------------------)
 
+1489- How does LINQ to Entities differ from LINQ to Objects?
+
+Ans- LINQ to Entities queries a database using Entity Framework, whereas LINQ to Objects queries in-memory collections.
+
+(------------------------------------------------------------------------)
+
