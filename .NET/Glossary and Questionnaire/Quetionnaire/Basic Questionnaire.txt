@@ -8950,3 +8950,9 @@ Ans- You can use LINQ to XML or other XML libraries to query and convert databas
 
 (------------------------------------------------------------------------)
 
+1494- What is the use of XML in database operations?
+
+Ans- XML is used for data interchange and storage, providing a structured format for data representation and transfer.
+
+(------------------------------------------------------------------------)
+
