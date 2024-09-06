@@ -7708,3 +7708,9 @@ Ans- It specifies that you are referring to the top-level namespace, helping to 
 
 (-----------------------------------------------------------------------)
 
+1287- What is an event in C#?
+
+Ans- An event is a mechanism for an object to notify other objects or methods that something has happened, allowing for event-driven programming.
+
+(-----------------------------------------------------------------------)
+
