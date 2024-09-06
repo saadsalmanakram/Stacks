@@ -8086,3 +8086,9 @@ Ans- Expression trees can convert lambda expressions to SQL queries for database
 
 (-----------------------------------------------------------------------)
 
+1350- What does the Aggregate method do in LINQ?
+
+Ans- Applies an accumulator function over a sequence.
+
+(-----------------------------------------------------------------------)
+
