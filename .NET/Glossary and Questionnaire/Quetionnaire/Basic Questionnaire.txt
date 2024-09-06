@@ -8320,3 +8320,9 @@ Ans- All layout panels derive from the abstract Panel class.
 
 (----------------------------------------------------------------------)
 
+1389- Can you directly use the Panel class for layout in WPF?
+
+Ans- No, the Panel class itself cannot be used directly for layout.
+
+(----------------------------------------------------------------------)
+
