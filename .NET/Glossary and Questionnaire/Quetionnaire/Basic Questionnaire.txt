@@ -8110,3 +8110,9 @@ Ans- XAML (Extensible Application Markup Language) is used for designing user in
 
 (-----------------------------------------------------------------------)
 
+1354- What are code-behind files in WPF?
+
+Ans- Code-behind files contain C# logic for handling the UI behavior declared in XAML files.
+
+(-----------------------------------------------------------------------)
+
