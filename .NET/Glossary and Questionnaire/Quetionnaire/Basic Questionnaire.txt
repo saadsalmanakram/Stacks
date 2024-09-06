@@ -7882,3 +7882,9 @@ Ans- No, you must initialize the variable when using var because the compiler ne
 
 (-----------------------------------------------------------------------)
 
+1316- How does var differ from explicitly specifying a type?
+
+Ans- var relies on the compiler to infer the type from the assigned value, whereas specifying a type explicitly defines the type directly.
+
+(-----------------------------------------------------------------------)
+
