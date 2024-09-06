@@ -8560,3 +8560,9 @@ Ans- Through a combination of CoreCLR, CoreFX, and platform-specific runtimes, e
 
 (----------------------------------------------------------------------)
 
+1429- What is a Portable Class Library (PCL)?
+
+Ans- PCL is a class library that can be shared across multiple .NET platforms without needing recompilation.
+
+(----------------------------------------------------------------------)
+
