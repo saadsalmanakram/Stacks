@@ -8572,3 +8572,9 @@ Ans- JIT compiles code at runtime when it is needed, whereas AOT compiles code b
 
 (----------------------------------------------------------------------)
 
+1431- What are metapackages in .NET Core?
+
+Ans- Metapackages are collections of related NuGet packages bundled together, but they do not include any actual code themselves.
+
+(----------------------------------------------------------------------)
+
