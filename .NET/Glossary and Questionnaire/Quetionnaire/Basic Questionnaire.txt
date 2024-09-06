@@ -8458,3 +8458,9 @@ Ans- Cloud programming must account for scalability, elasticity, and the statele
 
 (----------------------------------------------------------------------)
 
+1412- What is the main benefit of cloud scalability?
+
+Ans- It allows applications to handle varying loads by dynamically adjusting resources.
+
+(----------------------------------------------------------------------)
+
