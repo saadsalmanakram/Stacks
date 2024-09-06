@@ -8764,3 +8764,8 @@ Ans- Use Decoder and Encoder classes for converting between byte arrays and char
 
 (------------------------------------------------------------------------)
 
+1463- What is the difference between XML attributes and elements?
+
+Ans- Attributes are name-value pairs within an element's tag, while elements are the basic building blocks containing data and other elements.
+
+(------------------------------------------------------------------------)
