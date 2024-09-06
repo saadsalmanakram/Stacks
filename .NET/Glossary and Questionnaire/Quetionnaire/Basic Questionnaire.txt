@@ -8104,3 +8104,9 @@ Ans- WPF (Windows Presentation Foundation) is a framework for building Windows d
 
 (-----------------------------------------------------------------------)
 
+1353- What is the role of XAML in WPF?
+
+Ans- XAML (Extensible Application Markup Language) is used for designing user interfaces in WPF applications.
+
+(-----------------------------------------------------------------------)
+
