@@ -8774,5 +8774,18 @@ Ans- Attributes are name-value pairs within an element's tag, while elements are
 
 Ans- An XML Schema defines the structure, content, and data types allowed in an XML document.
 
-(------------------------------------------------------------------------
+(------------------------------------------------------------------------)
+
+1465- What is XSD?
+
+Ans- XSD stands for XML Schema Definition, a language used to define XML Schema.
+
+(------------------------------------------------------------------------)
+
+1466- How can you validate an XML document against a schema?
+
+Ans- You can validate an XML document against a schema using validation tools or libraries that check conformity to the defined schema rules.
+
+(------------------------------------------------------------------------)
+
 
