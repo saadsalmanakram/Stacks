@@ -7870,3 +7870,9 @@ Ans- By using nested curly braces to initialize properties of the nested object.
 
 (-----------------------------------------------------------------------)
 
+1314- What is the purpose of the var keyword in C#?
+
+Ans- The var keyword is used for implicit type inference, allowing the compiler to determine the variable's type based on the assigned value.
+
+(-----------------------------------------------------------------------)
+
