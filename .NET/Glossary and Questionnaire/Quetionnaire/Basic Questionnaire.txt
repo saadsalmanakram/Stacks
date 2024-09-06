@@ -8854,3 +8854,9 @@ Ans- LINQ method syntax uses extension methods directly on collections, while qu
 
 (------------------------------------------------------------------------)
 
+1478- What is a lambda expression in the context of LINQ?
+
+Ans- A lambda expression is a concise way to define an anonymous method for use in LINQ queries.
+
+(------------------------------------------------------------------------)
+
