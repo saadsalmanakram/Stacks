@@ -8362,3 +8362,9 @@ Ans- A DataTrigger changes the property values of a control based on the value o
 
 (----------------------------------------------------------------------)
 
+1396- What is the difference between ControlTemplate and DataTemplate?
+
+Ans- ControlTemplate modifies the look and feel of a control, while DataTemplate focuses on how the data is presented within a control.
+
+(----------------------------------------------------------------------)
+
