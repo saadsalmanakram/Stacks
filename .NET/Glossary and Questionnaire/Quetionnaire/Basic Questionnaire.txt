@@ -7888,3 +7888,9 @@ Ans- var relies on the compiler to infer the type from the assigned value, where
 
 (-----------------------------------------------------------------------)
 
+1317- What happens if you use var with an ambiguous array initializer?
+
+Ans- The code will not compile if the array elements do not have a clear best type that they can all be implicitly converted to.
+
+(-----------------------------------------------------------------------)
+
