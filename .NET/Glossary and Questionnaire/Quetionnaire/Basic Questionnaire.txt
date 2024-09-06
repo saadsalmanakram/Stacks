@@ -9034,3 +9034,9 @@ Ans- HTTP uses URLs, TCP uses net.tcp://, UDP uses soap.udp://, and Named Pipes 
 
 (------------------------------------------------------------------------)
 
+1508- What is the role of bindings in WCF?
+
+Ans- Bindings define how the service communicates by specifying the protocol and other settings like security.
+
+(------------------------------------------------------------------------)
+
