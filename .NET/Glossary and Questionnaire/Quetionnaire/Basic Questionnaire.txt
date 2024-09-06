@@ -7936,3 +7936,9 @@ Ans- A RuntimeBinderException will be thrown at runtime if the method or propert
 
 (-----------------------------------------------------------------------)
 
+1325- When should you use dynamic types?
+
+Ans- Use dynamic types when interacting with objects whose types are not known at compile time, such as COM objects or dynamic languages.
+
+(-----------------------------------------------------------------------)
+
