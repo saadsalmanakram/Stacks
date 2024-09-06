@@ -7918,3 +7918,9 @@ Ans- The Equals() method compares the values of all properties, returning true i
 
 (-----------------------------------------------------------------------)
 
+1322- What is the dynamic keyword in C#?
+
+Ans- The dynamic keyword is used to declare variables whose type is resolved at runtime, allowing for late binding.
+
+(-----------------------------------------------------------------------)
+
