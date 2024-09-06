@@ -8680,3 +8680,9 @@ Ans- View State, Cookies, Session State, Application State, and Cache.
 
 (-----------------------------------------------------------------------)
 
+1449- How does ASP.NET Web Forms manage authentication and authorization?
+
+Ans- Authentication verifies user identity, while authorization determines access rights using techniques like Forms Authentication and Windows Authentication.
+
+(-----------------------------------------------------------------------)
+
