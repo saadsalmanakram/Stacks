@@ -7762,3 +7762,9 @@ Ans- Named parameters allow specifying arguments by name, and optional parameter
 
 (-----------------------------------------------------------------------)
 
+1296- What is the advantage of using lambda expressions in C#?
+
+Ans- Lambda expressions offer a more concise and readable syntax for writing anonymous methods and are often used with LINQ and events.
+
+(-----------------------------------------------------------------------)
+
