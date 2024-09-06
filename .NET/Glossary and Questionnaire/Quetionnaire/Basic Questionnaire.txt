@@ -9106,3 +9106,9 @@ Ans- WSHttpBinding supports advanced features such as security, reliability, and
 
 (------------------------------------------------------------------------)
 
+1520- What is NetTcpBinding used for?
+
+Ans- NetTcpBinding is used for TCP communications and provides support for security, transactions, and reliable messaging.
+
+(------------------------------------------------------------------------)
+
