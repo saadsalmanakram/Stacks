@@ -9112,3 +9112,9 @@ Ans- NetTcpBinding is used for TCP communications and provides support for secur
 
 (------------------------------------------------------------------------)
 
+1521- What is MTOM in WCF?
+
+Ans- MTOM (Message Transmission Optimization Mechanism) optimizes the packaging of large binary data in messages.
+
+(------------------------------------------------------------------------)
+
