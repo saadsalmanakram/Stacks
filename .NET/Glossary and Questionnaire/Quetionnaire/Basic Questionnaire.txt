@@ -8092,3 +8092,9 @@ Ans- Applies an accumulator function over a sequence.
 
 (-----------------------------------------------------------------------)
 
+1351- What is the purpose of the seed parameter in the Aggregate method?
+
+Ans- It initializes the accumulator value before the first call.
+
+(-----------------------------------------------------------------------)
+
