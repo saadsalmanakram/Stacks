@@ -8500,3 +8500,14 @@ Ans- Conditional rendering is achieved through C# logic within the Razor syntax,
 
 (----------------------------------------------------------------------)
 
+1419- Why is scaling important for a cloud-deployed Web API?
+
+Ans- Scaling ensures that the application can handle increased demand without breaching resource thresholds, avoiding service suspension.
+
+(----------------------------------------------------------------------)
+
+1420- What factors determine the need for scaling an ASP.NET Web API on Azure?
+
+Ans- High CPU, memory, and bandwidth usage caused by increased traffic or usage of the Web API.
+
+(----------------------------------------------------------------------)
