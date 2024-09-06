@@ -8356,3 +8356,9 @@ Ans- A DataTemplate is used to define the visual structure and layout of data in
 
 (----------------------------------------------------------------------)
 
+1395- How does a DataTrigger work in XAML?
+
+Ans- A DataTrigger changes the property values of a control based on the value of a bound property, allowing for dynamic visual changes in response to data changes.
+
+(----------------------------------------------------------------------)
+
