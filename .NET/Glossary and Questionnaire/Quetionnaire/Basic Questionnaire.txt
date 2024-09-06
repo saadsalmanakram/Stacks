@@ -8332,3 +8332,9 @@ Ans- It allows complete freedom in positioning child controls without alignment 
 
 (----------------------------------------------------------------------)
 
+1391- How does the order of controls in a DockPanel affect layout?
+
+Ans- The stack order is important; each control reduces the available space for subsequent controls.
+
+(----------------------------------------------------------------------)
+
