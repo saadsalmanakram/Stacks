@@ -9124,3 +9124,9 @@ Ans- Message contracts allow customization of how data is formatted in SOAP mess
 
 (------------------------------------------------------------------------)
 
+1523- What is a WCF service?
+
+Ans- A WCF (Windows Communication Foundation) service is a framework for building service-oriented applications that communicate across different platforms using various protocols.
+
+(------------------------------------------------------------------------)
+
