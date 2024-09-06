@@ -8518,3 +8518,8 @@ Ans- CIL is the intermediate code compiled from .NET languages, which is then co
 
 (----------------------------------------------------------------------)
 
+1422- What is the role of the CLR in .NET?
+
+Ans- The Common Language Runtime (CLR) manages the execution of .NET programs, including memory management, security, and exception handling.
+
+(----------------------------------------------------------------------)
