@@ -9148,4 +9148,9 @@ Ans- Service behaviors configure various aspects of the service's runtime behavi
 
 (------------------------------------------------------------------------)
 
+1527- What is metadata in WCF, and how is it exposed?
+
+Ans- Metadata describes the service and is exposed through a metadata exchange (MEX) endpoint, allowing clients to generate proxies to interact with the service.
+
+(------------------------------------------------------------------------)
 
