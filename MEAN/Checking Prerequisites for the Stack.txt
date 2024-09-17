@@ -1,0 +1,120 @@
+1- Node.js
+
+   Node.js is the runtime environment used for running the Express.js server and building Angular applications.
+
+   - Check Node.js version:
+
+     node --version
+
+   - Check npm (Node Package Manager) version:
+
+     npm --version
+
+   
+   - For Ubuntu/Debian-based systems:
+
+     sudo apt update
+     sudo apt install nodejs npm
+
+   - For macOS:
+   
+     brew install node
+
+(-------------------------------------------------------------------------)
+
+2- Express.js
+
+   Express.js is a web framework for Node.js. Check if Express is installed either globally or locally in your project.
+
+   - Check if Express.js is installed globally:
+
+     npm list -g express
+ 
+   - Check if Express.js is installed locally in a project:
+
+     npm list express
+
+   - Install Express.js globally (if needed):
+
+     npm install -g express
+
+   - Install Express.js locally in a project:
+
+     npm install express
+
+(-------------------------------------------------------------------------)
+
+3- Angular
+
+   Angular is a front-end framework. You need the Angular CLI for creating and managing Angular projects.
+
+   - Check if Angular CLI is installed globally:
+
+     ng --version
+
+   - If Angular CLI is not installed, you can install it using npm:
+
+     npm install -g @angular/cli
+
+   - Check Angular version within a project:
+
+     ng --version
+
+(-------------------------------------------------------------------------)
+
+4- MongoDB
+
+   MongoDB is a NoSQL database used in the MEAN stack. Check if MongoDB is installed and running.
+
+   - Check if MongoDB is installed:
+
+     mongod --version
+
+   - Check MongoDB service status:
+
+     sudo systemctl status mongod
+
+   If MongoDB is not installed, you can install it using:
+
+   - For Ubuntu/Debian-based systems:
+   
+     sudo apt-get install mongodb
+
+   - For macOS:
+
+     brew tap mongodb/brew
+     brew install mongodb-community
+
+
+(-------------------------------------------------------------------------)
+
+5- Database Drivers
+
+   MongoDB requires a Node.js driver to interact with it.
+
+   - Check if MongoDB driver is installed for Node.js:
+
+     npm list mongodb
+ 
+   Install if missing:
+
+     npm install mongodb
+
+(-------------------------------------------------------------------------)
+
+Summary of Prerequisite Commands for MEAN Stack
+
+  node --version                      # Check Node.js version
+  npm --version                       # Check npm version
+  npm list -g express                 # Check global Express.js installation
+  npm list express                    # Check local Express.js installation
+  ng --version                        # Check Angular CLI version
+  mongod --version                    # Check MongoDB version
+  sudo systemctl status mongod        # Check MongoDB service status
+  npm list mongodb                    # Check MongoDB driver installation
+  git --version                       # Check Git version
+
+
+
+
+
