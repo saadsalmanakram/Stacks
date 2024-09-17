@@ -83,6 +83,21 @@
 
 (----------------------------------------------------------------------------)
 
+4- SQLAlchemy
+ 
+   If using a relational database, Flask works well with SQLAlchemy, a popular ORM.
+
+   - Check if SQLAlchemy is installed:
+ 
+     pip show sqlalchemy
+
+
+   If SQLAlchemy is not installed, you can install it using:
+
+     pip install sqlalchemy
+
+(----------------------------------------------------------------------------)
+
 
 
 
