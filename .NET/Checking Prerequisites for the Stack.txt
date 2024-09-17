@@ -1,0 +1,50 @@
+1- .NET SDK (Software Development Kit)
+
+   The .NET SDK contain everything you need to build and run .NET applications.
+
+   - Check if .NET SDK is installed:
+
+     dotnet --version
+
+   - Check all installed .NET SDKs:
+
+     dotnet --list-sdks
+
+   - Check all installed .NET runtimes:
+
+     dotnet --list-runtimes
+
+(------------------------------------------------------------------------)
+
+2- ASP.NET Core (Web Framework)
+
+   ASP.NET Core is the framework used for building web applications and APIs.
+
+   - Check if ASP.NET Core is available: Since ASP.NET Core is part of the .NET SDK, if you have the SDK installed, ASP.NET Core should be available. You can verify by checking the version of a new ASP.NET project: 
+
+     dotnet new web --help
+
+(------------------------------------------------------------------------)
+
+3- Entity Framework Core (Database Access Layer)
+
+   Entity Framework (EF) Core is a popular Object-Relational Mapping (ORM) tool used to interact with databases.
+
+   - Check if Entity Framework Core is installed: In your project folder, run the following command:
+
+     dotnet ef
+
+If Entity Framework Core CLI tools are not installed, you can install them using:
+     
+     dotnet tool install --global dotnet-ef
+
+   - To install EF Core for your project, run:
+     
+     dotnet add package Microsoft.EntityFrameworkCore
+
+(------------------------------------------------------------------------)
+
+
+
+(------------------------------------------------------------------------)
+
