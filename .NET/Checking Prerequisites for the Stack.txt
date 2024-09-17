@@ -61,10 +61,17 @@ If Entity Framework Core CLI tools are not installed, you can install them using
 
 (------------------------------------------------------------------------)
 
+Summary of Prerequisite Commands for .NET Stack
 
+  dotnet --version               # Check .NET SDK version
+  dotnet --list-sdks             # Check all installed .NET SDKs
+  dotnet --list-runtimes         # Check all installed .NET runtimes
+  dotnet new web --help          # Verify ASP.NET Core availability
+  dotnet ef                      # Check if Entity Framework CLI is installed
+  dotnet add package Microsoft.EntityFrameworkCore  # Install EF Core   (optional)
+  sqllocaldb i                   # Check for SQL Server (Windows)
+  systemctl status mssql-server  # Check SQL Server service (Linux/macOS)
 
-
-   
 
 
 (------------------------------------------------------------------------)

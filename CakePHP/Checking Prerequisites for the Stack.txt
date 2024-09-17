@@ -1,0 +1,127 @@
+1- PHP
+
+   CakePHP is a PHP framework, so PHP must be installed on your system.
+
+   - Check if PHP is installed:
+
+     php -v
+
+   - Check installed PHP extensions: CakePHP requires certain PHP extensions to function, such as mbstring, intl, pdo, and openssl. To check installed PHP extensions:
+
+     php -m
+
+     Ensure that the following extensions are enabled:
+
+     - mbstring
+     - intl
+     - pdo
+     - openssl
+     - curl (if needed for some functionality)
+  
+
+   - Install missing PHP extensions: For Ubuntu, you can install the missing extensions using:
+
+     sudo apt-get install php-mbstring php-intl php-pdo php-openssl
+
+(--------------------------------------------------------------------------)
+
+2- Composer (Dependency Manager for PHP)
+
+   CakePHP is installed via Composer, a PHP dependency manager.
+
+   - Check if Composer is installed:
+   
+     composer -v
+
+(--------------------------------------------------------------------------)
+
+3- Web Server (Apache/Nginx)
+ 
+   CakePHP requires a web server like Apache or Nginx to serve your application.
+
+   - Check if Apache is installed and running:
+
+     apache2 -v
+
+   - To check if the Apache service is running:
+
+     sudo systemctl status apache2
+ 
+   - Check if Nginx is installed and running (if using Nginx instead of Apache):
+
+     nginx -v
+
+   - To check if the Nginx service is running:
+
+     sudo systemctl status nginx
+
+
+(--------------------------------------------------------------------------)
+
+4- Database (MySQL/MariaDB)
+
+   CakePHP commonly uses MySQL or MariaDB as its database system.
+
+   - Check if MySQL is installed:
+
+     mysql --version
+
+   - Check if MariaDB is installed (if using MariaDB):
+
+     mariadb --version
+
+   - Check MySQL/MariaDB service status:
+
+     sudo systemctl status mysql     # For MySQL
+     sudo systemctl status mariadb   # For MariaDB
+
+
+   If neither is installed, you can install MySQL or MariaDB using:
+
+   - Install MySQL:
+
+     sudo apt-get install mysql-server
+ 
+   - Install MariaDB:
+
+     sudo apt-get install mariadb-server
+
+ 
+(--------------------------------------------------------------------------)
+
+5- CakePHP
+
+   CakePHP itself is installed via Composer.
+
+   - Check if CakePHP is installed in your project: Navigate to your CakePHP project folder and check the installed packages:
+
+     composer show cakephp/cakephp
+
+   - Install CakePHP via Composer: If CakePHP is not installed, you can install it using Composer:
+
+     composer create-project --prefer-dist cakephp/app [app_name]
+
+(--------------------------------------------------------------------------)
+
+6- Other Required PHP Extensions
+
+   You may also need additional extensions depending on your CakePHP application needs:
+
+   - Check if gd (for image manipulation) is installed:
+
+     php -m | grep gd
+
+   - Check if pdo_mysql (for MySQL database connection) is installed:
+
+     php -m | grep pdo_mysql
+
+
+   If any of these are missing, you can install them using:
+
+     sudo apt-get install php-gd php-pdo_mysql
+
+
+(--------------------------------------------------------------------------)
+
+
+
