@@ -98,6 +98,78 @@
 
 (----------------------------------------------------------------------------)
 
+5- Gunicorn (WSGI Server for Production)
+
+   For production deployments, Flask apps are usually served with Gunicorn as the WSGI server.
+
+   - Check if Gunicorn is installed:
+
+     gunicorn --version
+
+   
+   If Gunicorn is not installed, you can install it using:
+
+     pip install gunicorn
+
+(----------------------------------------------------------------------------)
+
+6- Web Server (Nginx/Apache):
+  
+   In production, Flask apps are typically served behind a reverse proxy like Nginx or Apache. Here’s how to check if they’re installed.
+
+   - Check if Nginx is installed:
+
+     nginx -v
+
+   - To check if the Nginx service is running:
+
+     sudo systemctl status nginx
+
+   - Check if Apache is installed (if using Apache instead of Nginx):
+
+     apache2 -v
+
+   - To check if the Apache service is running:
+
+     sudo systemctl status apache2
+
+   If Neither is installed, you can install them: 
+     
+   - install Nginx:
+
+     sudo apt-get install nginx
+
+   - Install Apache:
+
+     sudo apt-get install apache2
+
+(----------------------------------------------------------------------------)
+
+Summary of Prerequisite Commands for Flask Stack
+
+  python --version                  # Check Python version
+  pip --version                     # Check pip version
+  pip show flask                    # Check if Flask is installed
+  psql --version                    # Check PostgreSQL version
+  mysql --version                   # Check MySQL version
+  sqlite3 --version                 # Check SQLite version
+  mongod --version                  # Check MongoDB version (if using MongoDB)
+  sudo systemctl status postgresql  # Check PostgreSQL service status
+  sudo systemctl status mysql       # Check MySQL service status
+  pip show sqlalchemy               # Check if SQLAlchemy is installed (optional)
+  gunicorn --version                # Check Gunicorn version
+  nginx -v                          # Check Nginx version
+  sudo systemctl status nginx       # Check Nginx service status
+  apache2 -v                        # Check Apache version (if using Apache)
+  sudo systemctl status apache2     # Check Apache service status
+  virtualenv --version              # Check if virtualenv is installed
+
+(----------------------------------------------------------------------------)
+
+
+
+(-------------------------------------------------
+
 
 
 
