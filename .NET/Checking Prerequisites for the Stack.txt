@@ -44,6 +44,27 @@ If Entity Framework Core CLI tools are not installed, you can install them using
 
 (------------------------------------------------------------------------)
 
+4- SQL Server or Other Supported Databases
+
+   SQL Server is the most commonly used database in the .NET stack, but .NET can also interact with other databases like MySQL, PostgreSQL, etc.
+
+   - Check if SQL Server is installed (for local installations):
+
+   - On Windows:
+    
+     sqllocaldb i
+
+   - On Linux/macOS:
+
+     systemctl status mssql-server
+
+
+(------------------------------------------------------------------------)
+
+
+
+
+   
 
 
 (------------------------------------------------------------------------)
