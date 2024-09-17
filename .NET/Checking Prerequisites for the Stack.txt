@@ -1,0 +1,15 @@
+1- Node.js and npm (Node Package Manager)
+ 
+   Node.js is the runtime environment for executing JavaScript code server-side, and npm is the package manager for Node.js.
+
+   - Check if Node.js is installed:
+
+     node -v
+
+   - Check if npm is installed:
+   
+     npm -v
+
+
+(-------------------------------------------------------------------------)
+
