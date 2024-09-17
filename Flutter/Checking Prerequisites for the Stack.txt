@@ -1,0 +1,22 @@
+1- Flutter SDK
+
+   First, ensure that the Flutter SDK is installed on your system.
+
+   - Check if Flutter is installed:
+
+     flutter --version
+
+   
+(----------------------------------------------------------------------------)
+
+2- Dart SDK
+
+   Flutter apps are written in the Dart programming language, which is bundled with the Flutter SDK.
+
+   - Check if Dart is installed (included with Flutter):
+ 
+     dart --version
+
+(---------------------------------------------------------------------------)
+
+
