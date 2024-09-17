@@ -56,6 +56,21 @@
 
 (-------------------------------------------------------------------------)
 
+5- MongoDB Node.js Driver
+
+   To connect MongoDB to your Node.js application, you need to install the MongoDB Node.js driver.
+
+   - Check if the MongoDB driver is installed:
+
+     npm list mongodb
+
+   - If it’s not installed, you can install it using:
+
+     npm install mongodb
+
+
+(-------------------------------------------------------------------------)
+
 
 
 
