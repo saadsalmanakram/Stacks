@@ -1,0 +1,45 @@
+1- Python
+
+   FastAPI is built on Python, so Python needs to be installed on your system.
+
+   - Check if Python is installed:
+
+     python --version
+            or
+     python3 --version
+
+   - Check if pip (Python package manager) is installed:
+
+     pip --version
+
+         or
+
+     pip3 --version
+
+   
+   If Python or pip is not installed, you can install them via:
+
+   - For Ubuntu/Debian-based systems:
+    
+     sudo apt update
+     sudo apt install python3 python3-pip
+
+(-------------------------------------------------------------------------)
+
+2- FastAPI
+  
+   FastAPI is a Python-based framework and needs to be installed via pip.
+
+   - Check if FastAPI is installed: Navigate to your project directory and run:
+
+     pip show fastapi
+
+   
+   If FastAPI is not installed, you can install it using:
+
+     pip install fastapi
+
+
+(-------------------------------------------------------------------------)
+
+      
