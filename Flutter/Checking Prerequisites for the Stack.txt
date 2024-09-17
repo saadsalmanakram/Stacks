@@ -19,4 +19,89 @@
 
 (---------------------------------------------------------------------------)
 
+3- Android Studio (for Android development)
+ 
+   For Android development, you need to have Android Studio and related components like Android SDK and device emulators installed.
+
+   - Check if Android Studio is installed:
+
+     android-studio --version
+
+   Alternatively, check if it exists in your applications or by running:
+
+     which studio.sh
+
+   - Check Android SDK installation:
+
+     sdkmanager --list
+
+   
+   If you do not have Android Studio or Android SDK installed, you can download Android Studio from here.
+
+   - Check if ADB (Android Debug Bridge) is installed:
+
+     adb --version
+
+   - If ADB is missing, you can install it using:
+
+     sudo apt-get install adb  # For Linux/Ubuntu
+     brew install android-platform-tools  # For macOS
+
+
+(----------------------------------------------------------------------------)
+
+4- Emulators (Android/IOS)
+  
+   - Check if Android Emulator is installed:
+
+     flutter emulators
+
+If you don't have an emulator, you can create one via Android Studio:
+
+ 1- Open Android Studio.
+ 2- Navigate to Tools > AVD Manager.
+ 3- Create a new emulator.
+
+   - Check if iOS Simulator is installed (for macOS/iOS development):
+
+     open -a Simulator
+
+(----------------------------------------------------------------------------)
+
+5- Flutter Doctor (Comprehensive Check)
+
+   Flutter provides a built-in tool called flutter doctor to check the status of your development environment.
+
+   - Run Flutter Doctor:
+
+     flutter doctor
+
+This command checks:
+
+- Flutter SDK installation.
+- Dart SDK installation.
+- Android Studio installation (if developing for Android).
+- Xcode installation (if developing for iOS).
+- Device emulators (Android/iOS).
+- Any missing dependencies.
+   
+(----------------------------------------------------------------------------)
+
+Summary of Prerequisite Commands for Flutter Stack
+
+  flutter --version                # Check Flutter SDK version
+  dart --version                   # Check Dart version
+  android-studio --version         # Check Android Studio version
+  sdkmanager --list                # Check Android SDK installation
+  adb --version                    # Check Android Debug Bridge (ADB)
+  xcodebuild -version              # Check Xcode version (for macOS/iOS)
+  xcode-select -p                  # Check Xcode command line tools
+  pod --version                    # Check CocoaPods version (for iOS dependencies)
+  flutter emulators                # List available Android emulators
+  open -a Simulator                # Open iOS Simulator
+  flutter doctor                   # Comprehensive environment check
+  code --version                   # Check VS Code version (if using VS Code)
+  git --version                    # Check Git version
+
+   
 
