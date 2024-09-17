@@ -123,5 +123,20 @@
 
 (--------------------------------------------------------------------------)
 
+Summary of Prerequisite Commands for CakePHP Stack
+
+  php -v                          # Check PHP version
+  php -m                          # Check installed PHP extensions
+  composer -v                     # Check Composer version
+  apache2 -v                      # Check Apache version
+  sudo systemctl status apache2    # Check Apache status
+  nginx -v                        # Check Nginx version (if using Nginx)
+  sudo systemctl status nginx      # Check Nginx status (if using Nginx)
+  mysql --version                 # Check MySQL version
+  mariadb --version               # Check MariaDB version (if using MariaDB)
+  sudo systemctl status mysql      # Check MySQL status
+  sudo systemctl status mariadb    # Check MariaDB status (if using MariaDB)
+  composer show cakephp/cakephp    # Check if CakePHP is installed in the project
+
 
 
