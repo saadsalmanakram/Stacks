@@ -28,3 +28,34 @@
 
 (-------------------------------------------------------------------------)
 
+3- MongoDB
+
+   MongoDB is the database component of the MERN stack. To check if MongoDB is installed:
+
+   - Check if MongoDB is installed:
+
+     mongod --version
+
+   - Check MongoDB service status (for Linux/macOS):
+
+     systemctl status mongod
+
+(-------------------------------------------------------------------------)
+
+4- React
+
+   React is the front-end library. React is installed on a per-project basis. To check if React is installed in your project:
+
+   - Check React version in your project (run this in your project folder):
+
+     npm list react
+
+   - If React is not installed, you can install it using:
+
+     npx create-react-app your-app-name
+
+(-------------------------------------------------------------------------)
+
+
+
+
