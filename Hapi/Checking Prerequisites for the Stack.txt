@@ -1,0 +1,168 @@
+1- Node.js
+
+   Hapi.js is a Node.js framework, so you need Node.js installed.
+
+   - Check if Node.js is installed:
+
+     node --version
+
+   - Check if npm (Node Package Manager) is installed:
+
+     npm --version
+
+
+   - For Ubuntu/Debian-based systems:
+
+     sudo apt update
+     sudo apt install nodejs npm
+
+   - For macOS:
+
+     brew install node
+
+
+(----------------------------------------------------------------------------)
+
+2- Hapi.js
+
+   Hapi.js is a web framework for Node.js and can be installed via npm.
+ 
+   - Check if Hapi.js is installed globally:
+
+     npm list -g @hapi/hapi
+
+   If not installed globally, check within a project directory:
+
+     npm list @hapi/hapi
+
+
+   - Install Hapi.js globally (if needed):
+
+     npm install -g @hapi/hapi
+
+   - Install Hapi.js locally in a project:
+
+     npm install @hapi/hapi
+
+
+(----------------------------------------------------------------------------)
+
+3- Database
+
+   Hapi.js can work with various databases. Below are commands for common databases used with Hapi.js.
+
+   PostgreSQL
+
+   - Check if PostgreSQL is installed:
+
+     psql --version
+
+   - Check PostgreSQL service status:
+
+     sudo systemctl status postgresql
+
+   If PostgreSQL is not installed, you can install it using:
+
+     sudo apt-get install postgresql postgresql-contrib
+
+
+   MySQL
+
+   - Check if MySQL is installed:
+
+     mysql --version
+
+   - Check MySQL service status:
+
+     sudo systemctl status mysql
+
+   If MySQL is not installed, you can install it using:
+
+     sudo apt-get install mysql-server
+
+
+   MongoDB
+
+   - Check if MongoDB is installed:
+
+     mongod --version
+
+   If MongoDB is not installed, you can install it using:
+
+     sudo apt-get install mongodb
+
+
+(----------------------------------------------------------------------------)
+
+4- Database Drivers
+
+   Depending on the database you are using, you will need specific Node.js drivers or ORMs.
+
+   - For PostgreSQL (using pg):
+
+     npm list pg
+
+   Install if missing:
+
+     npm install pg
+
+   
+   For MySQL (using mysql2):
+
+     npm list mysql2
+
+   Install if missing:
+
+     npm install mysql2
+
+   
+   - For MongoDB (using mongodb):
+
+     npm list mongodb
+
+   Install if missing:
+
+     npm install mongodb
+
+(----------------------------------------------------------------------------)
+
+5- Testing Tools
+
+   If you use testing frameworks with Hapi.js, ensure they are installed.
+
+   - For Hapi.js testing (using @hapi/lab):
+
+     npm list @hapi/lab
+
+   Install if missing:
+
+     npm install @hapi/lab
+
+   - For assertions (using @hapi/code):
+
+     npm list @hapi/code
+
+   Install if missing:
+
+     npm install @hapi/code
+
+(----------------------------------------------------------------------------)
+
+Summary of Prerequisite Commands for Hapi Stack
+
+  node --version                  # Check Node.js version
+  npm --version                   # Check npm version
+  npm list -g @hapi/hapi          # Check global Hapi.js installation
+  npm list @hapi/hapi             # Check local Hapi.js installation
+  psql --version                  # Check PostgreSQL version
+  sudo systemctl status postgresql # Check PostgreSQL service status
+  mysql --version                 # Check MySQL version
+  sudo systemctl status mysql      # Check MySQL service status
+  mongod --version                # Check MongoDB version
+  npm list pg                     # Check PostgreSQL driver installation
+  npm list mysql2                 # Check MySQL driver installation
+  npm list mongodb                # Check MongoDB driver installation
+  npm list @hapi/lab              # Check Hapi.js testing tool installation
+  npm list @hapi/code             # Check Hapi.js assertion tool installation
+  git --version                   # Check Git version
+
