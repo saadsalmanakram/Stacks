@@ -1,0 +1,164 @@
+1- PHP
+
+   Laravel requires PHP. Check that PHP is installed and meets the required version.
+
+   - Check PHP version:
+
+     php --version
+ 
+   - Check PHP extensions (common ones for Laravel):
+
+     php -m | grep -E 'mbstring|json|pdo|tokenizer|xml|ctype'
+
+   If any required extensions are missing, install them using the package manager. For example, on Ubuntu:
+
+     sudo apt-get install php-mbstring php-xml php-ctype php-json php-pdo
+
+(----------------------------------------------------------------------------)
+
+2- Composer
+
+   Composer is a dependency manager for PHP. Laravel uses Composer for managing packages.
+
+   - Check Composer version:
+
+     composer --version
+
+   If Composer is not installed, you can install it using:
+
+     curl -sS https://getcomposer.org/installer | php
+     sudo mv composer.phar /usr/local/bin/composer
+
+
+(----------------------------------------------------------------------------)
+
+3- Laravel
+
+   Laravel can be installed globally or within a project directory. Check if Laravel is installed globally.
+
+   - Check if Laravel is installed globally:
+
+     laravel --version
+
+   If Laravel is not installed globally, you can install it using Composer:
+
+     composer global require laravel/installer
+
+   - Check Laravel version within a project:
+
+     php artisan --version
+
+   To install Laravel within a project, navigate to your project directory and run:
+
+     composer create-project --prefer-dist laravel/laravel your-project-name
+
+(----------------------------------------------------------------------------)
+
+4- Database
+
+   Laravel supports various databases like MySQL, PostgreSQL, and SQLite. Ensure the required database server and drivers are installed.
+
+   MySQL
+
+   - Check if MySQL is installed:
+
+     mysql --version
+
+   - Check MySQL service status:
+
+     sudo systemctl status mysql
+
+   - If MySQL is not installed, you can install it using:
+
+     sudo apt-get install mysql-server
+  
+   
+   PostgreSQL
+ 
+   - Check if PostgreSQL is installed:
+
+     psql --version
+
+   - Check PostgreSQL service status:
+
+     sudo systemctl status postgresql
+
+   If PostgreSQL is not installed, you can install it using:
+
+     sudo apt-get install postgresql postgresql-contrib
+
+   
+   SQLite
+
+   SQLite is often used for local development. Ensure the SQLite extension is enabled in PHP.
+
+   - Check SQLite extension:
+
+     php -m | grep sqlite3
+ 
+   - Install SQLite if not present:
+
+     sudo apt-get install sqlite3 php-sqlite3
+
+
+(----------------------------------------------------------------------------)
+
+5- Web Server
+
+   Laravel can run on different web servers. Ensure that a web server like Apache or Nginx is installed and configured.
+
+   Apache
+
+   - Check if Apache is installed:
+
+     apache2 -v
+
+   If Apache is not installed, you can install it using:
+
+     sudo apt-get install apache2
+
+   
+   Nginx
+ 
+   - Check if Nginx is installed:
+
+     nginx -v
+
+   If Nginx is not installed, you can install it using:
+
+     sudo apt-get install nginx
+
+(----------------------------------------------------------------------------)
+
+6- PHP-FPM
+
+   If using Nginx, ensure PHP-FPM is installed.
+
+   - Check if PHP-FPM is installed:
+
+     php-fpm -v
+
+   If PHP-FPM is not installed, you can install it using:
+
+     sudo apt-get install php-fpm
+ 
+(---------------------------------------------------------------------------)
+
+Summary of Prerequisite Commands for Laravel Stack
+
+  php --version                          # Check PHP version
+  php -m | grep -E 'mbstring|json|pdo|tokenizer|xml|ctype' # Check PHP extensions
+  composer --version                     # Check Composer version
+  laravel --version                      # Check global Laravel installation
+  php artisan --version                  # Check Laravel version within a project
+  mysql --version                        # Check MySQL version
+  sudo systemctl status mysql            # Check MySQL service status
+  psql --version                         # Check PostgreSQL version
+  sudo systemctl status postgresql       # Check PostgreSQL service status
+  php -m | grep sqlite3                  # Check SQLite extension
+  apache2 -v                             # Check Apache version
+  nginx -v                               # Check Nginx version
+  php-fpm -v                             # Check PHP-FPM version
+  git --version                          # Check Git version
+  node --version                         # Check Node.js version (optional)
+  npm --version                          # Check npm version (optional)
