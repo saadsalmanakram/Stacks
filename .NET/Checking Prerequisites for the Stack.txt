@@ -13,3 +13,18 @@
 
 (-------------------------------------------------------------------------)
 
+2- Express.js
+
+   Express is the web framework for Node.js. To check if Express is installed within your project, navigate to the root directory of your project and run:
+
+   - Check if Express is installed (within a Node.js project):
+
+     npm list express
+
+   - If it’s not installed, you can install it using:
+
+     npm install express
+
+
+(-------------------------------------------------------------------------)
+
