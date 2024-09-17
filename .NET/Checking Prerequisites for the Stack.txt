@@ -71,6 +71,14 @@
 
 (-------------------------------------------------------------------------)
 
+Summary of Prerequisite Commands
 
+
+  node -v                # Check Node.js version
+  npm -v                 # Check npm version
+  npm list express       # Check if Express is installed
+  mongod --version       # Check MongoDB version
+  npm list react         # Check if React is installed
+  npm list mongodb       # Check MongoDB Node.js driver
 
 
