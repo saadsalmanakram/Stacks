@@ -1,0 +1,166 @@
+1- Ruby
+
+   Ruby is the programming language that powers Ruby on Rails.
+
+   - Check Ruby version:
+
+     ruby -v
+
+
+   If Ruby is not installed, you can install it via a version manager like rbenv or RVM, or you can install it directly using your system’s package manager.
+
+   - For Ubuntu/Debian-based systems:
+
+     sudo apt update
+     sudo apt install ruby-full
+
+   - For macOS:
+
+     brew install ruby
+
+(-------------------------------------------------------------------------)
+
+2- Rails
+
+   Rails is the web application framework built on Ruby.
+
+   - Check Rails version:
+
+     rails -v
+
+   
+   If Rails is not installed, you can install it via RubyGems (Ruby's package manager):
+
+   - Install Rails:
+
+     gem install rails
+
+(-------------------------------------------------------------------------)
+
+3- Bundler
+
+   Bundler is a dependency manager for Ruby that ensures that the correct versions of gems are used in your application.
+
+   - Check Bundler version:
+
+     bundler -v
+
+
+   If Bundler is not installed, you can install it using RubyGems:
+
+   - Install Bundler:
+
+     gem install bundler
+
+(-------------------------------------------------------------------------)
+
+4- Database (PostgreSQL, MySQL, or SQLite)
+
+   Rails can use different databases like PostgreSQL, MySQL, or SQLite. You need to ensure that the database you intend to use is installed and running.
+
+   a. PostgreSQL
+
+   - Check PostgreSQL version:
+
+     psql --version
+
+   - Check PostgreSQL service status:
+
+     sudo systemctl status postgresql
+
+   
+   If PostgreSQL is not installed, you can install it using:
+ 
+   - For Ubuntu/Debian-based systems:
+
+     sudo apt-get install postgresql postgresql-contrib
+
+   - For macOS:
+
+     brew install postgresql
+
+   b. MySQL
+
+   - Check MySQL version:
+
+     mysql --version
+
+   - Check MySQL service status:
+
+     sudo systemctl status mysql
+
+   
+   If MySQL is not installed, you can install it using:
+
+   - For Ubuntu/Debian-based systems:
+
+     sudo apt-get install mysql-server
+
+   - For macOS:
+
+     brew install mysql
+
+  
+   c. SQLite
+
+   SQLite is the default database used for Rails in development.
+
+   - Check SQLite version:
+
+     sqlite3 --version
+
+   If SQLite is not installed, you can install it using:
+
+   - For Ubuntu/Debian-based systems:
+
+     sudo apt-get install sqlite3
+
+   - For macOS:
+
+     brew install sqlite
+
+(------------------------------------------------------------------------)
+
+5- Node.js and Yarn (for Asset Pipeline)
+
+   Rails uses a JavaScript runtime for managing assets, and Node.js is commonly used for this purpose. Yarn is a package manager used for handling JavaScript dependencies in Rails.
+
+   - Check Node.js version:
+
+     node --version
+ 
+   - Check Yarn version:
+
+     yarn --version
+
+   
+   If Node.js and Yarn are not installed, you can install them using:
+
+   - For Ubuntu/Debian-based systems:
+
+     sudo apt update
+     sudo apt install nodejs npm
+     sudo npm install --global yarn
+
+   - For macOS:
+
+     brew install node
+     brew install yarn
+
+(-------------------------------------------------------------------------)
+
+Summary of Prerequisite Commands for Ruby on Rails Stack
+  
+  ruby -v                          # Check Ruby version
+  rails -v                         # Check Rails version
+  bundler -v                       # Check Bundler version
+  psql --version                   # Check PostgreSQL version
+  mysql --version                  # Check MySQL version
+  sqlite3 --version                # Check SQLite version
+  sudo systemctl status postgresql # Check PostgreSQL service status
+  sudo systemctl status mysql      # Check MySQL service status
+  node --version                   # Check Node.js version
+  yarn --version                   # Check Yarn version
+  git --version                    # Check Git version
+
+
