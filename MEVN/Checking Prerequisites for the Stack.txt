@@ -1,0 +1,117 @@
+1- Node.js
+
+   Node.js is the runtime environment used for running Express.js and Vue.js applications.
+
+   - Node.js is the runtime environment used for running Express.js and Vue.js applications.
+
+     node --version
+
+   - Check npm (Node Package Manager) version:
+
+     npm --version
+
+   
+   If Node.js or npm is not installed, you can install them via:
+
+   - For Ubuntu/Debian-based systems:
+
+     sudo apt update
+     sudo apt install nodejs npm
+
+   For macOS:
+
+     brew install node
+
+(----------------------------------------------------------------------------)
+
+2- Express.js
+
+   Express.js is a backend web framework for Node.js.
+
+   - Check if Express.js is installed globally:
+
+     npm list -g express
+
+   - Check if Express.js is installed locally in a project:
+
+     npm list express
+
+   - Install Express.js globally (if needed):
+
+     npm install -g express
+
+   - Install Express.js locally in a project:
+
+     npm install express
+
+(----------------------------------------------------------------------------)
+
+3- Vue.js
+
+   Vue.js is the front-end framework used in the MEVN stack.
+
+   - Check if Vue CLI is installed globally:
+
+     vue --version
+
+   If Vue CLI is not installed, you can install it globally using npm:
+
+     npm install -g @vue/cli
+
+   - Check Vue.js version within a project:
+
+     vue --version
+
+(---------------------------------------------------------------------------)
+
+4- MongoDB
+
+   MongoDB is a NoSQL database used in the MEVN stack.
+
+   - Check MongoDB version:
+
+     mongod --version
+
+   - Check MongoDB service status:
+
+     sudo systemctl status mongod
+
+   
+   If MongoDB is not installed, you can install it via:
+
+   - For Ubuntu/Debian-based systems:
+  
+     sudo apt-get install mongodb
+
+   - For macOS:
+
+     brew install mongodb-community
+
+(---------------------------------------------------------------------------)
+
+5- MongoDB Node.js Driver
+
+   The MongoDB Node.js driver is required to connect your Node.js application to MongoDB.
+
+   - Check if MongoDB driver is installed for Node.js:
+
+     npm list mongodb
+  
+   - If the MongoDB driver is not installed, install it:
+
+     npm install mongodb
+
+(---------------------------------------------------------------------------)
+
+Summary of Prerequisite Commands for MEVN Stack
+
+  node --version                      # Check Node.js version
+  npm --version                       # Check npm version
+  npm list -g express                 # Check global Express.js installation
+  npm list express                    # Check local Express.js installation
+  vue --version                       # Check Vue.js CLI version
+  mongod --version                    # Check MongoDB version
+  sudo systemctl status mongod        # Check MongoDB service status
+  npm list mongodb                    # Check MongoDB Node.js driver installation
+  git --version                       # Check Git version
+
