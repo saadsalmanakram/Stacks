@@ -1,0 +1,173 @@
+1- Java Development Kit (JDK)
+
+   Spring is a Java framework, so you need to have the Java Development Kit (JDK) installed.
+
+   - Check Java version:
+  
+     java -version
+
+   
+   If Java is not installed, you can install the latest version:
+
+   - For Ubuntu/Debian-based systems:
+
+     sudo apt update
+     sudo apt install openjdk-17-jdk
+
+   - For macOS:
+
+     brew install openjdk@17
+
+(-------------------------------------------------------------------------)
+
+2- Maven or Gradle (Build Tools)
+ 
+   Spring applications are typically built using Maven or Gradle.
+
+   a. Maven
+
+   - Check Maven version:
+
+     mvn -v
+
+   
+   If Maven is not installed, you can install it:
+
+   - For Ubuntu/Debian-based systems:
+
+     sudo apt install maven
+
+   - For macOS:
+
+     brew install maven
+
+   
+   b. Gradle
+
+   - Check Gradle version:
+
+     gradle -v
+
+   
+   If Gradle is not installed, you can install it:
+
+   - For Ubuntu/Debian-based systems:
+
+     sudo apt install gradle
+
+   - For macOS:
+
+     brew install gradle
+
+
+(------------------------------------------------------------------------)
+
+
+3- Spring Boot CLI
+
+   Spring Boot CLI allows you to run Spring applications from the command line. It's optional but useful for quick prototyping.
+
+   - Check Spring Boot version:
+
+     spring --version
+
+   
+   If the Spring Boot CLI is not installed, you can install it via SDKMAN:
+
+   - Install Spring Boot CLI:
+
+     sdk install springboot
+
+(-------------------------------------------------------------------------)
+
+4- Database (MySQL, PostgreSQL, or H2)
+
+   Spring Boot can use various databases. Below are commands to check for common databases.
+
+   a. PostgreSQL
+
+   - Check PostgreSQL version:
+
+     psql --version
+
+   
+   If PostgreSQL is not installed, you can install it:
+
+   - For Ubuntu/Debian-based systems:
+
+     sudo apt install postgresql postgresql-contrib
+
+   - For macOS:
+
+     brew install postgresql
+
+  
+   b. MySQL
+
+   - Check MySQL version:
+
+     mysql --version
+
+   
+   If MySQL is not installed, you can install it:
+
+   - For Ubuntu/Debian-based systems:
+
+     sudo apt install mysql-server
+
+   - For macOS:
+
+     brew install mysql
+
+  
+   c. H2 (In-memory database)
+
+   H2 is often used for development and testing as an in-memory database.
+
+   - Check if H2 is installed (as part of a Spring Boot project): H2 is generally used via dependencies in Spring Boot projects, so no system-wide installation is necessary. You can verify this by checking the pom.xml or build.gradle file for the dependency:
+
+     <dependency>
+       <groupId>com.h2database</groupId>
+       <artifactId>h2</artifactId>
+     </dependency>
+
+(-------------------------------------------------------------------------)
+
+5- Node.js and npm/yarn (For Frontend Integration)
+
+   If you are using Spring Boot for building full-stack applications with a frontend in JavaScript, you will likely need Node.js and a package manager like npm or yarn.
+
+   - Check Node.js version:
+
+     node --version
+
+   - Check npm version:
+
+     npm --version
+
+   
+   If Node.js is not installed, you can install it:
+
+   - For Ubuntu/Debian-based systems:
+
+     sudo apt install nodejs npm
+
+   - For macOS:
+
+     brew install node
+
+(-------------------------------------------------------------------------)
+
+Summary of Prerequisite Commands for the Spring Stack
+
+  java -version                    # Check Java version
+  mvn -v                           # Check Maven version
+  gradle -v                        # Check Gradle version
+  spring --version                 # Check Spring Boot CLI version
+  psql --version                   # Check PostgreSQL version
+  mysql --version                  # Check MySQL version
+  git --version                    # Check Git version
+  node --version                   # Check Node.js version
+  npm --version                    # Check npm version
+  docker --version                 # Check Docker version
+
