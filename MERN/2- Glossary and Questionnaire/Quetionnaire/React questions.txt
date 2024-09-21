@@ -70,3 +70,9 @@ Ans- Keys uniquely identify elements in a list, helping React efficiently update
 
 (--------------------------------------------------------------------------)
 
+13- How do you handle conditional rendering inside JSX?
+
+Ans- Conditional rendering is handled using ternary operators or logical && within JSX.
+
+(--------------------------------------------------------------------------)
+
