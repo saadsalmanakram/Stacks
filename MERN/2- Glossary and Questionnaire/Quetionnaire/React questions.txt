@@ -40,3 +40,9 @@ Ans- JSX is stricter than HTML; all tags must be closed, and components must be 
 
 (--------------------------------------------------------------------------)
 
+8- How do you apply CSS styles in React?
+
+Ans- You use className to apply CSS classes and inline styles via an object in the style attribute.
+
+(--------------------------------------------------------------------------)
+
