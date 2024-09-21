@@ -166,3 +166,9 @@ Ans- Each component maintains its own state, so changes in one do not affect the
 
 (--------------------------------------------------------------------------)
 
+30- What is a React Hook?
+
+Ans- A Hook is a special function in React (like useState) that lets you add state and other features to functional components.
+
+(--------------------------------------------------------------------------)
+
