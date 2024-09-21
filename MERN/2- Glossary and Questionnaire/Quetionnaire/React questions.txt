@@ -58,3 +58,9 @@ Ans- You can use JavaScript conditional statements like if, the ternary ? operat
 
 (--------------------------------------------------------------------------)
 
+11- How do you render a list of components in React?
+
+Ans- By using the map() function to transform an array into an array of React elements.
+
+(--------------------------------------------------------------------------)
+
