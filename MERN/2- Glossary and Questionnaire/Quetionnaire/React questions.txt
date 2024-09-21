@@ -94,3 +94,9 @@ Ans- Yes, but they must be wrapped inside a parent element like a <div> or React
 
 (--------------------------------------------------------------------------)
 
+17- How do you apply inline styles in React components?
+
+Ans- Inline styles are applied using the style attribute, where the value is a JavaScript object.
+
+(-------------------------------------------------------------------------)
+
