@@ -232,3 +232,9 @@ Ans- Curly braces allow you to embed JavaScript expressions within JSX.
 
 (--------------------------------------------------------------------------)
 
+41- What does the useState hook do?
+
+Ans- It allows a functional component to manage its own state.
+
+(--------------------------------------------------------------------------)
+
