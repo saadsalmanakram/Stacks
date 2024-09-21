@@ -393,3 +393,10 @@ Ans- Keys help React identify which items have changed, been added, or removed f
 Ans- React will use the array index as a key by default, which can lead to issues with item reordering or insertion.
 
 (--------------------------------------------------------------------------)
+
+68- Can you use the array index as a key in React?
+
+Ans- It's possible but not recommended, especially when the list may change due to reordering, insertion, or deletion.
+
+(--------------------------------------------------------------------------)
+
