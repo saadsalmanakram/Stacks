@@ -400,3 +400,8 @@ Ans- It's possible but not recommended, especially when the list may change due 
 
 (--------------------------------------------------------------------------)
 
+69- Why is using unique IDs from a database as keys better than using array indexes?
+
+Ans- Unique IDs ensure the correct identification of elements across renders, avoiding issues when the order or content of the list changes.
+
+(--------------------------------------------------------------------------)
