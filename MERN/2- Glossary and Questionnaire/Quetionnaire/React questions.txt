@@ -64,3 +64,9 @@ Ans- By using the map() function to transform an array into an array of React el
 
 (--------------------------------------------------------------------------)
 
+12- What is the purpose of the key attribute in list rendering?
+
+Ans- Keys uniquely identify elements in a list, helping React efficiently update the UI.
+
+(--------------------------------------------------------------------------)
+
