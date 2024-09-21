@@ -340,3 +340,9 @@ Ans- Immutability means not modifying existing data but returning new copies, si
 
 (--------------------------------------------------------------------------)
 
+59- How does immutability benefit component re-renders?
+
+Ans- It allows React to efficiently compare old and new states to decide if a re-render is necessary.
+
+(--------------------------------------------------------------------------)
+
