@@ -130,3 +130,9 @@ Ans- React will issue a warning, and performance might degrade as React struggle
 
 (-------------------------------------------------------------------------)
 
+24- How does React handle events like button clicks?
+
+Ans- React uses event handlers (like onClick) to trigger functions that respond to user actions.
+
+(-------------------------------------------------------------------------)
+
