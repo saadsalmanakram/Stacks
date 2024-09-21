@@ -322,3 +322,9 @@ Ans- It ensures that the UI reflects the current state accurately, maintaining c
 
 (--------------------------------------------------------------------------)
 
+56- What are potential pitfalls of managing state in deeply nested child components?
+
+Ans- It can lead to "prop drilling," where props need to be passed through many layers, complicating maintenance and readability.
+
+(--------------------------------------------------------------------------)
+
