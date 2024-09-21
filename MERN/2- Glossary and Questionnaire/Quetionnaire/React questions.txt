@@ -388,3 +388,8 @@ Ans- Keys help React identify which items have changed, been added, or removed f
 
 (--------------------------------------------------------------------------)
 
+67- What happens if you don’t assign a key to a list item in React?
+
+Ans- React will use the array index as a key by default, which can lead to issues with item reordering or insertion.
+
+(--------------------------------------------------------------------------)
