@@ -280,3 +280,9 @@ Ans- The setState function returned by the useState hook is used to update the s
 
 (--------------------------------------------------------------------------)
 
+49- How do you pass data from a parent component to a child component?
+
+Ans- By using props, which allow you to pass values and functions from the parent to the child.
+
+(--------------------------------------------------------------------------)
+
