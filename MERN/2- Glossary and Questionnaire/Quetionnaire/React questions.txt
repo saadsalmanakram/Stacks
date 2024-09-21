@@ -304,3 +304,9 @@ Ans- Use an arrow function in the JSX to create a new function that captures the
 
 (--------------------------------------------------------------------------)
 
+53- When would you choose to keep state in a child component instead of lifting it up?
+
+Ans- When the state is specific to the child and doesn't need to be shared with other components, keeping it local is simpler.
+
+(--------------------------------------------------------------------------)
+
