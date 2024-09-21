@@ -370,3 +370,9 @@ Ans- slice() creates a new copy of the game state, preserving the previous state
 
 (--------------------------------------------------------------------------)
 
+64- How do you lift state up in React, and why is it needed for time travel?
+
+Ans- State is lifted up by moving it to a common parent component, which allows managing shared state across multiple child components.
+
+(--------------------------------------------------------------------------)
+
