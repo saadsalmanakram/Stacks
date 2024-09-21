@@ -412,3 +412,9 @@ Ans- React reuses the component for that key rather than creating a new one.
 
 (--------------------------------------------------------------------------)
 
+71- Do keys need to be globally unique across the entire application?
+
+Ans- No, keys only need to be unique among siblings in a list.
+
+(--------------------------------------------------------------------------)
+
