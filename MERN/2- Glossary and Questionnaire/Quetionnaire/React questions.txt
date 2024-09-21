@@ -310,3 +310,9 @@ Ans- When the state is specific to the child and doesn't need to be shared with 
 
 (--------------------------------------------------------------------------)
 
+54- What is the purpose of using slice() when updating an array in state?
+
+Ans- It creates a shallow copy of the array to avoid direct mutation, ensuring that React detects changes and triggers a re-render.
+
+(--------------------------------------------------------------------------)
+
