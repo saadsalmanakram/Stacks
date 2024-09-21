@@ -16,3 +16,9 @@ Ans- JSX is a syntax extension of JavaScript that allows writing HTML-like code 
 
 (--------------------------------------------------------------------------)
 
+4- Why must React component names start with a capital letter?
+
+Ans- React components are distinguished from HTML elements by their capitalized names.
+
+(--------------------------------------------------------------------------)
+
