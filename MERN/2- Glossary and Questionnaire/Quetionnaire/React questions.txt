@@ -148,3 +148,9 @@ Ans- useState is a Hook that allows you to add state to functional components an
 
 (--------------------------------------------------------------------------)
 
+27- What do you get from the useState hook?
+
+Ans- useState provides a state variable and a function to update that state.
+
+(--------------------------------------------------------------------------)
+
