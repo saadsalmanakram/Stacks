@@ -160,3 +160,9 @@ Ans- When state changes using the setter function (e.g., setCount), React re-ren
 
 (--------------------------------------------------------------------------)
 
+29- What happens when multiple components use useState independently?
+
+Ans- Each component maintains its own state, so changes in one do not affect the others.
+
+(--------------------------------------------------------------------------)
+
