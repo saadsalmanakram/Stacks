@@ -22,3 +22,8 @@ Ans- React components are distinguished from HTML elements by their capitalized 
 
 (--------------------------------------------------------------------------)
 
+5- How can you nest components in React?
+
+Ans- Components can be nested by calling one component inside the return statement of another.
+
+(--------------------------------------------------------------------------)
