@@ -328,3 +328,9 @@ Ans- It can lead to "prop drilling," where props need to be passed through many 
 
 (--------------------------------------------------------------------------)
 
+57- How does React decide to re-render components?
+
+Ans- React re-renders components when their props or state change, allowing dynamic updates.
+
+(--------------------------------------------------------------------------)
+
