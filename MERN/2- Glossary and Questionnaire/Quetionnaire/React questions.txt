@@ -418,3 +418,9 @@ Ans- No, keys only need to be unique among siblings in a list.
 
 (--------------------------------------------------------------------------)
 
+72- Why should redundant state be avoided in React components?
+
+Ans- Redundant state can lead to bugs and make the code harder to understand and maintain.
+
+(--------------------------------------------------------------------------)
+
