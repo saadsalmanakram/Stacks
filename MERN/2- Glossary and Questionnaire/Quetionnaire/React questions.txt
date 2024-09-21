@@ -430,3 +430,9 @@ Ans- React creates a new component for the newly added key.
 
 (--------------------------------------------------------------------------)
 
+74- What happens if a key is missing from the current list but was present in the previous render?
+
+Ans- React destroys the component associated with the missing key.
+
+(--------------------------------------------------------------------------)
+
