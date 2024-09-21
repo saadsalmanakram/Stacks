@@ -346,3 +346,9 @@ Ans- It allows React to efficiently compare old and new states to decide if a re
 
 (--------------------------------------------------------------------------)
 
+60- How can immutability help implement features like undo/redo?
+
+Ans- It ensures that previous states remain unchanged, making it easier to "travel" back in time.
+
+(--------------------------------------------------------------------------)
+
