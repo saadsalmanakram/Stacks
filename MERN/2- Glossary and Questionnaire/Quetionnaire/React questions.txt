@@ -202,3 +202,15 @@ Ans- React compares the current state with the previous state, and if changes ar
 
 (--------------------------------------------------------------------------)
 
+36- What does the onClick event do in React?
+
+Ans- The onClick event binds an event handler function to be executed when a button or other clickable element is clicked.
+
+(--------------------------------------------------------------------------)
+
+37- Why is state passed as a prop to child components?
+
+Ans- Passing state as a prop allows child components to reflect the latest data from their parent component.
+
+(--------------------------------------------------------------------------)
+
