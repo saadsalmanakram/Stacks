@@ -238,3 +238,9 @@ Ans- It allows a functional component to manage its own state.
 
 (--------------------------------------------------------------------------)
 
+42- How can you inspect React component props and state?
+
+Ans- You can use React Developer Tools in the browser to inspect component props and state.
+
+(--------------------------------------------------------------------------)
+
