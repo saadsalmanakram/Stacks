@@ -226,3 +226,9 @@ Ans- You use the syntax <ComponentName propName={value} /> to pass props.
 
 (--------------------------------------------------------------------------)
 
+40- What is the purpose of curly braces in JSX?
+
+Ans- Curly braces allow you to embed JavaScript expressions within JSX.
+
+(--------------------------------------------------------------------------)
+
