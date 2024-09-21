@@ -244,3 +244,9 @@ Ans- You can use React Developer Tools in the browser to inspect component props
 
 (--------------------------------------------------------------------------)
 
+43- What will happen if you forget to add curly braces around a variable in JSX?
+
+Ans- It will render the variable name as a string rather than its value.
+
+(--------------------------------------------------------------------------)
+
