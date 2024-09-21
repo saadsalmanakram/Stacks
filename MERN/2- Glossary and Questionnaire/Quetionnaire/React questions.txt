@@ -128,17 +128,23 @@ Ans- Unique key values allow React to differentiate between items, preventing un
 
 Ans- React will issue a warning, and performance might degrade as React struggles to optimize list rendering.
 
-(-------------------------------------------------------------------------)
+(--------------------------------------------------------------------------)
 
 24- How does React handle events like button clicks?
 
 Ans- React uses event handlers (like onClick) to trigger functions that respond to user actions.
 
-(-------------------------------------------------------------------------)
+(--------------------------------------------------------------------------)
 
 25- Why don't we use parentheses when passing event handlers in JSX?
 
 Ans- Event handlers are passed as references (e.g., onClick={handleClick}) so they aren't invoked immediately but are called when the event occurs.
 
-(-------------------------------------------------------------------------)
+(--------------------------------------------------------------------------)
+
+26- What is the role of useState in React?
+
+Ans- useState is a Hook that allows you to add state to functional components and manage updates.
+
+(--------------------------------------------------------------------------)
 
