@@ -424,3 +424,9 @@ Ans- Redundant state can lead to bugs and make the code harder to understand and
 
 (--------------------------------------------------------------------------)
 
+73- What happens when React finds a key in the current list that wasn’t present in the previous render?
+
+Ans- React creates a new component for the newly added key.
+
+(--------------------------------------------------------------------------)
+
