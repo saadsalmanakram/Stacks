@@ -46,3 +46,15 @@ Ans- You use className to apply CSS classes and inline styles via an object in t
 
 (--------------------------------------------------------------------------)
 
+9- How do you display data in JSX?
+
+Ans- You use curly braces {} to embed JavaScript expressions inside JSX.
+
+(--------------------------------------------------------------------------)
+
+10- How do you conditionally render components in React?
+
+Ans- You can use JavaScript conditional statements like if, the ternary ? operator, or logical &&.
+
+(--------------------------------------------------------------------------)
+
