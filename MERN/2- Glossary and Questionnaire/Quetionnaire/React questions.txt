@@ -214,3 +214,9 @@ Ans- Passing state as a prop allows child components to reflect the latest data 
 
 (--------------------------------------------------------------------------)
 
+38- How can multiple components share the same state?
+
+Ans- By lifting state to their closest common parent and passing it down as props, components can share and synchronize state.
+
+(--------------------------------------------------------------------------)
+
