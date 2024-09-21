@@ -196,3 +196,9 @@ Ans- State and event handlers are passed to child components as props (e.g., cou
 
 (--------------------------------------------------------------------------)
 
+35- How does React re-render components when the state changes?
+
+Ans- React compares the current state with the previous state, and if changes are detected, it triggers a re-render to reflect the updates.
+
+(--------------------------------------------------------------------------)
+
