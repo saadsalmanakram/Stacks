@@ -190,3 +190,9 @@ Ans- Props are arguments passed from parent to child components, allowing for dy
 
 (--------------------------------------------------------------------------)
 
+34- How do you pass state and event handlers to child components?
+
+Ans- State and event handlers are passed to child components as props (e.g., count={count}, onClick={handleClick}).
+
+(--------------------------------------------------------------------------)
+
