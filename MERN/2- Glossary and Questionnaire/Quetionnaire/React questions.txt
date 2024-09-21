@@ -118,3 +118,9 @@ Ans- The key attribute helps React uniquely identify list items, improving the r
 
 (-------------------------------------------------------------------------)
 
+22- Why should key values be unique for each list item?
+
+Ans- Unique key values allow React to differentiate between items, preventing unnecessary re-rendering of the entire list.
+
+(-------------------------------------------------------------------------)
+
