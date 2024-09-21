@@ -76,3 +76,9 @@ Ans- Conditional rendering is handled using ternary operators or logical && with
 
 (--------------------------------------------------------------------------)
 
+14- What is the significance of curly braces in JSX?
+
+Ans- Curly braces allow JavaScript expressions to be inserted into JSX markup.
+
+(--------------------------------------------------------------------------)
+
