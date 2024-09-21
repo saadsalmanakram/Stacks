@@ -256,3 +256,9 @@ Ans- By passing a function to the onClick prop of the button.
 
 (--------------------------------------------------------------------------)
 
+45- What does "lifting state up" mean in React?
+
+Ans- It refers to moving the state from child components to a common parent component to manage shared state effectively.
+
+(--------------------------------------------------------------------------)
+
