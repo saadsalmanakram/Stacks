@@ -358,3 +358,9 @@ Ans- It's the ability to go back to previous states of a game or app by storing 
 
 (--------------------------------------------------------------------------)
 
+62- Why is immutability important when implementing time travel?
+
+Ans- Immutability allows us to easily store and revert to previous states without modifying them directly.
+
+(--------------------------------------------------------------------------)
+
