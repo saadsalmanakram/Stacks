@@ -316,3 +316,9 @@ Ans- It creates a shallow copy of the array to avoid direct mutation, ensuring t
 
 (--------------------------------------------------------------------------)
 
+55- Why is it important to keep components in sync with their parent?
+
+Ans- It ensures that the UI reflects the current state accurately, maintaining consistency across the application.
+
+(--------------------------------------------------------------------------)
+
