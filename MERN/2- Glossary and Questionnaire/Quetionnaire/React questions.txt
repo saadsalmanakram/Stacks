@@ -10,3 +10,9 @@ Ans- A React component is declared as a function that returns JSX markup.
 
 (--------------------------------------------------------------------------)
 
+3- What is JSX in React?
+
+Ans- JSX is a syntax extension of JavaScript that allows writing HTML-like code in React components.
+
+(--------------------------------------------------------------------------)
+
