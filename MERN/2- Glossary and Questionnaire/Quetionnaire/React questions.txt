@@ -154,3 +154,9 @@ Ans- useState provides a state variable and a function to update that state.
 
 (--------------------------------------------------------------------------)
 
+28- How does React update the screen when state changes?
+
+Ans- When state changes using the setter function (e.g., setCount), React re-renders the component with the updated state.
+
+(--------------------------------------------------------------------------)
+
