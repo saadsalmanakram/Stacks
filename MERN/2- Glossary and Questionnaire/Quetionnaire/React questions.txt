@@ -106,3 +106,15 @@ Ans- You use curly braces to pass JavaScript expressions, e.g., src={user.imageU
 
 (-------------------------------------------------------------------------)
 
+19- How can you apply conditional inline styles in React?
+
+Ans- By using curly braces to evaluate expressions, e.g., style={{ color: isActive ? 'green' : 'red' }}.
+
+(-------------------------------------------------------------------------)
+
+21- What is the significance of the key attribute in React lists?
+
+Ans- The key attribute helps React uniquely identify list items, improving the rendering process by tracking changes (insertion, deletion, reordering).
+
+(-------------------------------------------------------------------------)
+
