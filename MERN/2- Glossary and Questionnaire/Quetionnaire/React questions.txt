@@ -262,3 +262,9 @@ Ans- It refers to moving the state from child components to a common parent comp
 
 (--------------------------------------------------------------------------)
 
+46- Why is lifting state up beneficial in a React application?
+
+Ans- It ensures that components share and synchronize data, reducing complexity and preventing bugs in state management.
+
+(--------------------------------------------------------------------------)
+
