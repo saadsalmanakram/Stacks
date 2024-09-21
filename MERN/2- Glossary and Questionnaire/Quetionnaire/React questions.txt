@@ -136,3 +136,9 @@ Ans- React uses event handlers (like onClick) to trigger functions that respond 
 
 (-------------------------------------------------------------------------)
 
+25- Why don't we use parentheses when passing event handlers in JSX?
+
+Ans- Event handlers are passed as references (e.g., onClick={handleClick}) so they aren't invoked immediately but are called when the event occurs.
+
+(-------------------------------------------------------------------------)
+
