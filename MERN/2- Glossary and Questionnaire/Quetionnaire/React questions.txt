@@ -34,3 +34,9 @@ Ans- It specifies the main component to be exported from the file.
 
 (--------------------------------------------------------------------------)
 
+7- How does JSX differ from HTML?
+
+Ans- JSX is stricter than HTML; all tags must be closed, and components must be wrapped in a parent tag.
+
+(--------------------------------------------------------------------------)
+
