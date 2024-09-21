@@ -286,3 +286,9 @@ Ans- By using props, which allow you to pass values and functions from the paren
 
 (--------------------------------------------------------------------------)
 
+50- What is a closure, and how does it relate to state management in React?
+
+Ans- A closure allows inner functions to access variables from outer functions, enabling components to manage state effectively through event handlers.
+
+(--------------------------------------------------------------------------)
+
