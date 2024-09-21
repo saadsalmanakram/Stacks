@@ -172,3 +172,9 @@ Ans- A Hook is a special function in React (like useState) that lets you add sta
 
 (--------------------------------------------------------------------------)
 
+31- Why should Hooks like useState be called at the top of a component?
+
+Ans- Hooks must be called in the same order every time the component renders to ensure consistent state management.
+
+(--------------------------------------------------------------------------)
+
