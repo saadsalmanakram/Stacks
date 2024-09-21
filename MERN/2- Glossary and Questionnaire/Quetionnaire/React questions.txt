@@ -184,3 +184,9 @@ Ans- "Lifting state up" refers to moving shared state to a common ancestor compo
 
 (--------------------------------------------------------------------------)
 
+33- What are props in React?
+
+Ans- Props are arguments passed from parent to child components, allowing for dynamic data flow.
+
+(--------------------------------------------------------------------------)
+
