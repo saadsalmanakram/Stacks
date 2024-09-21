@@ -382,3 +382,9 @@ Ans- React requires a unique key prop for each list item to track changes effici
 
 (--------------------------------------------------------------------------)
 
+66- Why are keys used in React?
+
+Ans- Keys help React identify which items have changed, been added, or removed from lists during re-rendering.
+
+(--------------------------------------------------------------------------)
+
