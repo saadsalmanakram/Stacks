@@ -250,3 +250,9 @@ Ans- It will render the variable name as a string rather than its value.
 
 (--------------------------------------------------------------------------)
 
+44- How do you define an event handler for a button in React?
+
+Ans- By passing a function to the onClick prop of the button.
+
+(--------------------------------------------------------------------------)
+
