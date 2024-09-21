@@ -376,3 +376,9 @@ Ans- State is lifted up by moving it to a common parent component, which allows 
 
 (--------------------------------------------------------------------------)
 
+65- Why do we get a warning about missing 'key' props when rendering moves?
+
+Ans- React requires a unique key prop for each list item to track changes efficiently.
+
+(--------------------------------------------------------------------------)
+
