@@ -178,3 +178,9 @@ Ans- Hooks must be called in the same order every time the component renders to 
 
 (--------------------------------------------------------------------------)
 
+32- What is "lifting state up" in React?
+
+Ans- "Lifting state up" refers to moving shared state to a common ancestor component to manage and pass it as props to child components.
+
+(--------------------------------------------------------------------------)
+
