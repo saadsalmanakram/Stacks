@@ -274,3 +274,9 @@ Ans- It complicates data sharing between components and can lead to inconsistent
 
 (--------------------------------------------------------------------------)
 
+48- What function do you use to update state in a parent component?
+
+Ans- The setState function returned by the useState hook is used to update the state in the parent component.
+
+(--------------------------------------------------------------------------)
+
