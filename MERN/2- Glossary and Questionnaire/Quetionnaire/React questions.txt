@@ -82,3 +82,9 @@ Ans- Curly braces allow JavaScript expressions to be inserted into JSX markup.
 
 (--------------------------------------------------------------------------)
 
+15- What happens if you forget to include a key when rendering lists in React?
+
+Ans- React may not correctly identify elements when updating the list, leading to potential performance issues.
+
+(--------------------------------------------------------------------------)
+
