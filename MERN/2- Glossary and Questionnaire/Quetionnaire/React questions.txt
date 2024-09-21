@@ -27,3 +27,10 @@ Ans- React components are distinguished from HTML elements by their capitalized 
 Ans- Components can be nested by calling one component inside the return statement of another.
 
 (--------------------------------------------------------------------------)
+
+6- What is the purpose of the export default statement in React?
+
+Ans- It specifies the main component to be exported from the file.
+
+(--------------------------------------------------------------------------)
+
