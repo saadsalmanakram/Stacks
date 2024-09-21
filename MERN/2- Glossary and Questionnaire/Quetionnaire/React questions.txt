@@ -405,3 +405,10 @@ Ans- It's possible but not recommended, especially when the list may change due 
 Ans- Unique IDs ensure the correct identification of elements across renders, avoiding issues when the order or content of the list changes.
 
 (--------------------------------------------------------------------------)
+
+70- What happens if two keys in a list match between renders?
+
+Ans- React reuses the component for that key rather than creating a new one.
+
+(--------------------------------------------------------------------------)
+
