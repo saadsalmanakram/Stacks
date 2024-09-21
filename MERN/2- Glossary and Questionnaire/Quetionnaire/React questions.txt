@@ -1,0 +1,6 @@
+1- What is a React component?
+
+Ans- A React component is a JavaScript function that returns JSX to define part of the UI.
+
+(--------------------------------------------------------------------------)
+
