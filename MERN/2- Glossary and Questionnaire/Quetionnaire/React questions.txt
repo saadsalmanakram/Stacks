@@ -292,3 +292,9 @@ Ans- A closure allows inner functions to access variables from outer functions, 
 
 (--------------------------------------------------------------------------)
 
+51- What happens if you directly call a function in JSX while passing it as a prop?
+
+Ans- It executes immediately during rendering, leading to potential infinite re-renders if the function alters state.
+
+(--------------------------------------------------------------------------)
+
