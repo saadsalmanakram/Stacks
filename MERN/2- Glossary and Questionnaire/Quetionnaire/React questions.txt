@@ -334,3 +334,9 @@ Ans- React re-renders components when their props or state change, allowing dyna
 
 (--------------------------------------------------------------------------)
 
+58- What is immutability, and why is it important in React?
+
+Ans- Immutability means not modifying existing data but returning new copies, simplifying state management and improving performance.
+
+(--------------------------------------------------------------------------)
+
