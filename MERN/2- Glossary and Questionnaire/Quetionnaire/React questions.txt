@@ -88,3 +88,9 @@ Ans- React may not correctly identify elements when updating the list, leading t
 
 (--------------------------------------------------------------------------)
 
+16- Can you return multiple elements from a React component?
+
+Ans- Yes, but they must be wrapped inside a parent element like a <div> or React fragment (<>...</>).
+
+(--------------------------------------------------------------------------)
+
