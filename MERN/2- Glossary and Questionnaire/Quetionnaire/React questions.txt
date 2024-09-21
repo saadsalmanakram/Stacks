@@ -124,3 +124,9 @@ Ans- Unique key values allow React to differentiate between items, preventing un
 
 (-------------------------------------------------------------------------)
 
+23- What will happen if you don't provide a key for list items in React?
+
+Ans- React will issue a warning, and performance might degrade as React struggles to optimize list rendering.
+
+(-------------------------------------------------------------------------)
+
