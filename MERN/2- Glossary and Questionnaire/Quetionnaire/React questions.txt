@@ -268,3 +268,9 @@ Ans- It ensures that components share and synchronize data, reducing complexity 
 
 (--------------------------------------------------------------------------)
 
+47- What is the downside of each child component managing its own state?
+
+Ans- It complicates data sharing between components and can lead to inconsistent UI states.
+
+(--------------------------------------------------------------------------)
+
