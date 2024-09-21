@@ -100,3 +100,9 @@ Ans- Inline styles are applied using the style attribute, where the value is a J
 
 (-------------------------------------------------------------------------)
 
+18- How do you display dynamic attributes, such as image URLs, in React?
+
+Ans- You use curly braces to pass JavaScript expressions, e.g., src={user.imageUrl}.
+
+(-------------------------------------------------------------------------)
+
