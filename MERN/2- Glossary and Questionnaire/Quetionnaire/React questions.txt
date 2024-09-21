@@ -298,3 +298,9 @@ Ans- It executes immediately during rendering, leading to potential infinite re-
 
 (--------------------------------------------------------------------------)
 
+52- How can you avoid re-rendering issues when passing functions to child components?
+
+Ans- Use an arrow function in the JSX to create a new function that captures the correct arguments without executing immediately.
+
+(--------------------------------------------------------------------------)
+
