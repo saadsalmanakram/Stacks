@@ -436,3 +436,9 @@ Ans- React destroys the component associated with the missing key.
 
 (--------------------------------------------------------------------------)
 
+75- How does React handle component state when a key changes between renders?
+
+Ans- If a key changes, React destroys and re-creates the component, resetting its state.
+
+(--------------------------------------------------------------------------)
+
