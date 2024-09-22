@@ -484,3 +484,9 @@ Ans- By identifying the common parent component of all components that depend on
 
 (--------------------------------------------------------------------------)
 
+83- What is the purpose of the useState Hook in React?
+
+Ans- It allows components to manage and update local state.
+
+(--------------------------------------------------------------------------)
+
