@@ -693,3 +693,10 @@ Ans- Render small React components in specific parts of the page.
 Ans- A modular JavaScript environment with tools like Vite or Babel.
 
 (--------------------------------------------------------------------------)
+
+118- What tool helps you manage JavaScript module compilation in a React project?
+
+Ans- Vite is recommended for setting up JavaScript module compilation.
+
+(--------------------------------------------------------------------------)
+
