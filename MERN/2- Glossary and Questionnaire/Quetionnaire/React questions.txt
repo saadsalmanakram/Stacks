@@ -682,3 +682,14 @@ Ans- Yes, many frameworks like Next.js are full-stack, but client-side rendering
 
 (--------------------------------------------------------------------------)
 
+116- What is a common way to integrate React into existing pages?
+
+Ans- Render small React components in specific parts of the page.
+
+(--------------------------------------------------------------------------)
+
+117- What environment is needed to write modular JavaScript for React?
+
+Ans- A modular JavaScript environment with tools like Vite or Babel.
+
+(--------------------------------------------------------------------------)
