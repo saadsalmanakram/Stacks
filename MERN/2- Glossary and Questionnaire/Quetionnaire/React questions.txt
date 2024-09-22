@@ -525,3 +525,10 @@ Ans- It improves reusability and separation of concerns.
 Ans- Use state to store the input, and apply filtering logic in the component rendering the data.
 
 (--------------------------------------------------------------------------)
+
+90- How does React enforce the principle of one-way data flow?
+
+Ans- By passing data through props from parent to child components.
+
+(--------------------------------------------------------------------------)
+
