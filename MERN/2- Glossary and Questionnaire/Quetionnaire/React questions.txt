@@ -676,3 +676,9 @@ Ans- Proxy or configure the server to handle requests for the subroute.
 
 (--------------------------------------------------------------------------)
 
+115- Can React-based frameworks run on the server?
+
+Ans- Yes, many frameworks like Next.js are full-stack, but client-side rendering is also an option.
+
+(--------------------------------------------------------------------------)
+
