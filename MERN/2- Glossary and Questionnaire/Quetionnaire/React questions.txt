@@ -472,3 +472,9 @@ Ans- State is local and mutable within a component, while props are passed from 
 
 (--------------------------------------------------------------------------)
 
+81- When should you use state in React?
+
+Ans- When data changes over time and cannot be computed from props or static values.
+
+(--------------------------------------------------------------------------)
+
