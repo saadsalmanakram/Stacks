@@ -538,3 +538,9 @@ Ans- By adding state to handle dynamic data and user interactions.
 
 (--------------------------------------------------------------------------)
 
+92- How can you start a new React project?
+
+Ans- By using a React-powered framework or running npx create-react-app.
+
+(--------------------------------------------------------------------------)
+
