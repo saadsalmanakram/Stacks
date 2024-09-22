@@ -454,3 +454,9 @@ Ans- Use the single responsibility principle, ensuring each component has a sing
 
 (--------------------------------------------------------------------------)
 
+78- What does a static version of an app mean in React?
+
+Ans- A version that renders the UI without interactivity, using only props and no state.
+
+(--------------------------------------------------------------------------)
+
