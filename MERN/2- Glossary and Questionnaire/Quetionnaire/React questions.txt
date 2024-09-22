@@ -658,4 +658,9 @@ Ans- To help users build better apps by streamlining routing, bundling, and serv
 
 (--------------------------------------------------------------------------)
 
+112- Do you need to install Node.js for adding React to a project?
+
+Ans- Yes, Node.js is necessary for development and JavaScript tooling.
+
+(--------------------------------------------------------------------------)
 
