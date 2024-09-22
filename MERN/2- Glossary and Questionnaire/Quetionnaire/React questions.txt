@@ -633,3 +633,10 @@ Ans- Expo (the company) maintains Expo.
 Ans- These are frameworks integrating bleeding-edge React features, like React Server Components, to help build better apps.
 
 (--------------------------------------------------------------------------)
+
+108- What is the Next.js App Router?
+
+Ans- The App Router in Next.js is a redesign aimed at fulfilling React’s full-stack architecture vision with asynchronous server components.
+
+(--------------------------------------------------------------------------)
+
