@@ -586,3 +586,9 @@ Ans- By running the command npx create-remix in the terminal.
 
 (--------------------------------------------------------------------------)
 
+100- Which company maintains Remix?
+
+Ans- Shopify maintains Remix.
+
+(--------------------------------------------------------------------------)
+
