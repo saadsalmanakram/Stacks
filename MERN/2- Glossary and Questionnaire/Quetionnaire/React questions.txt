@@ -574,3 +574,9 @@ Ans- Vercel maintains Next.js.
 
 (--------------------------------------------------------------------------)
 
+98- What is Remix in the React framework world?
+
+Ans- Remix is a full-stack React framework with nested routing for parallel data loading and refreshing.
+
+(--------------------------------------------------------------------------)
+
