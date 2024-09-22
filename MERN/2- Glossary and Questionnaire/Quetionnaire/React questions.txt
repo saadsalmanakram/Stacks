@@ -580,3 +580,9 @@ Ans- Remix is a full-stack React framework with nested routing for parallel data
 
 (--------------------------------------------------------------------------)
 
+99- How do you create a new Remix project?
+
+Ans- By running the command npx create-remix in the terminal.
+
+(--------------------------------------------------------------------------)
+
