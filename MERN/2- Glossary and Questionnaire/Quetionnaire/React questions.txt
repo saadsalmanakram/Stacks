@@ -520,3 +520,8 @@ Ans- It improves reusability and separation of concerns.
 
 (--------------------------------------------------------------------------)
 
+89- How do you filter data in a React component based on user input?
+
+Ans- Use state to store the input, and apply filtering logic in the component rendering the data.
+
+(--------------------------------------------------------------------------)
