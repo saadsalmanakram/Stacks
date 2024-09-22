@@ -460,3 +460,15 @@ Ans- A version that renders the UI without interactivity, using only props and n
 
 (--------------------------------------------------------------------------)
 
+79- What is one-way data flow in React?
+
+Ans- Data flows from parent components to child components through props.
+
+(--------------------------------------------------------------------------)
+
+80- What is state in React, and how is it different from props?
+
+Ans- State is local and mutable within a component, while props are passed from parent to child and immutable.
+
+(--------------------------------------------------------------------------)
+
