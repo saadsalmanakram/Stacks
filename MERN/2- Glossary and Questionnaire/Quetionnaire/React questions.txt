@@ -652,4 +652,10 @@ Ans- They provide full-stack support, helping scale and deploy apps efficiently.
 
 (--------------------------------------------------------------------------)
 
+111- What’s the goal of integrating React more closely with frameworks like Next.js?
+
+Ans- To help users build better apps by streamlining routing, bundling, and server technologies.
+
+(--------------------------------------------------------------------------)
+
 
