@@ -592,3 +592,9 @@ Ans- Shopify maintains Remix.
 
 (--------------------------------------------------------------------------)
 
+101- What is Gatsby used for?
+
+Ans- Gatsby is a React framework focused on building fast, CMS-backed websites with a plugin ecosystem and GraphQL support.
+
+(--------------------------------------------------------------------------)
+
