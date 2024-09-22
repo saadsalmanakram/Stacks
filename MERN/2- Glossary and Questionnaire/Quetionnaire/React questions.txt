@@ -514,3 +514,9 @@ Ans- Props are used to pass data from parent to child components without involvi
 
 (--------------------------------------------------------------------------)
 
+88- What is the key benefit of breaking your UI into components in React?
+
+Ans- It improves reusability and separation of concerns.
+
+(--------------------------------------------------------------------------)
+
