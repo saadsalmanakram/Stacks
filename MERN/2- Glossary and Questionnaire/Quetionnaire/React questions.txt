@@ -550,3 +550,9 @@ Ans- Yes, but frameworks solve common problems like code-splitting, routing, and
 
 (--------------------------------------------------------------------------)
 
+94- Why is it recommended to use a framework with React?
+
+Ans- Frameworks help avoid building solutions for common UI problems from scratch.
+
+(--------------------------------------------------------------------------)
+
