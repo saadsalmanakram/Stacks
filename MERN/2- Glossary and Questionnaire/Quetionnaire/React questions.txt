@@ -478,3 +478,9 @@ Ans- When data changes over time and cannot be computed from props or static val
 
 (--------------------------------------------------------------------------)
 
+82- How do you identify where state should live in React?
+
+Ans- By identifying the common parent component of all components that depend on that state.
+
+(--------------------------------------------------------------------------)
+
