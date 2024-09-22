@@ -508,3 +508,9 @@ Ans- Data that can be computed or remains unchanged over time.
 
 (--------------------------------------------------------------------------)
 
+87- What is the role of props in building a static version of a React app?
+
+Ans- Props are used to pass data from parent to child components without involving state.
+
+(--------------------------------------------------------------------------)
+
