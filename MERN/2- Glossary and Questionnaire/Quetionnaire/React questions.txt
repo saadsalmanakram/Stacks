@@ -646,3 +646,10 @@ Ans- Vercel maintains the Next.js App Router.
 
 (--------------------------------------------------------------------------)
 
+110- What is the primary benefit of using a framework like Next.js or Remix for production apps?
+
+Ans- They provide full-stack support, helping scale and deploy apps efficiently.
+
+(--------------------------------------------------------------------------)
+
+
