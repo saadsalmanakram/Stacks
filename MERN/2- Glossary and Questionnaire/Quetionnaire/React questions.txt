@@ -532,3 +532,9 @@ Ans- By passing data through props from parent to child components.
 
 (--------------------------------------------------------------------------)
 
+91- How do you make a component interactive in React?
+
+Ans- By adding state to handle dynamic data and user interactions.
+
+(--------------------------------------------------------------------------)
+
