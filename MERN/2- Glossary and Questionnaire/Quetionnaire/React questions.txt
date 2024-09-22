@@ -598,3 +598,9 @@ Ans- Gatsby is a React framework focused on building fast, CMS-backed websites w
 
 (--------------------------------------------------------------------------)
 
+102- How do you create a new Gatsby project?
+
+Ans- By running the command 'npx create-gatsby' in the terminal.
+
+(--------------------------------------------------------------------------)
+
