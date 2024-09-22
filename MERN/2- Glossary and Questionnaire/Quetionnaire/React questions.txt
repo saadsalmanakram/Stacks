@@ -664,3 +664,9 @@ Ans- Yes, Node.js is necessary for development and JavaScript tooling.
 
 (--------------------------------------------------------------------------)
 
+113- How do you set up React for an entire subroute of an existing site?
+
+Ans- Use a React framework like Next.js or Gatsby and configure the base path.
+
+(--------------------------------------------------------------------------)
+
