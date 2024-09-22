@@ -622,3 +622,9 @@ Ans- By running the command npx create-expo-app in the terminal.
 
 (--------------------------------------------------------------------------)
 
+106- Which company maintains Expo?
+
+Ans- Expo (the company) maintains Expo.
+
+(--------------------------------------------------------------------------)
+
