@@ -567,3 +567,10 @@ Ans- Next.js is a full-stack React framework for building apps of any size, from
 Ans- By running the command 'npx create-next-app@latest' in the terminal.
 
 (--------------------------------------------------------------------------)
+
+97- Which company maintains Next.js?
+
+Ans- Vercel maintains Next.js.
+
+(--------------------------------------------------------------------------)
+
