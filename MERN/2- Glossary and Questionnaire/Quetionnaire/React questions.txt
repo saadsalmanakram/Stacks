@@ -556,3 +556,9 @@ Ans- Frameworks help avoid building solutions for common UI problems from scratc
 
 (--------------------------------------------------------------------------)
 
+95- What is Next.js in the React ecosystem?
+
+Ans- Next.js is a full-stack React framework for building apps of any size, from static sites to dynamic applications.
+
+(--------------------------------------------------------------------------)
+
