@@ -442,3 +442,9 @@ Ans- If a key changes, React destroys and re-creates the component, resetting it
 
 (--------------------------------------------------------------------------)
 
+76- What is the first step in building a UI in React?
+
+Ans- Break the UI into a component hierarchy.
+
+(--------------------------------------------------------------------------)
+
