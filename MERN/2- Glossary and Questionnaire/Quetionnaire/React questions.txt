@@ -490,3 +490,9 @@ Ans- It allows components to manage and update local state.
 
 (--------------------------------------------------------------------------)
 
+84- How do you pass state values down to child components in React?
+
+Ans- By passing them as props to child components.
+
+(--------------------------------------------------------------------------)
+
