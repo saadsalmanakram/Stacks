@@ -604,3 +604,9 @@ Ans- By running the command 'npx create-gatsby' in the terminal.
 
 (--------------------------------------------------------------------------)
 
+103- Which company maintains Gatsby?
+
+Ans- Netlify maintains Gatsby.
+
+(--------------------------------------------------------------------------)
+
