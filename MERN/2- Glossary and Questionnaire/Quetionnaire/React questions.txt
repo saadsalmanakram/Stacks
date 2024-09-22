@@ -610,3 +610,9 @@ Ans- Netlify maintains Gatsby.
 
 (--------------------------------------------------------------------------)
 
+104- What is Expo used for in the React ecosystem?
+
+Ans- Expo is used for building universal Android, iOS, and web apps with native UIs, using React Native.
+
+(--------------------------------------------------------------------------)
+
