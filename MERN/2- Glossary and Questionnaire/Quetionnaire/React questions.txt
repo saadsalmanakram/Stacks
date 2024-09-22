@@ -616,3 +616,9 @@ Ans- Expo is used for building universal Android, iOS, and web apps with native 
 
 (--------------------------------------------------------------------------)
 
+105- How do you create a new Expo project?
+
+Ans- By running the command npx create-expo-app in the terminal.
+
+(--------------------------------------------------------------------------)
+
