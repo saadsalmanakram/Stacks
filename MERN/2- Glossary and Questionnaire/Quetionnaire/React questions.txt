@@ -628,3 +628,8 @@ Ans- Expo (the company) maintains Expo.
 
 (--------------------------------------------------------------------------)
 
+107- What are bleeding-edge React frameworks?
+
+Ans- These are frameworks integrating bleeding-edge React features, like React Server Components, to help build better apps.
+
+(--------------------------------------------------------------------------)
