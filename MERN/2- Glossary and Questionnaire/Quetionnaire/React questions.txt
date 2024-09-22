@@ -502,3 +502,9 @@ Ans- To avoid redundancy and keep the state DRY (Don't Repeat Yourself).
 
 (--------------------------------------------------------------------------)
 
+86- What kind of data should not be stored in state?
+
+Ans- Data that can be computed or remains unchanged over time.
+
+(--------------------------------------------------------------------------)
+
