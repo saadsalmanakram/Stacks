@@ -496,3 +496,9 @@ Ans- By passing them as props to child components.
 
 (--------------------------------------------------------------------------)
 
+85- Why is it important to keep your state minimal in React?
+
+Ans- To avoid redundancy and keep the state DRY (Don't Repeat Yourself).
+
+(--------------------------------------------------------------------------)
+
