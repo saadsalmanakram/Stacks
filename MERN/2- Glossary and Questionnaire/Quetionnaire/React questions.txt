@@ -448,3 +448,9 @@ Ans- Break the UI into a component hierarchy.
 
 (--------------------------------------------------------------------------)
 
+77- How do you decide what should be a component in React?
+
+Ans- Use the single responsibility principle, ensuring each component has a single function.
+
+(--------------------------------------------------------------------------)
+
