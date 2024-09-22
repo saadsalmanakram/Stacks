@@ -562,3 +562,8 @@ Ans- Next.js is a full-stack React framework for building apps of any size, from
 
 (--------------------------------------------------------------------------)
 
+96- How can you create a new Next.js project?
+
+Ans- By running the command 'npx create-next-app@latest' in the terminal.
+
+(--------------------------------------------------------------------------)
