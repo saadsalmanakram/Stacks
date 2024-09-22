@@ -640,3 +640,9 @@ Ans- The App Router in Next.js is a redesign aimed at fulfilling React’s full-
 
 (--------------------------------------------------------------------------)
 
+109- What company maintains the Next.js App Router?
+
+Ans- Vercel maintains the Next.js App Router.
+
+(--------------------------------------------------------------------------)
+
