@@ -670,3 +670,9 @@ Ans- Use a React framework like Next.js or Gatsby and configure the base path.
 
 (--------------------------------------------------------------------------)
 
+114- What is required to serve a React app on a specific subroute?
+
+Ans- Proxy or configure the server to handle requests for the subroute.
+
+(--------------------------------------------------------------------------)
+
