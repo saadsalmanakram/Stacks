@@ -2892,3 +2892,9 @@ Ans- Deeply nested state is cumbersome to update and can lead to performance iss
 
 (---------------------------------------------------------------------------)
 
+482- Why is it important to group related state?
+
+Ans- Grouping related state makes updates simpler and reduces the risk of bugs.
+
+(---------------------------------------------------------------------------)
+
