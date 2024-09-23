@@ -1434,3 +1434,9 @@ Ans- You can set a default value by assigning a value during destructuring, e.g.
 
 (--------------------------------------------------------------------------)
 
+240- What is the purpose of destructuring props in React?
+
+Ans- Destructuring makes it easier to access individual props without needing to reference the props object multiple times.
+
+(--------------------------------------------------------------------------)
+
