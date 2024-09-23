@@ -1980,3 +1980,8 @@ Ans- Libraries like Immer can simplify state updates by allowing you to write mu
 
 (--------------------------------------------------------------------------)
 
+331- Why is it important to understand the render and commit phases?
+
+Ans- Understanding these phases helps diagnose performance issues and improves the efficiency of UI updates.
+
+(--------------------------------------------------------------------------)
