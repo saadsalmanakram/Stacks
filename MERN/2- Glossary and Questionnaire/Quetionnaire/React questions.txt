@@ -888,4 +888,10 @@ Ans- Memoization in React prevents unnecessary re-computation of unchanged compo
 
 (--------------------------------------------------------------------------)
 
+149- What is required to use the React Compiler?
+
+Ans- React Compiler requires React 19 RC or later, or a userspace implementation of the cache function if you can’t upgrade.
+
+(--------------------------------------------------------------------------)
+
 
