@@ -2904,3 +2904,9 @@ Ans- Flatten the state structure whenever possible to simplify updates and acces
 
 (---------------------------------------------------------------------------)
 
+484- What should you do if a state variable is calculated from others?
+
+Ans- Avoid storing it in state and calculate it during render for efficiency.
+
+(---------------------------------------------------------------------------)
+
