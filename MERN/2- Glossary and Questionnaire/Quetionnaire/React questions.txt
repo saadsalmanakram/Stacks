@@ -1548,5 +1548,10 @@ Ans- You can include or exclude components by conditionally rendering them with 
 
 (--------------------------------------------------------------------------)
 
+259- What is the downside of returning null from a React component?
+
+Ans- It can be unexpected for developers, and conditionally including or excluding the component in the parent JSX is often preferred.
+
+(--------------------------------------------------------------------------)
 
 
