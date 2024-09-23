@@ -76,3 +76,9 @@ Ans- useMemo caches expensive calculations to avoid recomputation on every rende
 
 (------------------------------------------------------------------------)
 
+14- What is the function of useCallback?
+
+Ans- useCallback caches function definitions to prevent unnecessary re-renders of child components.
+
+(------------------------------------------------------------------------)
+
