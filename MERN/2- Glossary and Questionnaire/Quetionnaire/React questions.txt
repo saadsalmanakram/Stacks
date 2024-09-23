@@ -3090,3 +3090,9 @@ Ans- Nesting can lead to unintended resets of state because the component’s st
 
 (-------------------------------------------------------------------------)
 
+515- How does React's reconciliation process relate to state preservation?
+
+Ans- During reconciliation, React compares previous and current trees to decide whether to preserve or reset state based on component identity.
+
+(-------------------------------------------------------------------------)
+
