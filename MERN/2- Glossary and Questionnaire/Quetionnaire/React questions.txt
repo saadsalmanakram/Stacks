@@ -1853,3 +1853,9 @@ Ans- React uses the render tree to efficiently update the DOM based on changes i
 Ans- Bundlers use the dependency tree to compile and optimize the necessary code for production builds.
 
 (--------------------------------------------------------------------------)
+
+310- How can understanding the render tree aid in performance optimization?
+
+Ans- By identifying costly components, developers can optimize rendering logic to improve performance.
+
+(--------------------------------------------------------------------------)
