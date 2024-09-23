@@ -2886,3 +2886,9 @@ Ans- Use IDs or references instead of duplicating objects in multiple state vari
 
 (---------------------------------------------------------------------------)
 
+481- What is the drawback of deeply nested state?
+
+Ans- Deeply nested state is cumbersome to update and can lead to performance issues.
+
+(---------------------------------------------------------------------------)
+
