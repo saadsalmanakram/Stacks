@@ -2754,3 +2754,10 @@ Ans- Controlled components are input elements whose value is managed by React st
 
 (---------------------------------------------------------------------------)
 
+459- How can you optimize performance when sharing state?
+
+Ans- Use memoization techniques or React's useMemo and useCallback hooks to prevent unnecessary re-renders.
+
+(---------------------------------------------------------------------------)
+
+ 
