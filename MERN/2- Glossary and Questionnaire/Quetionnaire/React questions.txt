@@ -924,3 +924,9 @@ Ans- It skips over components or hooks violating React’s rules while continuin
 
 (--------------------------------------------------------------------------)
 
+155- When should I use the React Compiler?
+
+Ans- While it’s experimental, you can try it in small projects to provide feedback, or wait for a more stable release.
+
+(--------------------------------------------------------------------------)
+
