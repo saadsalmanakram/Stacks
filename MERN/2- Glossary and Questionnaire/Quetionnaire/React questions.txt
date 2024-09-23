@@ -858,3 +858,9 @@ Ans- Run the command react-devtools from the terminal after installing the tool 
 
 (--------------------------------------------------------------------------)
 
+144- What npm command is used to globally install React Developer Tools?
+
+Ans- The command is `npm install -g react-devtools`.
+
+(--------------------------------------------------------------------------)
+
