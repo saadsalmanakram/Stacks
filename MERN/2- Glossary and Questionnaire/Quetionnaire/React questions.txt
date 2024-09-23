@@ -1859,3 +1859,9 @@ Ans- Bundlers use the dependency tree to compile and optimize the necessary code
 Ans- By identifying costly components, developers can optimize rendering logic to improve performance.
 
 (--------------------------------------------------------------------------)
+
+311- How can a developer use the module dependency tree to troubleshoot?
+
+Ans- It helps identify unnecessary imports or large modules that may contribute to increased bundle size.
+
+(--------------------------------------------------------------------------)
