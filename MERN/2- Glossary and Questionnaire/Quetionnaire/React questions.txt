@@ -2340,6 +2340,12 @@ Ans- React updates state after the event handler finishes executing, based on th
 
 (--------------------------------------------------------------------------)
 
+390- How can you access the most up-to-date state in React when using asynchronous functions?
+
+Ans- Use the functional form of setState to access the latest state, ensuring you are working with the most recent value.
+
+(--------------------------------------------------------------------------)
+
 
 
 
