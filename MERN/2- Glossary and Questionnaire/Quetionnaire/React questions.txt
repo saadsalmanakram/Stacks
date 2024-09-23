@@ -1758,4 +1758,9 @@ Ans- Mutating props makes the component impure, leading to unpredictable behavio
 
 (--------------------------------------------------------------------------)
 
+294- How can impure components lead to bugs in larger React applications?
+
+Ans- Impure components can create side effects, causing inconsistencies, race conditions, and hard-to-trace bugs as the app scales.
+
+(--------------------------------------------------------------------------)
 
