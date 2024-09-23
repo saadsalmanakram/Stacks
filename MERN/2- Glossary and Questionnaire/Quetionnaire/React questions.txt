@@ -3576,3 +3576,9 @@ Ans- A ref is a way to hold onto a value that React doesn’t track or cause re-
 
 (--------------------------------------------------------------------------)
 
+576- How do you create a ref in a React component?
+
+Ans- You can create a ref using useRef(initialValue) which returns an object with a current property.
+
+(--------------------------------------------------------------------------)
+
