@@ -2346,6 +2346,11 @@ Ans- Use the functional form of setState to access the latest state, ensuring yo
 
 (--------------------------------------------------------------------------)
 
+391- How does React "store" state outside the component function?
+
+Ans- React maintains the state in its internal system, outside the component, and provides it during rendering.
+
+(--------------------------------------------------------------------------)
 
 
 
