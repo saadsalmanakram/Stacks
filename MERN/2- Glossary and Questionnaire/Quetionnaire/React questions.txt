@@ -4416,3 +4416,9 @@ Ans- Specify those values as dependencies in the dependency array of the useEffe
 
 (--------------------------------------------------------------------------)
 
+717- What happens if you don't declare a reactive value as a dependency in an Effect?
+
+Ans- The Effect may not re-run when that value changes, leading to stale or incorrect behavior.
+
+(--------------------------------------------------------------------------)
+
