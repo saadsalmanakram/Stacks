@@ -2202,3 +2202,8 @@ Ans- The initial render is triggered when the app starts and the component is re
 
 (--------------------------------------------------------------------------)
 
+367- What can trigger a re-render in React?
+
+Ans- A re-render is triggered when a component's state or one of its ancestors' state updates.
+
+(--------------------------------------------------------------------------)
