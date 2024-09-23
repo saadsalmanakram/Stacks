@@ -1530,4 +1530,10 @@ Ans- Using numbers directly can lead to rendering 0 instead of nothing, as JavaS
 
 (--------------------------------------------------------------------------)
 
+256- How can you avoid JSX duplication in conditional rendering in React?
+
+Ans- By extracting common JSX and conditionally modifying only parts of it using variables or inline conditions.
+
+(--------------------------------------------------------------------------)
+
 
