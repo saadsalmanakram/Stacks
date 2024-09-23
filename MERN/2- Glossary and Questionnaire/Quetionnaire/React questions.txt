@@ -1050,4 +1050,10 @@ Ans- Pure components prevent unintended side effects, making the application eas
 
 (--------------------------------------------------------------------------)
 
+176- How does React handle updates when rendering lists?
+
+Ans- React uses keys to track changes, additions, or removals in list elements, optimizing the rendering process.
+
+(--------------------------------------------------------------------------)
+
 
