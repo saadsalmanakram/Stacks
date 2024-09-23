@@ -725,5 +725,11 @@ Ans- The .tsx extension indicates that the file contains JSX code with TypeScrip
 
 (--------------------------------------------------------------------------)
 
+123- How do you type props in a functional React component using TypeScript?
+
+Ans- You can type props inline or define them using an interface or a type.
+
+(--------------------------------------------------------------------------)
+
 
 
