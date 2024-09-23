@@ -731,5 +731,11 @@ Ans- You can type props inline or define them using an interface or a type.
 
 (--------------------------------------------------------------------------)
 
+124- How does TypeScript infer types with useState?
+
+Ans- It infers the type based on the initial state, or you can specify a type explicitly.
+
+(--------------------------------------------------------------------------)
+
 
 
