@@ -3899,3 +3899,10 @@ Ans- Yes, you can have multiple useEffect hooks, each handling different side ef
 Ans- Common use cases include fetching data from a server, setting up event listeners, and interacting with non-React libraries or APIs.
 
 (--------------------------------------------------------------------------)
+
+630- How does React handle Effects during development vs. production?
+
+Ans- In development, React remounts components to check for cleanup, while in production, Effects only run once.
+
+(--------------------------------------------------------------------------)
+
