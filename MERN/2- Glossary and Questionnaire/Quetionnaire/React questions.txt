@@ -2670,4 +2670,9 @@ Ans- Immer allows mutable-like operations on state while maintaining immutabilit
 
 (---------------------------------------------------------------------------)
 
+445- When should you use slice() over splice() when updating arrays in React state?
+
+Ans- Use slice() to copy or create new arrays without mutating the original array.
+
+(---------------------------------------------------------------------------)
 
