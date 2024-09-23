@@ -2568,3 +2568,8 @@ Ans- Yes, you can store any JavaScript value in state, including primitives, obj
 
 (---------------------------------------------------------------------------)
 
+428- What is the difference between updating state with primitives like numbers and objects?
+
+Ans- Primitives are immutable by nature, so a direct update creates a new value, while objects require explicit copying to avoid mutation.
+
+(---------------------------------------------------------------------------)
