@@ -2634,4 +2634,10 @@ Ans- Direct mutation can prevent React from detecting changes, causing rendering
 
 (---------------------------------------------------------------------------)
 
+439- How can you insert an element at a specific index in an array in React state?
+
+Ans- Use the combination of slice() and spread syntax to insert an item at a given index.
+
+(---------------------------------------------------------------------------)
+
 
