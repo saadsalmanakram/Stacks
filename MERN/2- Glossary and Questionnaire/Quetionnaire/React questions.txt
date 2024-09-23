@@ -1680,4 +1680,16 @@ Ans- Render a list by mapping over a parent array, and within each item, map ove
 
 (--------------------------------------------------------------------------)
 
+281- What is a pure function in  JavaScript?
+
+Ans- A pure function is one that always produces the same output for the same inputs without modifying external state.
+
+(--------------------------------------------------------------------------)
+
+282- Why are pure components important in React?
+
+Ans- Pure components prevent unpredictable behavior and bugs as they consistently return the same output for the same input.
+
+(--------------------------------------------------------------------------)
+
 
