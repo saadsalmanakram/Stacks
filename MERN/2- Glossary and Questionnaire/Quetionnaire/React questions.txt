@@ -3126,3 +3126,9 @@ Ans- useState allows functional components to manage state, enabling them to mai
 
 (-------------------------------------------------------------------------)
 
+521- Why does switching between players in the Scoreboard reset the score?
+
+Ans- The score resets because the Counter component is unmounted and remounted, losing its local state each time a different player is selected.
+
+(-------------------------------------------------------------------------)
+
