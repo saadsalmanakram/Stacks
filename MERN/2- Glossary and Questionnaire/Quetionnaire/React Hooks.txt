@@ -4,3 +4,9 @@ Ans- Hooks allow you to use state and other React features in functional compone
 
 (------------------------------------------------------------------------)
 
+2- What is the purpose of the useState hook?
+
+Ans- useState allows you to declare state variables in functional components.
+
+(------------------------------------------------------------------------)
+
