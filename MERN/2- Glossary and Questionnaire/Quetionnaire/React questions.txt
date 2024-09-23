@@ -2166,3 +2166,8 @@ Ans- It allows encapsulation of logic and data, preventing unintended interferen
 
 (--------------------------------------------------------------------------)
 
+362- How do you lift state up in React?
+
+Ans- Move the state to the closest common ancestor component and pass it down as props to child components.
+
+(--------------------------------------------------------------------------)
