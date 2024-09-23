@@ -4458,3 +4458,9 @@ Ans- Use useEffect to establish the connection based on the current roomId, ensu
 
 (--------------------------------------------------------------------------)
 
+724- What should you do if you need to show a notification inside an Effect but avoid re-triggering it on every dependency change?
+
+Ans- Use an Effect Event to handle the notification logic separately from the Effect’s dependencies.
+
+(--------------------------------------------------------------------------)
+
