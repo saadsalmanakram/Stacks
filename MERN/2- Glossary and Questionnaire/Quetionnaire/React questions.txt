@@ -4350,3 +4350,9 @@ Ans- A reactive value is any variable, prop, or state that can change during a c
 
 (--------------------------------------------------------------------------)
 
+706- What will happen if you omit reactive values from the Effect's dependency array?
+
+Ans- Omitting reactive values may lead to bugs where the Effect doesn't re-run when those values change, resulting in outdated behavior.
+
+(--------------------------------------------------------------------------)
+
