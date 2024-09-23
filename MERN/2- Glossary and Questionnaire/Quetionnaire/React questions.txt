@@ -2994,3 +2994,8 @@ Ans- Use a single activeIndex state in the parent component and pass it to child
 
 (-------------------------------------------------------------------------)
 
+499- What is the role of event handlers when lifting state up?
+
+Ans- Event handlers allow child components to trigger state changes in the parent component, enabling synchronization of the shared state.
+
+(-------------------------------------------------------------------------)
