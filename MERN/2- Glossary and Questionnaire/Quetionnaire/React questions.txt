@@ -4080,3 +4080,8 @@ Ans- It leads to stale state values and extra re-renders, complicating state man
 
 (--------------------------------------------------------------------------)
 
+661- How do you avoid bugs when using Effects to synchronize state with external systems?
+
+Ans- Ensure that Effects only run when necessary and that state updates do not rely on stale values.
+
+(--------------------------------------------------------------------------)
