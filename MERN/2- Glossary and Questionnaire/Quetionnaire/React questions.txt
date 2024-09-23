@@ -1278,3 +1278,9 @@ Ans- A fragment (<>...</>) is a way to return multiple JSX elements without addi
 
 (--------------------------------------------------------------------------)
 
+214- Why do we need to wrap multiple elements in a single parent element in JSX?
+
+Ans- JSX requires a single root element to ensure valid structure for rendering.
+
+(--------------------------------------------------------------------------)
+
