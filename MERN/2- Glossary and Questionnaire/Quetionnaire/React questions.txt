@@ -4428,3 +4428,9 @@ Ans- Effect Events are called within Effects but behave like event handlers; the
 
 (--------------------------------------------------------------------------)
 
+719- How can you separate non-reactive logic from a reactive Effect?
+
+Ans- By using Effect Events to handle non-reactive logic, allowing the Effect to focus solely on synchronization.
+
+(--------------------------------------------------------------------------)
+
