@@ -2280,3 +2280,9 @@ Ans- React uses the appendChild() DOM API to insert the initial set of DOM nodes
 
 (--------------------------------------------------------------------------)
 
+380- How does setting state trigger re-renders in React?
+
+Ans- When you set state, React schedules a re-render, which updates the UI based on the new state.
+
+(--------------------------------------------------------------------------)
+
