@@ -1889,3 +1889,9 @@ Ans- Tree shaking is a bundling technique that eliminates dead code, reducing bu
 Ans- JSX elements represent components in the render tree, defining the structure and hierarchy of the UI.
 
 (--------------------------------------------------------------------------)
+
+316- What challenges can arise from deeply nested component trees?
+
+Ans- Deep nesting can lead to performance issues and make debugging more complex, requiring careful management of state and props.
+
+(--------------------------------------------------------------------------)
