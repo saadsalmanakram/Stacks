@@ -2297,3 +2297,9 @@ Ans- State updates are asynchronous, and React batches them to optimize performa
 Ans- Event handlers access the “snapshot” of the state from the render during which they were created.
 
 (--------------------------------------------------------------------------)
+
+383- Why does setting state behave like a snapshot in React?
+
+Ans- React takes a snapshot of the component’s state during rendering, and any state updates trigger a new render with a fresh snapshot.
+
+(--------------------------------------------------------------------------)
