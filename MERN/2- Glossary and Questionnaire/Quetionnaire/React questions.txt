@@ -2370,3 +2370,10 @@ Ans- Event handlers receive the snapshot of the state at the time of the render 
 
 (--------------------------------------------------------------------------)
 
+395- What is batching in React?
+
+Ans- Batching is the process where React groups multiple state updates into a single re-render to optimize performance.
+
+(--------------------------------------------------------------------------)
+
+
