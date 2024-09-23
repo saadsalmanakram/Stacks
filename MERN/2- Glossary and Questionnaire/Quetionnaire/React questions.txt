@@ -2874,3 +2874,9 @@ Ans- Combine related states into a single state variable that captures all relev
 
 (---------------------------------------------------------------------------)
 
+479- Why should you avoid redundant state?
+
+Ans- Redundant state can lead to unnecessary complexity and potential synchronization issues.
+
+(---------------------------------------------------------------------------)
+
