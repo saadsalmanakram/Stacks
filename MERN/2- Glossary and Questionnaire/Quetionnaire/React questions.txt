@@ -3984,3 +3984,14 @@ Ans- Using a data-fetching library with built-in caching can improve both develo
 
 (--------------------------------------------------------------------------)
 
+644- Why does React run an extra connect/disconnect pair during development?
+
+Ans- It’s a development-only behavior to ensure that Effects are correctly set up and cleaned up between mounts.
+
+(--------------------------------------------------------------------------)
+
+645- What should you do if multiple network requests bother you during development?
+
+Ans- Use request deduplication or caching to handle multiple requests without affecting the app’s performance.
+
+(--------------------------------------------------------------------------)
