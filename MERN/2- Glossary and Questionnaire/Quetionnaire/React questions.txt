@@ -840,4 +840,9 @@ Ans- Install the react-devtools package globally via npm or yarn, then launch it
 
 (--------------------------------------------------------------------------)
 
+141- How do you debug a React Native app using React Developer Tools?
+
+Ans- After installing React Developer Tools globally, open it via the terminal using the react-devtools command, which connects to any local React Native app.
+
+(--------------------------------------------------------------------------)
 
