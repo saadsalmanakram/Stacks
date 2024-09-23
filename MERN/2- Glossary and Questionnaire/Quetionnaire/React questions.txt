@@ -4464,3 +4464,9 @@ Ans- Use an Effect Event to handle the notification logic separately from the Ef
 
 (--------------------------------------------------------------------------)
 
+725- What is a common mistake when defining dependencies for an Effect?
+
+Ans- Failing to include all reactive values used within the Effect, which can lead to stale data.
+
+(--------------------------------------------------------------------------)
+
