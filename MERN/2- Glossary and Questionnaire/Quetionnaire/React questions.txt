@@ -1943,3 +1943,10 @@ Ans- Create a new array that reflects the desired changes, using methods like ma
 Ans- React triggers a render, prepares the component (rendering), and then commits changes to the DOM.
 
 (--------------------------------------------------------------------------)
+
+325- What is the significance of the setTimeout function in the example form?
+
+Ans- It demonstrates that state captures a snapshot at the time of the function execution, causing potential issues with stale state if not handled properly.
+
+(--------------------------------------------------------------------------)
+
