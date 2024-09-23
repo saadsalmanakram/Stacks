@@ -4662,4 +4662,10 @@ Ans- By using hooks like useEffect with unique dependencies for each request to 
 
 (--------------------------------------------------------------------------)
 
+758- What strategies can you use to avoid unnecessary calls in effects?
+
+Ans- Implement conditional logic based on dependencies and use cleanup functions to abort ongoing requests when the component unmounts.
+
+(--------------------------------------------------------------------------)
+
 
