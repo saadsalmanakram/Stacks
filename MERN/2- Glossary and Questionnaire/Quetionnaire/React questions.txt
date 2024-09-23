@@ -4499,3 +4499,10 @@ Ans- It can lead to stale values being used, potentially causing bugs and incorr
 Ans- By separating the logging logic into an Effect Event and passing relevant dependencies explicitly.
 
 (--------------------------------------------------------------------------)
+
+731- In the Timer component, why does the increment value not update?
+
+Ans- Because the useEffect hook only runs once on mount, capturing the initial value of increment.
+
+(--------------------------------------------------------------------------)
+
