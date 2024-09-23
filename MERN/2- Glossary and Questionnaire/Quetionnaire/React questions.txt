@@ -1326,3 +1326,10 @@ Ans- aria-* and data-* attributes are written the same as in HTML, without conve
 
 (--------------------------------------------------------------------------)
 
+222- How do you pass a string as an attribute in JSX?
+
+Ans- You can pass strings by enclosing them in quotes, like alt="Description".
+
+(--------------------------------------------------------------------------)
+
+
