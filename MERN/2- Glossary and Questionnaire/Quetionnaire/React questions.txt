@@ -2640,4 +2640,11 @@ Ans- Use the combination of slice() and spread syntax to insert an item at a giv
 
 (---------------------------------------------------------------------------)
 
+440- How can filter() be used to remove an item from an array in React state?
+
+Ans- filter() creates a new array that excludes the item based on a condition, which can then be used to update the state.
+
+(---------------------------------------------------------------------------)
+
+
 
