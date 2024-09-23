@@ -1638,4 +1638,10 @@ Ans- A common pitfall is generating keys dynamically (e.g., using Math.random())
 
 (--------------------------------------------------------------------------)
 
+274- How do you structure data for rendering a list of components?
+
+Ans- Store data in an array of objects, each containing properties like id, name, and profession.
+
+(--------------------------------------------------------------------------)
+
 
