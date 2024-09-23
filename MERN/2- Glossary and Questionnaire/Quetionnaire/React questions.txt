@@ -1097,3 +1097,9 @@ Ans- It marks the main function in a file for export, allowing it to be imported
 Ans- Components can be reused by importing and embedding them like HTML tags inside other components.
 
 (--------------------------------------------------------------------------)
+
+184- What is a parent and child component in React?
+
+Ans- A parent component renders one or more child components inside it.
+
+(--------------------------------------------------------------------------)
