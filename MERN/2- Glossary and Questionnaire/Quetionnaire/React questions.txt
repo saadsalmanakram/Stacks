@@ -1632,4 +1632,10 @@ Ans- Use filter() to create a new array of objects that meet the criteria, then 
 
 (--------------------------------------------------------------------------)
 
+273- What is a common pitfall when using keys in React lists?
+
+Ans- A common pitfall is generating keys dynamically (e.g., using Math.random()), which prevents React from efficiently updating the DOM.
+
+(--------------------------------------------------------------------------)
+
 
