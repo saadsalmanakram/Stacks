@@ -3330,3 +3330,15 @@ Ans- Context.Provider is a component that allows passing a value down the compon
 
 (--------------------------------------------------------------------------)
 
+535- Can you provide and consume the same context from a component?
+
+Ans- Yes, a component can both provide and consume context, for example, by incrementing a level passed down from a parent context.
+
+(--------------------------------------------------------------------------)
+
+536- What are some alternatives to using React context for managing state across multiple components?
+
+Ans- Alternatives include state management libraries like Redux, Zustand, or using the React Query library.
+
+(--------------------------------------------------------------------------)
+
