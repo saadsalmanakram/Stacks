@@ -1338,3 +1338,9 @@ Ans- Use curly braces {} to pass JavaScript variables dynamically, such as src={
 
 (--------------------------------------------------------------------------)
 
+224- How can you reference a JavaScript object inside JSX?
+
+Ans- Use curly braces to reference objects, e.g., style={person.theme}.
+
+(--------------------------------------------------------------------------)
+
