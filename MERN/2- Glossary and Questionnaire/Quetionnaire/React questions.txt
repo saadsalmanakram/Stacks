@@ -4362,3 +4362,9 @@ Ans- setServerUrl is stable and guaranteed not to change across renders, so it d
 
 (--------------------------------------------------------------------------)
 
+708- What could cause infinite loops in Effects?
+
+Ans- Infinite loops occur when the Effect's dependencies include values that change during the Effect’s execution, causing it to re-run indefinitely.
+
+(--------------------------------------------------------------------------)
+
