@@ -972,4 +972,9 @@ Ans- Yes, it can be integrated into Vite by using the `vite-plugin-react` and co
 
 (--------------------------------------------------------------------------)
 
+163- Is React Compiler compatible with Expo or React Native?
+
+Ans- For Expo and React Native, refer to their respective docs to enable the React Compiler using Babel and Metro.
+
+(--------------------------------------------------------------------------)
 
