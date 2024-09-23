@@ -3300,3 +3300,21 @@ Ans- Context is commonly used for themes, authentication, and passing configurat
 
 (-------------------------------------------------------------------------)
 
+550- How do you create a context in React?
+
+Ans- You create a context using the createContext function, which takes a default value as its argument.
+
+(--------------------------------------------------------------------------)
+
+551- How do you provide context to components?
+
+Ans- Context is provided using the Context.Provider component, which wraps children components and passes down a value.
+
+(--------------------------------------------------------------------------)
+
+552- How do you consume a context in a child component?
+
+Ans- A context is consumed in a child component using the useContext hook, which retrieves the nearest context value.
+
+(--------------------------------------------------------------------------)
+
