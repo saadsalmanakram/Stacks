@@ -4590,3 +4590,8 @@ Ans- They can change on every render, leading to unnecessary re-runs of the effe
 
 (--------------------------------------------------------------------------)
 
+746- What should you consider when deciding if logic belongs in a useEffect?
+
+Ans- If it responds to a specific interaction, it should be in an event handler instead of an effect.
+
+(--------------------------------------------------------------------------)
