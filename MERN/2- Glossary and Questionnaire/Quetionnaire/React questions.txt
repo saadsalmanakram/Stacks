@@ -1193,3 +1193,9 @@ Ans- Default exports allow exporting a single component, while named exports all
 Ans- Use import ComponentName from './Component.js'; without curly braces.
 
 (--------------------------------------------------------------------------)
+
+200- How do you import a named export?
+
+Ans- Use import { ComponentName } from './Component.js'; with curly braces.
+
+(--------------------------------------------------------------------------)
