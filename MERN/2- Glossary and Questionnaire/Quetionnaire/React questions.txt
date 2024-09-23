@@ -3978,3 +3978,9 @@ Ans- It reruns the Effect every time zoomLevel changes, ensuring the map zoom le
 
 (--------------------------------------------------------------------------)
 
+643- What is a better approach for data fetching than using useEffect?
+
+Ans- Using a data-fetching library with built-in caching can improve both development experience and app performance by avoiding redundant requests.
+
+(--------------------------------------------------------------------------)
+
