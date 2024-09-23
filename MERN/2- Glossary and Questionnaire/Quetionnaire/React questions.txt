@@ -755,4 +755,11 @@ Ans- TypeScript infers the context type from createContext, and you can handle p
 
 (--------------------------------------------------------------------------)
 
+128- When should you use useMemo with TypeScript?
+
+Ans- Use useMemo to memoize values, with inferred or explicitly provided types for the return value.
+
+(--------------------------------------------------------------------------)
+
+
 
