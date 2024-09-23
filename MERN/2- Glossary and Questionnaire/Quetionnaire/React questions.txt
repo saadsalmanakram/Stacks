@@ -2237,3 +2237,10 @@ Ans- In the commit phase, React applies minimal changes to the DOM to reflect th
 Ans- State updates trigger re-renders, causing React to recalculate what should be displayed.
 
 (--------------------------------------------------------------------------)
+
+373- What is Strict Mode in React, and why is it useful during rendering?
+
+Ans- Strict Mode helps surface mistakes caused by impure functions by calling components twice in development.
+
+(--------------------------------------------------------------------------)
+
