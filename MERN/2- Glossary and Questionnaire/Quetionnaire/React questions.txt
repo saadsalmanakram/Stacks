@@ -1211,3 +1211,16 @@ Ans- No, a file can only have one default export.
 Ans- You can export one component as a default export and others as named exports.
 
 (--------------------------------------------------------------------------)
+
+203- How do you import multiple components from the same file?
+
+Ans- Import the default export normally and the named exports within curly braces, e.g., import Gallery, { Profile } from './Gallery.js';.
+
+(--------------------------------------------------------------------------)
+
+204- Why would you split components into multiple files?
+
+Ans- To enhance modularity, reusability, and maintainability of your code.
+
+(--------------------------------------------------------------------------)
+
