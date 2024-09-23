@@ -1332,4 +1332,9 @@ Ans- You can pass strings by enclosing them in quotes, like alt="Description".
 
 (--------------------------------------------------------------------------)
 
+223- How do you dynamically pass a variable in JSX?
+
+Ans- Use curly braces {} to pass JavaScript variables dynamically, such as src={avatar}.
+
+(--------------------------------------------------------------------------)
 
