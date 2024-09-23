@@ -2244,3 +2244,8 @@ Ans- Strict Mode helps surface mistakes caused by impure functions by calling co
 
 (--------------------------------------------------------------------------)
 
+374- What happens after React commits changes to the DOM?
+
+Ans- The browser repaints the screen to display the updated UI, often referred to as "painting."
+
+(--------------------------------------------------------------------------)
