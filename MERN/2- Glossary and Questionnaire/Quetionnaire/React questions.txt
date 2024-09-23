@@ -2880,3 +2880,9 @@ Ans- Redundant state can lead to unnecessary complexity and potential synchroniz
 
 (---------------------------------------------------------------------------)
 
+480- How can you structure state to avoid duplication?
+
+Ans- Use IDs or references instead of duplicating objects in multiple state variables.
+
+(---------------------------------------------------------------------------)
+
