@@ -870,4 +870,10 @@ Ans- Use the command `yarn global add react-devtools` to install it globally.
 
 (--------------------------------------------------------------------------)
 
+146- What is the React Compiler?
+
+Ans- The React Compiler is an experimental build-time tool that optimizes React apps by automatically memoizing components and hooks.
+
+(--------------------------------------------------------------------------)
+
 
