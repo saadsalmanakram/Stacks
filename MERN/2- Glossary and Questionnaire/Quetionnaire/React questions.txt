@@ -2262,3 +2262,8 @@ Ans- React calculates the minimal changes needed for the DOM and only updates th
 
 (--------------------------------------------------------------------------)
 
+377- Why doesn't React touch the value of an <input> during re-renders if its position in the JSX hasn’t changed?
+
+Ans- React preserves the state of DOM elements, like <input>, if their position in the JSX remains the same across renders.
+
+(--------------------------------------------------------------------------)
