@@ -1139,3 +1139,9 @@ Ans- Props allow passing data from parent components to child components.
 Ans- Components can be nested inside one another to build more complex UIs.
 
 (--------------------------------------------------------------------------)
+
+191- What happens when you nest component definitions?
+
+Ans- It slows down the app and leads to bugs; components should be defined at the top level.
+
+(--------------------------------------------------------------------------)
