@@ -1386,3 +1386,9 @@ Ans- Curly braces can be used in JSX tag content and immediately after = in attr
 
 (--------------------------------------------------------------------------)
 
+232- How do curly braces behave differently in attributes vs. tag content?
+
+Ans- In attributes, they evaluate JavaScript expressions, while in tag content, they output values directly in the DOM.
+
+(--------------------------------------------------------------------------)
+
