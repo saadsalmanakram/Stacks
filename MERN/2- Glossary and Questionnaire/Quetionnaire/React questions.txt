@@ -2327,3 +2327,10 @@ Ans- React calls the component function again, creating a new JSX snapshot and u
 Ans- State persists between renders and triggers re-renders when updated, while regular variables do not.
 
 (--------------------------------------------------------------------------)
+
+388- How does React handle asynchronous code in event handlers with state?
+
+Ans- Event handlers use the state snapshot from the render in which they were created, so asynchronous code may not reflect updated state.
+
+(--------------------------------------------------------------------------)
+
