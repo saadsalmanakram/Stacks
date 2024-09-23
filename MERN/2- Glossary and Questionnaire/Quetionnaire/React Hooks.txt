@@ -1,0 +1,6 @@
+1- What are React Hooks?
+
+Ans- Hooks allow you to use state and other React features in functional components.
+
+(------------------------------------------------------------------------)
+
