@@ -1344,3 +1344,9 @@ Ans- Use curly braces to reference objects, e.g., style={person.theme}.
 
 (--------------------------------------------------------------------------)
 
+225- What is the syntax for using inline styles in JSX?
+
+Ans- Inline styles in JSX are passed as JavaScript objects inside double curly braces, e.g., style={{ backgroundColor: 'black' }}.
+
+(--------------------------------------------------------------------------)
+
