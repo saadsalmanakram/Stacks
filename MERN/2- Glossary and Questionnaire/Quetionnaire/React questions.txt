@@ -4260,3 +4260,21 @@ Ans- React calls the cleanup function from the previous render and then executes
 
 (--------------------------------------------------------------------------)
 
+691- Why should you think about each Effect independently?
+
+Ans- Focusing on each Effect separately simplifies reasoning about synchronization logic and avoids unintended side effects.
+
+(--------------------------------------------------------------------------)
+
+692- Can you have multiple Effects in a single component?
+
+Ans- Yes, it’s common to use multiple Effects for different tasks to maintain clear separation of concerns.
+
+(--------------------------------------------------------------------------)
+
+693- What would happen if you included unrelated logic in the same Effect?
+
+Ans- If unrelated logic is included, changes in one part may inadvertently trigger side effects in another, leading to bugs.
+
+(--------------------------------------------------------------------------)
+
