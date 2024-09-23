@@ -70,3 +70,9 @@ Ans- useInsertionEffect is for inserting dynamic styles before React applies cha
 
 (------------------------------------------------------------------------)
 
+13- How does useMemo optimize performance?
+
+Ans- useMemo caches expensive calculations to avoid recomputation on every render.
+
+(------------------------------------------------------------------------)
+
