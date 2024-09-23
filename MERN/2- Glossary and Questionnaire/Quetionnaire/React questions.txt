@@ -3438,3 +3438,9 @@ Ans- Use createContext to declare TasksContext and TasksDispatchContext.
 
 (--------------------------------------------------------------------------)
 
+553- Why would you use two contexts for tasks and dispatch?
+
+Ans- To separately manage read-only state (tasks) and actions (dispatch), ensuring a clean and focused component logic.
+
+(--------------------------------------------------------------------------)
+
