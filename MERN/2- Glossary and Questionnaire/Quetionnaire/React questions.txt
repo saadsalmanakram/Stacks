@@ -2850,3 +2850,9 @@ Ans- React automatically re-renders the affected components based on the new sta
 
 (---------------------------------------------------------------------------)
 
+475- Why should you connect event handlers to set state in React?
+
+Ans- Connecting event handlers to set state ensures that the UI reflects user interactions and updates dynamically based on state changes.
+
+(---------------------------------------------------------------------------)
+
