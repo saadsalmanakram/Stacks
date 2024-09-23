@@ -3672,3 +3672,15 @@ Ans- If you modify ref.current in an event handler and expect a re-render, the c
 
 (--------------------------------------------------------------------------)
 
+592- When should you avoid using refs?
+
+Ans- Avoid using refs to manage data that affects rendering; use state for that purpose.
+
+(--------------------------------------------------------------------------)
+
+593- What happens if you modify a ref within a render function?
+
+Ans- Modifying a ref in a render function doesn’t cause re-renders, which could lead to inconsistent UI behavior.
+
+(--------------------------------------------------------------------------)
+
