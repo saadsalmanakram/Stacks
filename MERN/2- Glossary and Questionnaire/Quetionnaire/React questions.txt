@@ -2579,3 +2579,11 @@ Ans- Primitives are immutable by nature, so a direct update creates a new value,
 Ans- Use controlled components and the spread operator to update only the specific input field while preserving other fields.
 
 (---------------------------------------------------------------------------)
+
+430- Why should arrays in React state be treated as immutable?
+
+Ans- Arrays in React state should be treated as immutable to avoid unintended side effects and ensure proper re-rendering.
+
+(---------------------------------------------------------------------------)
+
+
