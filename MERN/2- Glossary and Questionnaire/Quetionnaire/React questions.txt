@@ -3360,3 +3360,8 @@ Ans- Lifting state refers to moving state up to a common ancestor component so t
 
 (--------------------------------------------------------------------------)
 
+540- What is the purpose of the LevelContext in the provided example?
+
+Ans- LevelContext is used to provide a heading level to all <Heading> components inside a section without passing the level prop directly.
+
+(--------------------------------------------------------------------------)
