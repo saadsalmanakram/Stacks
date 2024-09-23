@@ -2406,3 +2406,9 @@ Ans- React will first queue the replacement value, followed by the updater funct
 
 (--------------------------------------------------------------------------)
 
+401- What is an updater function in React's state management?
+
+Ans- An updater function is a function passed to setState that computes the new state based on the previous state value.
+
+(--------------------------------------------------------------------------)
+
