@@ -1314,4 +1314,9 @@ Ans- Fragments allow you to group multiple elements without adding unnecessary n
 
 (--------------------------------------------------------------------------)
 
+220- Why do developers prefer JSX over separate HTML and JavaScript files?
+
+Ans- JSX integrates markup with logic, making code easier to maintain and more efficient for interactive web applications.
+
+(--------------------------------------------------------------------------)
 
