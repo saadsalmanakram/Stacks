@@ -1148,6 +1148,6 @@ Ans- It slows down the app and leads to bugs; components should be defined at th
 
 192- What does React do under the hood with JSX?
 
-Ans- React converts JSX into JavaScript function calls (using React.createElement) during the build process.
+Ans- React converts JSX into JavaScript function calls (using `React.createElement`) during the build process.
 
 (--------------------------------------------------------------------------)
