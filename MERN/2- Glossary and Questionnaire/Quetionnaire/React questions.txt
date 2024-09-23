@@ -4680,5 +4680,11 @@ Ans- Use local state management or context to keep the effects isolated while al
 
 (--------------------------------------------------------------------------)
 
+761- What are potential pitfalls of using separate effects?
+
+Ans- Overhead from too many effects can lead to performance issues if not managed properly, especially with many independent requests.
+
+(--------------------------------------------------------------------------)
+
 
 
