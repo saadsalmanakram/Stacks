@@ -3048,3 +3048,9 @@ Ans- React associates state with components based on their position in the rende
 
 (-------------------------------------------------------------------------)
 
+508- What happens to a component's state when it is removed from the DOM?
+
+Ans- When a component is removed from the DOM, React destroys its state.
+
+(-------------------------------------------------------------------------)
+
