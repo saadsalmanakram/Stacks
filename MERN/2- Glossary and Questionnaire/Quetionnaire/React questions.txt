@@ -763,7 +763,7 @@ Ans- Use useMemo to memoize values, with inferred or explicitly provided types f
 
 129- What is the use of useCallback in TypeScript and how do you type it?
 
-Ans- useCallback provides a stable reference to functions, and types are inferred or explicitly declared using event handler types like React.ChangeEventHandler.
+Ans- useCallback provides a stable reference to functions, and types are inferred or explicitly declared using event handler types like 'React.ChangeEventHandler'
 
 (--------------------------------------------------------------------------)
 
