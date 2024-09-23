@@ -3474,3 +3474,14 @@ Ans- It provides a scalable solution for managing state and actions deeply in th
 
 (--------------------------------------------------------------------------)
 
+559- How does context enhance state management across deeply nested components?
+
+Ans- It avoids passing state and dispatch through props by making them accessible anywhere in the component tree.
+
+(--------------------------------------------------------------------------)
+
+560- What is an escape hatch in React?
+
+Ans- Escape hatches allow you to interact with external systems and DOM elements that React doesn’t control directly.
+
+(--------------------------------------------------------------------------)
