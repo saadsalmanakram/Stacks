@@ -3804,3 +3804,9 @@ Ans- Yes, refs can also be used to store mutable values like timers or previous 
 
 (--------------------------------------------------------------------------)
 
+614- Why should refs be used sparingly in React?
+
+Ans- Refs are an escape hatch from React’s declarative nature and can lead to more fragile code if overused.
+
+(--------------------------------------------------------------------------)
+
