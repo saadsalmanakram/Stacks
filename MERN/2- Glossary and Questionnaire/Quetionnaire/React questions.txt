@@ -3960,4 +3960,10 @@ Ans- React remounts components in development, triggering multiple fetch request
 
 (--------------------------------------------------------------------------)
 
+640- What is a common pitfall when controlling non-React widgets inside useEffect?
+
+Ans- Not handling the cleanup properly, like not resetting states or leaving lingering effects from external libraries.
+
+(--------------------------------------------------------------------------)
+
 
