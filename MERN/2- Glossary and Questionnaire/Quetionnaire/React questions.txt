@@ -1224,3 +1224,9 @@ Ans- To enhance modularity, reusability, and maintainability of your code.
 
 (--------------------------------------------------------------------------)
 
+205- What are the advantages of using default exports?
+
+Ans- Simplicity when exporting a single component and ease of importing without knowing the component's name.
+
+(--------------------------------------------------------------------------)
+
