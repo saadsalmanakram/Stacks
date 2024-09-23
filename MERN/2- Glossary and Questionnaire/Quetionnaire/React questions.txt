@@ -2586,4 +2586,9 @@ Ans- Arrays in React state should be treated as immutable to avoid unintended si
 
 (---------------------------------------------------------------------------)
 
+431- How do you add a new element to an array in React state without mutating it?
+
+Ans- Use the spread operator setArray([...array, newElement]) or concat() to create a new array with the added element.
+
+(---------------------------------------------------------------------------)
 
