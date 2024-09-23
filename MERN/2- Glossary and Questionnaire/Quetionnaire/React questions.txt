@@ -2136,4 +2136,8 @@ Ans- Add conditional logic to check the index before updating the state.
 
 (--------------------------------------------------------------------------)
 
+357- How can you implement a “Previous” button in a gallery component?
 
+Ans- Use a similar state update logic for the previous index and conditionally prevent underflow.
+
+(--------------------------------------------------------------------------)
