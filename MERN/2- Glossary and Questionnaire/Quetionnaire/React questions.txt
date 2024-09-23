@@ -2382,5 +2382,14 @@ Ans- React batches state updates to avoid unnecessary re-renders and improve the
 
 (--------------------------------------------------------------------------)
 
+397- What is the purpose of updater functions in React's setState?
 
+Ans- Updater functions allow state updates based on the previous state, ensuring accurate updates when state is updated multiple times in a row.
 
+(--------------------------------------------------------------------------)
+
+398- What happens if you call setState multiple times in an event handler?
+
+Ans- React will batch the state updates and process them after the event handler completes.
+
+(--------------------------------------------------------------------------)
