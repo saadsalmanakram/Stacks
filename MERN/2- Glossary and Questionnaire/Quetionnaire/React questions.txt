@@ -2766,3 +2766,10 @@ Ans- A common pitfall is creating redundant state that can lead to bugs and inco
 
 (---------------------------------------------------------------------------)
 
+461- What is the main difference between declarative and imperative UI programming in React?
+
+Ans- Declarative UI programming describes what the UI should look like for each state, while imperative programming involves explicitly telling the system how to change the UI.
+
+(---------------------------------------------------------------------------)
+
+
