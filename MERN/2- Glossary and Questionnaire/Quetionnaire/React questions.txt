@@ -3684,3 +3684,9 @@ Ans- Modifying a ref in a render function doesn’t cause re-renders, which coul
 
 (--------------------------------------------------------------------------)
 
+594- What does useRef return, and how do you access the value?
+
+Ans- useRef returns an object like { current: initialValue }, and you access the value with ref.current.
+
+(--------------------------------------------------------------------------)
+
