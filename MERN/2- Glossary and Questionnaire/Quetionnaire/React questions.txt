@@ -3527,3 +3527,10 @@ Ans- By returning a cleanup function from useEffect, you can clean up resources 
 Ans- Forgetting to include necessary dependencies in the useEffect dependency array can lead to incorrect behavior.
 
 (--------------------------------------------------------------------------)
+
+568- How does the lifecycle of an Effect differ from the lifecycle of a component?
+
+Ans- Effects only start and stop synchronization, while components mount, update, and unmount.
+
+(--------------------------------------------------------------------------)
+
