@@ -2808,3 +2808,9 @@ Ans- Essential state variables should directly influence the UI and must be uniq
 
 (---------------------------------------------------------------------------)
 
+468- What role do event handlers play in state management?
+
+Ans- Event handlers capture user interactions and update the component's state accordingly, triggering re-renders to reflect the new state.
+
+(---------------------------------------------------------------------------)
+
