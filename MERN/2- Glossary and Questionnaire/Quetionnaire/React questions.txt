@@ -2610,3 +2610,9 @@ Ans- splice() mutates the original array, while slice() creates a new copy witho
 
 (---------------------------------------------------------------------------)
 
+435- How can you replace an item in a React state array?
+
+Ans- Use map() to return a new array where the specific item is replaced.
+
+(---------------------------------------------------------------------------)
+
