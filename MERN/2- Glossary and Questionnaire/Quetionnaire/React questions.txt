@@ -1169,3 +1169,9 @@ Ans- <Fragment> allows grouping multiple elements without adding extra nodes to 
 Ans- It is the main file where your top-level component is defined, typically the entry point of your app.
 
 (--------------------------------------------------------------------------)
+
+196- How do you import a component in React?
+
+Ans- Use the import statement followed by the component name and the file path.
+
+(--------------------------------------------------------------------------)
