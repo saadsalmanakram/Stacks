@@ -2435,3 +2435,9 @@ Ans- React queues the updates and processes them after the event handler complet
 Ans- Passing a value like setState(42) replaces the state, overriding any prior updates in the queue.
 
 (---------------------------------------------------------------------------)
+
+406- Why does React batch updates within a single event handler but not across multiple events?
+
+Ans- React batches updates within an event to avoid unnecessary re-renders but handles separate events independently to ensure predictable behavior.
+
+(---------------------------------------------------------------------------)
