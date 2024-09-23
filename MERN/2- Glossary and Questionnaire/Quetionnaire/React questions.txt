@@ -1608,4 +1608,10 @@ Ans- Use array.map() to return a list of JSX elements.
 
 (--------------------------------------------------------------------------)
 
+269- What happens if you forget to add a key prop in a list?
+
+Ans- React will issue a warning and may have difficulty managing component state during updates.
+
+(--------------------------------------------------------------------------)
+
 
