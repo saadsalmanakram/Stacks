@@ -1260,3 +1260,9 @@ Ans- It can lead to confusion over which import style to use, especially for lar
 
 (--------------------------------------------------------------------------)
 
+211- What are the two main steps to export a component in React?
+
+Ans- First, define the component and then either export it as default or named depending on your use case.
+
+(--------------------------------------------------------------------------)
+
