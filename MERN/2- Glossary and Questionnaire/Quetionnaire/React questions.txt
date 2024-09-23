@@ -3954,3 +3954,10 @@ Ans- It removes the event listener before the component unmounts or before the E
 
 (--------------------------------------------------------------------------)
 
+639- Why might you see duplicate requests in the Network tab during development?
+
+Ans- React remounts components in development, triggering multiple fetch requests, but cleanups ensure only relevant data is processed.
+
+(--------------------------------------------------------------------------)
+
+
