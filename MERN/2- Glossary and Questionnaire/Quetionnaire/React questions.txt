@@ -4434,3 +4434,21 @@ Ans- By using Effect Events to handle non-reactive logic, allowing the Effect to
 
 (--------------------------------------------------------------------------)
 
+720- Why is it problematic to have too many dependencies in an Effect?
+
+Ans- If the Effect depends on many values, it may re-run too often, leading to performance issues or unwanted behavior.
+
+(--------------------------------------------------------------------------)
+
+721- Can you give an example of when to use both an Effect and an event handler in the same component?
+
+Ans- Use an Effect to maintain a connection to a chat room and an event handler to send messages when the user clicks a button.
+
+(--------------------------------------------------------------------------)
+
+722- In a chat application, why would sending a message be an event handler?
+
+Ans- Because sending a message should only occur in direct response to the user's action of clicking the send button.
+
+(--------------------------------------------------------------------------)
+
