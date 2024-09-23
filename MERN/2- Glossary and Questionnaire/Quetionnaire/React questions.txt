@@ -2088,3 +2088,8 @@ Ans- Use the useState Hook to add state variables to a functional component.
 
 (--------------------------------------------------------------------------)
 
+349- What is the purpose of the state setter function?
+
+Ans- The setter function updates the state variable and triggers a re-render of the component.
+
+(--------------------------------------------------------------------------)
