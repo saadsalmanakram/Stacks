@@ -4566,3 +4566,9 @@ Ans- It verifies that all reactive values used in the effect are listed in the d
 
 (--------------------------------------------------------------------------)
 
+742- Why is it dangerous to suppress the linter warnings?
+
+Ans- It can lead to bugs by causing the effect to run with stale or incorrect values.
+
+(--------------------------------------------------------------------------)
+
