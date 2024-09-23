@@ -2501,3 +2501,9 @@ Ans- Immutability means treating state as read-only, ensuring that you don’t d
 Ans- Create a new object (or copy the existing one) and set the state using setState.
 
 (---------------------------------------------------------------------------)
+
+417- Why should you avoid mutating state directly in React?
+
+Ans- React does not detect changes in the mutated object, preventing re-renders and causing unexpected behavior.
+
+(---------------------------------------------------------------------------)
