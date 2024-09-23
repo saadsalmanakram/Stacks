@@ -4554,3 +4554,15 @@ Ans- The effect will run only once after the initial render, ignoring any update
 
 (--------------------------------------------------------------------------)
 
+740- How can you fix an infinite loop caused by a useEffect dependency?
+
+Ans- By ensuring all necessary reactive values are included in the dependency array.
+
+(--------------------------------------------------------------------------)
+
+741- What does the linter check for in useEffect?
+
+Ans- It verifies that all reactive values used in the effect are listed in the dependency array.
+
+(--------------------------------------------------------------------------)
+
