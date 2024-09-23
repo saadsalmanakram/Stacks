@@ -3846,3 +3846,27 @@ Ans- In React's Strict Mode, Effects are run twice in development to detect pote
 
 (--------------------------------------------------------------------------)
 
+621- How do you fix Effects running twice in development mode?
+
+Ans- The double execution in Strict Mode is intentional, but you can handle it by ensuring proper cleanup and using dependency arrays to prevent unwanted behavior.
+
+(--------------------------------------------------------------------------)
+
+622- What is the purpose of adding a cleanup function in an Effect?
+
+Ans- Cleanup functions allow you to undo or stop the effect (e.g., disconnect from a server) when the component is removed or re-rendered.
+
+(--------------------------------------------------------------------------)
+
+623- What is the main pitfall when using Effects in React?
+
+Ans- Infinite loops can occur if Effects directly update state without proper dependency management, causing re-renders that trigger the Effect again.
+
+(--------------------------------------------------------------------------)
+
+624- How do you synchronize React with external DOM elements (e.g., a video player)?
+
+Ans- Use useRef to get a reference to the DOM element and synchronize its methods (e.g., play() or pause()) inside a useEffect.
+
+(--------------------------------------------------------------------------)
+
