@@ -2093,3 +2093,10 @@ Ans- Use the useState Hook to add state variables to a functional component.
 Ans- The setter function updates the state variable and triggers a re-render of the component.
 
 (--------------------------------------------------------------------------)
+
+350- Why is state considered local in React?
+
+Ans- State is local to the component instance and not accessible by its parent or sibling components.
+
+(--------------------------------------------------------------------------)
+
