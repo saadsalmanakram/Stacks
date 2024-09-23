@@ -3180,3 +3180,20 @@ Ans- An action is an object that describes what happened, typically including a 
 
 (-------------------------------------------------------------------------)
 
+530- What does the dispatch function do?
+
+Ans- dispatch sends an action to the reducer to handle state updates based on the specified action.
+
+(-------------------------------------------------------------------------)
+
+531- How do you refactor useState to useReducer?
+
+Ans- Move state-setting logic to a reducer, dispatch actions from event handlers, and replace useState with useReducer.
+
+(-------------------------------------------------------------------------)
+
+532- Why are switch statements commonly used in reducers?
+
+Ans- Switch statements improve readability by clearly separating different actions.
+
+(-------------------------------------------------------------------------)
