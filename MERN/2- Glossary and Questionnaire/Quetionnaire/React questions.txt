@@ -2412,3 +2412,8 @@ Ans- An updater function is a function passed to setState that computes the new 
 
 (--------------------------------------------------------------------------)
 
+402- How can you update the same state variable multiple times before the next render?
+
+Ans- You can pass an updater function to setState (e.g., setState(n => n + 1)) for sequential updates.
+
+(---------------------------------------------------------------------------)
