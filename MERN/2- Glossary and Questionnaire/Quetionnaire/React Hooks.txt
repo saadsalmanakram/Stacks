@@ -64,3 +64,9 @@ Ans- Use useLayoutEffect for operations that require measurement before the brow
 
 (------------------------------------------------------------------------)
 
+12- What is the purpose of useInsertionEffect?
+
+Ans- useInsertionEffect is for inserting dynamic styles before React applies changes to the DOM.
+
+(------------------------------------------------------------------------)
+
