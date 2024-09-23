@@ -1770,3 +1770,9 @@ Ans- useEffect allows you to perform side effects after rendering, keeping the r
 
 (--------------------------------------------------------------------------)
 
+296- How can you fix a component that mutates external variables during rendering?
+
+Ans- You should pass those variables as props or state, ensuring the component remains pure.
+
+(--------------------------------------------------------------------------)
+
