@@ -2525,3 +2525,9 @@ Ans- The spread operator (...) creates a shallow copy of an object, which is use
 Ans- Copy both the outer and inner objects using the spread operator at multiple levels to preserve immutability.
 
 (---------------------------------------------------------------------------)
+
+421- What is a shallow copy, and why is it relevant to React state updates?
+
+Ans- A shallow copy duplicates the top-level properties but retains references for nested objects. It's important to avoid mutating nested objects directly.
+
+(---------------------------------------------------------------------------)
