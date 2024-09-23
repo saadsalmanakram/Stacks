@@ -3762,3 +3762,21 @@ Ans- React assigns the DOM node to the current property of the ref after it has 
 
 (--------------------------------------------------------------------------)
 
+607- What is the difference between state and ref in React?
+
+Ans- state triggers re-renders when changed, while ref does not.
+
+(--------------------------------------------------------------------------)
+
+608- How do you scroll to a DOM element using refs in React?
+
+Ans- Call the scrollIntoView() method on the DOM node via myRef.current.scrollIntoView().
+
+(--------------------------------------------------------------------------)
+
+609- What is the purpose of the forwardRef API in React?
+
+Ans- It allows a component to expose its child’s DOM node to a parent through a ref.
+
+(--------------------------------------------------------------------------)
+
