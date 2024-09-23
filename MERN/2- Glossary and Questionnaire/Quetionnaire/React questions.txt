@@ -4602,3 +4602,8 @@ Ans- When it handles unrelated tasks or dependencies that should react independe
 
 (--------------------------------------------------------------------------)
 
+748- How can you handle dependencies that cause unwanted re-renders?
+
+Ans- Use updater functions or separate the logic into different effects.
+
+(--------------------------------------------------------------------------)
