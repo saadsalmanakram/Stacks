@@ -4206,3 +4206,9 @@ Ans- Using useEffect with an empty dependency array to perform the fetch only on
 
 (--------------------------------------------------------------------------)
 
+682- What is the lifecycle of an Effect in React?
+
+Ans- An Effect starts synchronizing when its dependencies change and stops synchronizing when the component unmounts or the Effect is re-invoked.
+
+(--------------------------------------------------------------------------)
+
