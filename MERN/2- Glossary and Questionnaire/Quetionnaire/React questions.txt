@@ -1542,4 +1542,11 @@ Ans- Using if statements, the ternary operator ? :, the && operator, or assignin
 
 (--------------------------------------------------------------------------)
 
+258- How can you conditionally include or exclude a React component?
+
+Ans- You can include or exclude components by conditionally rendering them with expressions that evaluate to either JSX or null.
+
+(--------------------------------------------------------------------------)
+
+
 
