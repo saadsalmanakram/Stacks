@@ -52,4 +52,9 @@ Ans- useImperativeHandle customizes the instance value exposed to parent compone
 
 (------------------------------------------------------------------------)
 
+10- What does useEffect accomplish?
+
+Ans- useEffect connects components to external systems and handles side effects.
+
+(------------------------------------------------------------------------)
 
