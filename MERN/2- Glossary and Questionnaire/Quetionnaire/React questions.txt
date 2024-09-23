@@ -1157,3 +1157,9 @@ Ans- React converts JSX into JavaScript function calls (using `React.createEleme
 Ans- React components must return a single root element because JSX expressions must have one parent container.
 
 (--------------------------------------------------------------------------)
+
+194- What is the purpose of the <Fragment> element in React?
+
+Ans- <Fragment> allows grouping multiple elements without adding extra nodes to the DOM.
+
+(--------------------------------------------------------------------------)
