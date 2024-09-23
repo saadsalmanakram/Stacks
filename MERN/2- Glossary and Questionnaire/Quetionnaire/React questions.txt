@@ -2430,3 +2430,8 @@ Ans- React queues the updates and processes them after the event handler complet
 
 (---------------------------------------------------------------------------)
 
+405- Why does React discard the initial state in an updater function when a value is passed later in the queue?
+
+Ans- Passing a value like setState(42) replaces the state, overriding any prior updates in the queue.
+
+(---------------------------------------------------------------------------)
