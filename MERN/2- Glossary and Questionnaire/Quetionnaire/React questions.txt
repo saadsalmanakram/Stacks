@@ -4176,3 +4176,15 @@ Ans- By using React.memo or key props to minimize unnecessary re-renders.
 
 (--------------------------------------------------------------------------)
 
+677- What happens if you don’t provide a dependency array in useEffect?
+
+Ans- The effect will run after every render, which can lead to performance issues.
+
+(--------------------------------------------------------------------------)
+
+678- How can you prevent a function from being called multiple times in a useEffect?
+
+Ans- By implementing a flag or using cleanup to ignore calls that happen after a certain point.
+
+(--------------------------------------------------------------------------)
+
