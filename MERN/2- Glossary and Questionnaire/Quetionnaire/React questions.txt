@@ -1308,3 +1308,10 @@ Ans- Custom attributes follow camelCase notation, except for aria-* and data-* a
 
 (--------------------------------------------------------------------------)
 
+219- What is the benefit of using JSX fragments?
+
+Ans- Fragments allow you to group multiple elements without adding unnecessary nodes to the DOM.
+
+(--------------------------------------------------------------------------)
+
+
