@@ -3516,3 +3516,9 @@ Ans- useEffect is used to synchronize React components with external systems lik
 
 (--------------------------------------------------------------------------)
 
+566- How can you clean up side effects in React?
+
+Ans- By returning a cleanup function from useEffect, you can clean up resources like timers, subscriptions, or event listeners.
+
+(--------------------------------------------------------------------------)
+
