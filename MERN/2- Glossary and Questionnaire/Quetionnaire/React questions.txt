@@ -4800,3 +4800,8 @@ Ans- Including event handlers can cause unnecessary re-renders or re-establishin
 
 (--------------------------------------------------------------------------)
 
+781- How can you prevent a custom hook from reconnecting on every render?
+
+Ans- By wrapping the event handler in useEffectEvent to stabilize its reference and avoid adding it to the dependency array.
+
+(--------------------------------------------------------------------------)
