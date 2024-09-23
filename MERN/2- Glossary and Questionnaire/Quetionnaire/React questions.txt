@@ -4764,3 +4764,9 @@ Ans- Keep them reusable, maintainable, and ensure they follow React's rules of h
 
 (--------------------------------------------------------------------------)
 
+775- How can you test custom hooks?
+
+Ans- Use React Testing Library’s renderHook method to test the behavior of custom hooks in isolation.
+
+(--------------------------------------------------------------------------)
+
