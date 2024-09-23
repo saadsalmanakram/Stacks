@@ -2453,3 +2453,9 @@ Ans- An updater function uses the previous state to calculate the new state, whi
 Ans- React does this to help developers detect and fix side effects or impure updates within the updater function.
 
 (---------------------------------------------------------------------------)
+
+409- What’s the difference between passing a function and passing a value to setState in terms of how React processes them?
+
+Ans- Passing a value replaces the state immediately, while passing a function allows you to compute the new state based on the previous state.
+
+(---------------------------------------------------------------------------)
