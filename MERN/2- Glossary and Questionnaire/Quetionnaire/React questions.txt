@@ -1199,3 +1199,9 @@ Ans- Use import ComponentName from './Component.js'; without curly braces.
 Ans- Use import { ComponentName } from './Component.js'; with curly braces.
 
 (--------------------------------------------------------------------------)
+
+201- Can a file have more than one default export?
+
+Ans- No, a file can only have one default export.
+
+(--------------------------------------------------------------------------)
