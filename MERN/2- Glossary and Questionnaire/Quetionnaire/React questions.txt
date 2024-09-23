@@ -3239,3 +3239,9 @@ Ans- useReducer returns the current state and the dispatch function.
 Ans- It decreases component complexity and makes state logic reusable and easier to test.
 
 (-------------------------------------------------------------------------)
+
+540- What happens if the reducer receives an unknown action type?
+
+Ans- It should throw an error to indicate that the action type is not recognized.
+
+(-------------------------------------------------------------------------)
