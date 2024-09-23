@@ -2207,3 +2207,10 @@ Ans- The initial render is triggered when the app starts and the component is re
 Ans- A re-render is triggered when a component's state or one of its ancestors' state updates.
 
 (--------------------------------------------------------------------------)
+
+368- What is the difference between rendering and committing in React?
+
+Ans- Rendering is the process of calculating the virtual DOM, while committing involves updating the actual DOM with any changes.
+
+(--------------------------------------------------------------------------)
+
