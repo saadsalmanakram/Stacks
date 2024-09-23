@@ -1674,4 +1674,10 @@ Ans- Use filter() to create two separate arrays and render them independently in
 
 (--------------------------------------------------------------------------)
 
+280- How would you create a nested list in React?
+
+Ans- Render a list by mapping over a parent array, and within each item, map over a child array to create nested JSX elements.
+
+(--------------------------------------------------------------------------)
+
 
