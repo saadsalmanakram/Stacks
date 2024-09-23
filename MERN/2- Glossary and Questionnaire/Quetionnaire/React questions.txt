@@ -713,5 +713,11 @@ Ans- You can install them using 'npm install @types/react @types/react-dom'
 
 (--------------------------------------------------------------------------)
 
+121- What configuration changes are necessary for TypeScript in React projects?
+
+Ans- The dom must be included in lib in tsconfig.json, and jsx must be set to a valid option.
+
+(--------------------------------------------------------------------------)
+
 
 
