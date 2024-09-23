@@ -58,3 +58,9 @@ Ans- useEffect connects components to external systems and handles side effects.
 
 (------------------------------------------------------------------------)
 
+11- When should you use useLayoutEffect?
+
+Ans- Use useLayoutEffect for operations that require measurement before the browser paints.
+
+(------------------------------------------------------------------------)
+
