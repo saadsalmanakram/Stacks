@@ -984,4 +984,9 @@ Ans- A React component is created by defining a JavaScript function that returns
 
 (--------------------------------------------------------------------------)
 
+165- Why is JSX used in React?
+
+Ans- JSX is a syntax extension that allows embedding HTML-like markup directly within JavaScript, making the UI structure easier to visualize.
+
+(--------------------------------------------------------------------------)
 
