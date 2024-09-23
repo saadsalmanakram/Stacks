@@ -1056,4 +1056,9 @@ Ans- React uses keys to track changes, additions, or removals in list elements, 
 
 (--------------------------------------------------------------------------)
 
+177- What happens if you mutate a prop in React?
+
+Ans- Mutating a prop in React is discouraged because props are read-only, and changing them can lead to unpredictable behavior.
+
+(--------------------------------------------------------------------------)
 
