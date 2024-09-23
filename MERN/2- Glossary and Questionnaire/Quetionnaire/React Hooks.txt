@@ -106,3 +106,8 @@ Ans- useId generates unique IDs for accessibility and element associations.
 
 (------------------------------------------------------------------------)
 
+19- What does useSyncExternalStore allow a component to do?
+
+Ans- useSyncExternalStore lets a component subscribe to an external store for state management.
+
+(------------------------------------------------------------------------)
