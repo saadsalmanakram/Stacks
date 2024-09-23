@@ -2393,3 +2393,9 @@ Ans- Updater functions allow state updates based on the previous state, ensuring
 Ans- React will batch the state updates and process them after the event handler completes.
 
 (--------------------------------------------------------------------------)
+
+399- Why doesn't setState immediately change the state variable in React?
+
+Ans- setState schedules an update and triggers a re-render, but the current render’s state values remain unchanged until the next render.
+
+(--------------------------------------------------------------------------)
