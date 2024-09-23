@@ -2543,3 +2543,10 @@ Ans- Use multiple levels of the spread operator, or use a library like Immer to 
 Ans- Immer allows you to write "mutating" code that automatically produces an immutable state update by handling copying behind the scenes.
 
 (---------------------------------------------------------------------------)
+
+424- When should you consider using Immer in a React application?
+
+Ans- When managing complex or deeply nested state structures, where spread operators become too verbose or error-prone.
+
+(---------------------------------------------------------------------------)
+
