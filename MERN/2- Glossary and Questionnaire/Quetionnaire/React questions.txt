@@ -2189,3 +2189,9 @@ Ans- Each instance of a component maintains its own state, so changes in one ins
 Ans- Complex state can lead to difficulties in managing and updating the state, especially when dealing with nested properties.
 
 (--------------------------------------------------------------------------)
+
+365- What does rendering mean in React?
+
+Ans- Rendering in React refers to calling the component's function to figure out what to display on the screen.
+
+(--------------------------------------------------------------------------)
