@@ -1650,4 +1650,10 @@ Ans- Use stable and unique IDs from your data as keys, and avoid using the array
 
 (--------------------------------------------------------------------------)
 
+276- How can you handle dynamic updates in a list?
+
+Ans- Ensure each item has a unique key and manage state properly, so React can re-render efficiently.
+
+(--------------------------------------------------------------------------)
+
 
