@@ -4848,3 +4848,9 @@ Ans- It streamlines state synchronization with external sources, handling edge c
 
 (--------------------------------------------------------------------------)
 
+789- Why should custom hooks be named with a prefix "use"?
+
+Ans- Naming them with "use" signals to React and developers that the function is a hook and can use other hooks within its implementation.
+
+(--------------------------------------------------------------------------)
+
