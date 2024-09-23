@@ -4224,3 +4224,21 @@ Ans- An Effect re-synchronizes when its dependencies change, reflecting new prop
 
 (--------------------------------------------------------------------------)
 
+685- What does an empty dependency array in useEffect signify?
+
+Ans- An empty dependency array means the Effect runs only once after the initial render and does not re-run on subsequent renders.
+
+(--------------------------------------------------------------------------)
+
+686- How does React ensure that Effect dependencies are correct?
+
+Ans- React uses a linter rule to check that all dependencies are specified correctly, ensuring Effects stay in sync with relevant values.
+
+(--------------------------------------------------------------------------)
+
+687- What happens if you don’t specify a dependency in an Effect?
+
+Ans- Omitting a dependency may lead to stale data, as the Effect won’t re-synchronize when that dependency changes.
+
+(--------------------------------------------------------------------------)
+
