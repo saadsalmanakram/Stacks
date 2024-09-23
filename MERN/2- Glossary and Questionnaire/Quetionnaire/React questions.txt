@@ -2231,3 +2231,9 @@ Ans- Given the same inputs, rendering should always return the same output witho
 Ans- In the commit phase, React applies minimal changes to the DOM to reflect the latest rendered output.
 
 (--------------------------------------------------------------------------)
+
+372- What role does state play in React rendering?
+
+Ans- State updates trigger re-renders, causing React to recalculate what should be displayed.
+
+(--------------------------------------------------------------------------)
