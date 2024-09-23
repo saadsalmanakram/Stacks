@@ -2286,3 +2286,9 @@ Ans- When you set state, React schedules a re-render, which updates the UI based
 
 (--------------------------------------------------------------------------)
 
+381- Why doesn’t state update immediately after you set it?
+
+Ans- State updates are asynchronous, and React batches them to optimize performance.
+
+(--------------------------------------------------------------------------)
+
