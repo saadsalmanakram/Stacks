@@ -1062,3 +1062,9 @@ Ans- Mutating a prop in React is discouraged because props are read-only, and ch
 
 (--------------------------------------------------------------------------)
 
+178- How do you handle conditional rendering using ternary operators in React?
+
+Ans- Ternary operators (condition ? true : false) are used to conditionally render different JSX elements in React.
+
+(--------------------------------------------------------------------------)
+
