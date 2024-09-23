@@ -3108,3 +3108,15 @@ Ans- It is appropriate to reset a component's state when the user performs an ac
 
 (-------------------------------------------------------------------------)
 
+518- How does React handle state when a component is conditionally rendered?
+
+Ans- If a component is removed and then added back in a different render, it initializes with a new state.
+
+(-------------------------------------------------------------------------)
+
+519- What role do props play in state management between components?
+
+Ans- Props allow components to communicate and can influence state behavior, but they do not directly manage state; they are for passing data.
+
+(-------------------------------------------------------------------------)
+
