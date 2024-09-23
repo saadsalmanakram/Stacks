@@ -2706,3 +2706,9 @@ Ans- A reducer consolidates state update logic into a single function, making it
 
 (---------------------------------------------------------------------------)
 
+451- What are the benefits of using context for state management?
+
+Ans- Context allows for easier data sharing between deeply nested components without prop drilling.
+
+(---------------------------------------------------------------------------)
+
