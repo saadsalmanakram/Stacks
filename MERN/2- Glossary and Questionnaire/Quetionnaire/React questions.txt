@@ -894,4 +894,10 @@ Ans- React Compiler requires React 19 RC or later, or a userspace implementation
 
 (--------------------------------------------------------------------------)
 
+150- How does the React Compiler optimize code?
+
+Ans- It analyzes your components and hooks, applying memoization automatically to reduce re-renders.
+
+(--------------------------------------------------------------------------)
+
 
