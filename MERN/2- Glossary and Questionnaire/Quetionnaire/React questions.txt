@@ -3036,3 +3036,9 @@ Ans- Prop drilling occurs when props are passed through multiple layers of compo
 
 (-------------------------------------------------------------------------)
 
+506- What determines whether a component's state is preserved or reset in React?
+
+Ans- The position of the component in the render tree determines if its state is preserved.
+
+(-------------------------------------------------------------------------)
+
