@@ -2070,3 +2070,10 @@ Ans- The default behavior will cause the page to reload, interrupting any custom
 
 (--------------------------------------------------------------------------)
 
+346- How do you prevent default form submission behavior in React?
+
+Ans- By calling e.preventDefault() within the onSubmit handler of the form.
+
+(--------------------------------------------------------------------------)
+
+
