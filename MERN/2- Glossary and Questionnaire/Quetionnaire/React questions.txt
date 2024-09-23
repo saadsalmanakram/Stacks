@@ -1614,4 +1614,10 @@ Ans- React will issue a warning and may have difficulty managing component state
 
 (--------------------------------------------------------------------------)
 
+270- Can you use array indexes as keys? Why or why not?
+
+Ans- Using indexes can lead to bugs due to changes in item order, so unique identifiers are preferred.
+
+(--------------------------------------------------------------------------)
+
 
