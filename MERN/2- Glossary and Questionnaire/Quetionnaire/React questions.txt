@@ -2466,3 +2466,8 @@ Ans- React processes each event handler separately, triggering re-renders after 
 
 (---------------------------------------------------------------------------)
 
+411- Why should updater functions be pure in React?
+
+Ans- Updater functions should be pure because they are executed during rendering, and side effects can cause unpredictable behavior.
+
+(---------------------------------------------------------------------------)
