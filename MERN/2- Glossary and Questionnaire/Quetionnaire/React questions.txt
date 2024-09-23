@@ -2334,3 +2334,14 @@ Ans- Event handlers use the state snapshot from the render in which they were cr
 
 (--------------------------------------------------------------------------)
 
+389- Why doesn’t the state change immediately within an event handler?
+
+Ans- React updates state after the event handler finishes executing, based on the snapshot taken during rendering.
+
+(--------------------------------------------------------------------------)
+
+
+
+
+
+
