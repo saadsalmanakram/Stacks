@@ -3197,3 +3197,10 @@ Ans- Move state-setting logic to a reducer, dispatch actions from event handlers
 Ans- Switch statements improve readability by clearly separating different actions.
 
 (-------------------------------------------------------------------------)
+
+533- Can a reducer function be tested separately?
+
+Ans- Yes, since a reducer is a pure function, it can be tested in isolation.
+
+(-------------------------------------------------------------------------)
+
