@@ -4194,3 +4194,15 @@ Ans- It initializes the state of todos when the component first renders.
 
 (--------------------------------------------------------------------------)
 
+680- How can you efficiently update multiple state variables in response to a single event?
+
+Ans- By batching state updates within a single event handler, minimizing re-renders.
+
+(--------------------------------------------------------------------------)
+
+681- What is a common pattern for fetching data on component mount?
+
+Ans- Using useEffect with an empty dependency array to perform the fetch only once after the initial render.
+
+(--------------------------------------------------------------------------)
+
