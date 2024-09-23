@@ -3491,3 +3491,10 @@ Ans- Escape hatches allow you to interact with external systems and DOM elements
 Ans- Refs don’t cause re-renders when their value changes, while updating state triggers a re-render.
 
 (--------------------------------------------------------------------------)
+
+562- How can you "remember" information without triggering a re-render in React?
+
+Ans- You can use useRef to store values that persist across renders without causing re-renders.
+
+(--------------------------------------------------------------------------)
+
