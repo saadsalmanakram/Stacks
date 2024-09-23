@@ -1764,3 +1764,9 @@ Ans- Impure components can create side effects, causing inconsistencies, race co
 
 (--------------------------------------------------------------------------)
 
+295- What is the role of useEffect in keeping components pure?
+
+Ans- useEffect allows you to perform side effects after rendering, keeping the rendering phase pure.
+
+(--------------------------------------------------------------------------)
+
