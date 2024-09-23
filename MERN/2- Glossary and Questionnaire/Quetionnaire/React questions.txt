@@ -2723,3 +2723,10 @@ Ans- Use a reducer function to manage complex state logic, responding to specifi
 Ans- Local state is managed within a specific component, while global state is shared across multiple components, often using context or state management libraries.
 
 (---------------------------------------------------------------------------)
+
+454- How do you pass data without prop drilling?
+
+Ans- Utilize context API to make data available to components without explicitly passing it through every layer.
+
+(---------------------------------------------------------------------------)
+
