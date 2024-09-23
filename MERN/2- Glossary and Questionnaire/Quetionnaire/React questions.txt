@@ -2292,3 +2292,8 @@ Ans- State updates are asynchronous, and React batches them to optimize performa
 
 (--------------------------------------------------------------------------)
 
+382- How do event handlers access state in React?
+
+Ans- Event handlers access the “snapshot” of the state from the render during which they were created.
+
+(--------------------------------------------------------------------------)
