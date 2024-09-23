@@ -4607,3 +4607,10 @@ Ans- When it handles unrelated tasks or dependencies that should react independe
 Ans- Use updater functions or separate the logic into different effects.
 
 (--------------------------------------------------------------------------)
+
+749- What is the role of cleanup functions in useEffect?
+
+Ans- To perform cleanup actions when the component unmounts or before the effect runs again.
+
+(--------------------------------------------------------------------------)
+
