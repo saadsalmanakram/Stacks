@@ -1656,4 +1656,10 @@ Ans- Ensure each item has a unique key and manage state properly, so React can r
 
 (--------------------------------------------------------------------------)
 
+277- Explain the concept of 'block body' in arrow functions.
+
+Ans- A block body uses curly braces and requires an explicit return statement for the value to be returned.
+
+(--------------------------------------------------------------------------)
+
 
