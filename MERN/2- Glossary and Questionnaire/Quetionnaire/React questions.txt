@@ -4758,3 +4758,9 @@ Ans- Overusing custom hooks can lead to increased complexity and make the codeba
 
 (--------------------------------------------------------------------------)
 
+774- What are some best practices for writing custom hooks?
+
+Ans- Keep them reusable, maintainable, and ensure they follow React's rules of hooks.
+
+(--------------------------------------------------------------------------)
+
