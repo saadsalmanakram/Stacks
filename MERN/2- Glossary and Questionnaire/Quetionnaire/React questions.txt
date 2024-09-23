@@ -4482,3 +4482,9 @@ Ans- They can only be used inside Effects and cannot be passed around to other c
 
 (--------------------------------------------------------------------------)
 
+728- How do you ensure an Effect Event reads the latest values?
+
+Ans- By passing necessary variables explicitly as arguments to the Effect Event, ensuring they reflect the current state.
+
+(--------------------------------------------------------------------------)
+
