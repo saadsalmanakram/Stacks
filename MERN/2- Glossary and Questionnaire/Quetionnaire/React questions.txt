@@ -1380,3 +1380,9 @@ Ans- Double curly braces represent passing a JavaScript object inside JSX, often
 
 (--------------------------------------------------------------------------)
 
+231- What are valid places where you can use curly braces in JSX?
+
+Ans- Curly braces can be used in JSX tag content and immediately after = in attributes.
+
+(--------------------------------------------------------------------------)
+
