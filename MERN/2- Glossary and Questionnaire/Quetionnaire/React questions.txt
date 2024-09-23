@@ -1205,3 +1205,9 @@ Ans- Use import { ComponentName } from './Component.js'; with curly braces.
 Ans- No, a file can only have one default export.
 
 (--------------------------------------------------------------------------)
+
+202- How can you export multiple components from the same file?
+
+Ans- You can export one component as a default export and others as named exports.
+
+(--------------------------------------------------------------------------)
