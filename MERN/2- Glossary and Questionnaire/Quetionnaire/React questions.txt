@@ -978,3 +978,10 @@ Ans- For Expo and React Native, refer to their respective docs to enable the Rea
 
 (--------------------------------------------------------------------------)
 
+164- How do you create a React component?
+
+Ans- A React component is created by defining a JavaScript function that returns JSX, which is similar to HTML.
+
+(--------------------------------------------------------------------------)
+
+
