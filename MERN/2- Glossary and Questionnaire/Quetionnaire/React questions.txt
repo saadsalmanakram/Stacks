@@ -1925,3 +1925,10 @@ Ans- State updates are asynchronous and are batched for performance, meaning the
 Ans- By using an updater function in the setter, you can queue updates based on the current state value.
 
 (--------------------------------------------------------------------------)
+
+322- How do you update an object in state?
+
+Ans- Create a new object with updated properties using the spread operator and set state with this new object.
+
+(--------------------------------------------------------------------------)
+
