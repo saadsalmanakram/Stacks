@@ -3102,3 +3102,9 @@ Ans- A common pitfall is assuming that conditional rendering won't affect state 
 
 (-------------------------------------------------------------------------)
 
+517- When is it appropriate to reset a component's state intentionally?
+
+Ans- It is appropriate to reset a component's state when the user performs an action that requires starting over, such as a form reset.
+
+(-------------------------------------------------------------------------)
+
