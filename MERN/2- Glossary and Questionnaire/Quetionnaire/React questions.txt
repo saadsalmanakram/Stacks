@@ -2058,3 +2058,9 @@ Ans- Yes, you can use custom names for event handler props, but they should star
 
 (--------------------------------------------------------------------------)
 
+344- What is a common mistake when passing event handlers?
+
+Ans- A common mistake is calling the function instead of passing it, e.g., using onClick={handleClick()} instead of onClick={handleClick}.
+
+(--------------------------------------------------------------------------)
+
