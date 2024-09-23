@@ -2922,3 +2922,8 @@ Ans- When each variable can be updated independently without risk of inconsisten
 
 (---------------------------------------------------------------------------)
 
+487- What is an example of avoiding deeply nested state?
+
+Ans- Instead of using an object with multiple layers, use an array of objects with flat properties.
+
+(---------------------------------------------------------------------------)
