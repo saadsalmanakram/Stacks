@@ -4140,3 +4140,14 @@ Ans- It provides a more reliable and efficient way to synchronize with external 
 
 (--------------------------------------------------------------------------)
 
+671- What does the didInit variable accomplish in the App component?
+
+Ans- It ensures that initialization logic runs only once per application load, preventing duplicate executions.
+
+(--------------------------------------------------------------------------)
+
+672- How do you avoid stale closures in event handlers?
+
+Ans- By using the current state directly in the event handler or using functional updates for state setters.
+
+(--------------------------------------------------------------------------)
