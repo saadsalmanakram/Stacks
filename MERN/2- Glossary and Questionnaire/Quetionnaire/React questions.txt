@@ -2376,4 +2376,11 @@ Ans- Batching is the process where React groups multiple state updates into a si
 
 (--------------------------------------------------------------------------)
 
+396- Why does React batch state updates?
+
+Ans- React batches state updates to avoid unnecessary re-renders and improve the performance of your app.
+
+(--------------------------------------------------------------------------)
+
+
 
