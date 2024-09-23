@@ -2694,3 +2694,9 @@ Ans- "Lifting state up" refers to moving state to a common ancestor component to
 
 (---------------------------------------------------------------------------)
 
+449- How can you preserve or reset state during re-renders?
+
+Ans- Use unique keys for components to force React to recreate them, effectively resetting their state upon re-render.
+
+(---------------------------------------------------------------------------)
+
