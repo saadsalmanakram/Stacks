@@ -1566,4 +1566,22 @@ Ans- By extracting parts of the conditional logic into variables or smaller comp
 
 (--------------------------------------------------------------------------)
 
+262- How can you conditionally wrap JSX with HTML tags in React?
+
+Ans- Use the ternary operator to conditionally apply wrapping tags like <del> based on a condition.
+
+(--------------------------------------------------------------------------)
+
+263- What is the benefit of assigning JSX to a variable for conditional rendering?
+
+Ans- It offers flexibility and readability, especially when multiple conditions or complex JSX are involved.
+
+(--------------------------------------------------------------------------)
+
+264- What is a common mistake when using conditional rendering in React with a numeric value?
+
+Ans- Accidentally rendering 0 instead of nothing when using the && operator with numeric values.
+
+(--------------------------------------------------------------------------)
+
 
