@@ -4734,3 +4734,9 @@ Ans- A custom hook typically contains state management and side effects, returni
 
 (--------------------------------------------------------------------------)
 
+770- How do you handle cleanup in custom hooks?
+
+Ans- Use the return function from useEffect within the custom hook to manage cleanup.
+
+(--------------------------------------------------------------------------)
+
