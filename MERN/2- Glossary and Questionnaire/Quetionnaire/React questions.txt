@@ -4668,4 +4668,10 @@ Ans- Implement conditional logic based on dependencies and use cleanup functions
 
 (--------------------------------------------------------------------------)
 
+759- Can separate effects improve the readability of your code?
+
+Ans- Yes, they make the code easier to understand by clearly defining the purpose and scope of each effect.
+
+(--------------------------------------------------------------------------)
+
 
