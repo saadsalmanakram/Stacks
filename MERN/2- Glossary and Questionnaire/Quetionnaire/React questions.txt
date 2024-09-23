@@ -3714,3 +3714,9 @@ Ans- The initial value of myRef.current is null until React assigns the DOM elem
 
 (--------------------------------------------------------------------------)
 
+599- When would you use refs in React?
+
+Ans- Refs are used when you need to directly manipulate a DOM element, like focusing an input or scrolling an element.
+
+(--------------------------------------------------------------------------)
+
