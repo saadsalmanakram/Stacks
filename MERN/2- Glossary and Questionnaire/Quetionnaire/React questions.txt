@@ -4025,3 +4025,10 @@ Ans- Use useMemo to memoize values and prevent recalculating unless dependencies
 Ans- Calculate derived state during rendering instead of storing it in state.
 
 (--------------------------------------------------------------------------)
+
+652- What is the preferred way to reset component state when a prop changes?
+
+Ans- Use the key prop to recreate the component, resetting its state automatically.
+
+(--------------------------------------------------------------------------)
+
