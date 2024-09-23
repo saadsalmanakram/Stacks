@@ -1584,4 +1584,10 @@ Ans- Accidentally rendering 0 instead of nothing when using the && operator with
 
 (--------------------------------------------------------------------------)
 
+265- What is the purpose of using map() in React?
+
+Ans- map() is used to transform an array into an array of JSX elements for rendering.
+
+(--------------------------------------------------------------------------)
+
 
