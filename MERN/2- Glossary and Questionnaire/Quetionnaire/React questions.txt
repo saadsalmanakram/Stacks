@@ -4122,3 +4122,14 @@ Ans- By returning a cleanup function from the useEffect, you can remove any subs
 
 (--------------------------------------------------------------------------)
 
+668- What is the benefit of "lifting state up" in React?
+
+Ans- It allows multiple components to share and synchronize state, reducing complexity in managing state across nested components.
+
+(--------------------------------------------------------------------------)
+
+669- What is the significance of checking isGameOver before executing certain functions?
+
+Ans- It prevents state updates and logic execution when the game has already ended, avoiding errors.
+
+(--------------------------------------------------------------------------)
