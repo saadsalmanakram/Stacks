@@ -930,3 +930,10 @@ Ans- While it’s experimental, you can try it in small projects to provide feed
 
 (--------------------------------------------------------------------------)
 
+156- How can you integrate the React Compiler with Babel?
+
+Ans- Install `babel-plugin-react-compiler` and ensure it runs first in the Babel pipeline for proper analysis.
+
+(--------------------------------------------------------------------------)
+
+
