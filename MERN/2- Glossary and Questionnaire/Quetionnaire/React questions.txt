@@ -1919,3 +1919,9 @@ Ans- The useState Hook allows functional components to have state by declaring s
 Ans- State updates are asynchronous and are batched for performance, meaning the new state isn't available immediately after the setter is called.
 
 (--------------------------------------------------------------------------)
+
+321- How can you queue multiple state updates in React?
+
+Ans- By using an updater function in the setter, you can queue updates based on the current state value.
+
+(--------------------------------------------------------------------------)
