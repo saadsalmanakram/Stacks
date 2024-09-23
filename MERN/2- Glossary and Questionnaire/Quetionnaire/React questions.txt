@@ -1014,3 +1014,16 @@ Ans- Curly braces allow embedding JavaScript expressions inside JSX, providing d
 
 (--------------------------------------------------------------------------)
 
+170- What is meant by keeping React components pure?
+
+Ans- Pure components do not modify external variables and produce the same output for the same inputs, making them predictable and bug-free.
+
+(--------------------------------------------------------------------------)
+
+171- What does it mean that the UI in React is treated as a tree?
+
+Ans- React models the UI as a hierarchical tree of components, with the root component at the top and child components nested below.
+
+(--------------------------------------------------------------------------)
+
+
