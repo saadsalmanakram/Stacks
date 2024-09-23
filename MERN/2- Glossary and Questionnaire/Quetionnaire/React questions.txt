@@ -1085,3 +1085,15 @@ Ans- Functional components and class components (though functional components ar
 Ans- You export a React component using export default or export to use it in other parts of your app.
 
 (--------------------------------------------------------------------------)
+
+182- What is the purpose of the export default statement?
+
+Ans- It marks the main function in a file for export, allowing it to be imported in other files.
+
+(--------------------------------------------------------------------------)
+
+183- How can components be reused in React?
+
+Ans- Components can be reused by importing and embedding them like HTML tags inside other components.
+
+(--------------------------------------------------------------------------)
