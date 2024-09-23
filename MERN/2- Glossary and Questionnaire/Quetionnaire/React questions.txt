@@ -2184,3 +2184,8 @@ Ans- Each instance of a component maintains its own state, so changes in one ins
 
 (--------------------------------------------------------------------------)
 
+364- Why should you avoid storing complex objects in state?
+
+Ans- Complex state can lead to difficulties in managing and updating the state, especially when dealing with nested properties.
+
+(--------------------------------------------------------------------------)
