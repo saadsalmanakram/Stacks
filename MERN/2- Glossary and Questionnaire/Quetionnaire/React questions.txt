@@ -4398,3 +4398,9 @@ Ans- Effects re-run whenever their dependencies change, allowing them to synchro
 
 (--------------------------------------------------------------------------)
 
+714- When should you use an event handler instead of an Effect?
+
+Ans- Use an event handler for logic that should only execute in response to a specific user action, like clicking a button.
+
+(--------------------------------------------------------------------------)
+
