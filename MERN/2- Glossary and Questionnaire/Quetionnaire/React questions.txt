@@ -4656,5 +4656,10 @@ Ans- Unnecessary calls can lead to increased latency, wasted resources, and pote
 
 (--------------------------------------------------------------------------)
 
+757- How would you implement separate effects in a React application?
+
+Ans- By using hooks like useEffect with unique dependencies for each request to ensure they operate independently.
+
+(--------------------------------------------------------------------------)
 
 
