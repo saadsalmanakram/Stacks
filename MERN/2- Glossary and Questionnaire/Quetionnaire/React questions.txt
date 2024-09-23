@@ -3426,3 +3426,9 @@ Ans- To maintain modularity and declutter your components by separating logic fr
 
 (--------------------------------------------------------------------------)
 
+551- What is the advantage of moving both reducer and context into a single file?
+
+Ans- It centralizes state management and logic, simplifying imports and structure across components.
+
+(--------------------------------------------------------------------------)
+
