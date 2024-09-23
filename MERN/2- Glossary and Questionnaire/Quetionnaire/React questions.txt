@@ -3995,3 +3995,16 @@ Ans- It’s a development-only behavior to ensure that Effects are correctly set
 Ans- Use request deduplication or caching to handle multiple requests without affecting the app’s performance.
 
 (--------------------------------------------------------------------------)
+
+646- Why shouldn't you use useEffect for one-time app initialization logic?
+
+Ans- One-time initialization logic should be placed outside of components, as Effects are tied to the component’s lifecycle.
+
+(--------------------------------------------------------------------------)
+
+647- How does React ensure your components behave the same after remounting?
+
+Ans- By remounting components in development, React ensures that Effects clean up properly, mimicking real-world navigation patterns.
+
+(--------------------------------------------------------------------------)
+
