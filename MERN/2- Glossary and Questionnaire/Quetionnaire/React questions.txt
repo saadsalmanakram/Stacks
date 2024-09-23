@@ -2358,5 +2358,10 @@ Ans- React will only trigger one re-render, as it batches state updates and opti
 
 (--------------------------------------------------------------------------)
 
+393- What is the role of the useState hook in managing state?
+
+Ans- The useState hook initializes state and returns a state variable along with a function to update it.
+
+(--------------------------------------------------------------------------)
 
 
