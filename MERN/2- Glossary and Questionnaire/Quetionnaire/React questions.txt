@@ -4242,3 +4242,9 @@ Ans- Omitting a dependency may lead to stale data, as the Effect won’t re-sync
 
 (--------------------------------------------------------------------------)
 
+688- What is a cleanup function in useEffect?
+
+Ans- A cleanup function is a function returned by an Effect to specify how to stop or clean up the synchronization process.
+
+(--------------------------------------------------------------------------)
+
