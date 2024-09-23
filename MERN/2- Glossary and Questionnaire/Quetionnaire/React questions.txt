@@ -1841,3 +1841,9 @@ Ans- Modules represent files containing components or logic, while components ar
 Ans- They help in understanding which modules are necessary for the app, aiding in debugging and optimizing bundle sizes.
 
 (--------------------------------------------------------------------------)
+
+308- How does React utilize the render tree during rendering?
+
+Ans- React uses the render tree to efficiently update the DOM based on changes in component state or props.
+
+(--------------------------------------------------------------------------)
