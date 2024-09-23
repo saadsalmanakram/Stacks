@@ -3120,3 +3120,9 @@ Ans- Props allow components to communicate and can influence state behavior, but
 
 (-------------------------------------------------------------------------)
 
+520- What is the significance of using useState in functional components?
+
+Ans- useState allows functional components to manage state, enabling them to maintain and update local state values across renders.
+
+(-------------------------------------------------------------------------)
+
