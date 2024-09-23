@@ -2154,3 +2154,8 @@ Ans- State is managed within a component and can change over time, while props a
 
 (--------------------------------------------------------------------------)
 
+360- What is an example of when to combine multiple state variables into one?
+
+Ans- When you have related pieces of state that change together, like form inputs, it's better to use a single object.
+
+(--------------------------------------------------------------------------)
