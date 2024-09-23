@@ -3780,3 +3780,9 @@ Ans- It allows a component to expose its child’s DOM node to a parent through 
 
 (--------------------------------------------------------------------------)
 
+610- How can you safely modify parts of the DOM in React?
+
+Ans- You can modify parts of the DOM that React does not manage, such as elements that React never needs to update.
+
+(--------------------------------------------------------------------------)
+
