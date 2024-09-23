@@ -4824,3 +4824,9 @@ Ans- Not every duplicated code segment requires extraction; minor duplications c
 
 (--------------------------------------------------------------------------)
 
+785- What is the significance of ensuring all dependencies are declared in useEffect?
+
+Ans- Declaring all dependencies prevents stale closures and ensures that the effect runs with the latest values, avoiding bugs.
+
+(--------------------------------------------------------------------------)
+
