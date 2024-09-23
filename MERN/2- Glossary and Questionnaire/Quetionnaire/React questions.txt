@@ -3234,3 +3234,8 @@ Ans- useReducer returns the current state and the dispatch function.
 
 (-------------------------------------------------------------------------)
 
+539- Why is it beneficial to move reducer logic outside a component?
+
+Ans- It decreases component complexity and makes state logic reusable and easier to test.
+
+(-------------------------------------------------------------------------)
