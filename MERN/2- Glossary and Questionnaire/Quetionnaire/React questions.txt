@@ -1416,3 +1416,15 @@ Ans- You pass props to a child component by adding them as attributes in JSX, e.
 
 (--------------------------------------------------------------------------)
 
+237- How can you read props inside a component?
+
+Ans- You read props by accessing them as function arguments using destructuring, e.g., function Component({ propName }).
+
+(--------------------------------------------------------------------------)
+
+238- What are the similarities between HTML attributes and React props?
+
+Ans- Props in React are similar to HTML attributes but can accept any JavaScript values, including objects, arrays, and functions.
+
+(--------------------------------------------------------------------------)
+
