@@ -3204,3 +3204,9 @@ Ans- Yes, since a reducer is a pure function, it can be tested in isolation.
 
 (-------------------------------------------------------------------------)
 
+534- What are the benefits of consolidating state logic into a reducer?
+
+Ans- It reduces complexity, improves readability, and centralizes state logic.
+
+(-------------------------------------------------------------------------)
+
