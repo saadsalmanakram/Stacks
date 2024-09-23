@@ -4158,3 +4158,8 @@ Ans- It helps to prevent memory leaks and removes any side effects when the comp
 
 (--------------------------------------------------------------------------)
 
+674- What is the advantage of using a controlled component?
+
+Ans- It centralizes the state in the parent component, making it easier to manage and predict state changes.
+
+(--------------------------------------------------------------------------)
