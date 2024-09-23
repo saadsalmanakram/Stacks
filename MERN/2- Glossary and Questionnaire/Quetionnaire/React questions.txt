@@ -1362,4 +1362,9 @@ Ans- Yes, functions can be passed using curly braces, e.g., {formatDate(today)}.
 
 (--------------------------------------------------------------------------)
 
+228- What does {{ backgroundColor: 'black' }} mean in JSX?
+
+Ans- It represents a JavaScript object inside JSX curly braces, typically for inline styles.
+
+(--------------------------------------------------------------------------)
 
