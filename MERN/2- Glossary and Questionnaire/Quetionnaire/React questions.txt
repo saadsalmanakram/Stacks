@@ -3078,3 +3078,9 @@ Ans- Rendering different components at the same position will reset the state of
 
 (-------------------------------------------------------------------------)
 
+513- How does updating a parent component's state affect child component state?
+
+Ans- If the child component remains at the same position in the tree, its state will not reset; otherwise, it will.
+
+(-------------------------------------------------------------------------)
+
