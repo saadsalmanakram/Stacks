@@ -4188,3 +4188,9 @@ Ans- By implementing a flag or using cleanup to ignore calls that happen after a
 
 (--------------------------------------------------------------------------)
 
+679- What’s the purpose of using the initialTodos in the TodoList component?
+
+Ans- It initializes the state of todos when the component first renders.
+
+(--------------------------------------------------------------------------)
+
