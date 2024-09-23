@@ -1506,3 +1506,10 @@ Ans- You can use an if statement to return different JSX based on a condition, c
 
 (--------------------------------------------------------------------------)
 
+252- How does the ternary operator work in React for conditional rendering?
+
+Ans- The ternary operator ? : allows concise conditional rendering by returning one of two expressions based on the truthiness of a condition.
+
+(--------------------------------------------------------------------------)
+
+
