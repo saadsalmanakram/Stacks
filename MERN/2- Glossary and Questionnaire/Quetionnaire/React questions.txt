@@ -1002,3 +1002,9 @@ Ans- Multiple components can be rendered by mapping through arrays and returning
 
 (--------------------------------------------------------------------------)
 
+168- Why are keys important in list rendering in React?
+
+Ans- Keys help React uniquely identify items in a list to efficiently update or reorder them.
+
+(--------------------------------------------------------------------------)
+
