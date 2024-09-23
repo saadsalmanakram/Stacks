@@ -1811,3 +1811,9 @@ Ans- It helps in understanding the relationships between components and optimizi
 Ans- It shows the parent-child relationships among components and identifies top-level and leaf components.
 
 (--------------------------------------------------------------------------)
+
+303- How does conditional rendering affect the render tree?
+
+Ans- Conditional rendering can alter the structure of the render tree across different renders, depending on the props.
+
+(--------------------------------------------------------------------------)
