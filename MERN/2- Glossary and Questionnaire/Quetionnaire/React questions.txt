@@ -2147,3 +2147,10 @@ Ans- Use a similar state update logic for the previous index and conditionally p
 Ans- Local variables do not persist between renders and do not trigger re-renders.
 
 (--------------------------------------------------------------------------)
+
+359- What is the difference between state and props?
+
+Ans- State is managed within a component and can change over time, while props are passed down from parent components and are immutable.
+
+(--------------------------------------------------------------------------)
+
