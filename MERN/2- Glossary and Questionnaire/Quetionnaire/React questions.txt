@@ -2016,3 +2016,9 @@ Ans- They should be prefixed with "handle" followed by the event name, e.g., han
 
 (--------------------------------------------------------------------------)
 
+337- What is event propagation in React?
+
+Ans- It refers to the way events bubble up from child to parent components, triggering parent handlers.
+
+(--------------------------------------------------------------------------)
+
