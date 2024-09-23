@@ -1248,3 +1248,9 @@ Ans- It will still work in React, although it’s closer to ES Modules standards
 
 (--------------------------------------------------------------------------)
 
+209- Why would you export a component both as a default and named export?
+
+Ans- To allow flexibility in how the component is imported by different parts of the application.
+
+(--------------------------------------------------------------------------)
+
