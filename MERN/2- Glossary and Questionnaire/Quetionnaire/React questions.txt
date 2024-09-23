@@ -3690,3 +3690,20 @@ Ans- useRef returns an object like { current: initialValue }, and you access the
 
 (--------------------------------------------------------------------------)
 
+595- What is the use of useRef in React?
+
+Ans- useRef provides a way to access and store a reference to a DOM element or a value that persists across renders without triggering re-renders.
+
+(--------------------------------------------------------------------------)
+
+596- How do you create a ref in a React component?
+
+Ans- You create a ref using useRef(null) and pass it to a DOM element via the ref attribute.
+
+(--------------------------------------------------------------------------)
+
+597- How do you access a DOM node using refs in React?
+
+Ans- Access the DOM node through the .current property of the ref, e.g., myRef.current.
+
+(--------------------------------------------------------------------------)
