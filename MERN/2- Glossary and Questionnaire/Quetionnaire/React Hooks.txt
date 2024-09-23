@@ -40,3 +40,16 @@ Ans- Context helps manage global state or themes without prop drilling.
 
 (------------------------------------------------------------------------)
 
+8- What is the purpose of the useRef hook?
+
+Ans- useRef holds mutable values or references to DOM nodes without causing re-renders.
+
+(------------------------------------------------------------------------)
+
+9- What is useImperativeHandle used for?
+
+Ans- useImperativeHandle customizes the instance value exposed to parent components.
+
+(------------------------------------------------------------------------)
+
+
