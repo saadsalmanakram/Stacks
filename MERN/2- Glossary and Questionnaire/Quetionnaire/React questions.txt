@@ -2178,3 +2178,9 @@ Ans- Hooks are special functions that allow you to use React features like state
 
 (--------------------------------------------------------------------------)
 
+363- What does it mean that state is isolated?
+
+Ans- Each instance of a component maintains its own state, so changes in one instance do not affect another.
+
+(--------------------------------------------------------------------------)
+
