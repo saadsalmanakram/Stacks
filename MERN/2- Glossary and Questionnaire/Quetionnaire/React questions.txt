@@ -3144,3 +3144,9 @@ Ans- Rendering components in different positions ensures that React treats them 
 
 (-------------------------------------------------------------------------)
 
+524- What is the impact of not providing keys in lists or component trees?
+
+Ans- Without keys, React may reuse components incorrectly, leading to unexpected behavior and potentially sharing state between components that should be independent.
+
+(-------------------------------------------------------------------------)
+
