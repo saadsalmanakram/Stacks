@@ -2022,3 +2022,9 @@ Ans- It refers to the way events bubble up from child to parent components, trig
 
 (--------------------------------------------------------------------------)
 
+338- How can you stop event propagation?
+
+Ans- By calling e.stopPropagation() within the event handler.
+
+(--------------------------------------------------------------------------)
+
