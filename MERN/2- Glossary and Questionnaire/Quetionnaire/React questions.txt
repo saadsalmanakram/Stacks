@@ -1470,3 +1470,9 @@ Ans- You can provide a fallback default value in the component definition using 
 
 (--------------------------------------------------------------------------)
 
+246- When should you avoid using the JSX spread syntax?
+
+Ans- Use it sparingly, as overusing it may lead to unclear code and difficult debugging.
+
+(--------------------------------------------------------------------------)
+
