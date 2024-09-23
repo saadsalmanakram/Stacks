@@ -4314,3 +4314,9 @@ Ans- Since serverUrl is constant and never changes, it does not need to be inclu
 
 (--------------------------------------------------------------------------)
 
+700- What are the implications of having state variables as dependencies?
+
+Ans- Including state variables as dependencies ensures the Effect re-synchronizes whenever the state changes, reflecting the most current value.
+
+(--------------------------------------------------------------------------)
+
