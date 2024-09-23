@@ -2622,4 +2622,16 @@ Ans- The spread operator allows copying the existing elements into a new array t
 
 (---------------------------------------------------------------------------)
 
+437- How do you prepend an item to an array in React state?
+
+Ans- Use the spread operator to prepend: setArray([newElement, ...array]).
+
+(---------------------------------------------------------------------------)
+
+438- Why is mutation (e.g., modifying array indices directly) not recommended in React?
+
+Ans- Direct mutation can prevent React from detecting changes, causing rendering issues.
+
+(---------------------------------------------------------------------------)
+
 
