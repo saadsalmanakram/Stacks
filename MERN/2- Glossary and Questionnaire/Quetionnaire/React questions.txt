@@ -4787,3 +4787,16 @@ Ans- Custom hooks run during the component's lifecycle, reacting to props and st
 Ans- You can pass event handlers as parameters to the custom hook, which then utilizes them within its logic.
 
 (--------------------------------------------------------------------------)
+
+779- Why is it beneficial to use a custom hook for handling events?
+
+Ans- Custom hooks promote code reuse, maintainability, and separation of concerns by isolating event handling logic from component logic.
+
+(--------------------------------------------------------------------------)
+
+780- What issue arises when you include event handlers as dependencies in a hook?
+
+Ans- Including event handlers can cause unnecessary re-renders or re-establishing connections each time the component re-renders.
+
+(--------------------------------------------------------------------------)
+
