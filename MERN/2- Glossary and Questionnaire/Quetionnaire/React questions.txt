@@ -3222,4 +3222,10 @@ Ans- An action object usually contains a type field and any additional informati
 
 (-------------------------------------------------------------------------)
 
+537- Can you use useReducer without useState?
+
+Ans- Yes, useReducer can fully replace useState when you need more organized state management.
+
+(-------------------------------------------------------------------------)
+
 
