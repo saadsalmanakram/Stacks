@@ -1175,3 +1175,9 @@ Ans- It is the main file where your top-level component is defined, typically th
 Ans- Use the import statement followed by the component name and the file path.
 
 (--------------------------------------------------------------------------)
+
+197- How do you export a component in React?
+
+Ans- Use the export statement, either as export default for default exports or export for named exports.
+
+(--------------------------------------------------------------------------)
