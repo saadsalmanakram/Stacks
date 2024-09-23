@@ -1560,4 +1560,10 @@ Ans- React skips rendering them, treating them as "holes" in the UI.
 
 (--------------------------------------------------------------------------)
 
+261- How can you improve readability when nesting multiple conditions in React?
+
+Ans- By extracting parts of the conditional logic into variables or smaller components to reduce complexity.
+
+(--------------------------------------------------------------------------)
+
 
