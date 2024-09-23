@@ -4037,3 +4037,10 @@ Ans- Use the key prop to recreate the component, resetting its state automatical
 Ans- Create a separate function to handle the shared logic and call it in each handler.
 
 (--------------------------------------------------------------------------)
+
+654- What’s the issue with placing event-specific logic in Effects?
+
+Ans- It may cause unexpected behavior, such as triggering notifications unnecessarily.
+
+(--------------------------------------------------------------------------)
+
