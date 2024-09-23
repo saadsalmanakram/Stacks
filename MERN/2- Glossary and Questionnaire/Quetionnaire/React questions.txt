@@ -2604,3 +2604,9 @@ Ans- push() mutates the original array, which can lead to state-related issues i
 
 (---------------------------------------------------------------------------)
 
+434- What is the difference between splice() and slice() in JavaScript?
+
+Ans- splice() mutates the original array, while slice() creates a new copy without mutation.
+
+(---------------------------------------------------------------------------)
+
