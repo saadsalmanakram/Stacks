@@ -3365,3 +3365,28 @@ Ans- Lifting state refers to moving state up to a common ancestor component so t
 Ans- LevelContext is used to provide a heading level to all <Heading> components inside a section without passing the level prop directly.
 
 (--------------------------------------------------------------------------)
+
+541- What happens if a context is not provided by a Provider?
+
+Ans- If no Provider is found, React will use the default value specified when the context was created.
+
+(--------------------------------------------------------------------------)
+
+542- How can context be used to avoid manually passing props to every component in a deeply nested structure?
+
+Ans- By using a context, the data can be shared across multiple components without passing props manually through each layer of the component tree.
+
+(--------------------------------------------------------------------------)
+
+543- What problem does context introduce in terms of reusability or performance?
+
+Ans- Context can make components less reusable if they become tightly coupled to specific contexts, and excessive use of context can cause unnecessary re-renders.
+
+(--------------------------------------------------------------------------)
+
+544- How does context improve readability and maintainability in larger applications?
+
+Ans- Context reduces the need for prop drilling, making the code more concise, easier to maintain, and more scalable in larger applications.
+
+(--------------------------------------------------------------------------)
+
