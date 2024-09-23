@@ -936,4 +936,10 @@ Ans- Install `babel-plugin-react-compiler` and ensure it runs first in the Babel
 
 (--------------------------------------------------------------------------)
 
+157- How do you enable the React Compiler in Next.js?
+
+Ans- Set the experimental reactCompiler option in the next.config.js file after installing the necessary packages.
+
+(--------------------------------------------------------------------------)
+
 
