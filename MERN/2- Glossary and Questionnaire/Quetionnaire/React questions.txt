@@ -3510,3 +3510,9 @@ Ans- You can use refs to access DOM elements and manipulate them (e.g., setting 
 
 (--------------------------------------------------------------------------)
 
+565- What is the use of useEffect in React?
+
+Ans- useEffect is used to synchronize React components with external systems like APIs, timers, or non-React components after rendering.
+
+(--------------------------------------------------------------------------)
+
