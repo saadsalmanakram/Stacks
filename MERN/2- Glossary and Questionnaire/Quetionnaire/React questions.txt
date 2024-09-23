@@ -2082,3 +2082,9 @@ Ans- Explicitly calling the parent handler from the child handler after performi
 
 (--------------------------------------------------------------------------)
 
+348- How do you add state to a functional component?
+
+Ans- Use the useState Hook to add state variables to a functional component.
+
+(--------------------------------------------------------------------------)
+
