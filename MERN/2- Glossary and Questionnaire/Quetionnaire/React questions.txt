@@ -2556,3 +2556,9 @@ Ans- A mutation occurs when the contents of an object are directly changed witho
 
 (---------------------------------------------------------------------------)
 
+426- What happens if you directly mutate an object in React state?
+
+Ans- React won’t detect the change, and the component will not re-render as expected.
+
+(---------------------------------------------------------------------------)
+
