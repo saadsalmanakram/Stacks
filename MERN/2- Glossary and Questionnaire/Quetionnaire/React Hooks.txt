@@ -33,3 +33,10 @@ Ans- Use useReducer when dealing with multiple sub-values or complex state trans
 Ans- useContext allows components to subscribe to context changes without passing props.
 
 (------------------------------------------------------------------------)
+
+7- Why is context useful in React?
+
+Ans- Context helps manage global state or themes without prop drilling.
+
+(------------------------------------------------------------------------)
+
