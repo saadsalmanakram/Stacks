@@ -4014,3 +4014,9 @@ Ans- It causes unnecessary render passes and may lead to stale values before upd
 
 (--------------------------------------------------------------------------)
 
+649- How can you cache expensive calculations without Effects?
+
+Ans- Use useMemo to memoize values and prevent recalculating unless dependencies change.
+
+(--------------------------------------------------------------------------)
+
