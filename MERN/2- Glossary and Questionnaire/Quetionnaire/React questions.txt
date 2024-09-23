@@ -3786,3 +3786,9 @@ Ans- You can modify parts of the DOM that React does not manage, such as element
 
 (--------------------------------------------------------------------------)
 
+611- What would happen if you manually remove a DOM node managed by React?
+
+Ans- React could crash or behave unexpectedly because it loses control over that part of the DOM.
+
+(--------------------------------------------------------------------------)
+
