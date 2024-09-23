@@ -4356,3 +4356,9 @@ Ans- Omitting reactive values may lead to bugs where the Effect doesn't re-run w
 
 (--------------------------------------------------------------------------)
 
+707- Can you explain why setServerUrl doesn’t need to be in the dependency array?
+
+Ans- setServerUrl is stable and guaranteed not to change across renders, so it doesn't need to be included in the dependencies.
+
+(--------------------------------------------------------------------------)
+
