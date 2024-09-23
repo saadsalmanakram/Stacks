@@ -4422,3 +4422,9 @@ Ans- The Effect may not re-run when that value changes, leading to stale or inco
 
 (--------------------------------------------------------------------------)
 
+718- What are Effect Events and how do they differ from regular event handlers?
+
+Ans- Effect Events are called within Effects but behave like event handlers; they are not reactive and always have access to the latest state and props.
+
+(--------------------------------------------------------------------------)
+
