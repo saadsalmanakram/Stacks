@@ -4638,5 +4638,10 @@ Ans- It prevents dependency mixing and reduces unnecessary API calls, improving 
 
 (--------------------------------------------------------------------------)
 
+754- How do separate effects help in managing API calls?
+
+Ans- They isolate each request, ensuring that state changes in one effect don’t inadvertently affect another.
+
+(--------------------------------------------------------------------------)
 
 
