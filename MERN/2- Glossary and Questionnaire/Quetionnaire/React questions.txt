@@ -4710,3 +4710,9 @@ Ans- To reduce code duplication and enhance code reusability across different co
 
 (--------------------------------------------------------------------------)
 
+766- What naming convention should you follow for custom hooks?
+
+Ans- Custom hooks must start with the prefix "use" to indicate they follow React's hook rules.
+
+(--------------------------------------------------------------------------)
+
