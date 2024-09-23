@@ -100,3 +100,9 @@ Ans- useDebugValue customizes labels displayed in React DevTools for custom hook
 
 (------------------------------------------------------------------------)
 
+18- How is useId used in components?
+
+Ans- useId generates unique IDs for accessibility and element associations.
+
+(------------------------------------------------------------------------)
+
