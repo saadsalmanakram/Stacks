@@ -1242,3 +1242,9 @@ Ans- Use default exports for a single component per file and named exports when 
 
 (--------------------------------------------------------------------------)
 
+208- What happens if you leave off the .js file extension in your import statement?
+
+Ans- It will still work in React, although it’s closer to ES Modules standards to include .js.
+
+(--------------------------------------------------------------------------)
+
