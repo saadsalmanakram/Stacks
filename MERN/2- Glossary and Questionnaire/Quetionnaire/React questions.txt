@@ -3456,3 +3456,9 @@ Ans- Use useContext(TasksContext) for tasks and useContext(TasksDispatchContext)
 
 (--------------------------------------------------------------------------)
 
+556- What is the role of useTasks and useTasksDispatch?
+
+Ans- These are custom hooks that simplify accessing tasks and dispatch from context.
+
+(--------------------------------------------------------------------------)
+
