@@ -3024,3 +3024,9 @@ Ans- Place state in the component closest to where it will be used and shared, c
 
 (-------------------------------------------------------------------------)
 
+504- What are the challenges of lifting state up?
+
+Ans- It can lead to prop drilling, where data must be passed through many layers of components, potentially complicating the component structure.
+
+(-------------------------------------------------------------------------)
+
