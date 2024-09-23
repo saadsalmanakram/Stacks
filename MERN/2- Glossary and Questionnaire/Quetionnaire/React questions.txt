@@ -2478,3 +2478,8 @@ Ans- What’s a common naming convention for the updater function argument in se
 
 (---------------------------------------------------------------------------)
 
+413- What issue can arise if you update state using the current state variable multiple times within the same render?
+
+Ans- Since the state doesn’t update immediately, using the current state variable multiple times results in the same value being used for each update.
+
+(---------------------------------------------------------------------------)
