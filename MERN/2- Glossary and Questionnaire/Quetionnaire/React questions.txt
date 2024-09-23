@@ -1620,4 +1620,10 @@ Ans- Using indexes can lead to bugs due to changes in item order, so unique iden
 
 (--------------------------------------------------------------------------)
 
+271- What is an implicit return in arrow functions?
+
+Ans- An implicit return occurs when an arrow function returns a value without using the return keyword, typically in a single-expression function.
+
+(--------------------------------------------------------------------------)
+
 
