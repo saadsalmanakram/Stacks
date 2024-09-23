@@ -918,3 +918,9 @@ Ans- You can run `npx react-compiler-healthcheck@experimental` to assess how man
 
 (--------------------------------------------------------------------------)
 
+154- How does React Compiler handle rule violations?
+
+Ans- It skips over components or hooks violating React’s rules while continuing to optimize the rest of the codebase.
+
+(--------------------------------------------------------------------------)
+
