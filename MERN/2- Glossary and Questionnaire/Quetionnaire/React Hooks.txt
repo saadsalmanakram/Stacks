@@ -16,3 +16,9 @@ Ans- useReducer manages state with a reducer function, suitable for complex stat
 
 (------------------------------------------------------------------------)
 
+4- When would you use useState?
+
+Ans- Use useState for simple state management like tracking form inputs.
+
+(------------------------------------------------------------------------)
+
