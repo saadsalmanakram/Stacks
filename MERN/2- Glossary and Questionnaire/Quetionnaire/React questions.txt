@@ -1512,4 +1512,10 @@ Ans- The ternary operator ? : allows concise conditional rendering by returning 
 
 (--------------------------------------------------------------------------)
 
+253- What happens if a component returns null in React?
+
+Ans- Returning null means the component will render nothing and will not display in the UI.
+
+(--------------------------------------------------------------------------)
+
 
