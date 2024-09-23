@@ -2820,3 +2820,9 @@ Ans- Implement form submission by defining an async function to handle the submi
 
 (---------------------------------------------------------------------------)
 
+470- What benefits does React provide by using a declarative approach to UI?
+
+Ans- React's declarative approach simplifies UI updates, reduces bugs, and allows for easier management of complex interactions and visual states.
+
+(---------------------------------------------------------------------------)
+
