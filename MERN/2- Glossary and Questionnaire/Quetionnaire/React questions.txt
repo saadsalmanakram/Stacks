@@ -996,3 +996,9 @@ Ans- Conditional rendering allows components to render different content based o
 
 (--------------------------------------------------------------------------)
 
+167- How do you render multiple components in React?
+
+Ans- Multiple components can be rendered by mapping through arrays and returning a component for each item.
+
+(--------------------------------------------------------------------------)
+
