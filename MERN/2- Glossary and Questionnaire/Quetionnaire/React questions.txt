@@ -2028,3 +2028,9 @@ Ans- By calling e.stopPropagation() within the event handler.
 
 (--------------------------------------------------------------------------)
 
+339- What is the difference between e.stopPropagation() and e.preventDefault()?
+
+Ans- e.stopPropagation() stops the event from bubbling, while e.preventDefault() prevents the default action of the event.
+
+(--------------------------------------------------------------------------)
+
