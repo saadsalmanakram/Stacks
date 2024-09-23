@@ -1481,3 +1481,9 @@ Ans- Use it sparingly, as overusing it may lead to unclear code and difficult de
 Ans- Props passed to custom components are handled by React, while built-in tags follow HTML standards for attributes.
 
 (--------------------------------------------------------------------------)
+
+248- How can you extract a component to reduce code duplication when passing similar props?
+
+Ans- You can create a reusable component and pass the varying props to it from the parent component.
+
+(--------------------------------------------------------------------------)
