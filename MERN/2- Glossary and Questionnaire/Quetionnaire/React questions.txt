@@ -1794,3 +1794,9 @@ Ans- By ensuring all necessary data is passed via props or state and not relying
 
 (--------------------------------------------------------------------------)
 
+300- How does React model the UI?
+
+Ans- React models the UI as a tree structure, where components represent nodes.
+
+(--------------------------------------------------------------------------)
+
