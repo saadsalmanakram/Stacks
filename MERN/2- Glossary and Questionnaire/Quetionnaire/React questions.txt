@@ -3245,3 +3245,21 @@ Ans- It decreases component complexity and makes state logic reusable and easier
 Ans- It should throw an error to indicate that the action type is not recognized.
 
 (-------------------------------------------------------------------------)
+
+541- Can useReducer simplify components with multiple event handlers?
+
+Ans- Yes, it consolidates state updates into a single function, reducing repetition across handlers.
+
+(-------------------------------------------------------------------------)
+
+542- Why is the reducer function considered pure?
+
+Ans- It produces the same output (next state) given the same input (current state and action), without side effects.
+
+(-------------------------------------------------------------------------)
+
+543- Is it necessary to return a new state from a reducer?
+
+Ans- Yes, reducers must always return a new state to signal React to update the component.
+
+(-------------------------------------------------------------------------)
