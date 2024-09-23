@@ -2124,3 +2124,9 @@ Ans- Name them using the pattern const [stateVariable, setStateVariable].
 
 (--------------------------------------------------------------------------)
 
+355- What is the pitfall of using hooks inside conditions or loops?
+
+Ans- Hooks must be called unconditionally to maintain their order and integrity across renders.
+
+(--------------------------------------------------------------------------)
+
