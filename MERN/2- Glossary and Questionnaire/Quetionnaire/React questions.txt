@@ -2507,3 +2507,9 @@ Ans- Create a new object (or copy the existing one) and set the state using setS
 Ans- React does not detect changes in the mutated object, preventing re-renders and causing unexpected behavior.
 
 (---------------------------------------------------------------------------)
+
+418- How can you update only one field of an object in React state without modifying other fields?
+
+Ans- Use the spread operator ... to copy the existing object and update the specific field.
+
+(---------------------------------------------------------------------------)
