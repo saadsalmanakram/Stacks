@@ -3342,3 +3342,21 @@ Ans- Alternatives include state management libraries like Redux, Zustand, or usi
 
 (--------------------------------------------------------------------------)
 
+537- How do you use useContext in React?
+
+Ans- useContext is used to access a context value directly in a component, bypassing the need for props.
+
+(--------------------------------------------------------------------------)
+
+538- How can context be used to manage themes in a React application?
+
+Ans- A theme context can be created and provided at the root level, allowing all components to access and respond to theme changes.
+
+(--------------------------------------------------------------------------)
+
+539- What is the significance of lifting state in React?
+
+Ans- Lifting state refers to moving state up to a common ancestor component so that it can be shared between multiple child components.
+
+(--------------------------------------------------------------------------)
+
