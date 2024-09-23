@@ -1044,4 +1044,10 @@ Ans- Dynamic values can be passed into JSX elements using curly braces to insert
 
 (--------------------------------------------------------------------------)
 
+175- Why is it recommended to keep components pure in React?
+
+Ans- Pure components prevent unintended side effects, making the application easier to debug and maintain.
+
+(--------------------------------------------------------------------------)
+
 
