@@ -1536,4 +1536,10 @@ Ans- By extracting common JSX and conditionally modifying only parts of it using
 
 (--------------------------------------------------------------------------)
 
+257- What are some common ways to handle conditional rendering in React?
+
+Ans- Using if statements, the ternary operator ? :, the && operator, or assigning JSX to variables.
+
+(--------------------------------------------------------------------------)
+
 
