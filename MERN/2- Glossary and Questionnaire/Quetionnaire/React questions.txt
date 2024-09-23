@@ -3936,3 +3936,9 @@ Ans- While it can prevent multiple runs of an Effect, it doesn’t solve underly
 
 (--------------------------------------------------------------------------)
 
+636- When should you not use an Effect for side effects like POST requests?
+
+Ans- Avoid using an Effect for actions triggered by user interactions (e.g., buying a product); these should be placed in event handlers instead.
+
+(--------------------------------------------------------------------------)
+
