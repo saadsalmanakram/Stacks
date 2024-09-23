@@ -2423,3 +2423,10 @@ Ans- You can pass an updater function to setState (e.g., setState(n => n + 1)) f
 Ans- React will apply the queued updates sequentially, replacing the state with the last queued value.
 
 (---------------------------------------------------------------------------)
+
+404- How does React handle state updates when multiple setState calls are made in an event handler?
+
+Ans- React queues the updates and processes them after the event handler completes, updating the state in the next render.
+
+(---------------------------------------------------------------------------)
+
