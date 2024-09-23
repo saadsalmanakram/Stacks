@@ -2700,3 +2700,9 @@ Ans- Use unique keys for components to force React to recreate them, effectively
 
 (---------------------------------------------------------------------------)
 
+450- What is the purpose of a reducer in state management?
+
+Ans- A reducer consolidates state update logic into a single function, making it easier to manage complex state changes.
+
+(---------------------------------------------------------------------------)
+
