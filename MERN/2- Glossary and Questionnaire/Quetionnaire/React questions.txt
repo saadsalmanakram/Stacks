@@ -3750,3 +3750,9 @@ Ans- Direct DOM manipulation can conflict with React's updates and lead to incon
 
 (--------------------------------------------------------------------------)
 
+605- What’s a common use case for refs in React?
+
+Ans- Refs are commonly used for actions like focusing an input field, scrolling, or measuring DOM elements.
+
+(--------------------------------------------------------------------------)
+
