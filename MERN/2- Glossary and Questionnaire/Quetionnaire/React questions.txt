@@ -4386,3 +4386,9 @@ Ans- Separating them allows you to control which parts respond to changes while 
 
 (--------------------------------------------------------------------------)
 
+712- What is the main difference between an event handler and an Effect in React?
+
+Ans- Event handlers run in response to user interactions, while Effects run automatically based on changes in reactive values.
+
+(--------------------------------------------------------------------------)
+
