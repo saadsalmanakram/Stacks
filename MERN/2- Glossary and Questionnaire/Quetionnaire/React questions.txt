@@ -1127,3 +1127,11 @@ Ans- No, defining components inside other components is inefficient and causes p
 Ans- Declare components at the top level, outside of any other component definitions.
 
 (--------------------------------------------------------------------------)
+
+189- What is the purpose of props in React?
+
+Ans- Props allow passing data from parent components to child components.
+
+(--------------------------------------------------------------------------)
+
+
