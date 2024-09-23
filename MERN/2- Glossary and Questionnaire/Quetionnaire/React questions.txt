@@ -1458,3 +1458,9 @@ Ans- Yes, props can change when their parent component re-renders with new value
 
 (--------------------------------------------------------------------------)
 
+244- Why are props considered immutable in React?
+
+Ans- Props are immutable because they are read-only and should not be changed by the component that receives them.
+
+(--------------------------------------------------------------------------)
+
