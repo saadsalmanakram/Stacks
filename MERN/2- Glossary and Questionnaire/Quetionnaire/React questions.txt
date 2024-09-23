@@ -2741,3 +2741,10 @@ Ans- Combine context with reducers, and consider state management libraries like
 Ans- Use useReducer when managing complex state logic that involves multiple sub-values or when the next state depends on the previous state.
 
 (---------------------------------------------------------------------------)
+
+457- How does React determine whether to preserve or discard state?
+
+Ans- React compares the previous rendered output with the new output; matching components retain their state, while different components discard their state.
+
+(---------------------------------------------------------------------------)
+
