@@ -749,5 +749,10 @@ Ans- useReducer manages complex state logic, and the state and actions are typed
 
 (--------------------------------------------------------------------------)
 
+127- How do you use useContext with TypeScript?
+
+Ans- TypeScript infers the context type from createContext, and you can handle potential null values using union types.
+
+(--------------------------------------------------------------------------)
 
 
