@@ -2910,3 +2910,9 @@ Ans- Avoid storing it in state and calculate it during render for efficiency.
 
 (---------------------------------------------------------------------------)
 
+485- How can you prevent state from being out of sync?
+
+Ans- Structure state in a way that minimizes dependencies and ensure updates occur in tandem.
+
+(---------------------------------------------------------------------------)
+
