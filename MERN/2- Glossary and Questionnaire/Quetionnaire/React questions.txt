@@ -1913,3 +1913,9 @@ Ans- You add event handlers to JSX elements that trigger functions in response t
 Ans- The useState Hook allows functional components to have state by declaring state variables and their updater functions.
 
 (--------------------------------------------------------------------------)
+
+320- Why doesn’t state update immediately after calling the setter function?
+
+Ans- State updates are asynchronous and are batched for performance, meaning the new state isn't available immediately after the setter is called.
+
+(--------------------------------------------------------------------------)
