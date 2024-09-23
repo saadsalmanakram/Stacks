@@ -4770,3 +4770,9 @@ Ans- Use React Testing Library’s renderHook method to test the behavior of cus
 
 (--------------------------------------------------------------------------)
 
+776- Explain the difference between a custom hook and a regular function.
+
+Ans- A custom hook can utilize other hooks and manage state, while a regular function cannot.
+
+(--------------------------------------------------------------------------)
+
