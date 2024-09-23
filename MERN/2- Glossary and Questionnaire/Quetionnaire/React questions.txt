@@ -4524,3 +4524,9 @@ Ans- It clarifies the intention of treating those variables as part of an event 
 
 (--------------------------------------------------------------------------)
 
+735- What differentiates event handlers from Effects in React?
+
+Ans- Event handlers respond to user interactions, while Effects handle side effects based on state or props changes.
+
+(--------------------------------------------------------------------------)
+
