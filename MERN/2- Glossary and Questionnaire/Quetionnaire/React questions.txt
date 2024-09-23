@@ -2772,4 +2772,10 @@ Ans- Declarative UI programming describes what the UI should look like for each 
 
 (---------------------------------------------------------------------------)
 
+462- How does React manage state changes in components?
+
+Ans- React manages state changes using hooks like useState, which allows components to update their visual representation based on state changes.
+
+(---------------------------------------------------------------------------)
+
 
