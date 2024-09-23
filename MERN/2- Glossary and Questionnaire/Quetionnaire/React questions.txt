@@ -3966,4 +3966,9 @@ Ans- Not handling the cleanup properly, like not resetting states or leaving lin
 
 (--------------------------------------------------------------------------)
 
+641- What happens if you try to call a method like showModal() twice in a row?
+
+Ans- Some methods like showModal() can throw errors if called twice without proper cleanup, so always reset state in the cleanup function.
+
+(--------------------------------------------------------------------------)
 
