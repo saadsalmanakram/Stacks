@@ -4248,3 +4248,9 @@ Ans- A cleanup function is a function returned by an Effect to specify how to st
 
 (--------------------------------------------------------------------------)
 
+689- Why might an Effect need to start and stop synchronizing multiple times?
+
+Ans- This occurs when props or state that the Effect depends on change, requiring the Effect to connect to new resources or data.
+
+(--------------------------------------------------------------------------)
+
