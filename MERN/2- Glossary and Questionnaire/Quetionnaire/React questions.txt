@@ -3731,3 +3731,10 @@ Ans- By default, setting a ref on a custom component returns null unless the com
 Ans- Use React.forwardRef to pass the ref from the parent component to a DOM node in the child component.
 
 (--------------------------------------------------------------------------)
+
+602- Can you modify the DOM directly using refs in React?
+
+Ans- Yes, but modifying DOM nodes that React manages can cause issues; it’s safe only if React has no reason to update that part of the DOM.
+
+(--------------------------------------------------------------------------)
+
