@@ -797,4 +797,10 @@ Ans- Type annotations for props provide inline documentation and correctness che
 
 (--------------------------------------------------------------------------)
 
+135- What are TypeScript interfaces and types in the context of React props?
+
+Ans- Interfaces or types describe the shape of component props, allowing for detailed type checking.
+
+(--------------------------------------------------------------------------)
+
 
