@@ -1236,3 +1236,9 @@ Ans- Flexibility in exporting multiple components or functions from the same fil
 
 (--------------------------------------------------------------------------)
 
+207- How do you decide between default and named exports?
+
+Ans- Use default exports for a single component per file and named exports when exporting multiple components or utilities.
+
+(--------------------------------------------------------------------------)
+
