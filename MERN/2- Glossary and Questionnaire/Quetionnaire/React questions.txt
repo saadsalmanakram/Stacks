@@ -2076,4 +2076,9 @@ Ans- By calling e.preventDefault() within the onSubmit handler of the form.
 
 (--------------------------------------------------------------------------)
 
+347- What is a recommended pattern for handling events in nested components?
+
+Ans- Explicitly calling the parent handler from the child handler after performing any necessary actions.
+
+(--------------------------------------------------------------------------)
 
