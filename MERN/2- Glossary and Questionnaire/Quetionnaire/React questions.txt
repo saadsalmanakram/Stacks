@@ -2009,3 +2009,10 @@ Ans- Yes, you can use an inline function, like <button onClick={() => alert('Cli
 Ans- Event handler functions are typically defined within the component that uses them.
 
 (--------------------------------------------------------------------------)
+
+336- What is the convention for naming event handlers?
+
+Ans- They should be prefixed with "handle" followed by the event name, e.g., handleClick.
+
+(--------------------------------------------------------------------------)
+
