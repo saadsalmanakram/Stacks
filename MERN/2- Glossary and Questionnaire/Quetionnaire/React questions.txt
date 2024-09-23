@@ -4368,3 +4368,9 @@ Ans- Infinite loops occur when the Effect's dependencies include values that cha
 
 (--------------------------------------------------------------------------)
 
+709- How does React enforce dependency declaration?
+
+Ans- React uses linters to check that all reactive values accessed in an Effect are declared as dependencies, highlighting potential bugs.
+
+(--------------------------------------------------------------------------)
+
