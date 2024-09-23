@@ -1008,3 +1008,9 @@ Ans- Keys help React uniquely identify items in a list to efficiently update or 
 
 (--------------------------------------------------------------------------)
 
+169- What is the purpose of curly braces in JSX?
+
+Ans- Curly braces allow embedding JavaScript expressions inside JSX, providing dynamic behavior to components.
+
+(--------------------------------------------------------------------------)
+
