@@ -3132,3 +3132,9 @@ Ans- The score resets because the Counter component is unmounted and remounted, 
 
 (-------------------------------------------------------------------------)
 
+522- How can you preserve the state of each player’s score when switching?
+
+Ans- You can use keys to give each Counter a unique identity, allowing React to treat them as separate components and maintain their individual states.
+
+(-------------------------------------------------------------------------)
+
