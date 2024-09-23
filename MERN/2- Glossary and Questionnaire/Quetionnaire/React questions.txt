@@ -3444,3 +3444,15 @@ Ans- To separately manage read-only state (tasks) and actions (dispatch), ensuri
 
 (--------------------------------------------------------------------------)
 
+554- What does the TasksProvider component do?
+
+Ans- It provides both tasks and dispatch to all child components via context.
+
+(--------------------------------------------------------------------------)
+
+555- How do you access the task list and dispatch function in any component?
+
+Ans- Use useContext(TasksContext) for tasks and useContext(TasksDispatchContext) for dispatch.
+
+(--------------------------------------------------------------------------)
+
