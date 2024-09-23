@@ -2034,3 +2034,9 @@ Ans- e.stopPropagation() stops the event from bubbling, while e.preventDefault()
 
 (--------------------------------------------------------------------------)
 
+340- How do event handlers access component props?
+
+Ans- Event handlers have access to the component's props because they are defined within the component.
+
+(--------------------------------------------------------------------------)
+
