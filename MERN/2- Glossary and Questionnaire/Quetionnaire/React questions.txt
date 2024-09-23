@@ -2802,3 +2802,9 @@ Ans- Non-essential state variables can lead to complexity, bugs, and inconsisten
 
 (---------------------------------------------------------------------------)
 
+467- How can you determine the essential state variables for a component?
+
+Ans- Essential state variables should directly influence the UI and must be unique without creating paradoxical states; for example, using a single status variable instead of multiple booleans.
+
+(---------------------------------------------------------------------------)
+
