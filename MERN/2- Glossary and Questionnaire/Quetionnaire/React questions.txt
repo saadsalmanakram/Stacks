@@ -773,4 +773,9 @@ Ans- You can declare it using `React.ChangeEventHandler<HTMLInputElement>` in `u
 
 (--------------------------------------------------------------------------)
 
+131- What are some common types from @types/react used in TypeScript with React?
+
+Ans- Types like `React.ChangeEventHandler`, `React.MouseEventHandler`, and others are common for handling events.
+
+(--------------------------------------------------------------------------)
 
