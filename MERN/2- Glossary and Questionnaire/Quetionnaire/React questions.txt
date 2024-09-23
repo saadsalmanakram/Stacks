@@ -4049,3 +4049,9 @@ Ans- It may cause unexpected behavior, such as triggering notifications unnecess
 Ans- Use Effects to synchronize data when the component is mounted or unmounted.
 
 (--------------------------------------------------------------------------)
+
+656- How do you handle multiple state updates in response to a single event?
+
+Ans- Avoid chaining Effects; instead, manage state updates directly within the event handlers.
+
+(--------------------------------------------------------------------------)
