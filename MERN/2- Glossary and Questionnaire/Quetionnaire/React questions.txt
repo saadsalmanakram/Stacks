@@ -2255,3 +2255,10 @@ Ans- The browser repaints the screen to display the updated UI, often referred t
 Ans- The initial render creates all necessary DOM nodes, while re-renders only update the parts of the DOM that have changed.
 
 (--------------------------------------------------------------------------)
+
+376- How does React optimize performance during re-renders?
+
+Ans- React calculates the minimal changes needed for the DOM and only updates the nodes that have changed.
+
+(--------------------------------------------------------------------------)
+
