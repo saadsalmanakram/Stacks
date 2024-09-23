@@ -3948,3 +3948,9 @@ Ans- The dependency array determines when the Effect should rerun, based on chan
 
 (--------------------------------------------------------------------------)
 
+638- How does the cleanup function ensure no memory leaks in event subscriptions?
+
+Ans- It removes the event listener before the component unmounts or before the Effect reruns.
+
+(--------------------------------------------------------------------------)
+
