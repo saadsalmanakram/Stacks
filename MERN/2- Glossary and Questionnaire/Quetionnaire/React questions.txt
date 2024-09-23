@@ -2832,3 +2832,15 @@ Ans- When a user types in the input field, the form transitions from 'empty' to 
 
 (---------------------------------------------------------------------------)
 
+472- How can you simplify state management in a React component?
+
+Ans- Simplify state management by consolidating related states into fewer state variables, reducing redundancy, and ensuring that all possible states are valid.
+
+(---------------------------------------------------------------------------)
+
+473- What is the purpose of using useState in a functional component?
+
+Ans- useState allows functional components to maintain internal state and trigger re-renders when the state changes.
+
+(---------------------------------------------------------------------------)
+
