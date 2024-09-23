@@ -1518,4 +1518,10 @@ Ans- Returning null means the component will render nothing and will not display
 
 (--------------------------------------------------------------------------)
 
+254- What is the benefit of using the && operator for conditional rendering in React?
+
+Ans- The && operator conditionally renders JSX if the left-hand condition is true and skips rendering if false, useful for simple checks.
+
+(--------------------------------------------------------------------------)
+
 
