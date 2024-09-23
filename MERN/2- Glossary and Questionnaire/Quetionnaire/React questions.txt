@@ -1932,3 +1932,14 @@ Ans- Create a new object with updated properties using the spread operator and s
 
 (--------------------------------------------------------------------------)
 
+323- What is the correct way to update an array in state?
+
+Ans- Create a new array that reflects the desired changes, using methods like map or filter, and set state with this new array.
+
+(--------------------------------------------------------------------------)
+
+324- How does React render components?
+
+Ans- React triggers a render, prepares the component (rendering), and then commits changes to the DOM.
+
+(--------------------------------------------------------------------------)
