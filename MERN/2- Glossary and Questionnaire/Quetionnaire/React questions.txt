@@ -1074,3 +1074,14 @@ Ans- HTML must be adapted for JSX by using self-closing tags, replacing 'class' 
 
 (--------------------------------------------------------------------------)
 
+180- What are the two types of components in React?
+
+Ans- Functional components and class components (though functional components are more common now).
+
+(--------------------------------------------------------------------------)
+
+181- How do you export a React component?
+
+Ans- You export a React component using export default or export to use it in other parts of your app.
+
+(--------------------------------------------------------------------------)
