@@ -3816,3 +3816,15 @@ Ans- Effects allow running side effects (like fetching data or interacting with 
 
 (--------------------------------------------------------------------------)
 
+616- How are Effects different from events in React?
+
+Ans- Events are triggered by user interactions (like button clicks), while Effects are caused by rendering itself and synchronize with external systems.
+
+(--------------------------------------------------------------------------)
+
+617- How do you declare an Effect in a React component?
+
+Ans- By using the useEffect hook at the top level of the component and specifying the side-effect logic inside it.
+
+(--------------------------------------------------------------------------)
+
