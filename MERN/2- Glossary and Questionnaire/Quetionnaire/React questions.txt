@@ -1121,3 +1121,9 @@ Ans- Without parentheses, only the first line after return is executed, and the 
 Ans- No, defining components inside other components is inefficient and causes performance issues.
 
 (--------------------------------------------------------------------------)
+
+188- What is the best practice for component declarations in React?
+
+Ans- Declare components at the top level, outside of any other component definitions.
+
+(--------------------------------------------------------------------------)
