@@ -1728,3 +1728,9 @@ Ans- React components should be independent, as rendering order can vary, and de
 
 (--------------------------------------------------------------------------)
 
+289- What is local mutation, and why is it allowed in React components?
+
+Ans- Local mutation refers to changing variables created inside the component during rendering, which is fine as it doesn't affect the external state.
+
+(--------------------------------------------------------------------------)
+
