@@ -1668,4 +1668,10 @@ Ans- It can cause unnecessary re-renders and loss of component state, leading to
 
 (--------------------------------------------------------------------------)
 
+279- How would you split a list into two based on a condition?
+
+Ans- Use filter() to create two separate arrays and render them independently in the component.
+
+(--------------------------------------------------------------------------)
+
 
