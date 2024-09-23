@@ -1392,3 +1392,15 @@ Ans- In attributes, they evaluate JavaScript expressions, while in tag content, 
 
 (--------------------------------------------------------------------------)
 
+233- What’s the difference between src={avatar} and src="{avatar}"?
+
+Ans- src={avatar} evaluates the variable avatar, while src="{avatar}" passes the literal string {avatar}.
+
+(--------------------------------------------------------------------------)
+
+234- How can you fix this JSX: <h1>{person}'s Todos</h1>?
+
+Ans- Replace {person} with {person.name} to reference the name property instead of the object itself.
+
+(--------------------------------------------------------------------------)
+
