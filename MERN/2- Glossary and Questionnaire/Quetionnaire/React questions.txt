@@ -3060,3 +3060,9 @@ Ans- You can force a component to reset its state by changing its position in th
 
 (-------------------------------------------------------------------------)
 
+510- What is the impact of using keys in lists of components?
+
+Ans- Using keys helps React identify which items have changed, are added, or are removed, affecting how state is preserved.
+
+(-------------------------------------------------------------------------)
+
