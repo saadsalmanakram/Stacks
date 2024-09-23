@@ -1968,3 +1968,9 @@ Ans- Use functional updates with the setter to ensure you are working with the l
 
 (--------------------------------------------------------------------------)
 
+329- What is an example of a common mistake when updating state?
+
+Ans- Directly mutating state objects or arrays instead of creating new copies can lead to unexpected behavior.
+
+(--------------------------------------------------------------------------)
+
