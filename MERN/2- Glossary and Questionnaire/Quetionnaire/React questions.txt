@@ -3150,3 +3150,21 @@ Ans- Without keys, React may reuse components incorrectly, leading to unexpected
 
 (-------------------------------------------------------------------------)
 
+525- What is a reducer function in React?
+
+Ans- A reducer function is a pure function that takes the current state and an action and returns the next state.
+
+(-------------------------------------------------------------------------)
+
+526- When should you use a reducer over useState?
+
+Ans- Use a reducer when the component's state logic is complex and involves multiple event handlers.
+
+(-------------------------------------------------------------------------)
+
+527- How does useReducer differ from useState?
+
+Ans- useReducer separates state logic into a function, while useState directly updates state within the component.
+
+(-------------------------------------------------------------------------)
+
