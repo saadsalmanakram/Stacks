@@ -3792,3 +3792,9 @@ Ans- React could crash or behave unexpectedly because it loses control over that
 
 (--------------------------------------------------------------------------)
 
+612- What type of actions are safe to perform using refs in React?
+
+Ans- Non-destructive actions like focusing, scrolling, or reading values are generally safe.
+
+(--------------------------------------------------------------------------)
+
