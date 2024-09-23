@@ -2976,3 +2976,15 @@ Ans- When two or more sibling components need to react to the same state change,
 
 (---------------------------------------------------------------------------)
 
+496- How does lifting state up improve performance?
+
+Ans- It reduces the likelihood of redundant state management and re-renders by centralizing state handling in one component.
+
+(---------------------------------------------------------------------------)
+
+497- What changes when you lift state up from child to parent?
+
+Ans- The child components receive the state as props instead of managing it internally, and the parent takes responsibility for updating the state.
+
+(--------------------------------------------------------------------------)
+
