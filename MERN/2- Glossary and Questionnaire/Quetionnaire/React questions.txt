@@ -4836,3 +4836,9 @@ Ans- A common use case is managing WebSocket connections in a chat application, 
 
 (--------------------------------------------------------------------------)
 
+787- How does wrapping an event handler in useEffectEvent improve performance?
+
+Ans- It stabilizes the handler reference, reducing unnecessary re-subscriptions or reconnections during component re-renders.
+
+(--------------------------------------------------------------------------)
+
