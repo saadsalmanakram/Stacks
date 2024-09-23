@@ -1908,3 +1908,8 @@ Ans- You add event handlers to JSX elements that trigger functions in response t
 
 (--------------------------------------------------------------------------)
 
+319- What is the purpose of the useState Hook?
+
+Ans- The useState Hook allows functional components to have state by declaring state variables and their updater functions.
+
+(--------------------------------------------------------------------------)
