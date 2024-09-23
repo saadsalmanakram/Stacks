@@ -1350,3 +1350,9 @@ Ans- Inline styles in JSX are passed as JavaScript objects inside double curly b
 
 (--------------------------------------------------------------------------)
 
+226- What is the common pitfall when using inline styles in JSX?
+
+Ans- Style properties in JSX must be written in camelCase, like backgroundColor instead of background-color.
+
+(--------------------------------------------------------------------------)
+
