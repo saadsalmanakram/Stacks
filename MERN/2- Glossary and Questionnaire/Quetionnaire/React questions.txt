@@ -767,4 +767,10 @@ Ans- useCallback provides a stable reference to functions, and types are inferre
 
 (--------------------------------------------------------------------------)
 
+130- How do you declare an event handler type in TypeScript for a form input change?
+
+Ans- You can declare it using `React.ChangeEventHandler<HTMLInputElement>` in `useCallback`.
+
+(--------------------------------------------------------------------------)
+
 
