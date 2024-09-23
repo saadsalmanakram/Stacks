@@ -2952,3 +2952,8 @@ Ans- Lifting state up is the process of moving state from child components to th
 
 (---------------------------------------------------------------------------)
 
+492- Why would you lift state up?
+
+Ans- To synchronize state between multiple components, ensuring they reflect changes consistently based on a single source of truth.
+
+(---------------------------------------------------------------------------)
