@@ -906,4 +906,9 @@ Ans- Yes, the eslint plugin can be used independently to help catch React rule v
 
 (--------------------------------------------------------------------------)
 
+152- What assumptions does the React Compiler make about your code?
+
+Ans- It assumes your code follows valid JavaScript, the Rules of React, and checks nullable/optional values.
+
+(--------------------------------------------------------------------------)
 
