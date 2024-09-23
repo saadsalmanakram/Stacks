@@ -4818,3 +4818,9 @@ Ans- It allows the parent component to define specific behavior for received mes
 
 (--------------------------------------------------------------------------)
 
+784- Why might you choose not to extract a custom hook for every piece of duplicated code?
+
+Ans- Not every duplicated code segment requires extraction; minor duplications can be acceptable, especially if they don’t complicate understanding.
+
+(--------------------------------------------------------------------------)
+
