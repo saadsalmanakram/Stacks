@@ -1493,3 +1493,11 @@ Ans- You can create a reusable component and pass the varying props to it from t
 Ans- The default value will not be used if null or 0 is passed; only undefined or a missing prop will trigger the default value.
 
 (--------------------------------------------------------------------------)
+
+250- What is conditional rendering in React?
+
+Ans- Conditional rendering allows React components to display different UI based on certain conditions using JavaScript expressions.
+
+(--------------------------------------------------------------------------)
+
+
