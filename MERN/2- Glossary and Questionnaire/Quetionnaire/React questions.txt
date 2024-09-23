@@ -1644,4 +1644,10 @@ Ans- Store data in an array of objects, each containing properties like id, name
 
 (--------------------------------------------------------------------------)
 
+275- What are the best practices for assigning keys in a list?
+
+Ans- Use stable and unique IDs from your data as keys, and avoid using the array index.
+
+(--------------------------------------------------------------------------)
+
 
