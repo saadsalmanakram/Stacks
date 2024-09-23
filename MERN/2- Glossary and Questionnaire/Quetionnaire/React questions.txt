@@ -2999,3 +2999,22 @@ Ans- Use a single activeIndex state in the parent component and pass it to child
 Ans- Event handlers allow child components to trigger state changes in the parent component, enabling synchronization of the shared state.
 
 (-------------------------------------------------------------------------)
+
+500- How do you synchronize two input fields in React?
+
+Ans- Lift the state up to a common parent and pass the value and change handlers down to both input components to ensure they update together.
+
+(-------------------------------------------------------------------------)
+
+501- What are the benefits of having a single source of truth in React?
+
+Ans- It simplifies state management, minimizes bugs, and makes it easier to reason about how data flows through the application.
+
+(-------------------------------------------------------------------------)
+
+502- How would you structure a component hierarchy for lifting state up?
+
+Ans- Identify the closest common parent of the components needing shared state, move the state to that parent, and pass the necessary data and handlers down to children.
+
+(-------------------------------------------------------------------------)
+
