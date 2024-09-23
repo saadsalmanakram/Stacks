@@ -719,5 +719,11 @@ Ans- The dom must be included in lib in tsconfig.json, and jsx must be set to a 
 
 (--------------------------------------------------------------------------)
 
+122- Why must .tsx files be used in React projects with TypeScript?
+
+Ans- The .tsx extension indicates that the file contains JSX code with TypeScript.
+
+(--------------------------------------------------------------------------)
+
 
 
