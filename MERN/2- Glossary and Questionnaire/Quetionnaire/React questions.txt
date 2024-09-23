@@ -2040,3 +2040,8 @@ Ans- Event handlers have access to the component's props because they are define
 
 (--------------------------------------------------------------------------)
 
+341- Can event handlers have side effects?
+
+Ans- Yes, event handlers can cause side effects, like updating state or making API calls.
+
+(--------------------------------------------------------------------------)
