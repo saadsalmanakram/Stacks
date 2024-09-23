@@ -2748,3 +2748,9 @@ Ans- React compares the previous rendered output with the new output; matching c
 
 (---------------------------------------------------------------------------)
 
+458- What are "controlled" components in React?
+
+Ans- Controlled components are input elements whose value is managed by React state, ensuring that the UI reflects the current state.
+
+(---------------------------------------------------------------------------)
+
