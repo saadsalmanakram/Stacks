@@ -1823,3 +1823,9 @@ Ans- Conditional rendering can alter the structure of the render tree across dif
 Ans- Top-level components are closest to the root and affect overall performance, while leaf components have no children and are often re-rendered.
 
 (--------------------------------------------------------------------------)
+
+305- What is a module dependency tree?
+
+Ans- A module dependency tree models the relationship between JavaScript modules in a React app, representing imports as branches.
+
+(--------------------------------------------------------------------------)
