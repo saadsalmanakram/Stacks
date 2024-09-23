@@ -4320,3 +4320,9 @@ Ans- Including state variables as dependencies ensures the Effect re-synchronize
 
 (--------------------------------------------------------------------------)
 
+701- Why is it important to separate different synchronization processes into distinct Effects?
+
+Ans- This separation prevents unintended interactions between different processes and makes the code easier to maintain and reason about.
+
+(--------------------------------------------------------------------------)
+
