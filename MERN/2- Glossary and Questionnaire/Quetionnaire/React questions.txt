@@ -4055,3 +4055,28 @@ Ans- Use Effects to synchronize data when the component is mounted or unmounted.
 Ans- Avoid chaining Effects; instead, manage state updates directly within the event handlers.
 
 (--------------------------------------------------------------------------)
+
+657- Why is calculating values during rendering preferred over using state?
+
+Ans- It simplifies the code, reduces the risk of state inconsistencies, and enhances performance.
+
+(--------------------------------------------------------------------------)
+
+658- What is the significance of the useMemo hook?
+
+Ans- It optimizes performance by memoizing expensive calculations, preventing unnecessary recalculations.
+
+(--------------------------------------------------------------------------)
+
+659- How can you determine if a calculation is expensive?
+
+Ans- Identify slow operations or calculations that significantly affect rendering performance.
+
+(--------------------------------------------------------------------------)
+
+660- What are the drawbacks of adjusting state based on props in Effects?
+
+Ans- It leads to stale state values and extra re-renders, complicating state management.
+
+(--------------------------------------------------------------------------)
+
