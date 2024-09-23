@@ -3276,4 +3276,27 @@ Ans- Prop drilling refers to the process of passing data from a parent to deeply
 
 (-------------------------------------------------------------------------)
 
+546- Why can passing props become inconvenient in React applications?
+
+Ans- Passing props through multiple layers of components becomes verbose and cumbersome, especially when many components need the same prop.
+
+(-------------------------------------------------------------------------)
+
+547- What is React context?
+
+Ans- React context allows a parent component to provide data to any child component in the tree, bypassing the need for prop drilling.
+
+(-------------------------------------------------------------------------)
+
+548- How does React context solve the problem of prop drilling?
+
+Ans- Context enables components to access shared data directly from their parent, eliminating the need to pass props explicitly at every level.
+
+(-------------------------------------------------------------------------)
+
+549- What are some common use cases for React context?
+
+Ans- Context is commonly used for themes, authentication, and passing configuration or settings globally in an application.
+
+(-------------------------------------------------------------------------)
 
