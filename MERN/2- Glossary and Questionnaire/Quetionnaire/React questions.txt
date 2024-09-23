@@ -1026,4 +1026,16 @@ Ans- React models the UI as a hierarchical tree of components, with the root com
 
 (--------------------------------------------------------------------------)
 
+172- How do you split large components into separate files?
+
+Ans- You can export a component into its own file and then import it into other files to keep the codebase modular and manageable.
+
+(--------------------------------------------------------------------------)
+
+173- What is the significance of the 'className' attribute in JSX?
+
+Ans- 'className' is used in JSX instead of 'class' to define CSS classes, as 'class' is a reserved keyword in JavaScript.
+
+(--------------------------------------------------------------------------)
+
 
