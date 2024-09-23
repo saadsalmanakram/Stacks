@@ -4290,3 +4290,15 @@ Ans- In development mode, React forcibly re-mounts the Effect to ensure the clea
 
 (--------------------------------------------------------------------------)
 
+696- When might you disagree with the React linter regarding dependencies?
+
+Ans- If a dependency is intentionally omitted because it never changes, it may lead to a warning, but it can be justified in specific scenarios.
+
+(--------------------------------------------------------------------------)
+
+697- What is the purpose of dependencies in useEffect?
+
+Ans- Dependencies inform React when to re-run the Effect, allowing it to keep in sync with changing values.
+
+(--------------------------------------------------------------------------)
+
