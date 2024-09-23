@@ -1746,3 +1746,16 @@ Ans- No, direct DOM manipulation during rendering makes the component impure; us
 
 (--------------------------------------------------------------------------)
 
+292- What are the two main characteristics of a pure component in React?
+
+Ans- A pure component minds its own business (no external state change) and always returns the same JSX for the same props.
+
+(--------------------------------------------------------------------------)
+
+293- What happens if a React component mutates its props?
+
+Ans- Mutating props makes the component impure, leading to unpredictable behavior and bugs.
+
+(--------------------------------------------------------------------------)
+
+
