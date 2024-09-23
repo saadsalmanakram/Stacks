@@ -3030,3 +3030,9 @@ Ans- It can lead to prop drilling, where data must be passed through many layers
 
 (-------------------------------------------------------------------------)
 
+505- What is prop drilling, and how can it be mitigated?
+
+Ans- Prop drilling occurs when props are passed through multiple layers of components; it can be mitigated using context or state management libraries like Redux.
+
+(-------------------------------------------------------------------------)
+
