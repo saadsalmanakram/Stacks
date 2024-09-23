@@ -3432,3 +3432,9 @@ Ans- It centralizes state management and logic, simplifying imports and structur
 
 (--------------------------------------------------------------------------)
 
+552- How do you create a context for tasks in the example app?
+
+Ans- Use createContext to declare TasksContext and TasksDispatchContext.
+
+(--------------------------------------------------------------------------)
+
