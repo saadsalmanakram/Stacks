@@ -3870,3 +3870,9 @@ Ans- Use useRef to get a reference to the DOM element and synchronize its method
 
 (--------------------------------------------------------------------------)
 
+625- When should you avoid using Effects?
+
+Ans- If the logic only involves adjusting React state based on other state values, you may not need an Effect—this can be done directly in the component's rendering logic.
+
+(--------------------------------------------------------------------------)
+
