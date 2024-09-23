@@ -791,4 +791,10 @@ Ans- Explicitly type the context as ContextShape | null and handle the null case
 
 (--------------------------------------------------------------------------)
 
+134- How does TypeScript enhance component documentation in editors?
+
+Ans- Type annotations for props provide inline documentation and correctness checks in IDEs.
+
+(--------------------------------------------------------------------------)
+
 
