@@ -2778,4 +2778,10 @@ Ans- React manages state changes using hooks like useState, which allows compone
 
 (---------------------------------------------------------------------------)
 
+463- Can you explain the concept of a "state machine" in the context of UI?
+
+Ans- A state machine represents a component's different visual states and the transitions between them based on user interactions or system events.
+
+(---------------------------------------------------------------------------)
+
 
