@@ -4410,3 +4410,9 @@ Ans- Reactive values are props or state variables that cause components to re-re
 
 (--------------------------------------------------------------------------)
 
+716- How do you ensure an Effect runs only when specific values change?
+
+Ans- Specify those values as dependencies in the dependency array of the useEffect hook.
+
+(--------------------------------------------------------------------------)
+
