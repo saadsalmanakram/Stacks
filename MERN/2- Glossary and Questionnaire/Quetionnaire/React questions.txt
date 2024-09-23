@@ -1151,3 +1151,9 @@ Ans- It slows down the app and leads to bugs; components should be defined at th
 Ans- React converts JSX into JavaScript function calls (using `React.createElement`) during the build process.
 
 (--------------------------------------------------------------------------)
+
+193- Why do React components return a single root element?
+
+Ans- React components must return a single root element because JSX expressions must have one parent container.
+
+(--------------------------------------------------------------------------)
