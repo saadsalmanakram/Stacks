@@ -10,3 +10,9 @@ Ans- useState allows you to declare state variables in functional components.
 
 (------------------------------------------------------------------------)
 
+3- How does useReducer differ from useState?
+
+Ans- useReducer manages state with a reducer function, suitable for complex state logic.
+
+(------------------------------------------------------------------------)
+
