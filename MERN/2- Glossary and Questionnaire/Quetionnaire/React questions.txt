@@ -4506,3 +4506,9 @@ Ans- Because the useEffect hook only runs once on mount, capturing the initial v
 
 (--------------------------------------------------------------------------)
 
+732- How do you fix the Timer component to use the latest increment value?
+
+Ans- By using an Effect Event that captures the increment value and is called within the useEffect.
+
+(--------------------------------------------------------------------------)
+
