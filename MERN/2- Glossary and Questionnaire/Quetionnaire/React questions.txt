@@ -4530,3 +4530,8 @@ Ans- Event handlers respond to user interactions, while Effects handle side effe
 
 (--------------------------------------------------------------------------)
 
+736- Why is it important to maintain the reactive nature of useEffect while using Effect Events?
+
+Ans- It ensures that the effect runs correctly based on dependencies, keeping the UI in sync with the state.
+
+(--------------------------------------------------------------------------)
