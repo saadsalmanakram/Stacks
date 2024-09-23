@@ -2141,3 +2141,9 @@ Ans- Add conditional logic to check the index before updating the state.
 Ans- Use a similar state update logic for the previous index and conditionally prevent underflow.
 
 (--------------------------------------------------------------------------)
+
+358- Why should you avoid using local variables for state management in React?
+
+Ans- Local variables do not persist between renders and do not trigger re-renders.
+
+(--------------------------------------------------------------------------)
