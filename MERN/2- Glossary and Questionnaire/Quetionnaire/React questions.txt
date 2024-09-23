@@ -4866,3 +4866,123 @@ Ans- They encapsulate logic, making it easier to update implementations without 
 
 (---------------------------------------------------------------------------)
 
+792- What are React Hooks?
+
+Ans- Hooks allow you to use state and other React features in functional components.
+
+(------------------------------------------------------------------------)
+
+793- What is the purpose of the useState hook?
+
+Ans- useState allows you to declare state variables in functional components.
+
+(------------------------------------------------------------------------)
+
+794- How does useReducer differ from useState?
+
+Ans- useReducer manages state with a reducer function, suitable for complex state logic.
+
+(------------------------------------------------------------------------)
+
+795- When would you use useState?
+
+Ans- Use useState for simple state management like tracking form inputs.
+
+(------------------------------------------------------------------------)
+
+796- In what scenario would you prefer useReducer over useState?
+
+Ans- Use useReducer when dealing with multiple sub-values or complex state transitions.
+
+(------------------------------------------------------------------------)
+
+797- What does the useContext hook do?
+
+Ans- useContext allows components to subscribe to context changes without passing props.
+
+(------------------------------------------------------------------------)
+
+798- Why is context useful in React?
+
+Ans- Context helps manage global state or themes without prop drilling.
+
+(------------------------------------------------------------------------)
+
+799- What is the purpose of the useRef hook?
+
+Ans- useRef holds mutable values or references to DOM nodes without causing re-renders.
+
+(------------------------------------------------------------------------)
+
+800- What is useImperativeHandle used for?
+
+Ans- useImperativeHandle customizes the instance value exposed to parent components.
+
+(------------------------------------------------------------------------)
+
+801- What does useEffect accomplish?
+
+Ans- useEffect connects components to external systems and handles side effects.
+
+(------------------------------------------------------------------------)
+
+802- When should you use useLayoutEffect?
+
+Ans- Use useLayoutEffect for operations that require measurement before the browser paints.
+
+(------------------------------------------------------------------------)
+
+803- What is the purpose of useInsertionEffect?
+
+Ans- useInsertionEffect is for inserting dynamic styles before React applies changes to the DOM.
+
+(------------------------------------------------------------------------)
+
+804- How does useMemo optimize performance?
+
+Ans- useMemo caches expensive calculations to avoid recomputation on every render.
+
+(------------------------------------------------------------------------)
+
+805- What is the function of useCallback?
+
+Ans- useCallback caches function definitions to prevent unnecessary re-renders of child components.
+
+(------------------------------------------------------------------------)
+
+806- What does useTransition do?
+
+Ans- useTransition marks state updates as non-blocking, allowing other updates to proceed.
+
+(------------------------------------------------------------------------)
+
+807- What is the role of useDeferredValue?
+
+Ans- useDeferredValue defers updates to non-critical parts of the UI for smoother user experiences.
+
+(------------------------------------------------------------------------)
+
+808- What is the purpose of useDebugValue?
+
+Ans- useDebugValue customizes labels displayed in React DevTools for custom hooks.
+
+(------------------------------------------------------------------------)
+
+809- How is useId used in components?
+
+Ans- useId generates unique IDs for accessibility and element associations.
+
+(------------------------------------------------------------------------)
+
+810- What does useSyncExternalStore allow a component to do?
+
+Ans- useSyncExternalStore lets a component subscribe to an external store for state management.
+
+(------------------------------------------------------------------------)
+
+811- What is useActionState and when would you use it?
+
+Ans- useActionState manages the state of actions, often used in libraries for better action handling.
+
+(------------------------------------------------------------------------)
+
