@@ -1722,4 +1722,9 @@ Ans- Yes, local variables created inside a component can be mutated as long as t
 
 (--------------------------------------------------------------------------)
 
+288- Why should components not depend on the rendering sequence of other components?
+
+Ans- React components should be independent, as rendering order can vary, and dependencies would lead to unpredictable results.
+
+(--------------------------------------------------------------------------)
 
