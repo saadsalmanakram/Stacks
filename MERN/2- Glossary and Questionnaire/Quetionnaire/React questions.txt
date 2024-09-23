@@ -2471,3 +2471,10 @@ Ans- React processes each event handler separately, triggering re-renders after 
 Ans- Updater functions should be pure because they are executed during rendering, and side effects can cause unpredictable behavior.
 
 (---------------------------------------------------------------------------)
+
+412- What’s a common naming convention for the updater function argument in setState?
+
+Ans- What’s a common naming convention for the updater function argument in setState?
+
+(---------------------------------------------------------------------------)
+
