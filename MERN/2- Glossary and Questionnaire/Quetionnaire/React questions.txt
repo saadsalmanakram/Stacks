@@ -3263,3 +3263,10 @@ Ans- It produces the same output (next state) given the same input (current stat
 Ans- Yes, reducers must always return a new state to signal React to update the component.
 
 (-------------------------------------------------------------------------)
+
+544- How do you initialize state with useReducer?
+
+Ans- Pass the initial state as the second argument when calling useReducer.
+
+(-------------------------------------------------------------------------)
+
