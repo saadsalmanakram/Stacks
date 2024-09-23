@@ -4170,3 +4170,9 @@ Ans- To ensure that your application can gracefully recover from failures, provi
 
 (--------------------------------------------------------------------------)
 
+676- How can you optimize performance when rendering lists of components?
+
+Ans- By using React.memo or key props to minimize unnecessary re-renders.
+
+(--------------------------------------------------------------------------)
+
