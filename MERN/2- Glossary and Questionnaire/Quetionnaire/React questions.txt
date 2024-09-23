@@ -4163,3 +4163,10 @@ Ans- It helps to prevent memory leaks and removes any side effects when the comp
 Ans- It centralizes the state in the parent component, making it easier to manage and predict state changes.
 
 (--------------------------------------------------------------------------)
+
+675- Why is it important to handle potential errors in asynchronous operations?
+
+Ans- To ensure that your application can gracefully recover from failures, providing a better user experience.
+
+(--------------------------------------------------------------------------)
+
