@@ -2483,3 +2483,16 @@ Ans- What’s a common naming convention for the updater function argument in se
 Ans- Since the state doesn’t update immediately, using the current state variable multiple times results in the same value being used for each update.
 
 (---------------------------------------------------------------------------)
+
+414- How can you fix a state update issue when rapidly clicking a button that triggers multiple setState calls?
+
+Ans- Use an updater function (setState(prevState => prevState + 1)) to ensure each state update is based on the latest state.
+
+(---------------------------------------------------------------------------)
+
+415- What is immutability in the context of React state?
+
+Ans- Immutability means treating state as read-only, ensuring that you don’t directly modify the state object but instead create a new copy.
+
+(---------------------------------------------------------------------------)
+
