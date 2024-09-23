@@ -82,3 +82,8 @@ Ans- useCallback caches function definitions to prevent unnecessary re-renders o
 
 (------------------------------------------------------------------------)
 
+15- What does useTransition do?
+
+Ans- useTransition marks state updates as non-blocking, allowing other updates to proceed.
+
+(------------------------------------------------------------------------)
