@@ -1428,3 +1428,9 @@ Ans- Props in React are similar to HTML attributes but can accept any JavaScript
 
 (--------------------------------------------------------------------------)
 
+239- How can you set a default value for a prop?
+
+Ans- You can set a default value by assigning a value during destructuring, e.g., function Component({ size = 100 }).
+
+(--------------------------------------------------------------------------)
+
