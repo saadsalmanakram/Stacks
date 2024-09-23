@@ -3594,3 +3594,9 @@ Ans- You update a ref’s value by directly modifying ref.current, e.g., ref.cur
 
 (--------------------------------------------------------------------------)
 
+579- When should you use a ref over state?
+
+Ans- Use refs for values that don’t affect rendering, such as DOM manipulation or storing IDs.
+
+(--------------------------------------------------------------------------)
+
