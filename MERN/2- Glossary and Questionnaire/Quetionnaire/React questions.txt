@@ -2862,3 +2862,15 @@ Ans- Use a single state variable when related values update together to maintain
 
 (---------------------------------------------------------------------------)
 
+477- What is a common pitfall when using multiple state variables?
+
+Ans- It can lead to inconsistent states if updates are not managed carefully.
+
+(---------------------------------------------------------------------------)
+
+478- How can you avoid contradictions in state?
+
+Ans- Combine related states into a single state variable that captures all relevant data.
+
+(---------------------------------------------------------------------------)
+
