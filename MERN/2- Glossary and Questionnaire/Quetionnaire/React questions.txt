@@ -3756,3 +3756,9 @@ Ans- Refs are commonly used for actions like focusing an input field, scrolling,
 
 (--------------------------------------------------------------------------)
 
+606- How does React ensure the correct DOM node is assigned to a ref?
+
+Ans- React assigns the DOM node to the current property of the ref after it has created or updated the DOM during the commit phase.
+
+(--------------------------------------------------------------------------)
+
