@@ -779,3 +779,9 @@ Ans- Types like `React.ChangeEventHandler`, `React.MouseEventHandler`, and other
 
 (--------------------------------------------------------------------------)
 
+132- How does TypeScript handle state initialization in useReducer?
+
+Ans- The initial state is typed through its declaration or passed as a type argument to useReducer.
+
+(--------------------------------------------------------------------------)
+
