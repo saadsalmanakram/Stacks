@@ -4008,3 +4008,9 @@ Ans- By remounting components in development, React ensures that Effects clean u
 
 (--------------------------------------------------------------------------)
 
+648- Why is it inefficient to use Effects to update state based on props?
+
+Ans- It causes unnecessary render passes and may lead to stale values before updates.
+
+(--------------------------------------------------------------------------)
+
