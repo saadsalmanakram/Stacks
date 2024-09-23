@@ -2117,3 +2117,10 @@ Ans- The component will not re-render, and the updated value will not be reflect
 Ans- React maintains an internal mapping of state variables by their order of declaration.
 
 (--------------------------------------------------------------------------)
+
+354- What is a common convention for naming state variables and setters?
+
+Ans- Name them using the pattern const [stateVariable, setStateVariable].
+
+(--------------------------------------------------------------------------)
+
