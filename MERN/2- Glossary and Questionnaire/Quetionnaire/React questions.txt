@@ -3468,3 +3468,9 @@ Ans- Functions that encapsulate logic using React Hooks, typically starting with
 
 (--------------------------------------------------------------------------)
 
+558- What are the benefits of using reducers with context for large-scale applications?
+
+Ans- It provides a scalable solution for managing state and actions deeply in the component tree without prop drilling.
+
+(--------------------------------------------------------------------------)
+
