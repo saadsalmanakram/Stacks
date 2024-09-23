@@ -3270,3 +3270,10 @@ Ans- Pass the initial state as the second argument when calling useReducer.
 
 (-------------------------------------------------------------------------)
 
+545- What is prop drilling?
+
+Ans- Prop drilling refers to the process of passing data from a parent to deeply nested child components through intermediate components using props.
+
+(-------------------------------------------------------------------------)
+
+
