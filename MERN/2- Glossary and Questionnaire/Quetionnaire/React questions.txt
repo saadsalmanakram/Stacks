@@ -3924,3 +3924,15 @@ Ans- This helps detect issues like missing cleanup functions that would otherwis
 
 (--------------------------------------------------------------------------)
 
+634- What is the effect of disabling Strict Mode in React?
+
+Ans- Disabling Strict Mode prevents React from remounting components twice in development but also removes the automatic bug-checking benefits.
+
+(--------------------------------------------------------------------------)
+
+635- Can you use useRef to prevent an Effect from firing twice?
+
+Ans- While it can prevent multiple runs of an Effect, it doesn’t solve underlying issues like uncleaned side effects on unmount.
+
+(--------------------------------------------------------------------------)
+
