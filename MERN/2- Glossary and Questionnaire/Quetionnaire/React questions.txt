@@ -3534,3 +3534,39 @@ Ans- Effects only start and stop synchronization, while components mount, update
 
 (--------------------------------------------------------------------------)
 
+569- When should you avoid using useEffect in React?
+
+Ans- Avoid using useEffect for state transformations or handling user events that can be handled directly in render logic.
+
+(--------------------------------------------------------------------------)
+
+570- How can you prevent unnecessary re-renders in an Effect?
+
+Ans- You can prevent re-renders by carefully specifying the dependency array to include only values that should trigger the effect.
+
+(--------------------------------------------------------------------------)
+
+571- How does React’s linter help with useEffect dependencies?
+
+Ans- The React linter automatically checks that all necessary dependencies are included in the useEffect array.
+
+(--------------------------------------------------------------------------)
+
+572- What is the difference between event handlers and Effects in React?
+
+Ans- Event handlers run when an event occurs, while Effects re-run based on changes in props or state.
+
+(--------------------------------------------------------------------------)
+
+573- How can you synchronize a non-React component with React state?
+
+Ans- Use useRef to control the non-React component, and useEffect to update it based on the React state.
+
+(--------------------------------------------------------------------------)
+
+574- What is a common scenario where you might not need an Effect?
+
+Ans- When you're just transforming data for rendering or handling user events, an Effect is usually unnecessary.
+
+(--------------------------------------------------------------------------)
+
