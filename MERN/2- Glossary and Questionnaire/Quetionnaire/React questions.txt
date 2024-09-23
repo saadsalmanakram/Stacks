@@ -3228,4 +3228,9 @@ Ans- Yes, useReducer can fully replace useState when you need more organized sta
 
 (-------------------------------------------------------------------------)
 
+538- What are the two values returned by useReducer?
+
+Ans- useReducer returns the current state and the dispatch function.
+
+(-------------------------------------------------------------------------)
 
