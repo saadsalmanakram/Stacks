@@ -1835,3 +1835,9 @@ Ans- A module dependency tree models the relationship between JavaScript modules
 Ans- Modules represent files containing components or logic, while components are instances rendered in the UI.
 
 (--------------------------------------------------------------------------)
+
+307- Why are module dependency trees important?
+
+Ans- They help in understanding which modules are necessary for the app, aiding in debugging and optimizing bundle sizes.
+
+(--------------------------------------------------------------------------)
