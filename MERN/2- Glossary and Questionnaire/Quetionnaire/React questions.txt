@@ -1956,3 +1956,8 @@ Ans- The spread operator creates a shallow copy of an object or array, allowing 
 
 (--------------------------------------------------------------------------)
 
+327- What is the difference between built-in components and custom components regarding events?
+
+Ans- Built-in components only support standard browser events, while custom components can use any event names through props.
+
+(--------------------------------------------------------------------------)
