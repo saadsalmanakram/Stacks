@@ -1554,4 +1554,10 @@ Ans- It can be unexpected for developers, and conditionally including or excludi
 
 (--------------------------------------------------------------------------)
 
+260- How does React treat false, null, or undefined values in JSX?
+
+Ans- React skips rendering them, treating them as "holes" in the UI.
+
+(--------------------------------------------------------------------------)
+
 
