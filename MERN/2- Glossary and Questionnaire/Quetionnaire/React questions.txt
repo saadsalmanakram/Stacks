@@ -3600,3 +3600,15 @@ Ans- Use refs for values that don’t affect rendering, such as DOM manipulation
 
 (--------------------------------------------------------------------------)
 
+580- What happens when you change the value of a ref?
+
+Ans- Changing the value of a ref doesn’t cause the component to re-render.
+
+(--------------------------------------------------------------------------)
+
+581- Can refs be used to store primitive values or objects?
+
+Ans- Yes, refs can store any type of value, including primitives, objects, or functions.
+
+(--------------------------------------------------------------------------)
+
