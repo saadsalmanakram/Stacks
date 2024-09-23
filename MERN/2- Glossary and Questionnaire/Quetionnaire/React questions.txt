@@ -3942,3 +3942,9 @@ Ans- Avoid using an Effect for actions triggered by user interactions (e.g., buy
 
 (--------------------------------------------------------------------------)
 
+637- What is the role of the dependency array in useEffect?
+
+Ans- The dependency array determines when the Effect should rerun, based on changes to the listed dependencies.
+
+(--------------------------------------------------------------------------)
+
