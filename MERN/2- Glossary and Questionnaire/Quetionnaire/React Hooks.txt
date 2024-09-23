@@ -87,3 +87,10 @@ Ans- useCallback caches function definitions to prevent unnecessary re-renders o
 Ans- useTransition marks state updates as non-blocking, allowing other updates to proceed.
 
 (------------------------------------------------------------------------)
+
+16- What is the role of useDeferredValue?
+
+Ans- useDeferredValue defers updates to non-critical parts of the UI for smoother user experiences.
+
+(------------------------------------------------------------------------)
+
