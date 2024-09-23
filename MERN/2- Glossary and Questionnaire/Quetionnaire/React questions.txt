@@ -4644,4 +4644,11 @@ Ans- They isolate each request, ensuring that state changes in one effect don’
 
 (--------------------------------------------------------------------------)
 
+755- Can you explain what you mean by “mixing dependencies”?
+
+Ans- Mixing dependencies occurs when multiple requests share state or effects, leading to unpredictable behaviors and performance issues.
+
+(--------------------------------------------------------------------------)
+
+
 
