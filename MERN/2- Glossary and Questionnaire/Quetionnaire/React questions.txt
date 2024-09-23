@@ -4470,3 +4470,9 @@ Ans- Failing to include all reactive values used within the Effect, which can le
 
 (--------------------------------------------------------------------------)
 
+726- How can you read the latest props and state within an Effect without causing reactivity?
+
+Ans- By using Effect Events, which are designed to access the latest values without triggering re-runs.
+
+(--------------------------------------------------------------------------)
+
