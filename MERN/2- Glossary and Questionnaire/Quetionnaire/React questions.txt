@@ -2309,3 +2309,10 @@ Ans- React takes a snapshot of the component’s state during rendering, and any
 Ans- React batches multiple setState calls within an event handler, using the same snapshot of state.
 
 (--------------------------------------------------------------------------)
+
+385- Why doesn’t calling setState multiple times result in multiple updates?
+
+Ans- React schedules re-renders and batches state updates to optimize performance, so multiple calls use the same snapshot of state.
+
+(--------------------------------------------------------------------------)
+
