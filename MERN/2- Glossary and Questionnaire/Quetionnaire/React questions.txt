@@ -1230,3 +1230,9 @@ Ans- Simplicity when exporting a single component and ease of importing without 
 
 (--------------------------------------------------------------------------)
 
+206- What are the advantages of using named exports?
+
+Ans- Flexibility in exporting multiple components or functions from the same file.
+
+(--------------------------------------------------------------------------)
+
