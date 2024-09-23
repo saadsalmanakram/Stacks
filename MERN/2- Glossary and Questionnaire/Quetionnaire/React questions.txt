@@ -1698,4 +1698,11 @@ Ans- No, React components must avoid side effects during rendering to stay pure 
 
 (--------------------------------------------------------------------------)
 
+284- What are some common side effects in React, and where should they be handled?
+
+Ans- Common side effects, like DOM manipulation or data fetching, should be handled inside event handlers or useEffect.
+
+(--------------------------------------------------------------------------)
+
+
 
