@@ -822,4 +822,10 @@ Ans- type RequestState =
 
 (--------------------------------------------------------------------------)
 
+138- How does TypeScript enforce correctness in useReducer actions?
+
+Ans- Actions are typed through an action type union, ensuring only valid actions are dispatched.
+
+(--------------------------------------------------------------------------)
+
 
