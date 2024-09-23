@@ -4698,3 +4698,9 @@ Ans- Custom hooks allow you to extract and reuse stateful logic between componen
 
 (--------------------------------------------------------------------------)
 
+764- How do you create a custom hook?
+
+Ans- A custom hook is a JavaScript function that starts with "use" and may call built-in hooks like useState or useEffect.
+
+(--------------------------------------------------------------------------)
+
