@@ -846,3 +846,9 @@ Ans- After installing React Developer Tools globally, open it via the terminal u
 
 (--------------------------------------------------------------------------)
 
+142- What does the Profiler panel in React Developer Tools do?
+
+Ans- The Profiler panel helps analyze the performance of React components by showing render timings and identifying performance bottlenecks.
+
+(--------------------------------------------------------------------------)
+
