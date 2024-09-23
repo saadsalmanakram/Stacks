@@ -2219,3 +2219,10 @@ Ans- Rendering is the process of calculating the virtual DOM, while committing i
 Ans- No, React only updates the DOM if there is a difference between the current and previous render outputs.
 
 (--------------------------------------------------------------------------)
+
+370- Why is rendering in React considered a "pure calculation"?
+
+Ans- Given the same inputs, rendering should always return the same output without causing side effects.
+
+(--------------------------------------------------------------------------)
+
