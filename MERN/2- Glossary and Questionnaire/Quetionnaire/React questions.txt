@@ -882,4 +882,10 @@ Ans- It automatically memoizes code by analyzing the components and hooks, optim
 
 (--------------------------------------------------------------------------)
 
+148- What is memoization in React?
+
+Ans- Memoization in React prevents unnecessary re-computation of unchanged components, using APIs like `useMemo`, `useCallback`, and `React.memo`.
+
+(--------------------------------------------------------------------------)
+
 
