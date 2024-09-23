@@ -2316,3 +2316,9 @@ Ans- React schedules re-renders and batches state updates to optimize performanc
 
 (--------------------------------------------------------------------------)
 
+386- What does React do when a component re-renders?
+
+Ans- React calls the component function again, creating a new JSX snapshot and updating the DOM to reflect the new state.
+
+(--------------------------------------------------------------------------)
+
