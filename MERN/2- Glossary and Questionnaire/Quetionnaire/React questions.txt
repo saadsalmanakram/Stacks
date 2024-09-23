@@ -2964,3 +2964,9 @@ Ans- Controlled components are those whose state is managed by React through pro
 
 (---------------------------------------------------------------------------)
 
+494- What are uncontrolled components in React?
+
+Ans- Uncontrolled components manage their own state internally and do not rely on React to manage their state, using refs for direct DOM manipulation.
+
+(---------------------------------------------------------------------------)
+
