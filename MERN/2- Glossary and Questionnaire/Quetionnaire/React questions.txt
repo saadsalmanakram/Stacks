@@ -4805,3 +4805,16 @@ Ans- Including event handlers can cause unnecessary re-renders or re-establishin
 Ans- By wrapping the event handler in useEffectEvent to stabilize its reference and avoid adding it to the dependency array.
 
 (--------------------------------------------------------------------------)
+
+782- What role does useEffect play in a custom hook?
+
+Ans- useEffect manages side effects, such as establishing connections or subscriptions, within the custom hook.
+
+(--------------------------------------------------------------------------)
+
+783- How does the onReceiveMessage function improve a custom hook's flexibility?
+
+Ans- It allows the parent component to define specific behavior for received messages, enhancing customization without altering the hook.
+
+(--------------------------------------------------------------------------)
+
