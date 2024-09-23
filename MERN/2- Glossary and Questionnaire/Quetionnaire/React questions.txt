@@ -2646,5 +2646,18 @@ Ans- filter() creates a new array that excludes the item based on a condition, w
 
 (---------------------------------------------------------------------------)
 
+441- What methods can you use to transform or modify elements within an array in React state?
+
+Ans- You can use map() to transform each element and return a new array.
+
+(---------------------------------------------------------------------------)
+
+442- Why should you avoid using sort() directly on arrays in React state?
+
+Ans- sort() mutates the original array, so it’s better to first copy the array, then sort it.
+
+(---------------------------------------------------------------------------)
+
+
 
 
