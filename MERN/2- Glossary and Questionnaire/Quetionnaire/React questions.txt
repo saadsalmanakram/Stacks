@@ -1829,3 +1829,9 @@ Ans- Top-level components are closest to the root and affect overall performance
 Ans- A module dependency tree models the relationship between JavaScript modules in a React app, representing imports as branches.
 
 (--------------------------------------------------------------------------)
+
+306- How do modules differ from components in a dependency tree?
+
+Ans- Modules represent files containing components or logic, while components are instances rendered in the UI.
+
+(--------------------------------------------------------------------------)
