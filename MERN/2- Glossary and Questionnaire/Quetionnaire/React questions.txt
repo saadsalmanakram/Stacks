@@ -2003,3 +2003,9 @@ Ans- You define a function and pass it as a prop to the JSX element, e.g., <butt
 Ans- Yes, you can use an inline function, like <button onClick={() => alert('Clicked!')}>.
 
 (--------------------------------------------------------------------------)
+
+335- Where should event handler functions be defined?
+
+Ans- Event handler functions are typically defined within the component that uses them.
+
+(--------------------------------------------------------------------------)
