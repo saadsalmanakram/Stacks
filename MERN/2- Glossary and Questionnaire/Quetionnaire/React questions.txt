@@ -1068,3 +1068,9 @@ Ans- Ternary operators (condition ? true : false) are used to conditionally rend
 
 (--------------------------------------------------------------------------)
 
+179- How do you convert HTML into valid JSX?
+
+Ans- HTML must be adapted for JSX by using self-closing tags, replacing 'class' with 'className', and using curly braces for dynamic expressions.
+
+(--------------------------------------------------------------------------)
+
