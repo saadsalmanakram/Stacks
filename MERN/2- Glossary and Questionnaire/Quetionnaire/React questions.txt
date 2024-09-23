@@ -4098,3 +4098,14 @@ Ans- Logic that results from user interaction should be in event handlers; logic
 
 (--------------------------------------------------------------------------)
 
+664- How does React handle state updates in event handlers?
+
+Ans- State updates are asynchronous, so they may not reflect the latest value immediately after calling the setter function.
+
+(--------------------------------------------------------------------------)
+
+665- What is a race condition in the context of data fetching?
+
+Ans- It occurs when multiple asynchronous operations complete in an unexpected order, leading to incorrect or stale state updates.
+
+(--------------------------------------------------------------------------)
