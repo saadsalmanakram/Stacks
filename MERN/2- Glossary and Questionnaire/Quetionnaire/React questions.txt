@@ -4116,3 +4116,9 @@ Ans- It can lead to unintended multiple executions during development due to str
 
 (--------------------------------------------------------------------------)
 
+667- How can you manage the cleanup of subscriptions in useEffect?
+
+Ans- By returning a cleanup function from the useEffect, you can remove any subscriptions or event listeners.
+
+(--------------------------------------------------------------------------)
+
