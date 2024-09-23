@@ -1452,3 +1452,9 @@ Ans- The children prop is a special prop that allows passing nested JSX as conte
 
 (--------------------------------------------------------------------------)
 
+243- Can props change over time in React?
+
+Ans- Yes, props can change when their parent component re-renders with new values, although props themselves are immutable within the component.
+
+(--------------------------------------------------------------------------)
+
