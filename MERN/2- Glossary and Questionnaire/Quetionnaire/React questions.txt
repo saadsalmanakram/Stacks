@@ -4302,3 +4302,15 @@ Ans- Dependencies inform React when to re-run the Effect, allowing it to keep in
 
 (--------------------------------------------------------------------------)
 
+698- What role do props and state play in Effects?
+
+Ans- Props and state provide the values that Effects rely on, and their changes dictate when the Effect needs to re-synchronize.
+
+(--------------------------------------------------------------------------)
+
+699- How does serverUrl being a constant affect its dependency?
+
+Ans- Since serverUrl is constant and never changes, it does not need to be included as a dependency in the Effect.
+
+(--------------------------------------------------------------------------)
+
