@@ -4278,3 +4278,9 @@ Ans- If unrelated logic is included, changes in one part may inadvertently trigg
 
 (--------------------------------------------------------------------------)
 
+694- What does it mean for a value to be reactive?
+
+Ans- A reactive value is one that can change over time and affects the behavior of Effects when included in their dependency arrays.
+
+(--------------------------------------------------------------------------)
+
