@@ -4085,3 +4085,16 @@ Ans- It leads to stale state values and extra re-renders, complicating state man
 Ans- Ensure that Effects only run when necessary and that state updates do not rely on stale values.
 
 (--------------------------------------------------------------------------)
+
+662- What is the best approach for resetting component state on prop change?
+
+Ans- Use a key prop on the component to trigger a complete remount and state reset.
+
+(--------------------------------------------------------------------------)
+
+663- What is the main criterion for deciding whether logic belongs in an Effect or an event handler?
+
+Ans- Logic that results from user interaction should be in event handlers; logic that runs when the component is rendered should be in Effects.
+
+(--------------------------------------------------------------------------)
+
