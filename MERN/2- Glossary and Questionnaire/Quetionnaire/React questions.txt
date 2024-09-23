@@ -2496,3 +2496,8 @@ Ans- Immutability means treating state as read-only, ensuring that you don’t d
 
 (---------------------------------------------------------------------------)
 
+416- How do you update an object in React state?
+
+Ans- Create a new object (or copy the existing one) and set the state using setState.
+
+(---------------------------------------------------------------------------)
