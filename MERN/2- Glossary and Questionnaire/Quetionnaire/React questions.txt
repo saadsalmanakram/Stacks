@@ -1883,3 +1883,9 @@ Ans- Techniques include code splitting, tree shaking, and removing unused depend
 Ans- Tree shaking is a bundling technique that eliminates dead code, reducing bundle size based on the dependency tree.
 
 (--------------------------------------------------------------------------)
+
+315- Can you explain how JSX relates to the render tree?
+
+Ans- JSX elements represent components in the render tree, defining the structure and hierarchy of the UI.
+
+(--------------------------------------------------------------------------)
