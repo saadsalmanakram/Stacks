@@ -1368,3 +1368,9 @@ Ans- It represents a JavaScript object inside JSX curly braces, typically for in
 
 (--------------------------------------------------------------------------)
 
+229- How do you fix the error "Objects are not valid as a React child"?
+
+Ans- Make sure you’re not trying to render a whole object directly; access object properties like person.name instead of {person}.
+
+(--------------------------------------------------------------------------)
+
