@@ -1865,3 +1865,9 @@ Ans- By identifying costly components, developers can optimize rendering logic t
 Ans- It helps identify unnecessary imports or large modules that may contribute to increased bundle size.
 
 (--------------------------------------------------------------------------)
+
+312- What impact does a large bundle size have on a React application?
+
+Ans- A large bundle size can slow down initial load times and delay the rendering of the UI.
+
+(--------------------------------------------------------------------------)
