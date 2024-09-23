@@ -4686,5 +4686,9 @@ Ans- Overhead from too many effects can lead to performance issues if not manage
 
 (--------------------------------------------------------------------------)
 
+762- How do you test components that use separate effects?
 
+Ans- By mocking API calls and checking that each effect behaves correctly in isolation without interference from others.
+
+(--------------------------------------------------------------------------)
 
