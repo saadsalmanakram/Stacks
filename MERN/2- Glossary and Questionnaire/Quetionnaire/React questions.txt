@@ -2916,3 +2916,9 @@ Ans- Structure state in a way that minimizes dependencies and ensure updates occ
 
 (---------------------------------------------------------------------------)
 
+486- When might you choose to keep multiple state variables?
+
+Ans- When each variable can be updated independently without risk of inconsistency.
+
+(---------------------------------------------------------------------------)
+
