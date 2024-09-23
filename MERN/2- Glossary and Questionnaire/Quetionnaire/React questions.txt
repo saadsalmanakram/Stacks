@@ -4338,3 +4338,9 @@ Ans- If moved outside, serverUrl and roomId become non-reactive and the Effect w
 
 (--------------------------------------------------------------------------)
 
+704- Why is it important to declare dependencies in the Effect?
+
+Ans- Declaring dependencies ensures that the Effect re-synchronizes whenever reactive values change, preventing stale data issues.
+
+(--------------------------------------------------------------------------)
+
