@@ -4692,3 +4692,9 @@ Ans- By mocking API calls and checking that each effect behaves correctly in iso
 
 (--------------------------------------------------------------------------)
 
+763- What are custom hooks in React?
+
+Ans- Custom hooks allow you to extract and reuse stateful logic between components.
+
+(--------------------------------------------------------------------------)
+
