@@ -1734,3 +1734,9 @@ Ans- Local mutation refers to changing variables created inside the component du
 
 (--------------------------------------------------------------------------)
 
+290- How does React handle side effects in event handlers?
+
+Ans- React allows side effects in event handlers since they don't run during rendering, maintaining component purity.
+
+(--------------------------------------------------------------------------)
+
