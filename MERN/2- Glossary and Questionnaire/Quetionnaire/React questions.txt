@@ -2988,3 +2988,9 @@ Ans- The child components receive the state as props instead of managing it inte
 
 (--------------------------------------------------------------------------)
 
+498- How would you manage multiple active panels in an accordion component?
+
+Ans- Use a single activeIndex state in the parent component and pass it to child panels, along with event handlers to update the active index.
+
+(-------------------------------------------------------------------------)
+
