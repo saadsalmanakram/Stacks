@@ -2459,3 +2459,10 @@ Ans- React does this to help developers detect and fix side effects or impure up
 Ans- Passing a value replaces the state immediately, while passing a function allows you to compute the new state based on the previous state.
 
 (---------------------------------------------------------------------------)
+
+410- How does React handle state updates in multiple event handlers?
+
+Ans- React processes each event handler separately, triggering re-renders after the state updates for each event are processed.
+
+(---------------------------------------------------------------------------)
+
