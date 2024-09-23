@@ -4614,3 +4614,20 @@ Ans- To perform cleanup actions when the component unmounts or before the effect
 
 (--------------------------------------------------------------------------)
 
+750- What is a common pitfall when using useEffect for event-specific logic?
+
+Ans- Mixing event handling with effects can lead to unintended re-renders and behavior.
+
+(--------------------------------------------------------------------------)
+
+751- How do you handle dependencies that may change too often?
+
+Ans- Refactor the code to minimize direct dependencies or manage the updates more efficiently.
+
+(--------------------------------------------------------------------------)
+
+752- What is the recommended practice for managing multiple asynchronous requests in effects?
+
+Ans- Use separate effects for each request to avoid mixing dependencies and causing unnecessary calls.
+
+(--------------------------------------------------------------------------)
