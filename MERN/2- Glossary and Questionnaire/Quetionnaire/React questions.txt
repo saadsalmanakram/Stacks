@@ -1662,4 +1662,10 @@ Ans- A block body uses curly braces and requires an explicit return statement fo
 
 (--------------------------------------------------------------------------)
 
+278- What’s the effect of rendering lists without keys during updates?
+
+Ans- It can cause unnecessary re-renders and loss of component state, leading to performance issues and bugs.
+
+(--------------------------------------------------------------------------)
+
 
