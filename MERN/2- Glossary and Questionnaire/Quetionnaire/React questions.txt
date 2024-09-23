@@ -852,3 +852,9 @@ Ans- The Profiler panel helps analyze the performance of React components by sho
 
 (--------------------------------------------------------------------------)
 
+143- How do you start React Developer Tools as a standalone tool?
+
+Ans- Run the command react-devtools from the terminal after installing the tool globally with npm or yarn.
+
+(--------------------------------------------------------------------------)
+
