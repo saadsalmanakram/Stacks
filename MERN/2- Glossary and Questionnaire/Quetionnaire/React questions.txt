@@ -2106,3 +2106,9 @@ Ans- Yes, you can declare multiple state variables using the useState Hook.
 
 (--------------------------------------------------------------------------)
 
+352- What happens if you update a state variable without using the setter function?
+
+Ans- The component will not re-render, and the updated value will not be reflected in the UI.
+
+(--------------------------------------------------------------------------)
+
