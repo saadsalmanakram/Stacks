@@ -4380,3 +4380,9 @@ Ans- Reactive values change based on state or props, while non-reactive values r
 
 (--------------------------------------------------------------------------)
 
+711- Why might you want to separate an Effect into reactive and non-reactive parts?
+
+Ans- Separating them allows you to control which parts respond to changes while keeping stable values from unnecessarily triggering the Effect.
+
+(--------------------------------------------------------------------------)
+
