@@ -2730,3 +2730,9 @@ Ans- Utilize context API to make data available to components without explicitly
 
 (---------------------------------------------------------------------------)
 
+455- What strategies can you use to scale state management in large applications?
+
+Ans- Combine context with reducers, and consider state management libraries like Redux or MobX to handle complex state across components.
+
+(---------------------------------------------------------------------------)
+
