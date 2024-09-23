@@ -1590,4 +1590,10 @@ Ans- map() is used to transform an array into an array of JSX elements for rende
 
 (--------------------------------------------------------------------------)
 
+266- How does filter() work in the context of rendering lists?
+
+Ans- filter() returns a new array containing only the items that meet a specified condition, allowing selective rendering.
+
+(--------------------------------------------------------------------------)
+
 
