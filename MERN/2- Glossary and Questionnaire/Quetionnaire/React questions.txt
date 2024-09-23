@@ -4212,3 +4212,15 @@ Ans- An Effect starts synchronizing when its dependencies change and stops synch
 
 (--------------------------------------------------------------------------)
 
+683- How does an Effect differ from a component's lifecycle?
+
+Ans- Effects can be triggered multiple times during a component's lifecycle based on dependency changes, while components follow a simpler mount-update-unmount cycle.
+
+(--------------------------------------------------------------------------)
+
+684- When does an Effect need to re-synchronize?
+
+Ans- An Effect re-synchronizes when its dependencies change, reflecting new props or state values.
+
+(--------------------------------------------------------------------------)
+
