@@ -2273,3 +2273,10 @@ Ans- React preserves the state of DOM elements, like <input>, if their position 
 Ans- No, renders should be pure and avoid modifying any pre-existing variables or objects.
 
 (--------------------------------------------------------------------------)
+
+379- What method does React use to commit the initial render to the DOM?
+
+Ans- React uses the appendChild() DOM API to insert the initial set of DOM nodes on screen.
+
+(--------------------------------------------------------------------------)
+
