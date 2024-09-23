@@ -3402,3 +3402,15 @@ Ans- Context allows passing data deep through a component tree without prop dril
 
 (--------------------------------------------------------------------------)
 
+547- What is prop drilling, and how does context solve it?
+
+Ans- Prop drilling is passing props through multiple layers of components, which context eliminates by making data available to any component directly.
+
+(--------------------------------------------------------------------------)
+
+548- How can you combine a reducer with context in React?
+
+Ans- You can store state and dispatch from useReducer in context, allowing them to be shared across components.
+
+(--------------------------------------------------------------------------)
+
