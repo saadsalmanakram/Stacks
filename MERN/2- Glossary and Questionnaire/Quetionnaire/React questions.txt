@@ -1782,3 +1782,9 @@ Ans- Immutability ensures that components don't alter pre-existing state or prop
 
 (--------------------------------------------------------------------------)
 
+298- Why is it a bad practice to rely on external variables in React components?
+
+Ans- Depending on external variables introduces unpredictability, making the component impure.
+
+(--------------------------------------------------------------------------)
+
