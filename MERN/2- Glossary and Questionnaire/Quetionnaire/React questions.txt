@@ -948,3 +948,15 @@ Ans- It surfaces violations of React rules, helping you fix issues before the co
 
 (--------------------------------------------------------------------------)
 
+159- What happens if something doesn't work after React Compiler compilation?
+
+Ans- The compiler may skip problematic components or hooks, and issues might need manual exclusion using "use no memo".
+
+(--------------------------------------------------------------------------)
+
+160- How can you know if a component has been optimized by the React Compiler?
+
+Ans- React DevTools will display a “Memo ✨” badge next to optimized components.
+
+(--------------------------------------------------------------------------)
+
