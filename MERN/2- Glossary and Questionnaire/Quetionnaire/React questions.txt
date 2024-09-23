@@ -1961,3 +1961,10 @@ Ans- The spread operator creates a shallow copy of an object or array, allowing 
 Ans- Built-in components only support standard browser events, while custom components can use any event names through props.
 
 (--------------------------------------------------------------------------)
+
+328- How can you avoid bugs when updating state?
+
+Ans- Use functional updates with the setter to ensure you are working with the latest state value.
+
+(--------------------------------------------------------------------------)
+
