@@ -4133,3 +4133,10 @@ Ans- It allows multiple components to share and synchronize state, reducing comp
 Ans- It prevents state updates and logic execution when the game has already ended, avoiding errors.
 
 (--------------------------------------------------------------------------)
+
+670- How does the useSyncExternalStore hook improve subscribing to external data?
+
+Ans- It provides a more reliable and efficient way to synchronize with external stores compared to manually managing subscriptions.
+
+(--------------------------------------------------------------------------)
+
