@@ -1817,3 +1817,9 @@ Ans- It shows the parent-child relationships among components and identifies top
 Ans- Conditional rendering can alter the structure of the render tree across different renders, depending on the props.
 
 (--------------------------------------------------------------------------)
+
+304- What are top-level and leaf components in a render tree?
+
+Ans- Top-level components are closest to the root and affect overall performance, while leaf components have no children and are often re-rendered.
+
+(--------------------------------------------------------------------------)
