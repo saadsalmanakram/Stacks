@@ -1290,3 +1290,9 @@ Ans- In JSX, attribute names like class or stroke-width must be written as class
 
 (--------------------------------------------------------------------------)
 
+216- What are self-closing tags in JSX?
+
+Ans- Self-closing tags like <img /> are required in JSX for elements that do not have closing content.
+
+(--------------------------------------------------------------------------)
+
