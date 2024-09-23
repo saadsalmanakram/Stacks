@@ -3390,3 +3390,15 @@ Ans- Context reduces the need for prop drilling, making the code more concise, e
 
 (--------------------------------------------------------------------------)
 
+545- What is the purpose of a reducer in React?
+
+Ans- A reducer centralizes and consolidates the logic for updating a component’s state in one place.
+
+(--------------------------------------------------------------------------)
+
+546- How does context help in a React application?
+
+Ans- Context allows passing data deep through a component tree without prop drilling.
+
+(--------------------------------------------------------------------------)
+
