@@ -4020,3 +4020,8 @@ Ans- Use useMemo to memoize values and prevent recalculating unless dependencies
 
 (--------------------------------------------------------------------------)
 
+650- How should you handle state that derives from props?
+
+Ans- Calculate derived state during rendering instead of storing it in state.
+
+(--------------------------------------------------------------------------)
