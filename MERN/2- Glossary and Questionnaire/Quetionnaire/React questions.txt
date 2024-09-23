@@ -4326,3 +4326,9 @@ Ans- This separation prevents unintended interactions between different processe
 
 (--------------------------------------------------------------------------)
 
+702- What does an Effect with empty dependencies mean?
+
+Ans- An Effect with an empty dependency array ([]) runs once when the component mounts and cleans up when it unmounts.
+
+(--------------------------------------------------------------------------)
+
