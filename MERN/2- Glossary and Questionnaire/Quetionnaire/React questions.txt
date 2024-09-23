@@ -4548,3 +4548,9 @@ Ans- To ensure that the effect runs in response to changes in reactive values li
 
 (--------------------------------------------------------------------------)
 
+739- What happens if you leave the dependency array empty?
+
+Ans- The effect will run only once after the initial render, ignoring any updates to props or state.
+
+(--------------------------------------------------------------------------)
+
