@@ -1740,3 +1740,9 @@ Ans- React allows side effects in event handlers since they don't run during ren
 
 (--------------------------------------------------------------------------)
 
+291- Can you change DOM properties directly inside a component's render method?
+
+Ans- No, direct DOM manipulation during rendering makes the component impure; use useEffect instead.
+
+(--------------------------------------------------------------------------)
+
