@@ -1524,4 +1524,10 @@ Ans- The && operator conditionally renders JSX if the left-hand condition is tru
 
 (--------------------------------------------------------------------------)
 
+255- Why should you avoid using numbers directly with the && operator in React?
+
+Ans- Using numbers directly can lead to rendering 0 instead of nothing, as JavaScript treats 0 as false but React still renders it.
+
+(--------------------------------------------------------------------------)
+
 
