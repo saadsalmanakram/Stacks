@@ -4344,3 +4344,9 @@ Ans- Declaring dependencies ensures that the Effect re-synchronizes whenever rea
 
 (--------------------------------------------------------------------------)
 
+705- What is a reactive value in the context of a React component?
+
+Ans- A reactive value is any variable, prop, or state that can change during a component's lifecycle and can trigger re-renders.
+
+(--------------------------------------------------------------------------)
+
