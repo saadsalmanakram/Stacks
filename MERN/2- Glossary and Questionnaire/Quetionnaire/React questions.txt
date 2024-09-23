@@ -2940,3 +2940,15 @@ Ans- Ensure that multiple state variables do not hold conflicting values at the 
 
 (---------------------------------------------------------------------------)
 
+490- Why is it beneficial to have a simple state structure?
+
+Ans- A simple structure makes the code easier to understand, maintain, and debug.
+
+(---------------------------------------------------------------------------)
+
+491- What is "lifting state up" in React?
+
+Ans- Lifting state up is the process of moving state from child components to their nearest common parent to enable shared state management.
+
+(---------------------------------------------------------------------------)
+
