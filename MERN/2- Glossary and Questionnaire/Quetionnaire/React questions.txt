@@ -2249,3 +2249,9 @@ Ans- Strict Mode helps surface mistakes caused by impure functions by calling co
 Ans- The browser repaints the screen to display the updated UI, often referred to as "painting."
 
 (--------------------------------------------------------------------------)
+
+375- What is the difference between initial render and re-render?
+
+Ans- The initial render creates all necessary DOM nodes, while re-renders only update the parts of the DOM that have changed.
+
+(--------------------------------------------------------------------------)
