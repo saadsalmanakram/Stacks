@@ -2226,3 +2226,8 @@ Ans- Given the same inputs, rendering should always return the same output witho
 
 (--------------------------------------------------------------------------)
 
+371- What happens in the commit phase of React’s render cycle?
+
+Ans- In the commit phase, React applies minimal changes to the DOM to reflect the latest rendered output.
+
+(--------------------------------------------------------------------------)
