@@ -1410,3 +1410,9 @@ Ans- Props are inputs to components that allow passing data from parent to child
 
 (--------------------------------------------------------------------------)
 
+236- How do you pass props to a child component?
+
+Ans- You pass props to a child component by adding them as attributes in JSX, e.g., <ChildComponent propName={value} />.
+
+(--------------------------------------------------------------------------)
+
