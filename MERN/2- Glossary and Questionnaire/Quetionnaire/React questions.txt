@@ -864,3 +864,10 @@ Ans- The command is `npm install -g react-devtools`.
 
 (--------------------------------------------------------------------------)
 
+145- How do you add React Developer Tools in a yarn project?
+
+Ans- Use the command `yarn global add react-devtools` to install it globally.
+
+(--------------------------------------------------------------------------)
+
+
