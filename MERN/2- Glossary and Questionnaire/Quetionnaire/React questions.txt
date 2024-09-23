@@ -3828,3 +3828,9 @@ Ans- By using the useEffect hook at the top level of the component and specifyin
 
 (--------------------------------------------------------------------------)
 
+618- Why would you need to use an Effect in React?
+
+Ans- Effects are used to synchronize React components with external systems like browser APIs, third-party widgets, or server connections.
+
+(--------------------------------------------------------------------------)
+
