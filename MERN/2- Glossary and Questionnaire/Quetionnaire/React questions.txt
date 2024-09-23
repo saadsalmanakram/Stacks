@@ -3462,3 +3462,9 @@ Ans- These are custom hooks that simplify accessing tasks and dispatch from cont
 
 (--------------------------------------------------------------------------)
 
+557- What are custom hooks in React?
+
+Ans- Functions that encapsulate logic using React Hooks, typically starting with the word use.
+
+(--------------------------------------------------------------------------)
+
