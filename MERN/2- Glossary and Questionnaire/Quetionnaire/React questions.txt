@@ -4595,3 +4595,10 @@ Ans- They can change on every render, leading to unnecessary re-runs of the effe
 Ans- If it responds to a specific interaction, it should be in an event handler instead of an effect.
 
 (--------------------------------------------------------------------------)
+
+747- When should you split a useEffect into multiple effects?
+
+Ans- When it handles unrelated tasks or dependencies that should react independently.
+
+(--------------------------------------------------------------------------)
+
