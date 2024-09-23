@@ -2970,3 +2970,9 @@ Ans- Uncontrolled components manage their own state internally and do not rely o
 
 (---------------------------------------------------------------------------)
 
+495- Can you give an example of when to lift state up?
+
+Ans- When two or more sibling components need to react to the same state change, such as toggling visibility in a shared UI component.
+
+(---------------------------------------------------------------------------)
+
