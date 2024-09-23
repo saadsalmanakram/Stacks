@@ -4674,4 +4674,11 @@ Ans- Yes, they make the code easier to understand by clearly defining the purpos
 
 (--------------------------------------------------------------------------)
 
+760- How can you manage state when using separate effects?
+
+Ans- Use local state management or context to keep the effects isolated while allowing them to interact when necessary.
+
+(--------------------------------------------------------------------------)
+
+
 
