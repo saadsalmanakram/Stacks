@@ -812,5 +812,14 @@ Ans- interface MyButtonProps {
 
 (--------------------------------------------------------------------------)
 
+137- Can you provide an example of a TypeScript-typed useState for a complex object?
+
+Ans- type RequestState =
+       | { status: 'idle' }
+       | { status: 'loading' }
+       | { status: 'success'; data: any }
+       | { status: 'error'; error: Error };
+
+(--------------------------------------------------------------------------)
 
 
