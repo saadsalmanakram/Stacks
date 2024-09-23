@@ -2856,3 +2856,9 @@ Ans- Connecting event handlers to set state ensures that the UI reflects user in
 
 (---------------------------------------------------------------------------)
 
+476- When should you use a single state variable instead of multiple?
+
+Ans- Use a single state variable when related values update together to maintain sync.
+
+(---------------------------------------------------------------------------)
+
