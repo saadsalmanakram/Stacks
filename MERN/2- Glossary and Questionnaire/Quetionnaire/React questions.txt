@@ -700,3 +700,18 @@ Ans- Vite is recommended for setting up JavaScript module compilation.
 
 (--------------------------------------------------------------------------)
 
+119- What is TypeScript and how does it enhance React projects?
+
+Ans- TypeScript adds static type definitions to JavaScript, improving code reliability and development tools.
+
+(--------------------------------------------------------------------------)
+
+
+120- How do you install TypeScript type definitions in a React project?
+
+Ans- You can install them using 'npm install @types/react @types/react-dom'
+
+(--------------------------------------------------------------------------)
+
+
+
