@@ -1038,4 +1038,10 @@ Ans- 'className' is used in JSX instead of 'class' to define CSS classes, as 'cl
 
 (--------------------------------------------------------------------------)
 
+174- How do you pass dynamic values into JSX elements?
+
+Ans- Dynamic values can be passed into JSX elements using curly braces to insert JavaScript expressions.
+
+(--------------------------------------------------------------------------)
+
 
