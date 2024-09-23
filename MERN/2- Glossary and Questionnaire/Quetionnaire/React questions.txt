@@ -1991,3 +1991,9 @@ Ans- Understanding these phases helps diagnose performance issues and improves t
 Ans- An event handler is a function that runs in response to user interactions, like clicks or hovers.
 
 (--------------------------------------------------------------------------)
+
+333- How do you add an event handler to a JSX element?
+
+Ans- You define a function and pass it as a prop to the JSX element, e.g., <button onClick={handleClick}>.
+
+(--------------------------------------------------------------------------)
