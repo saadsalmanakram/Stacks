@@ -4752,3 +4752,9 @@ Ans- Custom hooks can accept arguments, just like regular functions, allowing dy
 
 (--------------------------------------------------------------------------)
 
+773- What is a potential downside of using too many custom hooks?
+
+Ans- Overusing custom hooks can lead to increased complexity and make the codebase harder to navigate.
+
+(--------------------------------------------------------------------------)
+
