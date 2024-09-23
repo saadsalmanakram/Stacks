@@ -2537,3 +2537,9 @@ Ans- A shallow copy duplicates the top-level properties but retains references f
 Ans- Use multiple levels of the spread operator, or use a library like Immer to simplify deeply nested updates.
 
 (---------------------------------------------------------------------------)
+
+423- What is Immer, and how does it help in state updates?
+
+Ans- Immer allows you to write "mutating" code that automatically produces an immutable state update by handling copying behind the scenes.
+
+(---------------------------------------------------------------------------)
