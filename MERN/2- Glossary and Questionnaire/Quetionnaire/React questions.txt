@@ -2616,3 +2616,10 @@ Ans- Use map() to return a new array where the specific item is replaced.
 
 (---------------------------------------------------------------------------)
 
+436- What is the significance of the spread operator (...) when updating arrays in React state?
+
+Ans- The spread operator allows copying the existing elements into a new array to avoid mutation.
+
+(---------------------------------------------------------------------------)
+
+
