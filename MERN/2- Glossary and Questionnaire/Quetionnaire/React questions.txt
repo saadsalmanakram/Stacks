@@ -4704,3 +4704,9 @@ Ans- A custom hook is a JavaScript function that starts with "use" and may call 
 
 (--------------------------------------------------------------------------)
 
+765- Why would you use custom hooks?
+
+Ans- To reduce code duplication and enhance code reusability across different components.
+
+(--------------------------------------------------------------------------)
+
