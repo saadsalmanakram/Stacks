@@ -1716,4 +1716,10 @@ Ans- Strict Mode helps detect impure calculations and side effects by running co
 
 (--------------------------------------------------------------------------)
 
+287- Can you mutate local variables inside a component and still keep it pure?
+
+Ans- Yes, local variables created inside a component can be mutated as long as they don't affect external state.
+
+(--------------------------------------------------------------------------)
+
 
