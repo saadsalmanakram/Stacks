@@ -3912,4 +3912,15 @@ Ans- The cleanup function undoes the Effect’s side effects, like closing conne
 
 (--------------------------------------------------------------------------)
 
+632- What happens if you don’t provide a cleanup function in useEffect?
+
+Ans- Without cleanup, side effects like open connections or event listeners may persist across unmounts, causing memory leaks or bugs.
+
+(--------------------------------------------------------------------------)
+
+633- Why does React remount components twice in development?
+
+Ans- This helps detect issues like missing cleanup functions that would otherwise lead to resource leaks or duplicate side effects.
+
+(--------------------------------------------------------------------------)
 
