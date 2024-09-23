@@ -2712,3 +2712,9 @@ Ans- Context allows for easier data sharing between deeply nested components wit
 
 (---------------------------------------------------------------------------)
 
+452- How can you handle complex state logic in a function?
+
+Ans- Use a reducer function to manage complex state logic, responding to specific actions to update the state.
+
+(---------------------------------------------------------------------------)
+
