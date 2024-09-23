@@ -1254,3 +1254,9 @@ Ans- To allow flexibility in how the component is imported by different parts of
 
 (--------------------------------------------------------------------------)
 
+210- What are some challenges with mixing default and named exports in the same file?
+
+Ans- It can lead to confusion over which import style to use, especially for large teams or projects.
+
+(--------------------------------------------------------------------------)
+
