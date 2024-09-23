@@ -1974,3 +1974,9 @@ Ans- Directly mutating state objects or arrays instead of creating new copies ca
 
 (--------------------------------------------------------------------------)
 
+330- How can you improve the readability of state updates in complex components?
+
+Ans- Libraries like Immer can simplify state updates by allowing you to write mutable code that updates immutable state.
+
+(--------------------------------------------------------------------------)
+
