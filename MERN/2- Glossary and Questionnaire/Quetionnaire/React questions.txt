@@ -3666,3 +3666,9 @@ Ans- Use inputRef.current.focus() where inputRef is a ref attached to the input 
 
 (--------------------------------------------------------------------------)
 
+591- What is a potential pitfall of using refs in event handlers?
+
+Ans- If you modify ref.current in an event handler and expect a re-render, the change won’t be reflected in the UI unless state is used.
+
+(--------------------------------------------------------------------------)
+
