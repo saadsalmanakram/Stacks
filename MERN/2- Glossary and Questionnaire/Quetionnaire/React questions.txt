@@ -4044,3 +4044,8 @@ Ans- It may cause unexpected behavior, such as triggering notifications unnecess
 
 (--------------------------------------------------------------------------)
 
+655- When should you use Effects for fetching data?
+
+Ans- Use Effects to synchronize data when the component is mounted or unmounted.
+
+(--------------------------------------------------------------------------)
