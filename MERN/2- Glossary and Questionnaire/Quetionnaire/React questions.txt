@@ -3720,3 +3720,14 @@ Ans- Refs are used when you need to directly manipulate a DOM element, like focu
 
 (--------------------------------------------------------------------------)
 
+600- What happens when you set a ref on a custom component?
+
+Ans- By default, setting a ref on a custom component returns null unless the component uses React.forwardRef.
+
+(--------------------------------------------------------------------------)
+
+601- How do you forward a ref to a child component?
+
+Ans- Use React.forwardRef to pass the ref from the parent component to a DOM node in the child component.
+
+(--------------------------------------------------------------------------)
