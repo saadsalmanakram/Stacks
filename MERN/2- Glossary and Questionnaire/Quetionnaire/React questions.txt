@@ -4332,3 +4332,9 @@ Ans- An Effect with an empty dependency array ([]) runs once when the component 
 
 (--------------------------------------------------------------------------)
 
+703- What happens if you move both serverUrl and roomId outside the component?
+
+Ans- If moved outside, serverUrl and roomId become non-reactive and the Effect won’t re-run when their values change, leading to consistent connection settings.
+
+(--------------------------------------------------------------------------)
+
