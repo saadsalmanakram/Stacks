@@ -3522,3 +3522,8 @@ Ans- By returning a cleanup function from useEffect, you can clean up resources 
 
 (--------------------------------------------------------------------------)
 
+567- What is a common mistake with Effect dependencies?
+
+Ans- Forgetting to include necessary dependencies in the useEffect dependency array can lead to incorrect behavior.
+
+(--------------------------------------------------------------------------)
