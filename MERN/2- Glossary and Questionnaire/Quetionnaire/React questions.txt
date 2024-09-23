@@ -3840,3 +3840,9 @@ Ans- By providing an array of dependencies as the second argument to useEffect, 
 
 (--------------------------------------------------------------------------)
 
+620- Why do Effects run twice in development mode?
+
+Ans- In React's Strict Mode, Effects are run twice in development to detect potential side effects that are not handled correctly.
+
+(--------------------------------------------------------------------------)
+
