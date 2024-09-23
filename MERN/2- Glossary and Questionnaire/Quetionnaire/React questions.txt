@@ -3972,3 +3972,9 @@ Ans- Some methods like showModal() can throw errors if called twice without prop
 
 (--------------------------------------------------------------------------)
 
+642- What does useEffect(() => { ... }, [zoomLevel]); do when the zoomLevel changes?
+
+Ans- It reruns the Effect every time zoomLevel changes, ensuring the map zoom level stays in sync with the React state.
+
+(--------------------------------------------------------------------------)
+
