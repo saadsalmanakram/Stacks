@@ -2676,3 +2676,9 @@ Ans- Use slice() to copy or create new arrays without mutating the original arra
 
 (---------------------------------------------------------------------------)
 
+446- What is state management in React?
+
+Ans- State management involves organizing and controlling the data flow within a React application to ensure components reflect the current state.
+
+(---------------------------------------------------------------------------)
+
