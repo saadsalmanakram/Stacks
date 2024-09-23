@@ -4830,3 +4830,9 @@ Ans- Declaring all dependencies prevents stale closures and ensures that the eff
 
 (--------------------------------------------------------------------------)
 
+786- Can you give an example of a common use case for a custom hook?
+
+Ans- A common use case is managing WebSocket connections in a chat application, where the hook handles connection logic and message receipt.
+
+(--------------------------------------------------------------------------)
+
