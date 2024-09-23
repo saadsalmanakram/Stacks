@@ -3707,3 +3707,10 @@ Ans- You create a ref using useRef(null) and pass it to a DOM element via the re
 Ans- Access the DOM node through the .current property of the ref, e.g., myRef.current.
 
 (--------------------------------------------------------------------------)
+
+598- What is the initial value of a ref created with useRef(null)?
+
+Ans- The initial value of myRef.current is null until React assigns the DOM element to it after rendering.
+
+(--------------------------------------------------------------------------)
+
