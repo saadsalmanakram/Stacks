@@ -1296,3 +1296,9 @@ Ans- Self-closing tags like <img /> are required in JSX for elements that do not
 
 (--------------------------------------------------------------------------)
 
+217- Can JSX be used independently of React?
+
+Ans- Yes, JSX is a syntax extension and can be used independently, though it is commonly used with React.
+
+(--------------------------------------------------------------------------)
+
