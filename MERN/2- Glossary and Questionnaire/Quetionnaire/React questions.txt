@@ -912,3 +912,9 @@ Ans- It assumes your code follows valid JavaScript, the Rules of React, and chec
 
 (--------------------------------------------------------------------------)
 
+153- How do you check compatibility for the React Compiler?
+
+Ans- You can run `npx react-compiler-healthcheck@experimental` to assess how many components can be optimized and detect any incompatibilities.
+
+(--------------------------------------------------------------------------)
+
