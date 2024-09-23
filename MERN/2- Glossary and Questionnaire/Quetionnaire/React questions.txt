@@ -3570,3 +3570,9 @@ Ans- When you're just transforming data for rendering or handling user events, a
 
 (--------------------------------------------------------------------------)
 
+575- What is a ref in React?
+
+Ans- A ref is a way to hold onto a value that React doesn’t track or cause re-renders when changed.
+
+(--------------------------------------------------------------------------)
+
