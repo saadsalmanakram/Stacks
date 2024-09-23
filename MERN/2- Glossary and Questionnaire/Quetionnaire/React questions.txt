@@ -4476,3 +4476,9 @@ Ans- By using Effect Events, which are designed to access the latest values with
 
 (--------------------------------------------------------------------------)
 
+727- What is the main limitation of Effect Events?
+
+Ans- They can only be used inside Effects and cannot be passed around to other components or Hooks.
+
+(--------------------------------------------------------------------------)
+
