@@ -1487,3 +1487,9 @@ Ans- Props passed to custom components are handled by React, while built-in tags
 Ans- You can create a reusable component and pass the varying props to it from the parent component.
 
 (--------------------------------------------------------------------------)
+
+249- What happens if you pass null or 0 as a prop value?
+
+Ans- The default value will not be used if null or 0 is passed; only undefined or a missing prop will trigger the default value.
+
+(--------------------------------------------------------------------------)
