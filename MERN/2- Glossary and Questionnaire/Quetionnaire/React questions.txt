@@ -4722,3 +4722,9 @@ Ans- Identify the repetitive logic, encapsulate it in a function starting with "
 
 (--------------------------------------------------------------------------)
 
+768- Can custom hooks share state between components?
+
+Ans- No, each call to a custom hook is independent; they share logic but not state.
+
+(--------------------------------------------------------------------------)
+
