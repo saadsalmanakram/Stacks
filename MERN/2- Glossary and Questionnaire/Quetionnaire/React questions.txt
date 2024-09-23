@@ -1284,3 +1284,9 @@ Ans- JSX requires a single root element to ensure valid structure for rendering.
 
 (--------------------------------------------------------------------------)
 
+215- What does camelCase mean in JSX?
+
+Ans- In JSX, attribute names like class or stroke-width must be written as className and strokeWidth using camelCase.
+
+(--------------------------------------------------------------------------)
+
