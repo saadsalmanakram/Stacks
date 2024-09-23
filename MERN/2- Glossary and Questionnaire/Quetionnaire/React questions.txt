@@ -4109,3 +4109,10 @@ Ans- State updates are asynchronous, so they may not reflect the latest value im
 Ans- It occurs when multiple asynchronous operations complete in an unexpected order, leading to incorrect or stale state updates.
 
 (--------------------------------------------------------------------------)
+
+666- Why should you avoid placing logic that should run once in a useEffect hook?
+
+Ans- It can lead to unintended multiple executions during development due to strict mode rendering.
+
+(--------------------------------------------------------------------------)
+
