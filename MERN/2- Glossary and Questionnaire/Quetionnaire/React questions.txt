@@ -1266,3 +1266,10 @@ Ans- First, define the component and then either export it as default or named d
 
 (--------------------------------------------------------------------------)
 
+212- Why does React mix markup with rendering logic?
+
+Ans- React groups markup and logic together because rendering often depends on dynamic logic, and it keeps the component cohesive.
+
+(--------------------------------------------------------------------------)
+
+
