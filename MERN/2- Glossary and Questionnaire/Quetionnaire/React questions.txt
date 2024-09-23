@@ -2051,3 +2051,10 @@ Ans- Yes, event handlers can cause side effects, like updating state or making A
 Ans- By passing the handler as a prop to the child component, e.g., <Child onClick={parentHandler} />.
 
 (--------------------------------------------------------------------------)
+
+343- Can you name event handler props anything you want?
+
+Ans- Yes, you can use custom names for event handler props, but they should start with "on" by convention.
+
+(--------------------------------------------------------------------------)
+
