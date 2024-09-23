@@ -4746,3 +4746,9 @@ Ans- A custom hook to manage online/offline status, allowing components to react
 
 (--------------------------------------------------------------------------)
 
+772- How would you pass props to a custom hook?
+
+Ans- Custom hooks can accept arguments, just like regular functions, allowing dynamic behavior based on those props.
+
+(--------------------------------------------------------------------------)
+
