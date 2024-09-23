@@ -3504,3 +3504,9 @@ Ans- Refs are used to access DOM elements directly or store information that doe
 
 (--------------------------------------------------------------------------)
 
+564- How can you manipulate the DOM directly using refs?
+
+Ans- You can use refs to access DOM elements and manipulate them (e.g., setting focus on an input) without React tracking the changes.
+
+(--------------------------------------------------------------------------)
+
