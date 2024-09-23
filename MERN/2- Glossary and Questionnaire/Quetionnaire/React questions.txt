@@ -1596,4 +1596,10 @@ Ans- filter() returns a new array containing only the items that meet a specifie
 
 (--------------------------------------------------------------------------)
 
+267- Why is it important to use keys in lists rendered by React?
+
+Ans- Keys help React identify which items have changed, are added, or are removed, improving performance and avoiding bugs.
+
+(--------------------------------------------------------------------------)
+
 
