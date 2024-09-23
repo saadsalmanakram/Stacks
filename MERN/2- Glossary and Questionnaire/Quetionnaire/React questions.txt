@@ -2573,3 +2573,9 @@ Ans- Yes, you can store any JavaScript value in state, including primitives, obj
 Ans- Primitives are immutable by nature, so a direct update creates a new value, while objects require explicit copying to avoid mutation.
 
 (---------------------------------------------------------------------------)
+
+429- How do you manage form inputs when the form data is stored as an object in state?
+
+Ans- Use controlled components and the spread operator to update only the specific input field while preserving other fields.
+
+(---------------------------------------------------------------------------)
