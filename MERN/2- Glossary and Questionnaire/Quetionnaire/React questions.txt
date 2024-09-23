@@ -960,3 +960,9 @@ Ans- React DevTools will display a “Memo ✨” badge next to optimized compon
 
 (--------------------------------------------------------------------------)
 
+161- What should you do if your app breaks after using the React Compiler?
+
+Ans- Exclude problematic components or hooks using the "use no memo" directive and troubleshoot further if needed.
+
+(--------------------------------------------------------------------------)
+
