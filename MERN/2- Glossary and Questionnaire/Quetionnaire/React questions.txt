@@ -2303,3 +2303,9 @@ Ans- Event handlers access the “snapshot” of the state from the render durin
 Ans- React takes a snapshot of the component’s state during rendering, and any state updates trigger a new render with a fresh snapshot.
 
 (--------------------------------------------------------------------------)
+
+384- What happens when you call setState multiple times in an event handler?
+
+Ans- React batches multiple setState calls within an event handler, using the same snapshot of state.
+
+(--------------------------------------------------------------------------)
