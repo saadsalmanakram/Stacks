@@ -4650,5 +4650,11 @@ Ans- Mixing dependencies occurs when multiple requests share state or effects, l
 
 (--------------------------------------------------------------------------)
 
+756- What is the impact of unnecessary API calls?
+
+Ans- Unnecessary calls can lead to increased latency, wasted resources, and potential rate-limiting issues from the API provider.
+
+(--------------------------------------------------------------------------)
+
 
 
