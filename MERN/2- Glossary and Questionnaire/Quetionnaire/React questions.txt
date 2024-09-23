@@ -1602,4 +1602,10 @@ Ans- Keys help React identify which items have changed, are added, or are remove
 
 (--------------------------------------------------------------------------)
 
+268- How do you render a list of items from an array in React?
+
+Ans- Use array.map() to return a list of JSX elements.
+
+(--------------------------------------------------------------------------)
+
 
