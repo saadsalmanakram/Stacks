@@ -1115,3 +1115,9 @@ Ans- React identifies HTML tags as lowercase (e.g., <div>) and custom components
 Ans- Without parentheses, only the first line after return is executed, and the rest is ignored.
 
 (--------------------------------------------------------------------------)
+
+187- Can you define a component inside another component in React?
+
+Ans- No, defining components inside other components is inefficient and causes performance issues.
+
+(--------------------------------------------------------------------------)
