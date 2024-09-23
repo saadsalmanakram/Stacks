@@ -3582,3 +3582,15 @@ Ans- You can create a ref using useRef(initialValue) which returns an object wit
 
 (--------------------------------------------------------------------------)
 
+577- What is the difference between state and ref in React?
+
+Ans- State triggers re-renders when updated, while ref does not cause re-renders.
+
+(--------------------------------------------------------------------------)
+
+578- How do you update the value of a ref?
+
+Ans- You update a ref’s value by directly modifying ref.current, e.g., ref.current = newValue.
+
+(--------------------------------------------------------------------------)
+
