@@ -4542,3 +4542,9 @@ Ans- Yes, but you should carefully manage the arguments to ensure you’re worki
 
 (--------------------------------------------------------------------------)
 
+738- What is the purpose of declaring dependencies in a useEffect?
+
+Ans- To ensure that the effect runs in response to changes in reactive values like props and state.
+
+(--------------------------------------------------------------------------)
+
