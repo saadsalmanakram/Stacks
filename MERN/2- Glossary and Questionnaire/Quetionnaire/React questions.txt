@@ -1272,4 +1272,9 @@ Ans- React groups markup and logic together because rendering often depends on d
 
 (--------------------------------------------------------------------------)
 
+213- What is a JSX fragment?
+
+Ans- A fragment (<>...</>) is a way to return multiple JSX elements without adding extra nodes to the DOM.
+
+(--------------------------------------------------------------------------)
 
