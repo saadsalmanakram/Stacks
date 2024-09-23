@@ -94,3 +94,9 @@ Ans- useDeferredValue defers updates to non-critical parts of the UI for smoothe
 
 (------------------------------------------------------------------------)
 
+17- What is the purpose of useDebugValue?
+
+Ans- useDebugValue customizes labels displayed in React DevTools for custom hooks.
+
+(------------------------------------------------------------------------)
+
