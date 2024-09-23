@@ -1320,3 +1320,9 @@ Ans- JSX integrates markup with logic, making code easier to maintain and more e
 
 (--------------------------------------------------------------------------)
 
+221- How does JSX handle aria-* and data-* attributes?
+
+Ans- aria-* and data-* attributes are written the same as in HTML, without conversion to camelCase.
+
+(--------------------------------------------------------------------------)
+
