@@ -2448,3 +2448,8 @@ Ans- An updater function uses the previous state to calculate the new state, whi
 
 (---------------------------------------------------------------------------)
 
+408- In strict mode, why does React run the updater function twice?
+
+Ans- React does this to help developers detect and fix side effects or impure updates within the updater function.
+
+(---------------------------------------------------------------------------)
