@@ -1103,3 +1103,15 @@ Ans- Components can be reused by importing and embedding them like HTML tags ins
 Ans- A parent component renders one or more child components inside it.
 
 (--------------------------------------------------------------------------)
+
+185- How does React differentiate between HTML tags and custom components?
+
+Ans- React identifies HTML tags as lowercase (e.g., <div>) and custom components with uppercase (e.g., <Profile />).
+
+(--------------------------------------------------------------------------)
+
+186- What happens if you forget to wrap multiline JSX in parentheses?
+
+Ans- Without parentheses, only the first line after return is executed, and the rest is ignored.
+
+(--------------------------------------------------------------------------)
