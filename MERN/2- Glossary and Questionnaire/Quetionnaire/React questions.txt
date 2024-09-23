@@ -1704,5 +1704,16 @@ Ans- Common side effects, like DOM manipulation or data fetching, should be hand
 
 (--------------------------------------------------------------------------)
 
+285- What makes a component impure in React?
+
+Ans- A component is impure if it changes any external state, variables, or objects during rendering.
+
+(--------------------------------------------------------------------------)
+
+286- How does React's Strict Mode help with purity?
+
+Ans- Strict Mode helps detect impure calculations and side effects by running components in development mode under stricter conditions.
+
+(--------------------------------------------------------------------------)
 
 
