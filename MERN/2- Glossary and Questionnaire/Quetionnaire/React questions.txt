@@ -4488,3 +4488,9 @@ Ans- By passing necessary variables explicitly as arguments to the Effect Event,
 
 (--------------------------------------------------------------------------)
 
+729- What happens if you ignore dependencies in a useEffect hook?
+
+Ans- It can lead to stale values being used, potentially causing bugs and incorrect behavior in your application.
+
+(--------------------------------------------------------------------------)
+
