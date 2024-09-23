@@ -2513,3 +2513,9 @@ Ans- React does not detect changes in the mutated object, preventing re-renders 
 Ans- Use the spread operator ... to copy the existing object and update the specific field.
 
 (---------------------------------------------------------------------------)
+
+419- What is the spread operator in JavaScript, and how is it used in React state updates?
+
+Ans- The spread operator (...) creates a shallow copy of an object, which is used to update state immutably.
+
+(---------------------------------------------------------------------------)
