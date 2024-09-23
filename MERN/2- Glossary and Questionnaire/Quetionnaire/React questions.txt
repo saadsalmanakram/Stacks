@@ -803,4 +803,14 @@ Ans- Interfaces or types describe the shape of component props, allowing for det
 
 (--------------------------------------------------------------------------)
 
+136- How do you type a button component with both title and disabled props?
+
+Ans- interface MyButtonProps {
+       title: string;
+       disabled: boolean;
+     }
+
+(--------------------------------------------------------------------------)
+
+
 
