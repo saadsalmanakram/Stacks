@@ -990,3 +990,9 @@ Ans- JSX is a syntax extension that allows embedding HTML-like markup directly w
 
 (--------------------------------------------------------------------------)
 
+166- What is conditional rendering in React?
+
+Ans- Conditional rendering allows components to render different content based on certain conditions, using JavaScript expressions like if or &&.
+
+(--------------------------------------------------------------------------)
+
