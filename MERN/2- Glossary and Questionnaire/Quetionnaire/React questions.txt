@@ -4631,3 +4631,12 @@ Ans- Refactor the code to minimize direct dependencies or manage the updates mor
 Ans- Use separate effects for each request to avoid mixing dependencies and causing unnecessary calls.
 
 (--------------------------------------------------------------------------)
+
+753- What are the benefits of using separate effects for requests?
+
+Ans- It prevents dependency mixing and reduces unnecessary API calls, improving performance and clarity.
+
+(--------------------------------------------------------------------------)
+
+
+
