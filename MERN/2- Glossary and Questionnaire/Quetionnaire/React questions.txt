@@ -785,3 +785,10 @@ Ans- The initial state is typed through its declaration or passed as a type argu
 
 (--------------------------------------------------------------------------)
 
+133- What should you do if useContext has no default value in TypeScript?
+
+Ans- Explicitly type the context as ContextShape | null and handle the null case with runtime checks.
+
+(--------------------------------------------------------------------------)
+
+
