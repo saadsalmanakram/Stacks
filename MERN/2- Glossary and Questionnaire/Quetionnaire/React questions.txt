@@ -3876,3 +3876,9 @@ Ans- If the logic only involves adjusting React state based on other state value
 
 (--------------------------------------------------------------------------)
 
+626- How do dependencies affect the behavior of Effects?
+
+Ans- The dependencies array tells React when to re-run the Effect based on changes to specific variables. If none of the dependencies change, the Effect won’t re-run.
+
+(--------------------------------------------------------------------------)
+
