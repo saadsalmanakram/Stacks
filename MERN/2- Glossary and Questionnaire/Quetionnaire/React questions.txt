@@ -2658,6 +2658,16 @@ Ans- sort() mutates the original array, so it’s better to first copy the array
 
 (---------------------------------------------------------------------------)
 
+443- How can you move specific items (e.g., objects of a certain type) within an array in React state?
 
+Ans- Use map() to modify the positions of specific items by creating and returning a new array.
+
+(---------------------------------------------------------------------------)
+
+444- What is Immer, and how does it help in updating arrays in React state?
+
+Ans- Immer allows mutable-like operations on state while maintaining immutability under the hood.
+
+(---------------------------------------------------------------------------)
 
 
