@@ -4512,3 +4512,9 @@ Ans- By using an Effect Event that captures the increment value and is called wi
 
 (--------------------------------------------------------------------------)
 
+733- What is the benefit of using setCount with a function in the setInterval?
+
+Ans- It ensures you are always using the latest state of count, preventing stale closures.
+
+(--------------------------------------------------------------------------)
+
