@@ -2562,3 +2562,9 @@ Ans- React won’t detect the change, and the component will not re-render as ex
 
 (---------------------------------------------------------------------------)
 
+427- Can you store any kind of JavaScript value in React state?
+
+Ans- Yes, you can store any JavaScript value in state, including primitives, objects, arrays, and functions.
+
+(---------------------------------------------------------------------------)
+
