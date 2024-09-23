@@ -3323,3 +3323,10 @@ Ans- A context is consumed in a child component using the useContext hook, which
 Ans- The default value is the initial value passed to createContext, and it is used if no Provider is found higher in the component tree.
 
 (--------------------------------------------------------------------------)
+
+534- What is a Context.Provider in React?
+
+Ans- Context.Provider is a component that allows passing a value down the component tree, making the context available to its children.
+
+(--------------------------------------------------------------------------)
+
