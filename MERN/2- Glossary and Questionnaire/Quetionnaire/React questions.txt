@@ -2826,3 +2826,9 @@ Ans- React's declarative approach simplifies UI updates, reduces bugs, and allow
 
 (---------------------------------------------------------------------------)
 
+471- Can you give an example of a visual state transition in a form?
+
+Ans- When a user types in the input field, the form transitions from 'empty' to 'typing'; upon submission, it transitions to 'submitting', and depending on the response, it may transition to 'success' or 'error'.
+
+(---------------------------------------------------------------------------)
+
