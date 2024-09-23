@@ -1356,3 +1356,10 @@ Ans- Style properties in JSX must be written in camelCase, like backgroundColor 
 
 (--------------------------------------------------------------------------)
 
+227- Can you pass functions inside JSX with curly braces?
+
+Ans- Yes, functions can be passed using curly braces, e.g., {formatDate(today)}.
+
+(--------------------------------------------------------------------------)
+
+
