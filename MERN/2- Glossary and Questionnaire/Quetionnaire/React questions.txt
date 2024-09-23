@@ -1464,3 +1464,9 @@ Ans- Props are immutable because they are read-only and should not be changed by
 
 (--------------------------------------------------------------------------)
 
+245- How does React handle a missing or undefined prop?
+
+Ans- You can provide a fallback default value in the component definition using destructuring, or handle undefined cases manually.
+
+(--------------------------------------------------------------------------)
+
