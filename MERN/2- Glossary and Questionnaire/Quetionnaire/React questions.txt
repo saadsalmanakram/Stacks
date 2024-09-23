@@ -2171,3 +2171,10 @@ Ans- It allows encapsulation of logic and data, preventing unintended interferen
 Ans- Move the state to the closest common ancestor component and pass it down as props to child components.
 
 (--------------------------------------------------------------------------)
+
+362- What are hooks in React?
+
+Ans- Hooks are special functions that allow you to use React features like state and lifecycle methods in functional components.
+
+(--------------------------------------------------------------------------)
+
