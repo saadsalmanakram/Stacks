@@ -2399,3 +2399,10 @@ Ans- React will batch the state updates and process them after the event handler
 Ans- setState schedules an update and triggers a re-render, but the current render’s state values remain unchanged until the next render.
 
 (--------------------------------------------------------------------------)
+
+400- What happens if you call setState with a regular value and then with an updater function in the same event handler?
+
+Ans- React will first queue the replacement value, followed by the updater function, which updates the newly replaced state.
+
+(--------------------------------------------------------------------------)
+
