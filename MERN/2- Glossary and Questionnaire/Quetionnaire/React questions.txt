@@ -1985,3 +1985,9 @@ Ans- Libraries like Immer can simplify state updates by allowing you to write mu
 Ans- Understanding these phases helps diagnose performance issues and improves the efficiency of UI updates.
 
 (--------------------------------------------------------------------------)
+
+332- What is an event handler in React?
+
+Ans- An event handler is a function that runs in response to user interactions, like clicks or hovers.
+
+(--------------------------------------------------------------------------)
