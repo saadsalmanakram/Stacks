@@ -1476,3 +1476,8 @@ Ans- Use it sparingly, as overusing it may lead to unclear code and difficult de
 
 (--------------------------------------------------------------------------)
 
+247- How are props passed to custom components different from built-in tags like <img>?
+
+Ans- Props passed to custom components are handled by React, while built-in tags follow HTML standards for attributes.
+
+(--------------------------------------------------------------------------)
