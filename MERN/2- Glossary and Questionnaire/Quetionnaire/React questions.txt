@@ -2844,3 +2844,9 @@ Ans- useState allows functional components to maintain internal state and trigge
 
 (---------------------------------------------------------------------------)
 
+474- How does React handle UI updates after a state change?
+
+Ans- React automatically re-renders the affected components based on the new state, efficiently updating the DOM to reflect the current UI representation.
+
+(---------------------------------------------------------------------------)
+
