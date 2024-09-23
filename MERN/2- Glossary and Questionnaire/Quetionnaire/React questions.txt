@@ -4572,3 +4572,9 @@ Ans- It can lead to bugs by causing the effect to run with stale or incorrect va
 
 (--------------------------------------------------------------------------)
 
+743- What should you do if you want to remove a dependency from a useEffect?
+
+Ans- Prove that the dependency is not reactive by moving it outside of the component or managing it differently.
+
+(--------------------------------------------------------------------------)
+
