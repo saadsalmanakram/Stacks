@@ -2130,3 +2130,10 @@ Ans- Hooks must be called unconditionally to maintain their order and integrity 
 
 (--------------------------------------------------------------------------)
 
+356- How do you prevent a crash when clicking “Next” on the last item in a list?
+
+Ans- Add conditional logic to check the index before updating the state.
+
+(--------------------------------------------------------------------------)
+
+
