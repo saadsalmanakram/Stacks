@@ -2519,3 +2519,9 @@ Ans- Use the spread operator ... to copy the existing object and update the spec
 Ans- The spread operator (...) creates a shallow copy of an object, which is used to update state immutably.
 
 (---------------------------------------------------------------------------)
+
+420- How would you update a nested object in React state without mutating it?
+
+Ans- Copy both the outer and inner objects using the spread operator at multiple levels to preserve immutability.
+
+(---------------------------------------------------------------------------)
