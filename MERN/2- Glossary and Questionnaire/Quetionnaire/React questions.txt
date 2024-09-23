@@ -1692,4 +1692,10 @@ Ans- Pure components prevent unpredictable behavior and bugs as they consistentl
 
 (--------------------------------------------------------------------------)
 
+283- Can React components contain side effects during rendering?
+
+Ans- No, React components must avoid side effects during rendering to stay pure and predictable.
+
+(--------------------------------------------------------------------------)
+
 
