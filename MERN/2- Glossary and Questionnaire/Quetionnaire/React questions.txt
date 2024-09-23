@@ -3834,3 +3834,9 @@ Ans- Effects are used to synchronize React components with external systems like
 
 (--------------------------------------------------------------------------)
 
+619- How do you prevent an Effect from running unnecessarily?
+
+Ans- By providing an array of dependencies as the second argument to useEffect, React only re-runs the Effect when one of the dependencies changes.
+
+(--------------------------------------------------------------------------)
+
