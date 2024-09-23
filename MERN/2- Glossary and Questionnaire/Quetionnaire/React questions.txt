@@ -2064,3 +2064,9 @@ Ans- A common mistake is calling the function instead of passing it, e.g., using
 
 (--------------------------------------------------------------------------)
 
+345- What happens if you forget to use e.preventDefault() in a form submission?
+
+Ans- The default behavior will cause the page to reload, interrupting any custom handling.
+
+(--------------------------------------------------------------------------)
+
