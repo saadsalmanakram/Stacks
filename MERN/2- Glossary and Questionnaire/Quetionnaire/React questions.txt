@@ -1302,3 +1302,9 @@ Ans- Yes, JSX is a syntax extension and can be used independently, though it is 
 
 (--------------------------------------------------------------------------)
 
+218- What are the rules for writing custom attributes in JSX?
+
+Ans- Custom attributes follow camelCase notation, except for aria-* and data-* attributes, which retain their dash-based format.
+
+(--------------------------------------------------------------------------)
+
