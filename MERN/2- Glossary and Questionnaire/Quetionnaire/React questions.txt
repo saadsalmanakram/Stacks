@@ -3810,3 +3810,9 @@ Ans- Refs are an escape hatch from React’s declarative nature and can lead to 
 
 (--------------------------------------------------------------------------)
 
+615- What are Effects in React?
+
+Ans- Effects allow running side effects (like fetching data or interacting with external systems) after rendering in a React component.
+
+(--------------------------------------------------------------------------)
+
