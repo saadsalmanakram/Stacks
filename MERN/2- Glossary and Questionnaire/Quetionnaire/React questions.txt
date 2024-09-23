@@ -4392,3 +4392,9 @@ Ans- Event handlers run in response to user interactions, while Effects run auto
 
 (--------------------------------------------------------------------------)
 
+713- Why are Effects considered reactive?
+
+Ans- Effects re-run whenever their dependencies change, allowing them to synchronize with the latest state or props.
+
+(--------------------------------------------------------------------------)
+
