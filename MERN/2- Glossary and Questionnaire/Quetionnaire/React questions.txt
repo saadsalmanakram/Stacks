@@ -3018,3 +3018,9 @@ Ans- Identify the closest common parent of the components needing shared state, 
 
 (-------------------------------------------------------------------------)
 
+503- How do you decide where to place state in a React application?
+
+Ans- Place state in the component closest to where it will be used and shared, considering whether it needs to be controlled or can remain local.
+
+(-------------------------------------------------------------------------)
+
