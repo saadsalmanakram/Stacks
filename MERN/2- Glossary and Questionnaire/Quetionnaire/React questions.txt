@@ -4854,3 +4854,9 @@ Ans- Naming them with "use" signals to React and developers that the function is
 
 (--------------------------------------------------------------------------)
 
+790- What are the benefits of extracting common logic into custom hooks?
+
+Ans- It clarifies intent, simplifies component logic, and facilitates easier testing and reusability across the application.
+
+(---------------------------------------------------------------------------)
+
