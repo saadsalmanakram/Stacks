@@ -1187,3 +1187,9 @@ Ans- Use the export statement, either as export default for default exports or e
 Ans- Default exports allow exporting a single component, while named exports allow multiple exports from the same file.
 
 (--------------------------------------------------------------------------)
+
+199- How do you import a default exported component?
+
+Ans- Use import ComponentName from './Component.js'; without curly braces.
+
+(--------------------------------------------------------------------------)
