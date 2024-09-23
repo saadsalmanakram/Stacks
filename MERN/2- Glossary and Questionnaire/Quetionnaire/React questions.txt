@@ -737,5 +737,17 @@ Ans- It infers the type based on the initial state, or you can specify a type ex
 
 (--------------------------------------------------------------------------)
 
+125- How can you type union states in useState?
+
+Ans- You can use union types, like type Status = "idle" | "loading" | "success" | "error";.
+
+(--------------------------------------------------------------------------)
+
+126- What is the purpose of useReducer and how do you type it?
+
+Ans- useReducer manages complex state logic, and the state and actions are typed via interfaces or types.
+
+(--------------------------------------------------------------------------)
+
 
 
