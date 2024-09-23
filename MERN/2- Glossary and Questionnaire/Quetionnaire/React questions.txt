@@ -4518,3 +4518,9 @@ Ans- It ensures you are always using the latest state of count, preventing stale
 
 (--------------------------------------------------------------------------)
 
+734- Why is it preferable to pass arguments to Effect Events instead of reading them inside?
+
+Ans- It clarifies the intention of treating those variables as part of an event and avoids accidental dependency issues.
+
+(--------------------------------------------------------------------------)
+
