@@ -4782,3 +4782,8 @@ Ans- Custom hooks run during the component's lifecycle, reacting to props and st
 
 (--------------------------------------------------------------------------)
 
+778- How do you pass event handlers to a custom hook?
+
+Ans- You can pass event handlers as parameters to the custom hook, which then utilizes them within its logic.
+
+(--------------------------------------------------------------------------)
