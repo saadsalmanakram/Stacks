@@ -3138,3 +3138,9 @@ Ans- You can use keys to give each Counter a unique identity, allowing React to 
 
 (-------------------------------------------------------------------------)
 
+523- How does rendering components in different positions help with state management?
+
+Ans- Rendering components in different positions ensures that React treats them as distinct instances, resetting their state when swapped, rather than sharing the same state.
+
+(-------------------------------------------------------------------------)
+
