@@ -2760,4 +2760,9 @@ Ans- Use memoization techniques or React's useMemo and useCallback hooks to prev
 
 (---------------------------------------------------------------------------)
 
- 
+460- What is a common pitfall when managing state in React?
+
+Ans- A common pitfall is creating redundant state that can lead to bugs and inconsistencies, particularly if updates are not synchronized.
+
+(---------------------------------------------------------------------------)
+
