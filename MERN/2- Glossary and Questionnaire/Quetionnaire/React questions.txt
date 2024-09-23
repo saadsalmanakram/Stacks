@@ -1877,3 +1877,9 @@ Ans- A large bundle size can slow down initial load times and delay the renderin
 Ans- Techniques include code splitting, tree shaking, and removing unused dependencies.
 
 (--------------------------------------------------------------------------)
+
+314- What is tree shaking, and why is it relevant?
+
+Ans- Tree shaking is a bundling technique that eliminates dead code, reducing bundle size based on the dependency tree.
+
+(--------------------------------------------------------------------------)
