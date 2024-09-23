@@ -1895,3 +1895,9 @@ Ans- JSX elements represent components in the render tree, defining the structur
 Ans- Deep nesting can lead to performance issues and make debugging more complex, requiring careful management of state and props.
 
 (--------------------------------------------------------------------------)
+
+317- What is state in React?
+
+Ans- State is a component's memory that holds data that can change over time.
+
+(--------------------------------------------------------------------------)
