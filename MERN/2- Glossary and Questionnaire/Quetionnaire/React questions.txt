@@ -4032,3 +4032,8 @@ Ans- Use the key prop to recreate the component, resetting its state automatical
 
 (--------------------------------------------------------------------------)
 
+653- How can you share logic between multiple event handlers?
+
+Ans- Create a separate function to handle the shared logic and call it in each handler.
+
+(--------------------------------------------------------------------------)
