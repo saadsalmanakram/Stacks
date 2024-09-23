@@ -2531,3 +2531,9 @@ Ans- Copy both the outer and inner objects using the spread operator at multiple
 Ans- A shallow copy duplicates the top-level properties but retains references for nested objects. It's important to avoid mutating nested objects directly.
 
 (---------------------------------------------------------------------------)
+
+422- How do you handle deeply nested state updates in React?
+
+Ans- Use multiple levels of the spread operator, or use a library like Immer to simplify deeply nested updates.
+
+(---------------------------------------------------------------------------)
