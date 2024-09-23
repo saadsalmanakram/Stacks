@@ -3498,3 +3498,9 @@ Ans- You can use useRef to store values that persist across renders without caus
 
 (--------------------------------------------------------------------------)
 
+563- When would you use a ref in React?
+
+Ans- Refs are used to access DOM elements directly or store information that doesn’t affect the component's render.
+
+(--------------------------------------------------------------------------)
+
