@@ -3066,3 +3066,15 @@ Ans- Using keys helps React identify which items have changed, are added, or are
 
 (-------------------------------------------------------------------------)
 
+511- Can two components with the same JSX tag share the same state?
+
+Ans- No, each instance of the same JSX tag renders its own isolated state based on its position in the tree.
+
+(-------------------------------------------------------------------------)
+
+512- What is the consequence of rendering different components at the same position?
+
+Ans- Rendering different components at the same position will reset the state of the previous component.
+
+(-------------------------------------------------------------------------)
+
