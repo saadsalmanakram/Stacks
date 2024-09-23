@@ -1871,3 +1871,9 @@ Ans- It helps identify unnecessary imports or large modules that may contribute 
 Ans- A large bundle size can slow down initial load times and delay the rendering of the UI.
 
 (--------------------------------------------------------------------------)
+
+313- What strategies can be employed to reduce bundle size?
+
+Ans- Techniques include code splitting, tree shaking, and removing unused dependencies.
+
+(--------------------------------------------------------------------------)
