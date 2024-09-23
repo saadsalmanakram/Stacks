@@ -3738,3 +3738,15 @@ Ans- Yes, but modifying DOM nodes that React manages can cause issues; it’s sa
 
 (--------------------------------------------------------------------------)
 
+603- When are refs updated during the React lifecycle?
+
+Ans- Refs are updated during the commit phase, after the DOM has been updated.
+
+(--------------------------------------------------------------------------)
+
+604- Why should you avoid manipulating DOM elements managed by React?
+
+Ans- Direct DOM manipulation can conflict with React's updates and lead to inconsistencies or crashes.
+
+(--------------------------------------------------------------------------)
+
