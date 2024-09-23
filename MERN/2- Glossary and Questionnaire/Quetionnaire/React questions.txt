@@ -942,4 +942,9 @@ Ans- Set the experimental reactCompiler option in the next.config.js file after 
 
 (--------------------------------------------------------------------------)
 
+158- What does the eslint-plugin-react-compiler do?
+
+Ans- It surfaces violations of React rules, helping you fix issues before the compiler skips optimizations.
+
+(--------------------------------------------------------------------------)
 
