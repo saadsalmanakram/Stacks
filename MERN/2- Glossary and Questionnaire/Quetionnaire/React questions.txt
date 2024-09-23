@@ -4404,3 +4404,9 @@ Ans- Use an event handler for logic that should only execute in response to a sp
 
 (--------------------------------------------------------------------------)
 
+715- What is a reactive value in the context of React?
+
+Ans- Reactive values are props or state variables that cause components to re-render when they change.
+
+(--------------------------------------------------------------------------)
+
