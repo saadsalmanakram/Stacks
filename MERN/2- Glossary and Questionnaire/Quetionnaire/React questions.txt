@@ -876,4 +876,10 @@ Ans- The React Compiler is an experimental build-time tool that optimizes React 
 
 (--------------------------------------------------------------------------)
 
+147- What does the React Compiler do?
+
+Ans- It automatically memoizes code by analyzing the components and hooks, optimizing the app's performance without manual memoization.
+
+(--------------------------------------------------------------------------)
+
 
