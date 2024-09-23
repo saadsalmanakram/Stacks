@@ -3054,3 +3054,9 @@ Ans- When a component is removed from the DOM, React destroys its state.
 
 (-------------------------------------------------------------------------)
 
+509- How can you force a React component to reset its state?
+
+Ans- You can force a component to reset its state by changing its position in the render tree or replacing it with a different component.
+
+(-------------------------------------------------------------------------)
+
