@@ -4728,3 +4728,9 @@ Ans- No, each call to a custom hook is independent; they share logic but not sta
 
 (--------------------------------------------------------------------------)
 
+769- What is the structure of a simple custom hook?
+
+Ans- A custom hook typically contains state management and side effects, returning relevant values.
+
+(--------------------------------------------------------------------------)
+
