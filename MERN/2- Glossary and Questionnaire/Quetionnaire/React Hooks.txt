@@ -111,3 +111,10 @@ Ans- useId generates unique IDs for accessibility and element associations.
 Ans- useSyncExternalStore lets a component subscribe to an external store for state management.
 
 (------------------------------------------------------------------------)
+
+20- What is useActionState and when would you use it?
+
+Ans- useActionState manages the state of actions, often used in libraries for better action handling.
+
+(------------------------------------------------------------------------)
+
