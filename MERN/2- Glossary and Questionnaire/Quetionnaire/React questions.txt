@@ -4535,3 +4535,10 @@ Ans- Event handlers respond to user interactions, while Effects handle side effe
 Ans- It ensures that the effect runs correctly based on dependencies, keeping the UI in sync with the state.
 
 (--------------------------------------------------------------------------)
+
+737- Can you use asynchronous logic within Effect Events?
+
+Ans- Yes, but you should carefully manage the arguments to ensure you’re working with the correct state.
+
+(--------------------------------------------------------------------------)
+
