@@ -4284,3 +4284,9 @@ Ans- A reactive value is one that can change over time and affects the behavior 
 
 (--------------------------------------------------------------------------)
 
+695- How does React verify that an Effect can re-synchronize?
+
+Ans- In development mode, React forcibly re-mounts the Effect to ensure the cleanup function executes correctly and that the Effect synchronizes properly.
+
+(--------------------------------------------------------------------------)
+
