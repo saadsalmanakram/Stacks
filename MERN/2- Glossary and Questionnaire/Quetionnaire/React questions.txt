@@ -1181,3 +1181,9 @@ Ans- Use the import statement followed by the component name and the file path.
 Ans- Use the export statement, either as export default for default exports or export for named exports.
 
 (--------------------------------------------------------------------------)
+
+198- What’s the difference between default and named exports in React?
+
+Ans- Default exports allow exporting a single component, while named exports allow multiple exports from the same file.
+
+(--------------------------------------------------------------------------)
