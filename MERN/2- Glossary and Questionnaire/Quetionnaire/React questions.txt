@@ -2352,7 +2352,11 @@ Ans- React maintains the state in its internal system, outside the component, an
 
 (--------------------------------------------------------------------------)
 
+392- What happens if you call setState multiple times with the same value?
 
+Ans- React will only trigger one re-render, as it batches state updates and optimizes performance.
+
+(--------------------------------------------------------------------------)
 
 
 
