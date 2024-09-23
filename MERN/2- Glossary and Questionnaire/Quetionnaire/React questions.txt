@@ -3210,3 +3210,16 @@ Ans- It reduces complexity, improves readability, and centralizes state logic.
 
 (-------------------------------------------------------------------------)
 
+535- How does useReducer aid in debugging?
+
+Ans- You can log actions and state transitions within the reducer, making it easier to trace issues.
+
+(-------------------------------------------------------------------------)
+
+536- What should an action object typically contain?
+
+Ans- An action object usually contains a type field and any additional information required for the state update.
+
+(-------------------------------------------------------------------------)
+
+
