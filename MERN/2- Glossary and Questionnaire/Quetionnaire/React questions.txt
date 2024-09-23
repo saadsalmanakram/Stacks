@@ -2417,3 +2417,9 @@ Ans- An updater function is a function passed to setState that computes the new 
 Ans- You can pass an updater function to setState (e.g., setState(n => n + 1)) for sequential updates.
 
 (---------------------------------------------------------------------------)
+
+403- What would happen if you call setState with a value, then with an updater function, and then with another value?
+
+Ans- React will apply the queued updates sequentially, replacing the state with the last queued value.
+
+(---------------------------------------------------------------------------)
