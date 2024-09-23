@@ -3168,3 +3168,15 @@ Ans- useReducer separates state logic into a function, while useState directly u
 
 (-------------------------------------------------------------------------)
 
+528- What are the arguments of a reducer function?
+
+Ans- The reducer function takes two arguments: the current state and the action.
+
+(-------------------------------------------------------------------------)
+
+529- What is an action in the context of a reducer?
+
+Ans- An action is an object that describes what happened, typically including a type and any additional data needed for the update.
+
+(-------------------------------------------------------------------------)
+
