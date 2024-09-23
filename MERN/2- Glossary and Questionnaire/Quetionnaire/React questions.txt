@@ -4452,3 +4452,9 @@ Ans- Because sending a message should only occur in direct response to the user'
 
 (--------------------------------------------------------------------------)
 
+723- How would you implement a connection to a chat room using an Effect?
+
+Ans- Use useEffect to establish the connection based on the current roomId, ensuring it updates whenever the roomId changes.
+
+(--------------------------------------------------------------------------)
+
