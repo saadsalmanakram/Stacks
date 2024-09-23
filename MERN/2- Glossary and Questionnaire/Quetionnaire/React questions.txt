@@ -2957,3 +2957,10 @@ Ans- Lifting state up is the process of moving state from child components to th
 Ans- To synchronize state between multiple components, ensuring they reflect changes consistently based on a single source of truth.
 
 (---------------------------------------------------------------------------)
+
+493- What are controlled components in React?
+
+Ans- Controlled components are those whose state is managed by React through props, typically form elements that rely on state to determine their values.
+
+(---------------------------------------------------------------------------)
+
