@@ -2550,3 +2550,9 @@ Ans- When managing complex or deeply nested state structures, where spread opera
 
 (---------------------------------------------------------------------------)
 
+425- What is a mutation in the context of JavaScript objects?
+
+Ans- A mutation occurs when the contents of an object are directly changed without creating a new object.
+
+(---------------------------------------------------------------------------)
+
