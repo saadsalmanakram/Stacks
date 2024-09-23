@@ -2195,3 +2195,10 @@ Ans- Complex state can lead to difficulties in managing and updating the state, 
 Ans- Rendering in React refers to calling the component's function to figure out what to display on the screen.
 
 (--------------------------------------------------------------------------)
+
+366- What triggers an initial render in React?
+
+Ans- The initial render is triggered when the app starts and the component is rendered for the first time.
+
+(--------------------------------------------------------------------------)
+
