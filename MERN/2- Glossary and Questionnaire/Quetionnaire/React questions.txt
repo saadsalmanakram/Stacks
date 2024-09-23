@@ -1500,4 +1500,9 @@ Ans- Conditional rendering allows React components to display different UI based
 
 (--------------------------------------------------------------------------)
 
+251- How can you conditionally render JSX using an if statement in React?
+
+Ans- You can use an if statement to return different JSX based on a condition, controlling what gets rendered.
+
+(--------------------------------------------------------------------------)
 
