@@ -2214,3 +2214,8 @@ Ans- Rendering is the process of calculating the virtual DOM, while committing i
 
 (--------------------------------------------------------------------------)
 
+369- Does React always update the DOM after rendering a component?
+
+Ans- No, React only updates the DOM if there is a difference between the current and previous render outputs.
+
+(--------------------------------------------------------------------------)
