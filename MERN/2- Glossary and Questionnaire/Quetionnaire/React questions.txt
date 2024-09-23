@@ -1374,3 +1374,9 @@ Ans- Make sure you’re not trying to render a whole object directly; access obj
 
 (--------------------------------------------------------------------------)
 
+230- What happens if you use double curly braces inside JSX?
+
+Ans- Double curly braces represent passing a JavaScript object inside JSX, often seen with inline styles.
+
+(--------------------------------------------------------------------------)
+
