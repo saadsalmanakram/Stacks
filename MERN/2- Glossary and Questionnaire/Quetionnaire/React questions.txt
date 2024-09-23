@@ -2592,3 +2592,15 @@ Ans- Use the spread operator setArray([...array, newElement]) or concat() to cre
 
 (---------------------------------------------------------------------------)
 
+432- How do you remove an element from an array stored in React state?
+
+Ans- Use filter() to create a new array excluding the element you want to remove.
+
+(---------------------------------------------------------------------------)
+
+433- Why is push() not recommended for adding elements to an array in React state?
+
+Ans- push() mutates the original array, which can lead to state-related issues in React.
+
+(---------------------------------------------------------------------------)
+
