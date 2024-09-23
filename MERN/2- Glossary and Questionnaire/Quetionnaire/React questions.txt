@@ -3882,3 +3882,20 @@ Ans- The dependencies array tells React when to re-run the Effect based on chang
 
 (--------------------------------------------------------------------------)
 
+627- What happens if you omit the dependencies array in useEffect?
+
+Ans- Without the dependencies array, the Effect will run after every render, which can cause performance issues or unintended side effects.
+
+(--------------------------------------------------------------------------)
+
+628- Can you have multiple useEffect hooks in the same component?
+
+Ans- Yes, you can have multiple useEffect hooks, each handling different side effects independently.
+
+(--------------------------------------------------------------------------)
+
+629- What is a common use case of Effects in React?
+
+Ans- Common use cases include fetching data from a server, setting up event listeners, and interacting with non-React libraries or APIs.
+
+(--------------------------------------------------------------------------)
