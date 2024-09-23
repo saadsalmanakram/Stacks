@@ -3096,3 +3096,9 @@ Ans- During reconciliation, React compares previous and current trees to decide 
 
 (-------------------------------------------------------------------------)
 
+516- What is a common pitfall when rendering components conditionally?
+
+Ans- A common pitfall is assuming that conditional rendering won't affect state when the structure changes, leading to unexpected resets.
+
+(-------------------------------------------------------------------------)
+
