@@ -22,3 +22,8 @@ Ans- Use useState for simple state management like tracking form inputs.
 
 (------------------------------------------------------------------------)
 
+5- In what scenario would you prefer useReducer over useState?
+
+Ans- Use useReducer when dealing with multiple sub-values or complex state transitions.
+
+(------------------------------------------------------------------------)
