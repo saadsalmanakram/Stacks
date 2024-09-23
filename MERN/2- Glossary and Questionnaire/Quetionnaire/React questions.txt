@@ -4583,3 +4583,10 @@ Ans- Prove that the dependency is not reactive by moving it outside of the compo
 Ans- Use the functional form of state setters to access the current state value without adding it as a dependency.
 
 (--------------------------------------------------------------------------)
+
+745- Why should you avoid using object or function dependencies in useEffect?
+
+Ans- They can change on every render, leading to unnecessary re-runs of the effect.
+
+(--------------------------------------------------------------------------)
+
