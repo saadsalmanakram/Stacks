@@ -4716,3 +4716,9 @@ Ans- Custom hooks must start with the prefix "use" to indicate they follow React
 
 (--------------------------------------------------------------------------)
 
+767- How would you extract duplicated logic into a custom hook?
+
+Ans- Identify the repetitive logic, encapsulate it in a function starting with "use", and return necessary values.
+
+(--------------------------------------------------------------------------)
+
