@@ -4860,3 +4860,9 @@ Ans- It clarifies intent, simplifies component logic, and facilitates easier tes
 
 (---------------------------------------------------------------------------)
 
+791- How do custom hooks help with migrating to newer React APIs?
+
+Ans- They encapsulate logic, making it easier to update implementations without altering the components that rely on them.
+
+(---------------------------------------------------------------------------)
+
