@@ -2682,3 +2682,9 @@ Ans- State management involves organizing and controlling the data flow within a
 
 (---------------------------------------------------------------------------)
 
+447- How do you avoid redundant state in React?
+
+Ans- Avoid redundant state by computing derived values directly in the render method rather than storing them in the state.
+
+(---------------------------------------------------------------------------)
+
