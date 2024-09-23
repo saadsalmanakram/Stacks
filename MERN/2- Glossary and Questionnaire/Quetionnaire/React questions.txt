@@ -900,4 +900,10 @@ Ans- It analyzes your components and hooks, applying memoization automatically t
 
 (--------------------------------------------------------------------------)
 
+151- Can the eslint plugin for React Compiler be used without the compiler?
+
+Ans- Yes, the eslint plugin can be used independently to help catch React rule violations during development.
+
+(--------------------------------------------------------------------------)
+
 
