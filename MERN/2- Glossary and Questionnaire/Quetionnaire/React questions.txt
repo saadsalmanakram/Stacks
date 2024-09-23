@@ -1440,3 +1440,9 @@ Ans- Destructuring makes it easier to access individual props without needing to
 
 (--------------------------------------------------------------------------)
 
+241- How do you forward all props to a child component?
+
+Ans- You can forward all props using the JSX spread syntax, e.g., <ChildComponent {...props} />.
+
+(--------------------------------------------------------------------------)
+
