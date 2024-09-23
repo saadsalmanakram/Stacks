@@ -3906,3 +3906,10 @@ Ans- In development, React remounts components to check for cleanup, while in pr
 
 (--------------------------------------------------------------------------)
 
+631- What is the purpose of a cleanup function in useEffect?
+
+Ans- The cleanup function undoes the Effect’s side effects, like closing connections or unsubscribing from events.
+
+(--------------------------------------------------------------------------)
+
+
