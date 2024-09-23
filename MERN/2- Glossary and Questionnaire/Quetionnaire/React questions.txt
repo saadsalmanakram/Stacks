@@ -2159,3 +2159,10 @@ Ans- State is managed within a component and can change over time, while props a
 Ans- When you have related pieces of state that change together, like form inputs, it's better to use a single object.
 
 (--------------------------------------------------------------------------)
+
+361- What is the significance of state being private to a component?
+
+Ans- It allows encapsulation of logic and data, preventing unintended interference from other components.
+
+(--------------------------------------------------------------------------)
+
