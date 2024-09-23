@@ -1626,4 +1626,10 @@ Ans- An implicit return occurs when an arrow function returns a value without us
 
 (--------------------------------------------------------------------------)
 
+272- How would you filter a list of objects in React based on a property?
+
+Ans- Use filter() to create a new array of objects that meet the criteria, then map that array to JSX elements.
+
+(--------------------------------------------------------------------------)
+
 
