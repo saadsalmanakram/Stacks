@@ -2045,3 +2045,9 @@ Ans- Event handlers have access to the component's props because they are define
 Ans- Yes, event handlers can cause side effects, like updating state or making API calls.
 
 (--------------------------------------------------------------------------)
+
+342- How can you pass an event handler from a parent to a child component?
+
+Ans- By passing the handler as a prop to the child component, e.g., <Child onClick={parentHandler} />.
+
+(--------------------------------------------------------------------------)
