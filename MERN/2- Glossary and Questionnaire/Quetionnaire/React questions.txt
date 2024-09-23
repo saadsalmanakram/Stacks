@@ -2364,4 +2364,9 @@ Ans- The useState hook initializes state and returns a state variable along with
 
 (--------------------------------------------------------------------------)
 
+394- How does React ensure that event handlers always see the correct state?
+
+Ans- Event handlers receive the snapshot of the state at the time of the render when they were created.
+
+(--------------------------------------------------------------------------)
 
