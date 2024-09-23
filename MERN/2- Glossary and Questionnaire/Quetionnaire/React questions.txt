@@ -966,3 +966,10 @@ Ans- Exclude problematic components or hooks using the "use no memo" directive a
 
 (--------------------------------------------------------------------------)
 
+162- Can the React Compiler be used with Vite?
+
+Ans- Yes, it can be integrated into Vite by using the `vite-plugin-react` and configuring it with the Babel plugin.
+
+(--------------------------------------------------------------------------)
+
+
