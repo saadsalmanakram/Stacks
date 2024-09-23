@@ -3084,3 +3084,9 @@ Ans- If the child component remains at the same position in the tree, its state 
 
 (-------------------------------------------------------------------------)
 
+514- Why is nesting component function definitions discouraged?
+
+Ans- Nesting can lead to unintended resets of state because the component’s structure may change with each render.
+
+(-------------------------------------------------------------------------)
+
