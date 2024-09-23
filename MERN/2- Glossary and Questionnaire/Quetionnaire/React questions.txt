@@ -2784,4 +2784,15 @@ Ans- A state machine represents a component's different visual states and the tr
 
 (---------------------------------------------------------------------------)
 
+464- What are some common visual states you might track in a form component?
+
+Ans- Common visual states include 'empty', 'typing', 'submitting', 'success', and 'error'.
+
+(---------------------------------------------------------------------------)
+
+465- How can you trigger state updates in React?
+
+Ans- State updates can be triggered by human inputs (like button clicks) and computer inputs (like network responses).
+
+(---------------------------------------------------------------------------)
 
