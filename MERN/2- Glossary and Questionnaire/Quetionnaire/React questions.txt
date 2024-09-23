@@ -2688,3 +2688,9 @@ Ans- Avoid redundant state by computing derived values directly in the render me
 
 (---------------------------------------------------------------------------)
 
+448- What does "lifting state up" mean?
+
+Ans- "Lifting state up" refers to moving state to a common ancestor component to synchronize shared state across multiple child components.
+
+(---------------------------------------------------------------------------)
+
