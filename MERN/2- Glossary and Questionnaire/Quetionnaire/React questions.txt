@@ -4151,3 +4151,10 @@ Ans- It ensures that initialization logic runs only once per application load, p
 Ans- By using the current state directly in the event handler or using functional updates for state setters.
 
 (--------------------------------------------------------------------------)
+
+673- What is the purpose of a cleanup function in useEffect?
+
+Ans- It helps to prevent memory leaks and removes any side effects when the component unmounts or dependencies change.
+
+(--------------------------------------------------------------------------)
+
