@@ -1847,3 +1847,9 @@ Ans- They help in understanding which modules are necessary for the app, aiding 
 Ans- React uses the render tree to efficiently update the DOM based on changes in component state or props.
 
 (--------------------------------------------------------------------------)
+
+309- What role do bundlers play in relation to the dependency tree?
+
+Ans- Bundlers use the dependency tree to compile and optimize the necessary code for production builds.
+
+(--------------------------------------------------------------------------)
