@@ -1134,4 +1134,8 @@ Ans- Props allow passing data from parent components to child components.
 
 (--------------------------------------------------------------------------)
 
+190- How does nesting work in React components?
 
+Ans- Components can be nested inside one another to build more complex UIs.
+
+(--------------------------------------------------------------------------)
