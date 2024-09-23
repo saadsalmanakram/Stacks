@@ -27,3 +27,9 @@ Ans- Use useState for simple state management like tracking form inputs.
 Ans- Use useReducer when dealing with multiple sub-values or complex state transitions.
 
 (------------------------------------------------------------------------)
+
+6- What does the useContext hook do?
+
+Ans- useContext allows components to subscribe to context changes without passing props.
+
+(------------------------------------------------------------------------)
