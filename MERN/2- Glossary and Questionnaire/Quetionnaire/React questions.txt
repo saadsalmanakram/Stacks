@@ -2112,3 +2112,8 @@ Ans- The component will not re-render, and the updated value will not be reflect
 
 (--------------------------------------------------------------------------)
 
+353- How does React know which state to return during re-renders?
+
+Ans- React maintains an internal mapping of state variables by their order of declaration.
+
+(--------------------------------------------------------------------------)
