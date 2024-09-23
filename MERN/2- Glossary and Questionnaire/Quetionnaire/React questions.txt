@@ -2322,3 +2322,8 @@ Ans- React calls the component function again, creating a new JSX snapshot and u
 
 (--------------------------------------------------------------------------)
 
+387- What is the difference between state and a regular variable in a React component?
+
+Ans- State persists between renders and triggers re-renders when updated, while regular variables do not.
+
+(--------------------------------------------------------------------------)
