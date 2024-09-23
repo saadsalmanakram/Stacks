@@ -4740,3 +4740,9 @@ Ans- Use the return function from useEffect within the custom hook to manage cle
 
 (--------------------------------------------------------------------------)
 
+771- Provide an example use case for a custom hook.
+
+Ans- A custom hook to manage online/offline status, allowing components to react to network changes.
+
+(--------------------------------------------------------------------------)
+
