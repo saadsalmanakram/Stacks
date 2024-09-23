@@ -1446,3 +1446,9 @@ Ans- You can forward all props using the JSX spread syntax, e.g., <ChildComponen
 
 (--------------------------------------------------------------------------)
 
+242- What is the children prop in React?
+
+Ans- The children prop is a special prop that allows passing nested JSX as content between component tags.
+
+(--------------------------------------------------------------------------)
+
