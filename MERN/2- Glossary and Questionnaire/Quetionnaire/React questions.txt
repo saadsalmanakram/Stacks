@@ -2898,3 +2898,9 @@ Ans- Grouping related state makes updates simpler and reduces the risk of bugs.
 
 (---------------------------------------------------------------------------)
 
+483- How can you fix issues with deeply nested state?
+
+Ans- Flatten the state structure whenever possible to simplify updates and access.
+
+(---------------------------------------------------------------------------)
+
