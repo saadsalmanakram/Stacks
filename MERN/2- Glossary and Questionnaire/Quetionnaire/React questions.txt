@@ -3798,3 +3798,9 @@ Ans- Non-destructive actions like focusing, scrolling, or reading values are gen
 
 (--------------------------------------------------------------------------)
 
+613- Can you store non-DOM values in refs?
+
+Ans- Yes, refs can also be used to store mutable values like timers or previous state without causing re-renders.
+
+(--------------------------------------------------------------------------)
+
