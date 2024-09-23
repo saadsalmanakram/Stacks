@@ -828,4 +828,16 @@ Ans- Actions are typed through an action type union, ensuring only valid actions
 
 (--------------------------------------------------------------------------)
 
+139- What is React Developer Tools?
+
+Ans- React Developer Tools is a browser extension used to inspect React components, view their props and state, and debug performance issues.
+
+(--------------------------------------------------------------------------)
+
+140- How do you install React Developer Tools for React Native apps?
+
+Ans- Install the react-devtools package globally via npm or yarn, then launch it from the terminal to inspect the running React Native app.
+
+(--------------------------------------------------------------------------)
+
 
