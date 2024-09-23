@@ -4494,3 +4494,8 @@ Ans- It can lead to stale values being used, potentially causing bugs and incorr
 
 (--------------------------------------------------------------------------)
 
+730- How can you log a visit with multiple dependencies using Effect Events?
+
+Ans- By separating the logging logic into an Effect Event and passing relevant dependencies explicitly.
+
+(--------------------------------------------------------------------------)
