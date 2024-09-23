@@ -1788,3 +1788,9 @@ Ans- Depending on external variables introduces unpredictability, making the com
 
 (--------------------------------------------------------------------------)
 
+299- How can you avoid impure calculations during rendering in React?
+
+Ans- By ensuring all necessary data is passed via props or state and not relying on external mutable objects.
+
+(--------------------------------------------------------------------------)
+
