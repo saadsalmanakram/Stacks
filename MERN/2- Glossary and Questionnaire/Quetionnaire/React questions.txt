@@ -2100,3 +2100,9 @@ Ans- State is local to the component instance and not accessible by its parent o
 
 (--------------------------------------------------------------------------)
 
+351- Can you have multiple state variables in a component?
+
+Ans- Yes, you can declare multiple state variables using the useState Hook.
+
+(--------------------------------------------------------------------------)
+
