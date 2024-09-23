@@ -2441,3 +2441,10 @@ Ans- Passing a value like setState(42) replaces the state, overriding any prior 
 Ans- React batches updates within an event to avoid unnecessary re-renders but handles separate events independently to ensure predictable behavior.
 
 (---------------------------------------------------------------------------)
+
+407- How does using setState with a function (updater function) differ from using it with a value?
+
+Ans- An updater function uses the previous state to calculate the new state, while a value directly replaces the state.
+
+(---------------------------------------------------------------------------)
+
