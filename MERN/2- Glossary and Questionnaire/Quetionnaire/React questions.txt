@@ -2796,3 +2796,9 @@ Ans- State updates can be triggered by human inputs (like button clicks) and com
 
 (---------------------------------------------------------------------------)
 
+466- Why is it important to avoid non-essential state variables?
+
+Ans- Non-essential state variables can lead to complexity, bugs, and inconsistencies in the UI, making it harder to maintain and understand the component.
+
+(---------------------------------------------------------------------------)
+
