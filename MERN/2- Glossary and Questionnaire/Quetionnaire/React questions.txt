@@ -2934,3 +2934,9 @@ Ans- Look for state variables that can be derived from other existing state or p
 
 (---------------------------------------------------------------------------)
 
+489- What does it mean to avoid contradictions in state?
+
+Ans- Ensure that multiple state variables do not hold conflicting values at the same time.
+
+(---------------------------------------------------------------------------)
+
