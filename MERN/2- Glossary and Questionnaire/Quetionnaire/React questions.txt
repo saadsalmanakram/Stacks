@@ -3414,3 +3414,15 @@ Ans- You can store state and dispatch from useReducer in context, allowing them 
 
 (--------------------------------------------------------------------------)
 
+549- What are the steps to combine a reducer with context?
+
+Ans- Create context, 2) Put state and dispatch in context, 3) Use context anywhere in the component tree.
+
+(--------------------------------------------------------------------------)
+
+550- Why might you separate context and reducer logic into a separate file?
+
+Ans- To maintain modularity and declutter your components by separating logic from UI code.
+
+(--------------------------------------------------------------------------)
+
