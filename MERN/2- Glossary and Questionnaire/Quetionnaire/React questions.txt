@@ -2927,3 +2927,10 @@ Ans- When each variable can be updated independently without risk of inconsisten
 Ans- Instead of using an object with multiple layers, use an array of objects with flat properties.
 
 (---------------------------------------------------------------------------)
+
+488- How can you identify redundant state in a component?
+
+Ans- Look for state variables that can be derived from other existing state or props.
+
+(---------------------------------------------------------------------------)
+
