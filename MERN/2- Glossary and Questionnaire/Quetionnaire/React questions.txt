@@ -1997,3 +1997,9 @@ Ans- An event handler is a function that runs in response to user interactions, 
 Ans- You define a function and pass it as a prop to the JSX element, e.g., <button onClick={handleClick}>.
 
 (--------------------------------------------------------------------------)
+
+334- Can you define an event handler inline?
+
+Ans- Yes, you can use an inline function, like <button onClick={() => alert('Clicked!')}>.
+
+(--------------------------------------------------------------------------)
