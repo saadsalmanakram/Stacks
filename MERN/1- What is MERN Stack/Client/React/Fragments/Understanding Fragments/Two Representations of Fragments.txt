@@ -1,0 +1,20 @@
+{/* You can use a fragment in two  ways*/}
+
+{/*1. Using React.Fragment> */}
+
+return (
+  <React.Fragment>
+    <h1>Title</h1>
+    <p>Description</p>
+  </React.Fragment>
+);
+
+{/*2. Using shorthand <> */}
+
+return (
+  <>
+    <h1>Title</h1>
+    <p>Description</p>
+  </>
+);
+
