@@ -1,0 +1,3 @@
+In React, fragments are a way to group multiple elements without adding an extra node to the DOM. Normally, React requires wrapping sibling elements inside a parent element like a <div> or another HTML element, which can lead to unnecessary nesting and extra DOM nodes. Fragments solve this problem by allowing multiple children to be grouped without creating additional markup.
+
+
