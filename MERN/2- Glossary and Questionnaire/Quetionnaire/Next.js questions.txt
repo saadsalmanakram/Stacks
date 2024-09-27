@@ -610,3 +610,8 @@ Ans- Advanced patterns like Parallel Routes and Intercepting Routes provide more
 
 (-----------------------------------------------------------------------)
 
+103- What routing system does Next.js use?
+
+Ans- Next.js uses a file-system-based router where folders represent route segments.
+
+(-----------------------------------------------------------------------)
