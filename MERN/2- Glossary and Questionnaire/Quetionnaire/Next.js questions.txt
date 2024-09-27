@@ -2256,3 +2256,9 @@ Ans- Next.js automatically memoizes requests made with the same URL and options,
 
 (----------------------------------------------------------------------)
 
+377- What is the difference between sequential and parallel data fetching?
+
+Ans- Sequential fetching waits for one request to finish before starting the next, while parallel fetching initiates all requests simultaneously, improving load times.
+
+(----------------------------------------------------------------------)
+
