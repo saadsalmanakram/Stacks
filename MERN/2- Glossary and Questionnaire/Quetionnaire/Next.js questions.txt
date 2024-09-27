@@ -2574,3 +2574,9 @@ Ans- An HTTP response includes a status code and the requested resources, such a
 
 (----------------------------------------------------------------------)
 
+421- What is the network boundary in web development?
+
+Ans- The network boundary is a conceptual line that separates different environments, like the client and server.
+
+(----------------------------------------------------------------------)
+
