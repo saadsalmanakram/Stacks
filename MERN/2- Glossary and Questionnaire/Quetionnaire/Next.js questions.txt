@@ -1288,3 +1288,9 @@ Ans- You should consider creating and storing a redirect map, optimizing data lo
 
 (-----------------------------------------------------------------------)
 
+216- How do you handle redirects before the rendering process in Next.js?
+
+Ans- Redirects before rendering can be handled using next.config.js or Middleware, which allows pre-processing of requests.
+
+(-----------------------------------------------------------------------)
+
