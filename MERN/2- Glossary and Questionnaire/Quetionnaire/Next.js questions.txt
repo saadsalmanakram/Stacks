@@ -1494,3 +1494,9 @@ Ans- Store project files outside the app directory.
 
 (----------------------------------------------------------------------)
 
+250- What should you consider when choosing a project organization strategy?
+
+Ans- Consistency and alignment with team preferences are crucial for maintaining a coherent codebase.
+
+(----------------------------------------------------------------------)
+
