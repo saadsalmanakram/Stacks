@@ -2454,3 +2454,9 @@ Ans- The last successfully generated data remains served, and Next.js retries re
 
 (----------------------------------------------------------------------)
 
+401- How can you debug cached data in local development?
+
+Ans- By enabling logging options in next.config.js, you can track cached and uncached requests.
+
+(----------------------------------------------------------------------)
+
