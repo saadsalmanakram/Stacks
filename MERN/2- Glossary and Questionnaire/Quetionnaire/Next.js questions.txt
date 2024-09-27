@@ -268,3 +268,10 @@ Ans- It provides the icon for the browser tab.
 
 (-----------------------------------------------------------------------)
 
+46- What is an opengraph-image file used for?
+
+Ans- It defines images for Open Graph protocol, used for social sharing.
+
+(-----------------------------------------------------------------------)
+
+
