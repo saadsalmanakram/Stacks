@@ -2178,3 +2178,15 @@ Ans- Locale negotiation is the process of determining the best matching locale f
 
 (----------------------------------------------------------------------)
 
+364- What is data fetching in Next.js?
+
+Ans- Data fetching in Next.js refers to the process of retrieving data from external APIs or databases to be used within React components.
+
+(----------------------------------------------------------------------)
+
+365- What are the main methods for data fetching in Next.js?
+
+Ans- The main methods include server-side fetching, static site generation (SSG), and client-side fetching.
+
+(----------------------------------------------------------------------)
+
