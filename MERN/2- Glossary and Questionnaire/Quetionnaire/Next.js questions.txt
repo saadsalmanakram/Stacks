@@ -136,3 +136,9 @@ Ans- The app directory is part of the App Router, used for server-side rendering
 
 (------------------------------------------------------------------------)
 
+24- What is the pages directory used for in Next.js?
+
+Ans- The pages directory defines routes using the Pages Router for client-side and server-side rendering.
+
+(------------------------------------------------------------------------)
+
