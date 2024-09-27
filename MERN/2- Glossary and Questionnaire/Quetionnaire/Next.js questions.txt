@@ -940,3 +940,15 @@ Ans- It preloads routes in the background, allowing faster navigation when a use
 
 (-----------------------------------------------------------------------)
 
+158- What is the role of the Next.js Router Cache?
+
+Ans- It stores prefetched and visited route segments in memory, improving performance by reducing server requests.
+
+(-----------------------------------------------------------------------)
+
+159- What does partial rendering mean in Next.js?
+
+Ans- Only the route segments that change during navigation are re-rendered, preserving shared components.
+
+(-----------------------------------------------------------------------)
+
