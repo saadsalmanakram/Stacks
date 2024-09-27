@@ -555,3 +555,10 @@ Ans- Server-side API endpoints are created using route.js files, allowing for se
 Ans- Parallel routes allow you to display multiple pages or views simultaneously that can be navigated independently.
 
 (-----------------------------------------------------------------------)
+
+94- What is an intercepting route in Next.js?
+
+Ans- An intercepting route shows content in the context of another route, useful for maintaining page context while displaying additional details (e.g., expanding a photo in a feed).
+
+(-----------------------------------------------------------------------)
+
