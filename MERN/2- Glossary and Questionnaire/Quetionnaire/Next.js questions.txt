@@ -1300,3 +1300,9 @@ Ans- Route Groups allow you to organize your routes without affecting the URL pa
 
 (-----------------------------------------------------------------------)
 
+218- Why are Route Groups useful?
+
+Ans- They help organize routes, enable nested layouts, and allow for specific layouts for subsets of routes.
+
+(-----------------------------------------------------------------------)
+
