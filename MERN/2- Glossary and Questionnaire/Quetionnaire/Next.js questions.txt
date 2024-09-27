@@ -1752,3 +1752,9 @@ Ans- By using intercepting routes, the modal state can be preserved in the URL, 
 
 (----------------------------------------------------------------------)
 
+293- What should be considered when implementing intercepting routes?
+
+Ans- Properly managing state and navigation flow to ensure a consistent user experience during transitions.
+
+(----------------------------------------------------------------------)
+
