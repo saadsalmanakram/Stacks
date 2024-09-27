@@ -820,3 +820,9 @@ Ans- Yes, layouts are server components by default but can be set to client comp
 
 (-----------------------------------------------------------------------)
 
+138- Can layouts fetch data in Next.js?
+
+Ans- Yes, layouts can fetch data, and React will automatically deduplicate data requests across nested layouts.
+
+(-----------------------------------------------------------------------)
+
