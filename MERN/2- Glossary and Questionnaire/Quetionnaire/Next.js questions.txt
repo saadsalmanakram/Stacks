@@ -3210,3 +3210,9 @@ Ans- <Link> prefetch automatically caches routes, while router.prefetch allows m
 
 (-----------------------------------------------------------------------)
 
+524- How does the cache option in the fetch API work?
+
+Ans- It allows you to control caching behavior, with options like force-cache to cache responses or no-store to disable caching.
+
+(-----------------------------------------------------------------------)
+
