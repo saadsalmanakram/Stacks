@@ -3071,3 +3071,10 @@ Ans- Next.js supports the Node.js Runtime (default) and the Edge Runtime.
 Ans- The default runtime is the Node.js Runtime.
 
 (----------------------------------------------------------------------)
+
+501- What APIs are accessible in the Node.js Runtime?
+
+Ans- The Node.js Runtime has access to all Node.js APIs and compatible ecosystem packages.
+
+(-----------------------------------------------------------------------)
+
