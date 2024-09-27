@@ -1084,3 +1084,9 @@ Ans- They are fallback UIs shown immediately upon navigation to indicate the app
 
 (-----------------------------------------------------------------------)
 
+182- How can you create a loading state in Next.js?
+
+Ans- By adding a loading.js file in the same folder as your route segment files.
+
+(-----------------------------------------------------------------------)
+
