@@ -3078,3 +3078,9 @@ Ans- The Node.js Runtime has access to all Node.js APIs and compatible ecosystem
 
 (-----------------------------------------------------------------------)
 
+502- What is the Edge Runtime in Next.js?
+
+Ans- The Edge Runtime is a limited runtime designed for performance, offering fewer APIs compared to Node.js.
+
+(-----------------------------------------------------------------------)
+
