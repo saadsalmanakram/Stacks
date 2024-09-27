@@ -1318,3 +1318,9 @@ Ans- No, folders wrapped in parentheses are omitted from the URL path.
 
 (-----------------------------------------------------------------------)
 
+221- Can you have multiple layouts in Route Groups?
+
+Ans- Yes, each Route Group can have its own layout by including a layout.js file within the group.
+
+(-----------------------------------------------------------------------)
+
