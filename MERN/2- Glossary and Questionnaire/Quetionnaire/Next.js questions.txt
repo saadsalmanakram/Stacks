@@ -2472,3 +2472,9 @@ Ans- A higher revalidation time, such as 1 hour, is preferred for better perform
 
 (----------------------------------------------------------------------)
 
+404- Explain the difference between static and dynamic rendering in the context of ISR.
+
+Ans- Static rendering serves prebuilt pages while dynamic rendering generates pages on-the-fly for each request.
+
+(----------------------------------------------------------------------)
+
