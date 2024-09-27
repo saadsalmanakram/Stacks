@@ -1408,3 +1408,9 @@ Ans- An error occurs if two routes resolve to the same URL, like (marketing)/abo
 
 (----------------------------------------------------------------------)
 
+236- What should you keep in mind when using Route Groups?
+
+Ans- Be cautious with URL conflicts and ensure proper structure for layouts and routes.
+
+(----------------------------------------------------------------------)
+
