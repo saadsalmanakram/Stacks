@@ -502,3 +502,9 @@ Ans- A URL segment is a part of the URL path separated by slashes (/).
 
 (-----------------------------------------------------------------------)
 
+85- How does Next.js use a file-system based router?
+
+Ans- Folders in the app directory define routes, while files create the UI for those routes.
+
+(-----------------------------------------------------------------------)
+
