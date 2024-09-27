@@ -2592,3 +2592,21 @@ Ans- In React, you can define the network boundary using the "use client" and "u
 
 (----------------------------------------------------------------------)
 
+424- What is the purpose of the client module graph in React?
+
+Ans- The client module graph contains all components rendered on the client, representing dependencies in the application.
+
+(----------------------------------------------------------------------)
+
+425- What does the server module graph contain?
+
+Ans- The server module graph includes components that are rendered on the server, outlining how server-side logic is organized.
+
+(----------------------------------------------------------------------)
+
+426- What is a unidirectional flow of code in hybrid applications?
+
+Ans- In hybrid applications, the code flows in one direction: from the server to the client.
+
+(----------------------------------------------------------------------)
+
