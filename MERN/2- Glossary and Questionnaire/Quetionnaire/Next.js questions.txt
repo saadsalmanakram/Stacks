@@ -147,3 +147,10 @@ Ans- The pages directory defines routes using the Pages Router for client-side a
 Ans- It stores static assets that are served directly to the client.
 
 (------------------------------------------------------------------------)
+
+26- What is the purpose of the src folder in Next.js?
+
+Ans- It is an optional folder to organize application source code.
+
+(------------------------------------------------------------------------)
+
