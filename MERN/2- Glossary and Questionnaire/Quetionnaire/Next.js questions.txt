@@ -484,3 +484,9 @@ Ans- A subtree is a part of a component tree starting at a new root node and end
 
 (-----------------------------------------------------------------------)
 
+82- What is a root node in a tree structure?
+
+Ans- The root node is the first or topmost node in a tree structure.
+
+(-----------------------------------------------------------------------)
+
