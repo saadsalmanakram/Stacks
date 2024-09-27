@@ -3168,3 +3168,8 @@ Ans- By using revalidatePath, revalidateTag, setting/deleting cookies, or callin
 
 (-----------------------------------------------------------------------)
 
+517- How does router.refresh differ from revalidatePath?
+
+Ans- router.refresh clears the Router Cache without invalidating the Data or Full Route Cache, while revalidatePath purges both.
+
+(-----------------------------------------------------------------------)
