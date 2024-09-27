@@ -2928,3 +2928,9 @@ Ans- To reduce the client-side bundle size by moving interactivity to isolated c
 
 (----------------------------------------------------------------------)
 
+477- How do you pass props from Server to Client Components?
+
+Ans- Ensure props are serializable, or fetch data on the client if needed.
+
+(----------------------------------------------------------------------)
+
