@@ -2706,3 +2706,9 @@ Ans- Caching allows server-rendered content to be reused across requests, improv
 
 (----------------------------------------------------------------------)
 
+441- How do Server Components impact the initial page load?
+
+Ans- Server-rendered HTML is sent immediately, enabling faster display of content before client-side JavaScript execution.
+
+(----------------------------------------------------------------------)
+
