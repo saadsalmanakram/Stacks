@@ -700,3 +700,9 @@ Ans- It can be used to organize non-route-specific assets like components or sty
 
 (-----------------------------------------------------------------------)
 
+118- How do you create a shared layout for multiple routes?
+
+Ans- Use a layout.js file to define UI shared across multiple routes.
+
+(-----------------------------------------------------------------------)
+
