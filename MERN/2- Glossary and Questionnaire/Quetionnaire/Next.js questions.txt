@@ -1806,3 +1806,8 @@ Ans- By using a route config option like export const dynamic = 'force-static'.
 
 (----------------------------------------------------------------------)
 
+302- What are Special Route Handlers?
+
+Ans- These are specific files like sitemap.ts that remain static unless configured otherwise.
+
+(----------------------------------------------------------------------)
