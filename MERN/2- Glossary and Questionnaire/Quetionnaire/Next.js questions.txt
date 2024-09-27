@@ -40,3 +40,16 @@ Ans- Next.js offers better TypeScript support with improved type checking, effic
 
 (-------------------------------------------------------------------------)
 
+8- What is the difference between the App Router and the Pages Router in Next.js?
+
+Ans- The App Router supports React’s latest features like Server Components, while the Pages Router is the original router for server-rendered apps.
+
+(-------------------------------------------------------------------------)
+
+9- What command is recommended for creating a new Next.js app?
+
+Ans- Use npx create-next-app@latest.
+
+(-------------------------------------------------------------------------)
+
+
