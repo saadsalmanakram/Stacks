@@ -1342,3 +1342,9 @@ Ans- Yes, Route Groups can be used to separate routes by site section, intent, o
 
 (----------------------------------------------------------------------)
 
+225- What is the benefit of nested layouts in Route Groups?
+
+Ans- Nested layouts enable different UI experiences within the same route segment, improving flexibility.
+
+(----------------------------------------------------------------------)
+
