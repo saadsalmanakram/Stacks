@@ -2550,3 +2550,9 @@ Ans- Application code can execute in the client environment (browser) and the se
 
 (----------------------------------------------------------------------)
 
+417- What is the request-response lifecycle?
+
+Ans- The request-response lifecycle describes the sequence of events from a user's action to the rendering of the interface in response.
+
+(----------------------------------------------------------------------)
+
