@@ -1830,3 +1830,9 @@ Ans- They can create request handlers using dynamic data through route segments.
 
 (----------------------------------------------------------------------)
 
+306- Can Route Handlers read cookies?
+
+Ans- Yes, they can read and set cookies using the cookies API from next/headers.
+
+(----------------------------------------------------------------------)
+
