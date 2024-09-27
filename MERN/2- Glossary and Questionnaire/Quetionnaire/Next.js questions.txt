@@ -1234,3 +1234,8 @@ Ans- NextResponse.redirect allows you to redirect requests based on conditions, 
 
 (-----------------------------------------------------------------------)
 
+207- How can you manage a large number of redirects in Next.js?
+
+Ans- By creating a custom solution using Middleware to programmatically handle redirects, potentially using a redirect map stored in a database.
+
+(-----------------------------------------------------------------------)
