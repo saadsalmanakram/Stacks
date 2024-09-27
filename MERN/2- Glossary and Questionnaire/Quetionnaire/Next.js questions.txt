@@ -808,3 +808,8 @@ Ans- Layouts can use .js, .jsx, or .tsx file extensions.
 
 (-----------------------------------------------------------------------)
 
+136- Can a layout contain <html> and <body> tags?
+
+Ans- Only the root layout can contain <html> and <body> tags.
+
+(-----------------------------------------------------------------------)
