@@ -1536,3 +1536,15 @@ Ans- The generateStaticParams function is used to statically generate routes at 
 
 (----------------------------------------------------------------------)
 
+257- How does generateStaticParams enhance performance?
+
+Ans- It memoizes fetch requests, ensuring that repeated requests with the same parameters are only executed once, thus reducing build times.
+
+(----------------------------------------------------------------------)
+
+258- What are catch-all segments in dynamic routes?
+
+Ans- Catch-all segments are created by using ellipses inside brackets, e.g., [...slug], allowing routes to match multiple nested paths.
+
+(----------------------------------------------------------------------)
+
