@@ -2897,3 +2897,10 @@ Ans- To reduce the client-side JavaScript bundle size and improve performance.
 Ans- Keep them in Server Components and avoid exposing them in Client Components.
 
 (----------------------------------------------------------------------)
+
+472- How can you use third-party packages in Server Components that rely on client-only features?
+
+Ans- Wrap the third-party component inside a Client Component marked with 'use client'.
+
+(----------------------------------------------------------------------)
+
