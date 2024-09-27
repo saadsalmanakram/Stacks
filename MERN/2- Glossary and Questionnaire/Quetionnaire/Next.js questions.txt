@@ -844,3 +844,9 @@ Ans- The root layout replaces _app.js and _document.js files in the new app dire
 
 (-----------------------------------------------------------------------)
 
+142- What is the difference between layouts and templates in Next.js?
+
+Ans- Layouts persist state across navigation, while templates create new instances of their children on navigation.
+
+(-----------------------------------------------------------------------)
+
