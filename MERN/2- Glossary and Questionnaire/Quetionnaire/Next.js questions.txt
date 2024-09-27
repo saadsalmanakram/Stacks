@@ -214,4 +214,10 @@ Ans- It configures JavaScript settings, often used in JavaScript projects.
 
 (-----------------------------------------------------------------------)
 
+37- What is a layout file used for in the app router?
+
+Ans- It defines layout components for pages in a Next.js application.
+
+(-----------------------------------------------------------------------)
+
 
