@@ -118,3 +118,9 @@ Ans- To store static assets like images and fonts.
 
 (-------------------------------------------------------------------------)
 
+21- How do you access files stored in the public directory?
+
+Ans- They can be referenced starting from the base URL /.
+
+(-------------------------------------------------------------------------)
+
