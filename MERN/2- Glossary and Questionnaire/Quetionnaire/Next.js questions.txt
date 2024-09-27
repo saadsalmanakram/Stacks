@@ -826,3 +826,9 @@ Ans- Yes, layouts can fetch data, and React will automatically deduplicate data 
 
 (-----------------------------------------------------------------------)
 
+139- How do you access the current pathname within a layout?
+
+Ans- Layouts do not have access to the pathname, but you can access it in client components using the usePathname() hook.
+
+(-----------------------------------------------------------------------)
+
