@@ -891,3 +891,10 @@ Ans- Use the usePathname() hook to check if a link matches the current route.
 Ans- Move the nav links into a client component since usePathname() is a client-side hook.
 
 (-----------------------------------------------------------------------)
+
+150- What is the purpose of the <Link> component in Next.js?
+
+Ans- It provides prefetching and client-side navigation between routes in Next.js.
+
+(-----------------------------------------------------------------------)
+
