@@ -1036,3 +1036,8 @@ Ans- A component that catches errors in its children and provides a fallback UI.
 
 (-----------------------------------------------------------------------)
 
+174- How do you create an error boundary in Next.js?
+
+Ans- By creating an error.tsx file in a route segment and exporting a React component.
+
+(-----------------------------------------------------------------------)
