@@ -160,3 +160,9 @@ Ans- It is the configuration file for customizing Next.js behavior.
 
 (------------------------------------------------------------------------)
 
+28- What information does the package.json file hold in a Next.js project?
+
+Ans- It defines the project’s dependencies and scripts.
+
+(------------------------------------------------------------------------)
+
