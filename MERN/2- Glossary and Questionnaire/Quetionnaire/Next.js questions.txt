@@ -2556,3 +2556,9 @@ Ans- The request-response lifecycle describes the sequence of events from a user
 
 (----------------------------------------------------------------------)
 
+418- What initiates the request-response lifecycle?
+
+Ans- The lifecycle is initiated by a user action, such as clicking a link or submitting a form.
+
+(----------------------------------------------------------------------)
+
