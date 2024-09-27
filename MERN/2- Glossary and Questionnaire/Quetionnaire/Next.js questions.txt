@@ -754,3 +754,9 @@ Ans- It simplifies the creation and management of routes without needing additio
 
 (-----------------------------------------------------------------------)
 
+127- What type of function do you export in a page.js file?
+
+Ans- A default-exported React functional component.
+
+(-----------------------------------------------------------------------)
+
