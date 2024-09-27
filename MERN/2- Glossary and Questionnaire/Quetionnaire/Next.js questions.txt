@@ -898,3 +898,9 @@ Ans- It provides prefetching and client-side navigation between routes in Next.j
 
 (-----------------------------------------------------------------------)
 
+151- How do you use the <Link> component?
+
+Ans- Import it from next/link and pass the href prop to specify the target route.
+
+(-----------------------------------------------------------------------)
+
