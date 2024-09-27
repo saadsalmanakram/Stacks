@@ -508,3 +508,9 @@ Ans- Folders in the app directory define routes, while files create the UI for t
 
 (-----------------------------------------------------------------------)
 
+86- What are route segments in Next.js?
+
+Ans- Route segments are mapped to individual folders in the app directory, with each folder representing a part of the URL path.
+
+(-----------------------------------------------------------------------)
+
