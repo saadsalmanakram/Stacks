@@ -832,3 +832,9 @@ Ans- Layouts do not have access to the pathname, but you can access it in client
 
 (-----------------------------------------------------------------------)
 
+140- Can you pass data between parent layouts and child layouts?
+
+Ans- No, passing data between parent and child layouts is not possible, but React will handle data fetching and deduplication.
+
+(-----------------------------------------------------------------------)
+
