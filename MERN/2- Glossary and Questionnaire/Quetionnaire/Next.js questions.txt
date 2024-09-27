@@ -1704,3 +1704,9 @@ Ans- It allows users to view content in a modal without changing the URL, provid
 
 (----------------------------------------------------------------------)
 
+285- What happens during hard navigation?
+
+Ans- The entire page is rendered, and no route interception occurs, which is suitable for direct links or page refreshes.
+
+(----------------------------------------------------------------------)
+
