@@ -988,3 +988,9 @@ Ans- Model expected errors as return values instead of using try/catch.
 
 (-----------------------------------------------------------------------)
 
+166- What should be used to handle unexpected errors in a React/Next.js app?
+
+Ans- Use error boundaries (e.g., error.tsx, global-error.tsx) for unexpected errors.
+
+(-----------------------------------------------------------------------)
+
