@@ -796,3 +796,15 @@ Ans- The root layout is a required layout that applies to all routes and must co
 
 (-----------------------------------------------------------------------)
 
+134- Can layouts be nested in Next.js?
+
+Ans- Yes, layouts can be nested by placing layout.js files inside route segments.
+
+(-----------------------------------------------------------------------)
+
+135- What types of files can you use for layouts in Next.js?
+
+Ans- Layouts can use .js, .jsx, or .tsx file extensions.
+
+(-----------------------------------------------------------------------)
+
