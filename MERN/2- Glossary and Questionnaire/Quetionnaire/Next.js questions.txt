@@ -982,3 +982,9 @@ Ans- Expected errors and uncaught exceptions.
 
 (-----------------------------------------------------------------------)
 
+165- How should expected errors be handled in server actions?
+
+Ans- Model expected errors as return values instead of using try/catch.
+
+(-----------------------------------------------------------------------)
+
