@@ -2910,3 +2910,9 @@ Ans- React context requires state and lifecycle methods, which are client-side o
 
 (----------------------------------------------------------------------)
 
+474- What should you do if a third-party component uses client-only features but is used in a Server Component?
+
+Ans- Wrap the third-party component inside a Client Component.
+
+(----------------------------------------------------------------------)
+
