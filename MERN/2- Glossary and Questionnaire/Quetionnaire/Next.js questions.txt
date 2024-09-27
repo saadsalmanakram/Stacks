@@ -1848,3 +1848,9 @@ Ans- By using the redirect function from next/navigation.
 
 (----------------------------------------------------------------------)
 
+309- How are URL query parameters handled?
+
+Ans- They can be accessed via request.nextUrl.searchParams in a NextRequest instance.
+
+(----------------------------------------------------------------------)
+
