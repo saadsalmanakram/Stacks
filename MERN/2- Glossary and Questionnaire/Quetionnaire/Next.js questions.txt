@@ -2754,3 +2754,9 @@ Ans- Suspense boundaries help split the rendering work and allow streaming, impr
 
 (----------------------------------------------------------------------)
 
+449- What are Client Components?
+
+Ans- Client Components are interactive UI elements rendered on the server but run in the browser using client-side JavaScript.
+
+(----------------------------------------------------------------------)
+
