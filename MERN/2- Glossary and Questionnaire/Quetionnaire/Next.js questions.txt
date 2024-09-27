@@ -2058,3 +2058,9 @@ Ans- A locale is an identifier that represents a set of language and formatting 
 
 (----------------------------------------------------------------------)
 
+344- How does the Accept-Language header influence locale selection?
+
+Ans- The Accept-Language header in incoming requests indicates the user's language preferences, which can be used to select the appropriate locale.
+
+(----------------------------------------------------------------------)
+
