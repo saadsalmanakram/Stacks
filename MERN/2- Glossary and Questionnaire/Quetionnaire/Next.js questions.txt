@@ -2052,3 +2052,9 @@ Ans- Next.js provides built-in support for routing and rendering content in mult
 
 (----------------------------------------------------------------------)
 
+343- Define 'locale' in the context of internationalization.
+
+Ans- A locale is an identifier that represents a set of language and formatting preferences, such as language and geographic region.
+
+(----------------------------------------------------------------------)
+
