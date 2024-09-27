@@ -3131,3 +3131,10 @@ Ans- You can view the Edge Runtime API reference for more information.
 Ans- It stores the RSC payload of route segments, caching layouts, loading states, and pages for efficient navigation.
 
 (-----------------------------------------------------------------------)
+
+511- How does Next.js optimize navigation between routes?
+
+Ans- Next.js prefetches likely routes, caching visited segments to enable instant back/forward navigation without full-page reloads.
+
+(-----------------------------------------------------------------------)
+
