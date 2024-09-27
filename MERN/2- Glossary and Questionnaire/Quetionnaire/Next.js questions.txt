@@ -2412,3 +2412,10 @@ Ans- It defines the time interval for how often a page should be regenerated in 
 
 (----------------------------------------------------------------------)
 
+394- Explain the role of generateStaticParams.
+
+Ans- This function generates the parameters for static pages at build time, determining which paths to prerender.
+
+(----------------------------------------------------------------------)
+
+
