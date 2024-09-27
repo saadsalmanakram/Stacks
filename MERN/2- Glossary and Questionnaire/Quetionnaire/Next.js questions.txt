@@ -94,5 +94,9 @@ Ans- The pages/ directory.
 
 (-------------------------------------------------------------------------)
 
+17- What file should be created inside pages/ for the home page?
 
+Ans- Create index.tsx.
+
+(-------------------------------------------------------------------------)
 
