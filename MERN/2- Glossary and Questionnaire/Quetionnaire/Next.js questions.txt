@@ -2202,3 +2202,9 @@ Ans- You can use the fetch API inside an async function in your component to ret
 
 (----------------------------------------------------------------------)
 
+368- What happens if you fetch data with cache: 'no-store'?
+
+Ans- It prevents the response from being cached, ensuring that a fresh response is retrieved on each request.
+
+(----------------------------------------------------------------------)
+
