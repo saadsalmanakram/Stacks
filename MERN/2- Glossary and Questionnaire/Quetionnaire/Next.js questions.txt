@@ -1041,3 +1041,16 @@ Ans- A component that catches errors in its children and provides a fallback UI.
 Ans- By creating an error.tsx file in a route segment and exporting a React component.
 
 (-----------------------------------------------------------------------)
+
+175- Can errors bubble up through the route hierarchy in Next.js?
+
+Ans- Yes, errors bubble up to the nearest parent error boundary.
+
+(-----------------------------------------------------------------------)
+
+176- How do you handle errors in the root layout of a Next.js application?
+
+Ans- By using a global-error.tsx file that defines its own <html> and <body> tags.
+
+(-----------------------------------------------------------------------)
+
