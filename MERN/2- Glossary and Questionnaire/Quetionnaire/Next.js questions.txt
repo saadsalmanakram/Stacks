@@ -2064,3 +2064,9 @@ Ans- The Accept-Language header in incoming requests indicates the user's langua
 
 (----------------------------------------------------------------------)
 
+345- What is the recommended approach for routing in an internationalized Next.js application?
+
+Ans- It is recommended to use the user's language preferences to determine the locale for routing.
+
+(----------------------------------------------------------------------)
+
