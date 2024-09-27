@@ -2376,3 +2376,9 @@ Ans- They allow UI updates before the Server Action completes, enhancing user ex
 
 (----------------------------------------------------------------------)
 
+397- How can Server Actions be called from event handlers?
+
+Ans- By invoking them directly within event handler functions, such as onClick.
+
+(----------------------------------------------------------------------)
+
