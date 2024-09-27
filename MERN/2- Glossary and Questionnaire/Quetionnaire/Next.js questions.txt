@@ -2442,3 +2442,10 @@ Ans- This function allows for granular cache invalidation by tagging fetch calls
 
 (----------------------------------------------------------------------)
 
+399- How can you customize the cache location in ISR?
+
+Ans- You can configure Next.js to persist cached data to durable storage or share the cache across multiple instances.
+
+(----------------------------------------------------------------------)
+
+ 
