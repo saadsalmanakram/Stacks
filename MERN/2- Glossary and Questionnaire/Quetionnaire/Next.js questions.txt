@@ -1548,3 +1548,9 @@ Ans- Catch-all segments are created by using ellipses inside brackets, e.g., [..
 
 (----------------------------------------------------------------------)
 
+259- How do optional catch-all segments differ from catch-all segments?
+
+Ans- Optional catch-all segments, defined as [[...slug]], can match routes without parameters (e.g., /shop), while regular catch-all segments cannot.
+
+(----------------------------------------------------------------------)
+
