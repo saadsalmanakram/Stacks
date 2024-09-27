@@ -2580,3 +2580,9 @@ Ans- The network boundary is a conceptual line that separates different environm
 
 (----------------------------------------------------------------------)
 
+422- Why is the network boundary important?
+
+Ans- The network boundary determines where operations are executed, optimizing performance and resource usage.
+
+(----------------------------------------------------------------------)
+
