@@ -742,3 +742,9 @@ Ans- No, each folder corresponds to one route, and it can only have one page.js 
 
 (-----------------------------------------------------------------------)
 
+125- What happens if you place page.js in a folder called about?
+
+Ans- It will create a page for the /about route.
+
+(-----------------------------------------------------------------------)
+
