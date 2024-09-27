@@ -1962,3 +1962,8 @@ Ans- Middleware is suitable for basic session tasks, but extensive management sh
 
 (----------------------------------------------------------------------)
 
+328- Why shouldn't direct database operations be performed in middleware?
+
+Ans- Middleware is not optimized for database interactions; these should occur within route handlers or server utilities.
+
+(----------------------------------------------------------------------)
