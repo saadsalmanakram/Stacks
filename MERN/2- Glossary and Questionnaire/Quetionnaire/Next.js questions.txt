@@ -1872,3 +1872,9 @@ Ans- By returning a new Response with the appropriate CORS headers in the respon
 
 (----------------------------------------------------------------------)
 
+313- Can Route Handlers receive webhooks?
+
+Ans- Yes, they can process webhook payloads directly without additional configuration.
+
+(----------------------------------------------------------------------)
+
