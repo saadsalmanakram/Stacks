@@ -1125,3 +1125,10 @@ Ans- It reduces waiting times by displaying parts of the UI before all data has 
 Ans- SSR can be slow as it waits for all data to load before rendering, while streaming allows for faster visual feedback.
 
 (-----------------------------------------------------------------------)
+
+189- What are the benefits of using Suspense in React?
+
+Ans- It provides a fallback UI during asynchronous operations and supports streaming and selective hydration.
+
+(-----------------------------------------------------------------------)
+
