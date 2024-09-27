@@ -2747,3 +2747,10 @@ Ans- Streaming is useful for pages that need to progressively load content, such
 Ans- Next.js allows routes to mix cached and uncached data, optimizing performance while delivering personalized content.
 
 (----------------------------------------------------------------------)
+
+448- What is the role of Suspense boundaries in Next.js Server Components?
+
+Ans- Suspense boundaries help split the rendering work and allow streaming, improving load times by showing content as soon as it’s ready.
+
+(----------------------------------------------------------------------)
+
