@@ -1216,3 +1216,9 @@ Ans- permanentRedirect issues a 308 (Permanent Redirect) status code, indicating
 
 (-----------------------------------------------------------------------)
 
+204- When would you use the useRouter hook in Next.js?
+
+Ans- The useRouter hook is used for client-side navigation within event handlers in Client Components.
+
+(-----------------------------------------------------------------------)
+
