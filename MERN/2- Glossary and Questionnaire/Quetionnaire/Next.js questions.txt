@@ -1758,3 +1758,9 @@ Ans- Properly managing state and navigation flow to ensure a consistent user exp
 
 (----------------------------------------------------------------------)
 
+294- How do intercepting routes interact with parallel routes?
+
+Ans- They can be used together to manage different parts of the UI concurrently, like opening a modal while displaying a list.
+
+(----------------------------------------------------------------------)
+
