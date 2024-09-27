@@ -184,3 +184,8 @@ Ans- They define environment variables for different environments like local, pr
 
 (------------------------------------------------------------------------)
 
+32- What is the role of .eslintrc.json in a Next.js project?
+
+Ans- It configures ESLint to enforce code style and quality.
+
+(------------------------------------------------------------------------)
