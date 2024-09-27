@@ -544,3 +544,9 @@ Ans- not-found.js renders a "not found" UI for when a route or resource is unava
 
 (-----------------------------------------------------------------------)
 
+92- What is a server-side API endpoint in Next.js, and which file is used for it?
+
+Ans- Server-side API endpoints are created using route.js files, allowing for server-side logic in a Next.js app.
+
+(-----------------------------------------------------------------------)
+
