@@ -1782,3 +1782,9 @@ Ans- Route Handlers can be nested within the app directory but cannot coexist at
 
 (----------------------------------------------------------------------)
 
+298- Which HTTP methods are supported by Route Handlers?
+
+Ans- Supported methods include GET, POST, PUT, PATCH, DELETE, HEAD, and OPTIONS.
+
+(----------------------------------------------------------------------)
+
