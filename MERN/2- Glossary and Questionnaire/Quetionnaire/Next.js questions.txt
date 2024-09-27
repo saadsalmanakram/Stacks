@@ -1192,3 +1192,10 @@ Ans- Any component that performs asynchronous actions, such as data fetching or 
 
 (-----------------------------------------------------------------------)
 
+200- How does streaming help with Time to Interactive (TTI)?
+
+Ans- By progressively rendering components, it allows the UI to become interactive sooner, enhancing user engagement.
+
+(-----------------------------------------------------------------------)
+
+
