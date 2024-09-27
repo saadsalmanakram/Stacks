@@ -3126,3 +3126,8 @@ Ans- You can view the Edge Runtime API reference for more information.
 
 (-----------------------------------------------------------------------)
 
+510- What is Next.js's in-memory client-side router cache?
+
+Ans- It stores the RSC payload of route segments, caching layouts, loading states, and pages for efficient navigation.
+
+(-----------------------------------------------------------------------)
