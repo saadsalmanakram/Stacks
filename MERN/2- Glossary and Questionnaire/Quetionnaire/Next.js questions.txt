@@ -430,3 +430,15 @@ Ans- Next.js applications can be deployed on platforms like Vercel, or any Node.
 
 (-----------------------------------------------------------------------)
 
+73- Why is it important to follow a sequential learning path in Next.js?
+
+Ans- The sequential learning path ensures you grasp basic concepts before moving on to more complex features.
+
+(-----------------------------------------------------------------------)
+
+74- What is the benefit of Server-Side Rendering in Next.js?
+
+Ans- Server-Side Rendering (SSR) allows the rendering of pages on the server at each request, improving SEO and dynamic content handling.
+
+(-----------------------------------------------------------------------)
+
