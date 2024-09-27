@@ -1698,3 +1698,9 @@ Ans- Soft navigation uses intercepting routes for a seamless experience, while h
 
 (----------------------------------------------------------------------)
 
+284- How does soft navigation work with intercepting routes?
+
+Ans- It allows users to view content in a modal without changing the URL, providing a smoother user experience.
+
+(----------------------------------------------------------------------)
+
