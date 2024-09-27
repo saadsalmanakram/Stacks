@@ -2166,3 +2166,9 @@ Ans- Libraries like react-intl, i18next, and next-translate can help manage tran
 
 (----------------------------------------------------------------------)
 
+362- How can you test internationalization in a Next.js application?
+
+Ans- Test internationalization by switching locales and ensuring that all content displays correctly, including text direction and cultural formatting.
+
+(----------------------------------------------------------------------)
+
