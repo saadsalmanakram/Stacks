@@ -2862,3 +2862,8 @@ Ans- A component rendered on the client, suitable for interactivity, state manag
 
 (----------------------------------------------------------------------)
 
+467- When should you use Server Components?
+
+Ans- When fetching data, accessing backend resources, or keeping sensitive information on the server.
+
+(----------------------------------------------------------------------)
