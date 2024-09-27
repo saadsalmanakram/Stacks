@@ -3138,3 +3138,9 @@ Ans- Next.js prefetches likely routes, caching visited segments to enable instan
 
 (-----------------------------------------------------------------------)
 
+512- What does the Router Cache specifically cache?
+
+Ans- It caches layouts, loading states, and pages for browser backward/forward navigation.
+
+(-----------------------------------------------------------------------)
+
