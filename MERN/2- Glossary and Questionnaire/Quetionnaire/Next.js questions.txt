@@ -1450,3 +1450,9 @@ Ans- Private folders help separate UI logic from routing logic, organize interna
 
 (----------------------------------------------------------------------)
 
+243- How can you create URL segments that start with an underscore?
+
+Ans- Prefix the folder name with %5F, the URL-encoded form of an underscore (e.g., %5FfolderName).
+
+(----------------------------------------------------------------------)
+
