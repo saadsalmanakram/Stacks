@@ -718,3 +718,9 @@ Ans- Create a dashboard folder inside the app directory, and add a page.js or pa
 
 (-----------------------------------------------------------------------)
 
+121- What file name convention does Next.js use to automatically generate routes for pages?
+
+Ans- Next.js uses the page.js or page.tsx file to automatically generate routes based on its folder structure.
+
+(-----------------------------------------------------------------------)
+
