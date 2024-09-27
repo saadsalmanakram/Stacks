@@ -1282,3 +1282,9 @@ Ans- In Client Components, redirects can only be handled with the useRouter hook
 
 (-----------------------------------------------------------------------)
 
+215- What should you consider when implementing a custom redirect solution with Middleware?
+
+Ans- You should consider creating and storing a redirect map, optimizing data lookup performance, and validating requests to prevent malicious access.
+
+(-----------------------------------------------------------------------)
+
