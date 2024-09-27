@@ -1523,3 +1523,10 @@ Ans- You create a dynamic segment by wrapping a folder name in square brackets, 
 Ans- Dynamic segments are passed as the params prop to layout, page, route, and generateMetadata functions.
 
 (----------------------------------------------------------------------)
+
+255- Can you give an example of a dynamic route?
+
+Ans- An example is app/blog/[slug]/page.js, where [slug] represents the dynamic segment for blog posts.
+
+(----------------------------------------------------------------------)
+
