@@ -1257,3 +1257,15 @@ Ans- Calling redirect inside a try/catch block is not recommended because it thr
 Ans- In Server Actions, redirect returns a 303 status code for navigation after a POST, while in Middleware, NextResponse.redirect can handle any redirect based on request conditions.
 
 (-----------------------------------------------------------------------)
+
+211- Can permanentRedirect be used with external URLs?
+
+Ans- Yes, permanentRedirect accepts absolute URLs and can redirect users to external links.
+
+(-----------------------------------------------------------------------)
+
+212- What is the role of revalidatePath in redirect functions?
+
+Ans- revalidatePath updates the cache for a specific path before redirecting, ensuring that users see the most current version of the resource.
+
+(-----------------------------------------------------------------------)
