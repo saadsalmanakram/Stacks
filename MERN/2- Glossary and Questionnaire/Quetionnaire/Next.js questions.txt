@@ -706,3 +706,9 @@ Ans- Use a layout.js file to define UI shared across multiple routes.
 
 (-----------------------------------------------------------------------)
 
+119- What is the significance of routing fundamentals in Next.js?
+
+Ans- It provides a basic understanding of how routes are defined and structured in Next.js applications.
+
+(-----------------------------------------------------------------------)
+
