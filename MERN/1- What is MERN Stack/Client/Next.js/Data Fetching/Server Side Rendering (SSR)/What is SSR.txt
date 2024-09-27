@@ -1,0 +1,15 @@
+> Server-Side Rendering (SSR)
+
+- What it is: Data is fetched on every request and the page is rendered on the server for each incoming request. It results in fresh data being fetched each time.
+
+- When to use it: Use SSR when you need the data to be up-to-date with every request, such as with user-specific content, dashboards, or pages with constantly changing data.
+
+> Pros:
+
+  - Always returns the most up-to-date data.
+  - Good for pages where data changes frequently or where you need to fetch user-specific data.
+
+> Cons:
+
+  - Slower than SSG because the page is re-rendered on every request.
+  - Can increase server load, as rendering happens for every request.
