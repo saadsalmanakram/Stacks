@@ -2730,3 +2730,9 @@ Ans- Server Components can pass props and references to Client Components, with 
 
 (----------------------------------------------------------------------)
 
+445- How does Next.js handle route segment parallelization?
+
+Ans- Next.js splits route segments into chunks for parallelized rendering, improving efficiency and performance, especially with streaming.
+
+(----------------------------------------------------------------------)
+
