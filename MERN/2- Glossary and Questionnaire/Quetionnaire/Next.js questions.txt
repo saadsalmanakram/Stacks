@@ -2045,3 +2045,10 @@ Ans- Yes, middleware can intercept and process API requests, allowing for authen
 Ans- Internationalization is the process of designing an application to support multiple languages and regional differences.
 
 (----------------------------------------------------------------------)
+
+342- What role does Next.js play in internationalization?
+
+Ans- Next.js provides built-in support for routing and rendering content in multiple languages, making it easier to create internationalized applications.
+
+(----------------------------------------------------------------------)
+
