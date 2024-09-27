@@ -490,3 +490,9 @@ Ans- The root node is the first or topmost node in a tree structure.
 
 (-----------------------------------------------------------------------)
 
+83- What is a leaf node in a component tree?
+
+Ans- A leaf node is a node with no children, often the last node in a URL segment.
+
+(-----------------------------------------------------------------------)
+
