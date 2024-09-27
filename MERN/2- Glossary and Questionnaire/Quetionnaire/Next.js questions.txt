@@ -855,3 +855,10 @@ Ans- Layouts persist state across navigation, while templates create new instanc
 Ans- Use a template when you need to reset state or resynchronize effects between navigations.
 
 (-----------------------------------------------------------------------)
+
+144- How do you define a template in Next.js?
+
+Ans- A template is defined by exporting a React component from a template.js file that accepts a children prop.
+
+(-----------------------------------------------------------------------)
+
