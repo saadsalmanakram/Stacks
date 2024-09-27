@@ -1330,3 +1330,9 @@ Ans- They allow grouping related routes logically while maintaining a clean URL 
 
 (-----------------------------------------------------------------------)
 
+223- What happens if two Route Groups resolve to the same URL?
+
+Ans- It will cause an error as routes with the same path cannot coexist.
+
+(-----------------------------------------------------------------------)
+
