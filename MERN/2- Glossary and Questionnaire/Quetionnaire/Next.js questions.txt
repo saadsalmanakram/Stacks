@@ -1775,3 +1775,10 @@ Ans- They are custom request handlers for specific routes using Web Request and 
 Ans- They are defined in a route.js or route.ts file inside the app directory.
 
 (----------------------------------------------------------------------)
+
+297- What file structure is required for Route Handlers?
+
+Ans- Route Handlers can be nested within the app directory but cannot coexist at the same route segment as page.js.
+
+(----------------------------------------------------------------------)
+
