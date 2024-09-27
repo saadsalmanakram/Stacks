@@ -2244,3 +2244,9 @@ Ans- It caches the results of queries to improve performance and reduce load tim
 
 (----------------------------------------------------------------------)
 
+375- How do you invalidate cached data in Next.js?
+
+Ans- You can use tags with the cache to invalidate it during Incremental Static Regeneration.
+
+(----------------------------------------------------------------------)
+
