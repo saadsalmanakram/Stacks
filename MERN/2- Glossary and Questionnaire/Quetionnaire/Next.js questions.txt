@@ -2448,4 +2448,9 @@ Ans- You can configure Next.js to persist cached data to durable storage or shar
 
 (----------------------------------------------------------------------)
 
- 
+ 400- What happens when an uncaught exception occurs during data revalidation?
+
+Ans- The last successfully generated data remains served, and Next.js retries revalidation on the next request.
+
+(----------------------------------------------------------------------)
+
