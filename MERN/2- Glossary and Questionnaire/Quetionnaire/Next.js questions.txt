@@ -376,3 +376,9 @@ Ans- There are multiple caching layers in Next.js; different parts of the cache 
 
 (-----------------------------------------------------------------------)
 
+64- Are there open-source apps built on the App Router?
+
+Ans- Yes, Next.js Commerce and the Platforms Starter Kit are two comprehensive, open-source applications using the App Router.
+
+(-----------------------------------------------------------------------)
+
