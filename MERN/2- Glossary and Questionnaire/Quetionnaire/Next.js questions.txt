@@ -1228,3 +1228,9 @@ Ans- The redirects option in next.config.js allows you to define a set of incomi
 
 (-----------------------------------------------------------------------)
 
+206- What is the purpose of NextResponse.redirect in Middleware?
+
+Ans- NextResponse.redirect allows you to redirect requests based on conditions, such as user authentication, before rendering the page.
+
+(-----------------------------------------------------------------------)
+
