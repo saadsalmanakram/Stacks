@@ -280,4 +280,10 @@ Ans- It lists all the URLs for a website, helping search engines crawl the site.
 
 (-----------------------------------------------------------------------)
 
+48- What is a robots.txt file in Next.js?
+
+Ans- It defines rules for web crawlers about which parts of the site can be crawled.
+
+(-----------------------------------------------------------------------)
+
 
