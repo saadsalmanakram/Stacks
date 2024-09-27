@@ -406,3 +406,9 @@ Ans- Data fetching refers to the methods for loading data during pre-rendering o
 
 (-----------------------------------------------------------------------)
 
+69- What are the advanced topics to explore after learning the basics in Next.js?
+
+Ans- Optimizing, Configuring, Deploying, and Upgrading are the more advanced topics in Next.js.
+
+(-----------------------------------------------------------------------)
+
