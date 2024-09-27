@@ -478,3 +478,9 @@ Ans- A component tree is a hierarchical structure of components, where parent co
 
 (-----------------------------------------------------------------------)
 
+81- What is a subtree in a component tree?
+
+Ans- A subtree is a part of a component tree starting at a new root node and ending at the leaves.
+
+(-----------------------------------------------------------------------)
+
