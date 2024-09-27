@@ -1589,3 +1589,10 @@ Ans- By creating a route like app/blog/[slug]/page.js, you can dynamically rende
 Ans- Dynamic routing allows for flexible and scalable URLs that can accommodate various categories and products without hardcoding paths.
 
 (----------------------------------------------------------------------)
+
+266- How can you generate dynamic routes for nested structures?
+
+Ans- By using multiple dynamic segments, such as app/[categoryId]/[itemId]/page.js, to represent nested resources in the URL.
+
+(----------------------------------------------------------------------)
+
