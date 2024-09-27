@@ -1432,3 +1432,9 @@ Ans- The route is not publicly accessible, even if the folder exists within the 
 
 (----------------------------------------------------------------------)
 
+240- What is the difference between the app directory and the pages directory?
+
+Ans- In the pages directory, any file is treated as a route, while in the app directory, files are only routable if they contain a page.js or route.js.
+
+(----------------------------------------------------------------------)
+
