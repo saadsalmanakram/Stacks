@@ -340,3 +340,9 @@ Ans- You can use hooks like usePathname, useSelectedLayoutSegment, and useSelect
 
 (-----------------------------------------------------------------------)
 
+58- How can you perform a redirect from a Server Component?
+
+Ans- Use the redirect function for temporary (307) redirects or permanentRedirect for permanent (308) redirects.
+
+(-----------------------------------------------------------------------)
+
