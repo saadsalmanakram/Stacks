@@ -358,3 +358,9 @@ Ans- Set cookies in Server Actions or Route Handlers using the cookies function 
 
 (-----------------------------------------------------------------------)
 
+61- Can you set cookies directly from a page or layout?
+
+Ans- No, HTTP does not allow setting cookies after streaming starts, so you cannot set them from a page or layout.
+
+(-----------------------------------------------------------------------)
+
