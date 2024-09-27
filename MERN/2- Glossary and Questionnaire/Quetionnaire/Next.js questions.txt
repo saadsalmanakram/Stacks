@@ -2466,3 +2466,9 @@ Ans- ISR is only supported in Node.js runtime, not in static exports, and middle
 
 (----------------------------------------------------------------------)
 
+403- What is the recommended revalidation time for ISR?
+
+Ans- A higher revalidation time, such as 1 hour, is preferred for better performance, with on-demand revalidation for more precision.
+
+(----------------------------------------------------------------------)
+
