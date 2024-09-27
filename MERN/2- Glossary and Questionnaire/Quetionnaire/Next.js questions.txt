@@ -634,3 +634,9 @@ Ans- Nest folders inside each other to create nested routes.
 
 (-----------------------------------------------------------------------)
 
+107- What file is required to make a route segment publicly accessible in Next.js?
+
+Ans- The page.js file is required for making a route segment publicly accessible.
+
+(-----------------------------------------------------------------------)
+
