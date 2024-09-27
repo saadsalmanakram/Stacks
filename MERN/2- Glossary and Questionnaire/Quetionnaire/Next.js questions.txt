@@ -2304,3 +2304,9 @@ Ans- Yes, by importing them from a file where the "use server" directive is decl
 
 (----------------------------------------------------------------------)
 
+385- How do you invoke a Server Action from a form?
+
+Ans- By setting the action attribute of a <form> element to the Server Action function.
+
+(----------------------------------------------------------------------)
+
