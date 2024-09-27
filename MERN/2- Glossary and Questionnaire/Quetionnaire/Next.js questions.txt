@@ -1252,3 +1252,8 @@ Ans- Calling redirect inside a try/catch block is not recommended because it thr
 
 (-----------------------------------------------------------------------)
 
+210- How does redirecting differ when using redirect in Server Actions versus Middleware?
+
+Ans- In Server Actions, redirect returns a 303 status code for navigation after a POST, while in Middleware, NextResponse.redirect can handle any redirect based on request conditions.
+
+(-----------------------------------------------------------------------)
