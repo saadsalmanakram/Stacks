@@ -2784,3 +2784,9 @@ Ans- Without "use client", features like useState, onClick, and other browser AP
 
 (----------------------------------------------------------------------)
 
+454- How can you use multiple "use client" entry points?
+
+Ans- You can define multiple boundaries in the component tree to create separate client bundles in different parts of your application.
+
+(----------------------------------------------------------------------)
+
