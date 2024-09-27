@@ -3162,3 +3162,9 @@ Ans- For static pages, it's 5 minutes; dynamic pages aren’t cached unless full
 
 (-----------------------------------------------------------------------)
 
+516- How can you invalidate the Router Cache?
+
+Ans- By using revalidatePath, revalidateTag, setting/deleting cookies, or calling router.refresh.
+
+(-----------------------------------------------------------------------)
+
