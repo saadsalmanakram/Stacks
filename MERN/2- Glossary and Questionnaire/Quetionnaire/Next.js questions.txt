@@ -2723,3 +2723,10 @@ Ans- The server-generated HTML can be indexed by search engines, improving searc
 Ans- Next.js switches the route to Dynamic Rendering if dynamic functions or uncached data are found.
 
 (----------------------------------------------------------------------)
+
+444- What is the relationship between Server Components and Client Components in Next.js?
+
+Ans- Server Components can pass props and references to Client Components, with Server Components handling non-interactive parts of the UI.
+
+(----------------------------------------------------------------------)
+
