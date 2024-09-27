@@ -202,4 +202,10 @@ Ans- It is a TypeScript declaration file required for Next.js TypeScript project
 
 (-----------------------------------------------------------------------)
 
+35- What is tsconfig.json used for in a Next.js project?
+
+Ans- It configures TypeScript settings for the project.
+
+(-----------------------------------------------------------------------)
+
 
