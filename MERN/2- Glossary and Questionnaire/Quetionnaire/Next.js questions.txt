@@ -3012,3 +3012,9 @@ Ans- Set ppr: 'incremental' in next.config.js and enable experimental_ppr in the
 
 (----------------------------------------------------------------------)
 
+491- What happens if you don’t enable experimental_ppr for a route?
+
+Ans- The route will not be prerendered using PPR and will follow the default rendering behavior.
+
+(----------------------------------------------------------------------)
+
