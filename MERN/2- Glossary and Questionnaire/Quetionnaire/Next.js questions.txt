@@ -2483,3 +2483,10 @@ Ans- Static rendering serves prebuilt pages while dynamic rendering generates pa
 Ans- It forces the route to be dynamically rendered instead of using ISR.
 
 (----------------------------------------------------------------------)
+
+406- How can you implement on-demand revalidation when creating a new post?
+
+Ans- Use revalidatePath to invalidate the cache for the relevant route after the new post is created.
+
+(----------------------------------------------------------------------)
+
