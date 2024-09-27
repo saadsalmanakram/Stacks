@@ -1378,3 +1378,14 @@ Ans- It causes a full page load instead of client-side navigation.
 
 (----------------------------------------------------------------------)
 
+231- How should the homepage be structured with multiple root layouts?
+
+Ans- The home page.js file should be defined in one of the Route Groups.
+
+(----------------------------------------------------------------------)
+
+232- Does the naming of Route Groups have any special significance?
+
+Ans- No, it is purely for organization and does not impact functionality or URL paths.
+
+(----------------------------------------------------------------------)
