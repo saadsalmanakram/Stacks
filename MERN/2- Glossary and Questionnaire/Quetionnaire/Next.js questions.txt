@@ -82,3 +82,8 @@ Ans- Create layout.tsx and page.tsx.
 
 (-------------------------------------------------------------------------)
 
+15- What is the purpose of layout.tsx?
+
+Ans- It defines the root layout with <html> and <body> tags.
+
+(-------------------------------------------------------------------------)
