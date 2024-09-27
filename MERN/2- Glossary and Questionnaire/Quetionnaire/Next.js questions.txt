@@ -3149,3 +3149,10 @@ Ans- It caches layouts, loading states, and pages for browser backward/forward n
 Ans- Layouts are cached and reused during navigation, enabling partial rendering.
 
 (-----------------------------------------------------------------------)
+
+514- How long does the Router Cache persist?
+
+Ans- It persists across navigations but is cleared on page refresh and automatically invalidates based on prefetching methods.
+
+(-----------------------------------------------------------------------)
+
