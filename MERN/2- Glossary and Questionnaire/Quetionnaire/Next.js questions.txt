@@ -2274,3 +2274,9 @@ Ans- You can create a preload function that caches the data and starts fetching 
 
 (----------------------------------------------------------------------)
 
+380- What is React.cache and how is it used?
+
+Ans- React.cache allows you to cache asynchronous functions, reducing unnecessary calls to the server.
+
+(----------------------------------------------------------------------)
+
