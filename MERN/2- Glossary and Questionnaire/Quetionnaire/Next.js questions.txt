@@ -2310,3 +2310,9 @@ Ans- By setting the action attribute of a <form> element to the Server Action fu
 
 (----------------------------------------------------------------------)
 
+386- How can you pass a Server Action to a Client Component?
+
+Ans- By passing it as a prop to the Client Component, typically named with an "Action" suffix.
+
+(----------------------------------------------------------------------)
+
