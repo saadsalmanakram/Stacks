@@ -760,3 +760,9 @@ Ans- A default-exported React functional component.
 
 (-----------------------------------------------------------------------)
 
+128- Can you define a page using TypeScript in Next.js?
+
+Ans- Yes, you can use a page.tsx file to define a page in TypeScript.
+
+(-----------------------------------------------------------------------)
+
