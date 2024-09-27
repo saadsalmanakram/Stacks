@@ -58,4 +58,10 @@ Ans- Prompts include project name, TypeScript, ESLint, Tailwind CSS, src directo
 
 (-------------------------------------------------------------------------)
 
+11- What command starts the development server in Next.js?
+
+Ans- Run npm run dev.
+
+(-------------------------------------------------------------------------)
+
 
