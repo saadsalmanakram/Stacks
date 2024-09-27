@@ -2886,3 +2886,9 @@ Ans- It prevents server-only code from being accidentally imported into client c
 
 (----------------------------------------------------------------------)
 
+471- Why should large dependencies be kept on the server?
+
+Ans- To reduce the client-side JavaScript bundle size and improve performance.
+
+(----------------------------------------------------------------------)
+
