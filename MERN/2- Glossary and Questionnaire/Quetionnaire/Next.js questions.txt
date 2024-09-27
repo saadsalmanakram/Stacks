@@ -1800,3 +1800,9 @@ Ans- No, they are not cached by default; however, caching can be enabled for GET
 
 (----------------------------------------------------------------------)
 
+301- How can you force a GET method to be cached?
+
+Ans- By using a route config option like export const dynamic = 'force-static'.
+
+(----------------------------------------------------------------------)
+
