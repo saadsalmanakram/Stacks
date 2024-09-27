@@ -1359,3 +1359,9 @@ Ans- By removing the top-level layout.js and adding a layout.js file in each Rou
 Ans- Each root layout must include the <html> and <body> tags.
 
 (----------------------------------------------------------------------)
+
+228- How can you opt specific routes into a layout?
+
+Ans- By creating a Route Group and moving the routes that share the layout into that group.
+
+(----------------------------------------------------------------------)
