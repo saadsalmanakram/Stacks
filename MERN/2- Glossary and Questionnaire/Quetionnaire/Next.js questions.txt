@@ -142,3 +142,8 @@ Ans- The pages directory defines routes using the Pages Router for client-side a
 
 (------------------------------------------------------------------------)
 
+25- What does the public folder store in a Next.js application?
+
+Ans- It stores static assets that are served directly to the client.
+
+(------------------------------------------------------------------------)
