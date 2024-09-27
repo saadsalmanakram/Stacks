@@ -2801,3 +2801,10 @@ Ans- They are first rendered as static HTML on the server, then hydrated on the 
 Ans- Hydration is the process of attaching event listeners to the static HTML to make it interactive using the hydrateRoot API.
 
 (----------------------------------------------------------------------)
+
+457- How are Client Components rendered during subsequent navigations?
+
+Ans- They are rendered entirely on the client without relying on server-rendered HTML, using the Client Component JavaScript bundle.
+
+(----------------------------------------------------------------------)
+
