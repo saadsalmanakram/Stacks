@@ -70,3 +70,9 @@ Ans- Next.js uses file-system routing based on the structure of files.
 
 (-------------------------------------------------------------------------)
 
+13- What folder should you create for new applications to use the App Router?
+
+Ans- Create an app/ folder.
+
+(-------------------------------------------------------------------------)
+
