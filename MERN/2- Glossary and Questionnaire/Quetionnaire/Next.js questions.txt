@@ -352,3 +352,9 @@ Ans- You can use solutions like NextAuth.js, Clerk, or Auth0, or manually handle
 
 (-----------------------------------------------------------------------)
 
+60- How can you set cookies in the App Router?
+
+Ans- Set cookies in Server Actions or Route Handlers using the cookies function or in Middleware.
+
+(-----------------------------------------------------------------------)
+
