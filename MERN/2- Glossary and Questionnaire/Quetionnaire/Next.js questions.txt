@@ -3221,3 +3221,9 @@ Ans- It allows you to control caching behavior, with options like force-cache to
 Ans- Using cookies.set or cookies.delete invalidates the Router Cache to avoid stale routes, especially for authentication.
 
 (-----------------------------------------------------------------------)
+
+526- What is generateStaticParams used for?
+
+Ans- It generates static paths for dynamic routes at build time, allowing Next.js to cache these paths in the Full Route Cache.
+
+(-----------------------------------------------------------------------)
