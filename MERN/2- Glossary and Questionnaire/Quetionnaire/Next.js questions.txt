@@ -466,3 +466,9 @@ Ans- Routing determines how an application responds to client requests for diffe
 
 (-----------------------------------------------------------------------)
 
+79- What is the role of the app router in Next.js?
+
+Ans- The app router, introduced in Next.js version 13, enables nested routing, layouts, error handling, and loading states using React Server Components.
+
+(-----------------------------------------------------------------------)
+
