@@ -394,3 +394,9 @@ Ans- Routing in Next.js allows the creation of pages by mapping file names to UR
 
 (-----------------------------------------------------------------------)
 
+67- What rendering methods are supported in Next.js?
+
+Ans- Next.js supports Static Generation (SSG), Server-Side Rendering (SSR), and Client-Side Rendering (CSR).
+
+(-----------------------------------------------------------------------)
+
