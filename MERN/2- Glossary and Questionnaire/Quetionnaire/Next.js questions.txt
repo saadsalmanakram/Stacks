@@ -3173,3 +3173,10 @@ Ans- By using revalidatePath, revalidateTag, setting/deleting cookies, or callin
 Ans- router.refresh clears the Router Cache without invalidating the Data or Full Route Cache, while revalidatePath purges both.
 
 (-----------------------------------------------------------------------)
+
+518- How do you opt out of caching for page segments in Next.js?
+
+Ans- Use the experimental staleTimes config option or set dynamic = 'force-dynamic' for route segments.
+
+(-----------------------------------------------------------------------)
+
