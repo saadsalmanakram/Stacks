@@ -1722,3 +1722,9 @@ Ans- No, it is based on route segments rather than the file system structure.
 
 (----------------------------------------------------------------------)
 
+288- How can intercepting routes be utilized with modals?
+
+Ans- They can create shareable modal content, preserve context on refresh, and manage navigation effectively.
+
+(----------------------------------------------------------------------)
+
