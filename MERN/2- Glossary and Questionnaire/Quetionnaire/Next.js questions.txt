@@ -298,4 +298,10 @@ Ans- It customizes the HTML document that wraps the app.
 
 (-----------------------------------------------------------------------)
 
+51- What is the difference between index.js and [file].js in Next.js?
+
+Ans- index.js defines static routes, while [file].js defines dynamic routes.
+
+(-----------------------------------------------------------------------)
+
 
