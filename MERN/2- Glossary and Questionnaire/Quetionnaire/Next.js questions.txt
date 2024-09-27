@@ -2352,3 +2352,9 @@ Ans- By using the bind method or passing them as hidden input fields in the form
 
 (----------------------------------------------------------------------)
 
+393- What is the useFormState hook used for?
+
+Ans- It allows managing the state of a form while integrating with Server Actions for validation and error handling.
+
+(----------------------------------------------------------------------)
+
