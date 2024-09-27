@@ -2939,3 +2939,10 @@ Ans- Ensure props are serializable, or fetch data on the client if needed.
 Ans- No, Server Components cannot be imported into Client Components directly.
 
 (----------------------------------------------------------------------)
+
+479- What is a supported pattern for using Server Components in Client Components?
+
+Ans- Pass Server Components as props to Client Components.
+
+(----------------------------------------------------------------------)
+
