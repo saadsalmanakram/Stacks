@@ -1246,3 +1246,9 @@ Ans- A Bloom filter is a space-efficient data structure used to check membership
 
 (-----------------------------------------------------------------------)
 
+209- What happens if you call redirect inside a try/catch block?
+
+Ans- Calling redirect inside a try/catch block is not recommended because it throws an error internally, which prevents it from working correctly.
+
+(-----------------------------------------------------------------------)
+
