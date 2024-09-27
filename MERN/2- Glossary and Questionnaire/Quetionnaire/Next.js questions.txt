@@ -604,3 +604,9 @@ Ans- Nested route components are rendered inside the components of their parent 
 
 (-----------------------------------------------------------------------)
 
+102- What are advanced routing patterns in Next.js?
+
+Ans- Advanced patterns like Parallel Routes and Intercepting Routes provide more complex navigation and UI patterns within a single view.
+
+(-----------------------------------------------------------------------)
+
