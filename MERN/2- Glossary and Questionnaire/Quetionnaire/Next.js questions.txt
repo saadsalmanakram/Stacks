@@ -1167,3 +1167,10 @@ Ans- It checks how a page appears to Google's crawlers and verifies the serializ
 Ans- It indicates a successful request, allowing proper communication with the client about the request's outcome.
 
 (-----------------------------------------------------------------------)
+
+196- Can the server update the status code after streaming content begins?
+
+Ans- No, once response headers are sent, the status code cannot be updated, but errors can still be communicated through the streamed content.
+
+(-----------------------------------------------------------------------)
+
