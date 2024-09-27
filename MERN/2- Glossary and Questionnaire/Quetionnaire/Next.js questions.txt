@@ -292,4 +292,10 @@ Ans- It customizes the App component, which wraps all other components in the ap
 
 (-----------------------------------------------------------------------)
 
+50- What is _document.js used for in Next.js?
+
+Ans- It customizes the HTML document that wraps the app.
+
+(-----------------------------------------------------------------------)
+
 
