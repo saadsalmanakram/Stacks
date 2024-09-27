@@ -622,3 +622,15 @@ Ans- Create a folder in the app directory, and place a page.js file inside it.
 
 (-----------------------------------------------------------------------)
 
+105- What does a folder represent in Next.js routing?
+
+Ans- A folder represents a route segment that maps to a URL segment.
+
+(-----------------------------------------------------------------------)
+
+106- How do you create nested routes in Next.js?
+
+Ans- Nest folders inside each other to create nested routes.
+
+(-----------------------------------------------------------------------)
+
