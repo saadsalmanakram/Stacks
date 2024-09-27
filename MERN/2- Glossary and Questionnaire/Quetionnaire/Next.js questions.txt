@@ -2765,3 +2765,10 @@ Ans- Client Components are interactive UI elements rendered on the server but ru
 Ans- Client Components provide interactivity and access to browser APIs like geolocation or localStorage.
 
 (----------------------------------------------------------------------)
+
+451- How do you enable Client Components in Next.js?
+
+Ans- By adding the "use client" directive at the top of a file to define a boundary between Server and Client Components.
+
+(----------------------------------------------------------------------)
+
