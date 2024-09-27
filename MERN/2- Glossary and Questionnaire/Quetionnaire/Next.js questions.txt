@@ -4,3 +4,9 @@ Ans- Next.js is a React framework for building full-stack web applications with 
 
 (-------------------------------------------------------------------------)
 
+2- What is the routing feature in Next.js?
+
+Ans- Next.js uses a file-system based router that supports layouts, nested routing, and error handling.
+
+(-------------------------------------------------------------------------)
+
