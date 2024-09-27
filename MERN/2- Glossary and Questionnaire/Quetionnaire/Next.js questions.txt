@@ -2514,3 +2514,9 @@ Ans- Yes, ISR can be integrated with ORM or database calls using caching mechani
 
 (----------------------------------------------------------------------)
 
+411- What is rendering in web development?
+
+Ans- Rendering is the process of converting code into a user interface that users can interact with in their browsers.
+
+(----------------------------------------------------------------------)
+
