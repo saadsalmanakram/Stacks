@@ -1096,3 +1096,9 @@ Ans- It can include any UI, such as a loading spinner or skeleton, to indicate l
 
 (-----------------------------------------------------------------------)
 
+184- What happens to the navigation process when using loading.js?
+
+Ans- Navigation remains immediate and interruptible, allowing users to switch routes without waiting for the previous content to load.
+
+(-----------------------------------------------------------------------)
+
