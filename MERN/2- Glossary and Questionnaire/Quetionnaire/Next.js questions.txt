@@ -3102,3 +3102,9 @@ Ans- No, the Edge Runtime has limited support and does not include all Node.js A
 
 (-----------------------------------------------------------------------)
 
+506- Can you use all Node.js-compatible packages in the Edge Runtime?
+
+Ans- No, some packages may not work as expected in the Edge Runtime.
+
+(-----------------------------------------------------------------------)
+
