@@ -1938,3 +1938,9 @@ Ans- Middleware captures and analyzes incoming request data for insights before 
 
 (----------------------------------------------------------------------)
 
+324- What is feature flagging in the context of middleware?
+
+Ans- Middleware enables or disables features dynamically, allowing for seamless rollouts and testing of new features.
+
+(----------------------------------------------------------------------)
+
