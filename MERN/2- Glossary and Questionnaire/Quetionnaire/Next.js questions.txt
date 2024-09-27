@@ -1992,3 +1992,9 @@ Ans- The matcher supports full regex, allowing complex patterns and negative loo
 
 (----------------------------------------------------------------------)
 
+333- What is the significance of using conditional statements in middleware?
+
+Ans- Conditional statements enable middleware to execute specific actions based on the incoming request’s properties.
+
+(----------------------------------------------------------------------)
+
