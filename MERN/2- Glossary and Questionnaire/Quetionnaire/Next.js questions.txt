@@ -1324,3 +1324,9 @@ Ans- Yes, each Route Group can have its own layout by including a layout.js file
 
 (-----------------------------------------------------------------------)
 
+222- How do Route Groups help in organizing routes?
+
+Ans- They allow grouping related routes logically while maintaining a clean URL structure.
+
+(-----------------------------------------------------------------------)
+
