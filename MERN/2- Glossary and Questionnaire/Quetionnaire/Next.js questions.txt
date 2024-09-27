@@ -562,3 +562,9 @@ Ans- An intercepting route shows content in the context of another route, useful
 
 (-----------------------------------------------------------------------)
 
+95- What are React Server Components in Next.js?
+
+Ans- React Server Components are the default for components inside the app directory and provide server-side rendering and performance optimization.
+
+(-----------------------------------------------------------------------)
+
