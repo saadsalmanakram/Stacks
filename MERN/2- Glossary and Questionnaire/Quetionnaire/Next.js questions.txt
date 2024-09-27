@@ -334,3 +334,9 @@ Ans- Use the params prop for route segments and the searchParams prop for URL se
 
 (-----------------------------------------------------------------------)
 
+57- How do you access the URL in Client Components?
+
+Ans- You can use hooks like usePathname, useSelectedLayoutSegment, and useSelectedLayoutSegments for accessing URLs in Client Components.
+
+(-----------------------------------------------------------------------)
+
