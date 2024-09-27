@@ -2526,3 +2526,9 @@ Ans- The two main environments are the client (browser) and the server (data cen
 
 (----------------------------------------------------------------------)
 
+413- How does client-side rendering work?
+
+Ans- In client-side rendering, the browser fetches HTML, CSS, and JavaScript, then renders the user interface directly on the user's device.
+
+(----------------------------------------------------------------------)
+
