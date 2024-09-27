@@ -1420,3 +1420,15 @@ Ans- Safe colocation allows project files to be placed within route segments in 
 
 (----------------------------------------------------------------------)
 
+238- How does the app directory define route structure?
+
+Ans- The nested folder hierarchy in the app directory corresponds to the URL path, where each folder represents a route segment.
+
+(----------------------------------------------------------------------)
+
+239- What happens if a folder in the app directory does not contain a page.js or route.js file?
+
+Ans- The route is not publicly accessible, even if the folder exists within the route segment.
+
+(----------------------------------------------------------------------)
+
