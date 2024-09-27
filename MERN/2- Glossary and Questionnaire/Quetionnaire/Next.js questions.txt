@@ -2892,3 +2892,8 @@ Ans- To reduce the client-side JavaScript bundle size and improve performance.
 
 (----------------------------------------------------------------------)
 
+471- How can you handle sensitive information like API keys in React?
+
+Ans- Keep them in Server Components and avoid exposing them in Client Components.
+
+(----------------------------------------------------------------------)
