@@ -2718,3 +2718,8 @@ Ans- The server-generated HTML can be indexed by search engines, improving searc
 
 (----------------------------------------------------------------------)
 
+443- What happens when dynamic functions are discovered during rendering in Next.js?
+
+Ans- Next.js switches the route to Dynamic Rendering if dynamic functions or uncached data are found.
+
+(----------------------------------------------------------------------)
