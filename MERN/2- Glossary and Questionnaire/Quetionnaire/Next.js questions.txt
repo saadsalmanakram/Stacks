@@ -424,3 +424,9 @@ Ans- Customization is done through configuration files like next.config.js to mo
 
 (-----------------------------------------------------------------------)
 
+72- How is a Next.js application deployed?
+
+Ans- Next.js applications can be deployed on platforms like Vercel, or any Node.js-supported hosting environment.
+
+(-----------------------------------------------------------------------)
+
