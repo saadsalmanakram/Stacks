@@ -2316,3 +2316,9 @@ Ans- By passing it as a prop to the Client Component, typically named with an "A
 
 (----------------------------------------------------------------------)
 
+387- What happens if a prop isn't recognized as a Server Action in TypeScript?
+
+Ans- TypeScript may flag it, but props named "action" are heuristically assumed to be Server Actions.
+
+(----------------------------------------------------------------------)
+
