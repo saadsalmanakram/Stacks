@@ -2508,3 +2508,9 @@ Ans- It allows logging of cache hits and misses in the console to verify ISR beh
 
 (----------------------------------------------------------------------)
 
+410- Can ISR be used with ORM or database connections?
+
+Ans- Yes, ISR can be integrated with ORM or database calls using caching mechanisms provided by Next.js.
+
+(----------------------------------------------------------------------)
+
