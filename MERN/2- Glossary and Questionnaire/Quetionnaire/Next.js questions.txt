@@ -2430,3 +2430,9 @@ Ans- Cached pages are served for a defined period, and after expiration, new ver
 
 (----------------------------------------------------------------------)
 
+397- What is revalidatePath used for?
+
+Ans- It invalidates the cache for a specific route on-demand, allowing fresh data to be fetched.
+
+(----------------------------------------------------------------------)
+
