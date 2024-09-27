@@ -2100,3 +2100,9 @@ Ans- Maintain separate dictionaries for each language and load the appropriate t
 
 (----------------------------------------------------------------------)
 
+351- How do you structure localization dictionaries in a Next.js app?
+
+Ans- Use JSON files for each language that map keys to localized strings, such as dictionaries/en.json for English and dictionaries/nl.json for Dutch.
+
+(----------------------------------------------------------------------)
+
