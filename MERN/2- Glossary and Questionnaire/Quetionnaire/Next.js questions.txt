@@ -442,3 +442,9 @@ Ans- Server-Side Rendering (SSR) allows the rendering of pages on the server at 
 
 (-----------------------------------------------------------------------)
 
+75- When would you use Static Generation in Next.js?
+
+Ans- Static Generation is ideal when you want to pre-render pages at build time for better performance.
+
+(-----------------------------------------------------------------------)
+
