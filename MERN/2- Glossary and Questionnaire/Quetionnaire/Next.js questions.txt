@@ -2586,3 +2586,9 @@ Ans- The network boundary determines where operations are executed, optimizing p
 
 (----------------------------------------------------------------------)
 
+423- How can you define the network boundary in React?
+
+Ans- In React, you can define the network boundary using the "use client" and "use server" conventions.
+
+(----------------------------------------------------------------------)
+
