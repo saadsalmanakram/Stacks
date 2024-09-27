@@ -1644,4 +1644,9 @@ Ans- Next.js will render a default.js file for unmatched slots, or a 404 if it d
 
 (----------------------------------------------------------------------)
 
+275- What is the purpose of default.js in Parallel Routes?
+
+Ans- default.js provides a fallback rendering for unmatched slots during initial loads or page refreshes.
+
+(----------------------------------------------------------------------)
 
