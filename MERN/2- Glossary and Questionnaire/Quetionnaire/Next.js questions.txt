@@ -1811,3 +1811,16 @@ Ans- By using a route config option like export const dynamic = 'force-static'.
 Ans- These are specific files like sitemap.ts that remain static unless configured otherwise.
 
 (----------------------------------------------------------------------)
+
+303- Do Route Handlers participate in layouts?
+
+Ans- No, they do not participate in layouts or client-side navigation.
+
+(----------------------------------------------------------------------)
+
+304- What conflicts can arise with Route Handlers?
+
+Ans- Conflicts occur if a route.js file is placed at the same level as a page.js file.
+
+(----------------------------------------------------------------------)
+
