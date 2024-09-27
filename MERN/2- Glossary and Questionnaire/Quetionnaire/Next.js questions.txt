@@ -1389,3 +1389,10 @@ Ans- The home page.js file should be defined in one of the Route Groups.
 Ans- No, it is purely for organization and does not impact functionality or URL paths.
 
 (----------------------------------------------------------------------)
+
+233- Can you create Route Groups within Route Groups?
+
+Ans- Yes, you can nest Route Groups to further organize routes.
+
+(----------------------------------------------------------------------)
+
