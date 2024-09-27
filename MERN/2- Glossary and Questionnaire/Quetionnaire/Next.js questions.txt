@@ -3252,3 +3252,9 @@ Ans- These routes are dynamically rendered and opt out of the Full Route Cache d
 
 (-----------------------------------------------------------------------)
 
+531- What is the difference between Next.js Router Cache and browser bfcache?
+
+Ans- Router Cache applies to Next.js and Server Components, while bfcache is a browser feature, though both improve navigation speed.
+
+(-----------------------------------------------------------------------)
+
