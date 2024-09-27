@@ -310,4 +310,11 @@ Ans- It provides a custom UI for pages that cannot be found.
 
 (-----------------------------------------------------------------------)
 
+53- What is the Next.js App Router?
+
+Ans- The Next.js App Router is a model that introduces React's latest features like Server Components, Streaming with Suspense, and Server Actions.
+
+(-----------------------------------------------------------------------)
+
+
 
