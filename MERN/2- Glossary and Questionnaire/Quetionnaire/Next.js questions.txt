@@ -1878,3 +1878,9 @@ Ans- Yes, they can process webhook payloads directly without additional configur
 
 (----------------------------------------------------------------------)
 
+314- Can Route Handlers return non-UI content?
+
+Ans- Yes, they can return non-UI content like XML or JSON, such as RSS feeds.
+
+(----------------------------------------------------------------------)
+
