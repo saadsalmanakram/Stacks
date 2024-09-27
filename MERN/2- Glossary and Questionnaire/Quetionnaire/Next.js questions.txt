@@ -3186,3 +3186,9 @@ Ans- Invalidating the Data Cache invalidates the Full Route Cache, but invalidat
 
 (-----------------------------------------------------------------------)
 
+520- What does the revalidateTag API do in Next.js?
+
+Ans- It revalidates cached entries based on assigned tags in the Data Cache or Full Route Cache.
+
+(-----------------------------------------------------------------------)
+
