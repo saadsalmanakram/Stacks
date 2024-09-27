@@ -2832,3 +2832,9 @@ Ans- It allows the use of both client-side interactivity and server-side optimiz
 
 (----------------------------------------------------------------------)
 
+462- How does Next.js optimize initial page loads with Client Components?
+
+Ans- By rendering static HTML previews on the server, ensuring content is visible immediately before the Client Component JavaScript is hydrated.
+
+(----------------------------------------------------------------------)
+
