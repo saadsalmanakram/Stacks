@@ -2250,3 +2250,9 @@ Ans- You can use tags with the cache to invalidate it during Incremental Static 
 
 (----------------------------------------------------------------------)
 
+376- How does Next.js memoize fetch requests?
+
+Ans- Next.js automatically memoizes requests made with the same URL and options, avoiding duplicate fetches.
+
+(----------------------------------------------------------------------)
+
