@@ -364,3 +364,9 @@ Ans- No, HTTP does not allow setting cookies after streaming starts, so you cann
 
 (-----------------------------------------------------------------------)
 
+62- How do you build multi-tenant apps with the App Router?
+
+Ans- Use Next.js' recommended architecture as demonstrated in their example for building multi-tenant applications.
+
+(-----------------------------------------------------------------------)
+
