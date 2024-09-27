@@ -952,3 +952,9 @@ Ans- Only the route segments that change during navigation are re-rendered, pres
 
 (-----------------------------------------------------------------------)
 
+160- What is soft navigation in Next.js?
+
+Ans- It enables smooth transitions between pages by re-rendering only the changed segments while preserving client-side state.
+
+(-----------------------------------------------------------------------)
+
