@@ -3095,3 +3095,10 @@ Ans- The Node.js Runtime is primarily used for rendering the application.
 Ans- The Edge Runtime is mainly used for Middleware tasks like routing, redirects, and setting headers.
 
 (-----------------------------------------------------------------------)
+
+505- Does the Edge Runtime support all Node.js APIs?
+
+Ans- No, the Edge Runtime has limited support and does not include all Node.js APIs.
+
+(-----------------------------------------------------------------------)
+
