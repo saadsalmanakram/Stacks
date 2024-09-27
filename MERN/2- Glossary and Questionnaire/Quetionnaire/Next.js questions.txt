@@ -1294,3 +1294,9 @@ Ans- Redirects before rendering can be handled using next.config.js or Middlewar
 
 (-----------------------------------------------------------------------)
 
+217- What are Route Groups?
+
+Ans- Route Groups allow you to organize your routes without affecting the URL path structure by marking folders with parentheses.
+
+(-----------------------------------------------------------------------)
+
