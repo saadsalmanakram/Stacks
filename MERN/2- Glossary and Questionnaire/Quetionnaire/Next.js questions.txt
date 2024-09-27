@@ -2699,3 +2699,10 @@ Ans- Server-side data fetching reduces client-side requests and moves the fetchi
 Ans- Sensitive data like tokens and API keys can remain on the server, minimizing the risk of client-side exposure.
 
 (----------------------------------------------------------------------)
+
+440- What role does caching play in Server Components?
+
+Ans- Caching allows server-rendered content to be reused across requests, improving performance and reducing load on the server.
+
+(----------------------------------------------------------------------)
+
