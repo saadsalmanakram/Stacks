@@ -2975,3 +2975,10 @@ Ans- To allow Next.js to optimize static parts of the Server Components.
 Ans- PPR combines static and dynamic components, prerendering as much as possible and dynamically rendering other parts using React Suspense.
 
 (----------------------------------------------------------------------)
+
+485- How does Next.js handle dynamic components in Partial Prerendering?
+
+Ans- Dynamic components are wrapped in a React Suspense boundary and streamed from the server alongside the prerendered content.
+
+(----------------------------------------------------------------------)
+
