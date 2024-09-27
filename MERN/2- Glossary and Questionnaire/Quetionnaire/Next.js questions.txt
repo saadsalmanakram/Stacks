@@ -3024,3 +3024,10 @@ Ans- Yes, set experimental_ppr to false in the child segment configuration.
 
 (----------------------------------------------------------------------)
 
+493- How do you enable Partial Prerendering in Next.js version 14?
+
+Ans- Set ppr: true in the next.config.js file, which applies PPR globally to all routes.
+
+(----------------------------------------------------------------------)
+
+ 
