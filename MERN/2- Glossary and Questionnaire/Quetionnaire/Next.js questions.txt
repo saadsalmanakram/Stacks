@@ -2022,3 +2022,9 @@ Ans- CORS (Cross-Origin Resource Sharing) can be configured in middleware to all
 
 (----------------------------------------------------------------------)
 
+338- What is the purpose of the waitUntil method in NextFetchEvent?
+
+Ans- The waitUntil method extends request processing time until a promise resolves, allowing additional asynchronous operations.
+
+(----------------------------------------------------------------------)
+
