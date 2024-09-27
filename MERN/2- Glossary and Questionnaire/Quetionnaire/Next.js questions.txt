@@ -1770,3 +1770,8 @@ Ans- They are custom request handlers for specific routes using Web Request and 
 
 (----------------------------------------------------------------------)
 
+296- Where are Route Handlers defined?
+
+Ans- They are defined in a route.js or route.ts file inside the app directory.
+
+(----------------------------------------------------------------------)
