@@ -1788,3 +1788,9 @@ Ans- Supported methods include GET, POST, PUT, PATCH, DELETE, HEAD, and OPTIONS.
 
 (----------------------------------------------------------------------)
 
+299- What happens if an unsupported HTTP method is called?
+
+Ans- Next.js returns a 405 Method Not Allowed response.
+
+(----------------------------------------------------------------------)
+
