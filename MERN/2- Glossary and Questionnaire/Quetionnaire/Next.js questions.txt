@@ -2220,3 +2220,9 @@ Ans- You can use an ORM or a database client to retrieve data, usually inside an
 
 (----------------------------------------------------------------------)
 
+371- What does export const dynamic = 'force-dynamic' do?
+
+Ans- It tells Next.js to always render the page dynamically instead of using static generation.
+
+(----------------------------------------------------------------------)
+
