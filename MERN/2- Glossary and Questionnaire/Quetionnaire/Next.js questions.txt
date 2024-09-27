@@ -1156,3 +1156,14 @@ Ans- It does not negatively impact SEO since data fetching completes before stre
 
 (-----------------------------------------------------------------------)
 
+194- What is the Rich Results Test tool used for?
+
+Ans- It checks how a page appears to Google's crawlers and verifies the serialized HTML.
+
+(-----------------------------------------------------------------------)
+
+195- What is the significance of the 200 status code in streaming?
+
+Ans- It indicates a successful request, allowing proper communication with the client about the request's outcome.
+
+(-----------------------------------------------------------------------)
