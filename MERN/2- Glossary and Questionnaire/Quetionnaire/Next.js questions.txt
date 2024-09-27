@@ -2010,3 +2010,9 @@ Ans- Methods include get, getAll, set, and delete for both incoming and outgoing
 
 (----------------------------------------------------------------------)
 
+336- How do you set headers in middleware?
+
+Ans- Headers can be set on responses or requests using the NextResponse API.
+
+(----------------------------------------------------------------------)
+
