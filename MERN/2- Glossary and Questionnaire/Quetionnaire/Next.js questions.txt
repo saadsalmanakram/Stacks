@@ -472,3 +472,9 @@ Ans- The app router, introduced in Next.js version 13, enables nested routing, l
 
 (-----------------------------------------------------------------------)
 
+80- What is a component tree in Next.js?
+
+Ans- A component tree is a hierarchical structure of components, where parent components have child components forming a tree-like structure.
+
+(-----------------------------------------------------------------------)
+
