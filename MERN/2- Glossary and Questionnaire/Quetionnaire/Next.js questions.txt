@@ -1967,3 +1967,10 @@ Ans- Middleware is suitable for basic session tasks, but extensive management sh
 Ans- Middleware is not optimized for database interactions; these should occur within route handlers or server utilities.
 
 (----------------------------------------------------------------------)
+
+329- How do you define middleware in a Next.js project?
+
+Ans- Middleware is defined in a middleware.ts or .js file located at the project root.
+
+(----------------------------------------------------------------------)
+
