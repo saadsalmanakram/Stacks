@@ -256,3 +256,15 @@ Ans- Dynamic routes are defined using square brackets, e.g., [folder], for route
 
 (-----------------------------------------------------------------------)
 
+44- What are catch-all routes in Next.js?
+
+Ans- Catch-all routes, defined as [...folder], match all paths under a given route.
+
+(-----------------------------------------------------------------------)
+
+45- What is the purpose of a favicon.ico file in Next.js?
+
+Ans- It provides the icon for the browser tab.
+
+(-----------------------------------------------------------------------)
+
