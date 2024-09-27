@@ -1102,3 +1102,20 @@ Ans- Navigation remains immediate and interruptible, allowing users to switch ro
 
 (-----------------------------------------------------------------------)
 
+185- How does Next.js optimize the loading functionality?
+
+Ans- It leverages the loading.js convention for route segments, ensuring efficient rendering and user experience.
+
+(-----------------------------------------------------------------------)
+
+186- What is streaming in the context of React and Next.js?
+
+Ans- It allows progressive rendering of HTML chunks from the server to the client, enhancing perceived performance.
+
+(-----------------------------------------------------------------------)
+
+187- How does streaming improve the user experience compared to traditional SSR?
+
+Ans- It reduces waiting times by displaying parts of the UI before all data has been fetched.
+
+(-----------------------------------------------------------------------0
