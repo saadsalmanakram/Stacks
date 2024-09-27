@@ -2424,4 +2424,9 @@ Ans- Next.js will server-render the page on-demand for that path.
 
 (----------------------------------------------------------------------)
 
+396- How does caching work in ISR?
+
+Ans- Cached pages are served for a defined period, and after expiration, new versions are generated in the background.
+
+(----------------------------------------------------------------------)
 
