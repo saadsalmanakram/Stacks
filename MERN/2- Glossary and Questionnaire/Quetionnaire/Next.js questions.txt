@@ -154,3 +154,9 @@ Ans- It is an optional folder to organize application source code.
 
 (------------------------------------------------------------------------)
 
+27- What is next.config.js used for?
+
+Ans- It is the configuration file for customizing Next.js behavior.
+
+(------------------------------------------------------------------------)
+
