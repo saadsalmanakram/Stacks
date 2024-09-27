@@ -2117,3 +2117,10 @@ Ans- Server Components allow you to load translation files server-side, reducing
 Ans- Use the generateStaticParams function in your layouts or pages to define static routes for each locale.
 
 (----------------------------------------------------------------------)
+
+354- What does the generateStaticParams function do?
+
+Ans- It allows you to specify parameters for static routes, such as locales, that will be generated at build time.
+
+(----------------------------------------------------------------------)
+
