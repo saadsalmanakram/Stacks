@@ -1920,3 +1920,9 @@ Ans- Middleware can redirect users based on conditions like locale or user role 
 
 (----------------------------------------------------------------------)
 
+321- What is path rewriting in middleware?
+
+Ans- Path rewriting allows dynamic redirection of requests to different API routes or pages, useful for A/B testing or legacy paths.
+
+(----------------------------------------------------------------------)
+
