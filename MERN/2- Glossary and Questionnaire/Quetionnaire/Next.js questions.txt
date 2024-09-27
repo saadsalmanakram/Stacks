@@ -2922,3 +2922,9 @@ Ans- Render the Context Provider in a Client Component to handle React's state a
 
 (----------------------------------------------------------------------)
 
+476- Why should you render Client Components deeper in the tree?
+
+Ans- To reduce the client-side bundle size by moving interactivity to isolated components.
+
+(----------------------------------------------------------------------)
+
