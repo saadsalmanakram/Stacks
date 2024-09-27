@@ -1072,3 +1072,15 @@ Ans- It creates a meaningful loading UI with React Suspense for better user expe
 
 (-----------------------------------------------------------------------)
 
+180- How does React Suspense improve the loading state for routes?
+
+Ans- It allows for an instant loading state that displays fallback UI immediately while the content loads.
+
+(-----------------------------------------------------------------------)
+
+181- What are instant loading states?
+
+Ans- They are fallback UIs shown immediately upon navigation to indicate the app is responding, enhancing user experience.
+
+(-----------------------------------------------------------------------)
+
