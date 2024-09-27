@@ -1348,3 +1348,9 @@ Ans- Nested layouts enable different UI experiences within the same route segmen
 
 (----------------------------------------------------------------------)
 
+226- How do you implement multiple root layouts?
+
+Ans- By removing the top-level layout.js and adding a layout.js file in each Route Group.
+
+(----------------------------------------------------------------------)
+
