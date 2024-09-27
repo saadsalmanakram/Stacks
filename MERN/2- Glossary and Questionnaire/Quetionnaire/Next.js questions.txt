@@ -1656,3 +1656,9 @@ Ans- It closes the modal by navigating back to the previous page in the browser 
 
 (----------------------------------------------------------------------)
 
+277- How do you handle closing modals when navigating away from a page?
+
+Ans- By matching the slot to a component that returns null or using a catch-all route.
+
+(----------------------------------------------------------------------)
+
