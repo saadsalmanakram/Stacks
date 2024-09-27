@@ -1054,3 +1054,9 @@ Ans- By using a global-error.tsx file that defines its own <html> and <body> tag
 
 (-----------------------------------------------------------------------)
 
+177- How should a global error boundary be structured in Next.js?
+
+Ans- It must include its own HTML structure since it replaces the root layout.
+
+(-----------------------------------------------------------------------)
+
