@@ -724,3 +724,9 @@ Ans- Next.js uses the page.js or page.tsx file to automatically generate routes 
 
 (-----------------------------------------------------------------------)
 
+122- How does Next.js map folders and files to URLs?
+
+Ans- Each folder inside the app directory corresponds to a route, and the page.js inside defines the component for that route.
+
+(-----------------------------------------------------------------------)
+
