@@ -1608,3 +1608,9 @@ Ans- They are particularly useful for dynamic app sections, such as dashboards a
 
 (----------------------------------------------------------------------)
 
+269- How do you define Parallel Routes?
+
+Ans- Parallel Routes are defined using named slots, indicated by the @folder convention.
+
+(----------------------------------------------------------------------)
+
