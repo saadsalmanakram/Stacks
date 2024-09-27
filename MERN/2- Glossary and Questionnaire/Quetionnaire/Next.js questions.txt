@@ -2262,3 +2262,9 @@ Ans- Sequential fetching waits for one request to finish before starting the nex
 
 (----------------------------------------------------------------------)
 
+378- What is the preload pattern in data fetching?
+
+Ans- The preload pattern initiates data fetching ahead of time to reduce loading delays when rendering components.
+
+(----------------------------------------------------------------------)
+
