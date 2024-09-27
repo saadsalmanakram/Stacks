@@ -3216,3 +3216,8 @@ Ans- It allows you to control caching behavior, with options like force-cache to
 
 (-----------------------------------------------------------------------)
 
+525- How do cookies affect the Router Cache in Next.js?
+
+Ans- Using cookies.set or cookies.delete invalidates the Router Cache to avoid stale routes, especially for authentication.
+
+(-----------------------------------------------------------------------)
