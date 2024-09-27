@@ -885,3 +885,9 @@ Ans- No, use the Metadata API to handle <head> elements, as it manages streaming
 Ans- Use the usePathname() hook to check if a link matches the current route.
 
 (-----------------------------------------------------------------------)
+
+149- Where do you need to move your nav links in order to use the usePathname() hook?
+
+Ans- Move the nav links into a client component since usePathname() is a client-side hook.
+
+(-----------------------------------------------------------------------)
