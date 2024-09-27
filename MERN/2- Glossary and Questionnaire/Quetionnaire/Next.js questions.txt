@@ -615,3 +615,10 @@ Ans- Advanced patterns like Parallel Routes and Intercepting Routes provide more
 Ans- Next.js uses a file-system-based router where folders represent route segments.
 
 (-----------------------------------------------------------------------)
+
+104- How do you define a new route in Next.js?
+
+Ans- Create a folder in the app directory, and place a page.js file inside it.
+
+(-----------------------------------------------------------------------)
+
