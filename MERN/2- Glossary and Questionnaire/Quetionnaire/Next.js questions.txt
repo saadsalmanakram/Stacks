@@ -2562,3 +2562,15 @@ Ans- The lifecycle is initiated by a user action, such as clicking a link or sub
 
 (----------------------------------------------------------------------)
 
+419- What role does the server play in the request-response lifecycle?
+
+Ans- The server processes requests, retrieves necessary resources, and sends HTTP responses back to the client.
+
+(----------------------------------------------------------------------)
+
+420- What is included in an HTTP response?
+
+Ans- An HTTP response includes a status code and the requested resources, such as HTML, CSS, and JavaScript.
+
+(----------------------------------------------------------------------)
+
