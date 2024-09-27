@@ -2670,3 +2670,9 @@ Ans- It is a compact binary representation of rendered Server Components, contai
 
 (----------------------------------------------------------------------)
 
+435- How does Static Rendering improve performance?
+
+Ans- By caching pre-rendered pages on a CDN, Static Rendering allows users to share rendered content without re-fetching data on each request.
+
+(----------------------------------------------------------------------)
+
