@@ -3227,3 +3227,10 @@ Ans- Using cookies.set or cookies.delete invalidates the Router Cache to avoid s
 Ans- It generates static paths for dynamic routes at build time, allowing Next.js to cache these paths in the Full Route Cache.
 
 (-----------------------------------------------------------------------)
+
+527- How does generateStaticParams work when no paths are provided at build time?
+
+Ans- When an empty array is returned, paths are cached the first time they are visited.
+
+(-----------------------------------------------------------------------)
+
