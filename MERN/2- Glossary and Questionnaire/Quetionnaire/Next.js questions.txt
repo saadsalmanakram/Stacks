@@ -2952,3 +2952,9 @@ Ans- Server Components are rendered first, followed by Client Components, ensuri
 
 (----------------------------------------------------------------------)
 
+481- How can moving Client Components down the tree improve performance?
+
+Ans- By reducing the client-side JavaScript needed for static parts of the application.
+
+(----------------------------------------------------------------------)
+
