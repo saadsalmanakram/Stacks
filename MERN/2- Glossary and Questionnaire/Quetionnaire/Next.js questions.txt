@@ -3047,3 +3047,10 @@ Ans- The component will render dynamically, requiring a Suspense fallback during
 Ans- Accessing searchParams inside a component triggers dynamic rendering for that component.
 
 (----------------------------------------------------------------------)
+
+497- What’s the benefit of using Suspense fallback in PPR?
+
+Ans- The fallback provides a placeholder while the dynamic component is being streamed and rendered, improving user experience.
+
+(----------------------------------------------------------------------)
+
