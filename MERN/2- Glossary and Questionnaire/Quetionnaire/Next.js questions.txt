@@ -1710,3 +1710,9 @@ Ans- The entire page is rendered, and no route interception occurs, which is sui
 
 (----------------------------------------------------------------------)
 
+286- What is the convention for defining intercepting routes?
+
+Ans- Use the (..) convention to navigate segments, with (.) for the same level and (..) for one level up.
+
+(----------------------------------------------------------------------)
+
