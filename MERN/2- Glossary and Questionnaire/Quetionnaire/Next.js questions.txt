@@ -1438,3 +1438,9 @@ Ans- In the pages directory, any file is treated as a route, while in the app di
 
 (----------------------------------------------------------------------)
 
+241- How can you create private folders in Next.js?
+
+Ans- By prefixing a folder name with an underscore (e.g., _folderName), the folder is marked as private and excluded from the routing system.
+
+(----------------------------------------------------------------------)
+
