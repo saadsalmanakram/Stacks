@@ -1728,3 +1728,15 @@ Ans- They can create shareable modal content, preserve context on refresh, and m
 
 (----------------------------------------------------------------------)
 
+289- What are some practical examples of using intercepting routes?
+
+Ans- Opening a photo in a modal from a gallery or displaying a login form in a navbar while also having a dedicated login page.
+
+(----------------------------------------------------------------------)
+
+290- How do intercepting routes enhance user experience?
+
+Ans- They provide contextual interactions without page reloads, preserving user flow and reducing friction.
+
+(----------------------------------------------------------------------)
+
