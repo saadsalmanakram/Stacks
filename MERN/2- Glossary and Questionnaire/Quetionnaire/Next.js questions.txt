@@ -171,3 +171,10 @@ Ans- It defines the project’s dependencies and scripts.
 Ans- It handles OpenTelemetry and instrumentation for monitoring.
 
 (------------------------------------------------------------------------)
+
+30- What does the middleware.ts file do?
+
+Ans- It is used for request middleware in Next.js to intercept and modify requests.
+
+(------------------------------------------------------------------------)
+
