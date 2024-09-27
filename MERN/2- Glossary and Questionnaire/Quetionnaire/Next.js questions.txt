@@ -412,3 +412,9 @@ Ans- Optimizing, Configuring, Deploying, and Upgrading are the more advanced top
 
 (-----------------------------------------------------------------------)
 
+70- How does Next.js help in optimizing an application?
+
+Ans- Next.js offers built-in optimizations like code splitting, image optimization, and lazy loading for performance enhancement.
+
+(-----------------------------------------------------------------------)
+
