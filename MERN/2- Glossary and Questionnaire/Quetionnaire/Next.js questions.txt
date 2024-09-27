@@ -838,3 +838,9 @@ Ans- No, passing data between parent and child layouts is not possible, but Reac
 
 (-----------------------------------------------------------------------)
 
+141- How does Next.js handle migrating from the pages directory with regard to layouts?
+
+Ans- The root layout replaces _app.js and _document.js files in the new app directory structure.
+
+(-----------------------------------------------------------------------)
+
