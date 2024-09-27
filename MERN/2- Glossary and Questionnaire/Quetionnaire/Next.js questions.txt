@@ -2874,3 +2874,9 @@ Ans- When you need interactivity, useState, useEffect, or browser-specific featu
 
 (----------------------------------------------------------------------)
 
+469- How do you share data between Server Components?
+
+Ans- Use fetch or React's cache function to avoid duplicate data requests across components.
+
+(----------------------------------------------------------------------)
+
