@@ -2406,3 +2406,9 @@ Ans- By serving cached static pages for most requests, ISR minimizes the need fo
 
 (----------------------------------------------------------------------)
 
+393- What is the purpose of the revalidate property in ISR?
+
+Ans- It defines the time interval for how often a page should be regenerated in the background.
+
+(----------------------------------------------------------------------)
+
