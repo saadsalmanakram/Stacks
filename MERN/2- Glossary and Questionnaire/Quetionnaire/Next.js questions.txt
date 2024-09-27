@@ -1632,3 +1632,10 @@ Ans- The children prop is an implicit slot that does not need a specific mapping
 
 (----------------------------------------------------------------------)
 
+273- How does Next.js handle active states in slots?
+
+Ans- Next.js tracks active states for each slot during soft navigation, but not during hard navigation.
+
+(----------------------------------------------------------------------)
+
+
