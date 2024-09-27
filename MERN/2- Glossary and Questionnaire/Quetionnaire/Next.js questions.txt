@@ -868,3 +868,9 @@ Ans- Templates are rendered between a layout and its children, creating a new in
 
 (-----------------------------------------------------------------------)
 
+146- How do you add metadata to pages or layouts in Next.js?
+
+Ans- Metadata is added by exporting a metadata object or generateMetadata function from a layout.js or page.js file.
+
+(-----------------------------------------------------------------------)
+
