@@ -1354,3 +1354,8 @@ Ans- By removing the top-level layout.js and adding a layout.js file in each Rou
 
 (----------------------------------------------------------------------)
 
+227- What must be included in each root layout?
+
+Ans- Each root layout must include the <html> and <body> tags.
+
+(----------------------------------------------------------------------)
