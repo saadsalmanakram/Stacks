@@ -772,3 +772,9 @@ Ans- Create folders for each route inside the app directory and add a page.js or
 
 (-----------------------------------------------------------------------)
 
+130- What is a layout in Next.js?
+
+Ans- A layout is a UI component shared between multiple routes that preserves state and does not re-render on navigation.
+
+(-----------------------------------------------------------------------)
+
