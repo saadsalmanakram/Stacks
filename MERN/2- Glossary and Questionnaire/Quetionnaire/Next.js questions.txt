@@ -2958,3 +2958,9 @@ Ans- By reducing the client-side JavaScript needed for static parts of the appli
 
 (----------------------------------------------------------------------)
 
+482- What issue might occur with third-party providers in Server Components?
+
+Ans- Providers use state or context, which are not supported in Server Components, so they must be placed in Client Components.
+
+(----------------------------------------------------------------------)
+
