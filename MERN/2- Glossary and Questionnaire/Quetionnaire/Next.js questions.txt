@@ -1012,3 +1012,9 @@ Ans- To manage form state and handle expected errors without using try/catch.
 
 (-----------------------------------------------------------------------)
 
+170- What is an uncaught exception?
+
+Ans- An unexpected error that indicates a bug or issue in the application.
+
+(-----------------------------------------------------------------------)
+
