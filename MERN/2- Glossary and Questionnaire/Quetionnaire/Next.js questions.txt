@@ -1090,3 +1090,9 @@ Ans- By adding a loading.js file in the same folder as your route segment files.
 
 (-----------------------------------------------------------------------)
 
+183- What does the Loading component typically contain?
+
+Ans- It can include any UI, such as a loading spinner or skeleton, to indicate loading.
+
+(-----------------------------------------------------------------------)
+
