@@ -784,3 +784,9 @@ Ans- You define a layout by exporting a React component from a layout.js file th
 
 (-----------------------------------------------------------------------)
 
+132- What is the role of the children prop in layouts?
+
+Ans- The children prop is populated with a child layout or a page during rendering.
+
+(-----------------------------------------------------------------------)
+
