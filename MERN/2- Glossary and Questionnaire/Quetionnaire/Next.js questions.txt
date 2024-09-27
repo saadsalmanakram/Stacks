@@ -2382,3 +2382,10 @@ Ans- By invoking them directly within event handler functions, such as onClick.
 
 (----------------------------------------------------------------------)
 
+398- What is the significance of the "use client" directive?
+
+Ans- It marks components as client-side only, enabling the use of client-specific features.
+
+(----------------------------------------------------------------------)
+
+
