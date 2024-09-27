@@ -400,3 +400,9 @@ Ans- Next.js supports Static Generation (SSG), Server-Side Rendering (SSR), and 
 
 (-----------------------------------------------------------------------)
 
+68- What is Data Fetching in Next.js?
+
+Ans- Data fetching refers to the methods for loading data during pre-rendering or at request time using SSG, SSR, or CSR.
+
+(-----------------------------------------------------------------------)
+
