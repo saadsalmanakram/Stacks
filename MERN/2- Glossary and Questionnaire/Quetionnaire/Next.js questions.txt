@@ -2436,3 +2436,9 @@ Ans- It invalidates the cache for a specific route on-demand, allowing fresh dat
 
 (----------------------------------------------------------------------)
 
+398- Describe the use of revalidateTag.
+
+Ans- This function allows for granular cache invalidation by tagging fetch calls for specific data.
+
+(----------------------------------------------------------------------)
+
