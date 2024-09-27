@@ -3084,3 +3084,9 @@ Ans- The Edge Runtime is a limited runtime designed for performance, offering fe
 
 (-----------------------------------------------------------------------)
 
+503- What is the primary use case of the Node.js Runtime in Next.js?
+
+Ans- The Node.js Runtime is primarily used for rendering the application.
+
+(-----------------------------------------------------------------------)
+
