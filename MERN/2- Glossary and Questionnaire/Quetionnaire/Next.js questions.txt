@@ -321,3 +321,9 @@ Ans- The Next.js App Router is a model that introduces React's latest features l
 Ans- You cannot access the raw request object in a layout, but you can access headers and cookies using server-only functions.
 
 (-----------------------------------------------------------------------)
+
+55- Do layouts rerender in the App Router?
+
+Ans- No, layouts are cached and reused to avoid unnecessary computations during navigation between pages.
+
+(-----------------------------------------------------------------------)
