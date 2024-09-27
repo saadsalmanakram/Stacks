@@ -2286,3 +2286,9 @@ Ans- Use server-only functions and environment variables to ensure sensitive dat
 
 (----------------------------------------------------------------------)
 
+382- What are Server Actions in Next.js?
+
+Ans- Server Actions are asynchronous functions executed on the server, handling form submissions and data mutations.
+
+(----------------------------------------------------------------------)
+
