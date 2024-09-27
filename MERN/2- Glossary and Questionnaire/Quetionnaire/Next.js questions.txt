@@ -238,3 +238,14 @@ Ans- It provides the UI for displaying a 404 (not found) page.
 
 (-----------------------------------------------------------------------)
 
+41- What does the error file handle in the app router?
+
+Ans- It displays UI for handling specific page-level errors.
+
+(-----------------------------------------------------------------------)
+
+42- What is the difference between route and template files in Next.js?
+
+Ans- route files define API endpoints, while template files manage re-rendered layouts.
+
+(-----------------------------------------------------------------------)
