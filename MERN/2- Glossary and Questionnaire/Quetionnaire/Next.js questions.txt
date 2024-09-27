@@ -1306,3 +1306,9 @@ Ans- They help organize routes, enable nested layouts, and allow for specific la
 
 (-----------------------------------------------------------------------)
 
+219- How do you create a Route Group?
+
+Ans- You create a Route Group by wrapping a folder name in parentheses, e.g., (folderName).
+
+(-----------------------------------------------------------------------)
+
