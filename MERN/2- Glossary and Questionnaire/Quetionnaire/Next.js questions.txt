@@ -388,3 +388,9 @@ Ans- Routing, Rendering, Data Fetching, and Styling are the fundamental sections
 
 (-----------------------------------------------------------------------)
 
+66- What is the significance of Routing in Next.js?
+
+Ans- Routing in Next.js allows the creation of pages by mapping file names to URL paths automatically.
+
+(-----------------------------------------------------------------------)
+
