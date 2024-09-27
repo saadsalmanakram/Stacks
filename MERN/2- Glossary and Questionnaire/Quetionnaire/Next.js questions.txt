@@ -2226,3 +2226,9 @@ Ans- It tells Next.js to always render the page dynamically instead of using sta
 
 (----------------------------------------------------------------------)
 
+372- When should you use client-side data fetching in Next.js?
+
+Ans- Use client-side fetching when data is user-specific or needs to be updated frequently without a full page reload.
+
+(----------------------------------------------------------------------)
+
