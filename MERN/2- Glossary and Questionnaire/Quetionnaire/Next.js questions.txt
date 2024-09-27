@@ -3192,3 +3192,15 @@ Ans- It revalidates cached entries based on assigned tags in the Data Cache or F
 
 (-----------------------------------------------------------------------)
 
+521- How can you manually revalidate data for a specific route segment?
+
+Ans- By using the revalidatePath API.
+
+(-----------------------------------------------------------------------)
+
+522- What is the purpose of the fetch options.next.revalidate?
+
+Ans- It sets a revalidation period for individual fetch requests, updating the Data Cache and Full Route Cache accordingly.
+
+(-----------------------------------------------------------------------)
+
