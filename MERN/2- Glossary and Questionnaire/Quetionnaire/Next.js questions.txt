@@ -1740,3 +1740,9 @@ Ans- They provide contextual interactions without page reloads, preserving user 
 
 (----------------------------------------------------------------------)
 
+291- What is a challenge that intercepting routes can solve when using modals?
+
+Ans- It enables reopening the modal on forwards navigation, enhancing usability across sessions.
+
+(----------------------------------------------------------------------)
+
