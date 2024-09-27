@@ -598,3 +598,9 @@ Ans- template.js provides re-rendered layout UI for specialized cases, typically
 
 (-----------------------------------------------------------------------)
 
+101- How are nested components rendered in Next.js?
+
+Ans- Nested route components are rendered inside the components of their parent segment, following a hierarchical component structure.
+
+(-----------------------------------------------------------------------)
+
