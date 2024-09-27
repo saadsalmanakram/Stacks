@@ -2658,3 +2658,9 @@ Ans- Dynamic Rendering is used for personalized content or when data is only ava
 
 (----------------------------------------------------------------------)
 
+434- What is Streaming in Next.js?
+
+Ans- Streaming allows the server to send rendered UI chunks to the client progressively, improving load time by rendering parts of the page as they become ready.
+
+(----------------------------------------------------------------------)
+
