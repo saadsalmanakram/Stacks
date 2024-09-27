@@ -1884,3 +1884,9 @@ Ans- Yes, they can return non-UI content like XML or JSON, such as RSS feeds.
 
 (----------------------------------------------------------------------)
 
+315- What segment configuration options are available for Route Handlers?
+
+Ans- Options include dynamic, dynamicParams, revalidate, fetchCache, and runtime.
+
+(----------------------------------------------------------------------)
+
