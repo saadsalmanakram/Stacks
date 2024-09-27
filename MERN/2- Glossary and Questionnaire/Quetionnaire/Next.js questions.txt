@@ -1956,3 +1956,9 @@ Ans- Heavy tasks can slow down request processing and increase page load times, 
 
 (----------------------------------------------------------------------)
 
+327- What is the risk of using middleware for extensive session management?
+
+Ans- Middleware is suitable for basic session tasks, but extensive management should be handled by dedicated services.
+
+(----------------------------------------------------------------------)
+
