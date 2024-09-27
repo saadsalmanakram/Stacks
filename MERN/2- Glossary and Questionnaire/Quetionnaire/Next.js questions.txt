@@ -1560,3 +1560,9 @@ Ans- You can define types for params based on the route segment configuration, s
 
 (----------------------------------------------------------------------)
 
+261- Can you explain the difference between a dynamic segment and a static segment?
+
+Ans- A dynamic segment captures variable values from the URL, while a static segment has a fixed path and does not change with different requests.
+
+(----------------------------------------------------------------------)
+
