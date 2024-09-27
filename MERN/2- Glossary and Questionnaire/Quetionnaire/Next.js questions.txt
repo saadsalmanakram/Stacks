@@ -2796,3 +2796,8 @@ Ans- They are first rendered as static HTML on the server, then hydrated on the 
 
 (----------------------------------------------------------------------)
 
+456- What is hydration in the context of Client Components?
+
+Ans- Hydration is the process of attaching event listeners to the static HTML to make it interactive using the hydrateRoot API.
+
+(----------------------------------------------------------------------)
