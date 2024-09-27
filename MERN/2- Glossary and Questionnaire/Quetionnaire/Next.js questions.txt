@@ -382,3 +382,9 @@ Ans- Yes, Next.js Commerce and the Platforms Starter Kit are two comprehensive, 
 
 (-----------------------------------------------------------------------)
 
+65- What are the basic sections to start with in Next.js?
+
+Ans- Routing, Rendering, Data Fetching, and Styling are the fundamental sections to begin with.
+
+(-----------------------------------------------------------------------)
+
