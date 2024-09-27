@@ -778,3 +778,9 @@ Ans- A layout is a UI component shared between multiple routes that preserves st
 
 (-----------------------------------------------------------------------)
 
+131- How do you define a layout in Next.js?
+
+Ans- You define a layout by exporting a React component from a layout.js file that accepts a children prop.
+
+(-----------------------------------------------------------------------)
+
