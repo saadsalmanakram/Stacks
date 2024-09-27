@@ -2292,3 +2292,9 @@ Ans- Server Actions are asynchronous functions executed on the server, handling 
 
 (----------------------------------------------------------------------)
 
+383- How are Server Actions defined in Next.js?
+
+Ans- They are defined using the "use server" directive at the top of an async function or a file.
+
+(----------------------------------------------------------------------)
+
