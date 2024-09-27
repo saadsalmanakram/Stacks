@@ -2904,3 +2904,9 @@ Ans- Wrap the third-party component inside a Client Component marked with 'use c
 
 (----------------------------------------------------------------------)
 
+473- Why can't React context be used in Server Components?
+
+Ans- React context requires state and lifecycle methods, which are client-side only.
+
+(----------------------------------------------------------------------)
+
