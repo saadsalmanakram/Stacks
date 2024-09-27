@@ -2232,3 +2232,9 @@ Ans- Use client-side fetching when data is user-specific or needs to be updated 
 
 (----------------------------------------------------------------------)
 
+373- How can you fetch data in a React component using hooks?
+
+Ans- Use the useEffect hook to call the fetch API and update state with the retrieved data.
+
+(----------------------------------------------------------------------)
+
