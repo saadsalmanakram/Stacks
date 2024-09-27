@@ -2532,3 +2532,9 @@ Ans- In client-side rendering, the browser fetches HTML, CSS, and JavaScript, th
 
 (----------------------------------------------------------------------)
 
+414- How does server-side rendering differ from client-side rendering?
+
+Ans- Server-side rendering generates the HTML on the server and sends it to the client, allowing for faster initial page loads and better SEO.
+
+(----------------------------------------------------------------------)
+
