@@ -1000,3 +1000,15 @@ Ans- An error that can occur during normal application operation, like validatio
 
 (-----------------------------------------------------------------------)
 
+168- How should expected errors from server-side actions be returned to the client?
+
+Ans- Through return values managed by the useFormState hook.
+
+(-----------------------------------------------------------------------)
+
+169- What is the purpose of useFormState in error handling?
+
+Ans- To manage form state and handle expected errors without using try/catch.
+
+(-----------------------------------------------------------------------)
+
