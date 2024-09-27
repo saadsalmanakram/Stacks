@@ -2478,3 +2478,8 @@ Ans- Static rendering serves prebuilt pages while dynamic rendering generates pa
 
 (----------------------------------------------------------------------)
 
+405- What is the effect of using a revalidation time of 0 in fetch requests?
+
+Ans- It forces the route to be dynamically rendered instead of using ISR.
+
+(----------------------------------------------------------------------)
