@@ -2867,3 +2867,10 @@ Ans- A component rendered on the client, suitable for interactivity, state manag
 Ans- When fetching data, accessing backend resources, or keeping sensitive information on the server.
 
 (----------------------------------------------------------------------)
+
+468- When should you use Client Components?
+
+Ans- When you need interactivity, useState, useEffect, or browser-specific features.
+
+(----------------------------------------------------------------------)
+
