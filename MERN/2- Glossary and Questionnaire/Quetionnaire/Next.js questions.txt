@@ -130,3 +130,9 @@ Ans- Visit http://localhost:3000 after running the development server.
 
 (-------------------------------------------------------------------------)
 
+23- What is the purpose of the app directory in Next.js?
+
+Ans- The app directory is part of the App Router, used for server-side rendering and nested layouts.
+
+(------------------------------------------------------------------------)
+
