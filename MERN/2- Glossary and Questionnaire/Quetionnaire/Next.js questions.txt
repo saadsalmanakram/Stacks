@@ -2142,3 +2142,9 @@ Ans- Nesting special files under app/[lang] allows the Next.js router to handle 
 
 (----------------------------------------------------------------------)
 
+358- How can you ensure efficient loading of translation files in Next.js?
+
+Ans- Utilize dynamic imports to load translation files only when necessary, ensuring that they do not bloat the client-side JavaScript bundle.
+
+(----------------------------------------------------------------------)
+
