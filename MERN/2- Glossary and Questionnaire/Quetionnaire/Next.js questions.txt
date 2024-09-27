@@ -1836,3 +1836,15 @@ Ans- Yes, they can read and set cookies using the cookies API from next/headers.
 
 (----------------------------------------------------------------------)
 
+307- How do you read headers in a Route Handler?
+
+Ans- Use the headers API from next/headers to access request headers.
+
+(----------------------------------------------------------------------)
+
+308- How can you perform a redirect in a Route Handler?
+
+Ans- By using the redirect function from next/navigation.
+
+(----------------------------------------------------------------------)
+
