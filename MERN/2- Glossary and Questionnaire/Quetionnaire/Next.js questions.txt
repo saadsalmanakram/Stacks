@@ -3090,3 +3090,8 @@ Ans- The Node.js Runtime is primarily used for rendering the application.
 
 (-----------------------------------------------------------------------)
 
+504- What is the primary use case of the Edge Runtime in Next.js?
+
+Ans- The Edge Runtime is mainly used for Middleware tasks like routing, redirects, and setting headers.
+
+(-----------------------------------------------------------------------)
