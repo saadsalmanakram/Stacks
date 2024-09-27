@@ -568,3 +568,15 @@ Ans- React Server Components are the default for components inside the app direc
 
 (-----------------------------------------------------------------------)
 
+96- How does Next.js handle file extensions for special routing files?
+
+Ans- Special routing files in Next.js can use .js, .jsx, or .tsx extensions.
+
+(-----------------------------------------------------------------------)
+
+97- What is colocation in Next.js?
+
+Ans- Colocation refers to placing components, styles, and tests inside folders along with route files to keep related code together.
+
+(-----------------------------------------------------------------------)
+
