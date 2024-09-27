@@ -1210,3 +1210,9 @@ Ans- The redirect function is used to navigate users to another URL after a muta
 
 (-----------------------------------------------------------------------)
 
+203- How does permanentRedirect differ from redirect?
+
+Ans- permanentRedirect issues a 308 (Permanent Redirect) status code, indicating that the resource has permanently moved, while redirect defaults to a 307 (Temporary Redirect).
+
+(-----------------------------------------------------------------------)
+
