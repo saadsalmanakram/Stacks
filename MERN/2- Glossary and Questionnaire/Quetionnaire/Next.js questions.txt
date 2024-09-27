@@ -3246,3 +3246,9 @@ Ans- Only paths defined by generateStaticParams will be served; other routes wil
 
 (-----------------------------------------------------------------------)
 
+530- How does Next.js handle routes using dynamic functions like cookies or headers?
+
+Ans- These routes are dynamically rendered and opt out of the Full Route Cache due to runtime request dependencies.
+
+(-----------------------------------------------------------------------)
+
