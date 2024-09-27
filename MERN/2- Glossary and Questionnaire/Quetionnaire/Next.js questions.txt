@@ -2094,3 +2094,9 @@ Ans- Localization is the process of adapting displayed content based on the user
 
 (----------------------------------------------------------------------)
 
+350- How can you manage translations for multiple languages in a Next.js app?
+
+Ans- Maintain separate dictionaries for each language and load the appropriate translations based on the selected locale.
+
+(----------------------------------------------------------------------)
+
