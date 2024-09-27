@@ -2154,3 +2154,8 @@ Ans- Common challenges include managing translations, handling locale-specific f
 
 (----------------------------------------------------------------------)
 
+360- How can you handle fallback locales in Next.js?
+
+Ans- Implement fallback logic in your localization functions to serve default language strings when translations for a selected locale are missing.
+
+(----------------------------------------------------------------------)
