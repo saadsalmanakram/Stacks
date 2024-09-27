@@ -2880,3 +2880,9 @@ Ans- Use fetch or React's cache function to avoid duplicate data requests across
 
 (----------------------------------------------------------------------)
 
+470- What is the purpose of the server-only package?
+
+Ans- It prevents server-only code from being accidentally imported into client components.
+
+(----------------------------------------------------------------------)
+
