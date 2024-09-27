@@ -2826,3 +2826,9 @@ Ans- To reduce bundle size, fetch server-side data, or use APIs only available o
 
 (----------------------------------------------------------------------)
 
+461- What is the purpose of interleaving Client and Server Components?
+
+Ans- It allows the use of both client-side interactivity and server-side optimizations like data fetching within the same component tree.
+
+(----------------------------------------------------------------------)
+
