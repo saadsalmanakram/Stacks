@@ -2790,3 +2790,9 @@ Ans- You can define multiple boundaries in the component tree to create separate
 
 (----------------------------------------------------------------------)
 
+455- How are Client Components rendered on a full page load in Next.js?
+
+Ans- They are first rendered as static HTML on the server, then hydrated on the client to become interactive.
+
+(----------------------------------------------------------------------)
+
