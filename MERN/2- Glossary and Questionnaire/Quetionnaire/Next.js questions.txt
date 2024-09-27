@@ -232,3 +232,9 @@ Ans- It defines the loading UI displayed during page transitions.
 
 (-----------------------------------------------------------------------)
 
+40- What is the purpose of a not-found file in Next.js?
+
+Ans- It provides the UI for displaying a 404 (not found) page.
+
+(-----------------------------------------------------------------------)
+
