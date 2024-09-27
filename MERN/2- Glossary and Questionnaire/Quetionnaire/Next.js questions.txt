@@ -1118,4 +1118,10 @@ Ans- It allows progressive rendering of HTML chunks from the server to the clien
 
 Ans- It reduces waiting times by displaying parts of the UI before all data has been fetched.
 
-(-----------------------------------------------------------------------0
+(-----------------------------------------------------------------------)
+
+188- What are the limitations of server-side rendering (SSR) that streaming addresses?
+
+Ans- SSR can be slow as it waits for all data to load before rendering, while streaming allows for faster visual feedback.
+
+(-----------------------------------------------------------------------)
