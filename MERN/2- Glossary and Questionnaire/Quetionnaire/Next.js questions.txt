@@ -1239,3 +1239,10 @@ Ans- NextResponse.redirect allows you to redirect requests based on conditions, 
 Ans- By creating a custom solution using Middleware to programmatically handle redirects, potentially using a redirect map stored in a database.
 
 (-----------------------------------------------------------------------)
+
+208- What is a Bloom filter, and how is it used in redirects?
+
+Ans- A Bloom filter is a space-efficient data structure used to check membership of elements; it can optimize redirect lookups by quickly determining if a path exists before querying a larger dataset.
+
+(-----------------------------------------------------------------------)
+
