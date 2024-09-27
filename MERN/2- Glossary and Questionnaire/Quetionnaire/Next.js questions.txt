@@ -249,3 +249,10 @@ Ans- It displays UI for handling specific page-level errors.
 Ans- route files define API endpoints, while template files manage re-rendered layouts.
 
 (-----------------------------------------------------------------------)
+
+43- What are dynamic routes in Next.js, and how are they defined?
+
+Ans- Dynamic routes are defined using square brackets, e.g., [folder], for route segments that change.
+
+(-----------------------------------------------------------------------)
+
