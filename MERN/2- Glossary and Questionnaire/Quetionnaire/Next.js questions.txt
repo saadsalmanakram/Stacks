@@ -304,4 +304,10 @@ Ans- index.js defines static routes, while [file].js defines dynamic routes.
 
 (-----------------------------------------------------------------------)
 
+52- What is the role of a 404 error page in Next.js?
+
+Ans- It provides a custom UI for pages that cannot be found.
+
+(-----------------------------------------------------------------------)
+
 
