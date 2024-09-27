@@ -1746,3 +1746,9 @@ Ans- It enables reopening the modal on forwards navigation, enhancing usability 
 
 (----------------------------------------------------------------------)
 
+292- How can you ensure that modal content is shareable through a URL?
+
+Ans- By using intercepting routes, the modal state can be preserved in the URL, allowing for direct linking.
+
+(----------------------------------------------------------------------)
+
