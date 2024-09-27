@@ -16,3 +16,9 @@ Ans- Next.js supports both client-side and server-side rendering, optimized furt
 
 (-------------------------------------------------------------------------)
 
+4- Describe the data fetching capabilities of Next.js.
+
+Ans- Next.js simplifies data fetching with async/await in server components and an extended fetch API for caching and revalidation.
+
+(-------------------------------------------------------------------------)
+
