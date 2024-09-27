@@ -2460,3 +2460,9 @@ Ans- By enabling logging options in next.config.js, you can track cached and unc
 
 (----------------------------------------------------------------------)
 
+402- What are some caveats of using ISR?
+
+Ans- ISR is only supported in Node.js runtime, not in static exports, and middleware won't run for on-demand ISR requests.
+
+(----------------------------------------------------------------------)
+
