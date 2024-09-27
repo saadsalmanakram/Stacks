@@ -1692,3 +1692,9 @@ Ans- They are useful for displaying content like modals while keeping the curren
 
 (----------------------------------------------------------------------)
 
+283- What is the difference between soft navigation and hard navigation?
+
+Ans- Soft navigation uses intercepting routes for a seamless experience, while hard navigation fully renders the page without interception.
+
+(----------------------------------------------------------------------)
+
