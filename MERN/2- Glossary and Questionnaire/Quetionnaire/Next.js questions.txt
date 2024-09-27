@@ -1174,3 +1174,8 @@ Ans- No, once response headers are sent, the status code cannot be updated, but 
 
 (-----------------------------------------------------------------------)
 
+197- What are the benefits of reducing Time To First Byte (TTFB) with streaming?
+
+Ans- It leads to faster initial load times and improved overall user experience, especially on slower devices.
+
+(-----------------------------------------------------------------------)
