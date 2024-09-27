@@ -3234,3 +3234,9 @@ Ans- When an empty array is returned, paths are cached the first time they are v
 
 (-----------------------------------------------------------------------)
 
+528- What is the React cache function in Next.js?
+
+Ans- It memoizes the return value of a function, caching it for repeated calls to optimize performance.
+
+(-----------------------------------------------------------------------)
+
