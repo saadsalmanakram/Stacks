@@ -514,3 +514,9 @@ Ans- Route segments are mapped to individual folders in the app directory, with 
 
 (-----------------------------------------------------------------------)
 
+87- How are nested routes created in Next.js?
+
+Ans- Nested routes are created by nesting folders within each other inside the app directory.
+
+(-----------------------------------------------------------------------)
+
