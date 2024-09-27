@@ -1932,3 +1932,9 @@ Ans- Middleware can analyze request patterns and block traffic identified as ori
 
 (----------------------------------------------------------------------)
 
+323- What role does middleware play in logging and analytics?
+
+Ans- Middleware captures and analyzes incoming request data for insights before processing the actual request.
+
+(----------------------------------------------------------------------)
+
