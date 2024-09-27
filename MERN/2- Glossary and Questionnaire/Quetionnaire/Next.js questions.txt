@@ -1150,3 +1150,9 @@ Ans- It communicates request success and can still convey errors within the stre
 
 (-----------------------------------------------------------------------)
 
+193- How does streaming affect SEO in Next.js applications?
+
+Ans- It does not negatively impact SEO since data fetching completes before streaming UI, ensuring the correct metadata is sent.
+
+(-----------------------------------------------------------------------)
+
