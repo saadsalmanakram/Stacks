@@ -196,3 +196,10 @@ Ans- It specifies files and folders to be ignored by Git.
 
 (------------------------------------------------------------------------)
 
+34- What is next-env.d.ts used for?
+
+Ans- It is a TypeScript declaration file required for Next.js TypeScript projects.
+
+(-----------------------------------------------------------------------)
+
+
