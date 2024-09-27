@@ -526,3 +526,9 @@ Ans- layout.js defines shared UI that is consistent across a route and its child
 
 (-----------------------------------------------------------------------)
 
+89- What does page.js do in Next.js?
+
+Ans- page.js contains the unique UI for a specific route and makes it publicly accessible.
+
+(-----------------------------------------------------------------------)
+
