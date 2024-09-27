@@ -178,3 +178,9 @@ Ans- It is used for request middleware in Next.js to intercept and modify reques
 
 (------------------------------------------------------------------------)
 
+31- What are .env, .env.local, .env.production, and .env.development files used for?
+
+Ans- They define environment variables for different environments like local, production, and development.
+
+(------------------------------------------------------------------------)
+
