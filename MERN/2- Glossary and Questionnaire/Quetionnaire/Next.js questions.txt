@@ -730,3 +730,15 @@ Ans- Each folder inside the app directory corresponds to a route, and the page.j
 
 (-----------------------------------------------------------------------)
 
+123- What is the purpose of the app/dashboard/page.tsx file in Next.js?
+
+Ans- It defines the UI for the /dashboard route.
+
+(-----------------------------------------------------------------------)
+
+124- Can you have multiple page.js files in the same folder?
+
+Ans- No, each folder corresponds to one route, and it can only have one page.js file to define that page.
+
+(-----------------------------------------------------------------------)
+
