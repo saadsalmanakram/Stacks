@@ -2070,3 +2070,9 @@ Ans- It is recommended to use the user's language preferences to determine the l
 
 (----------------------------------------------------------------------)
 
+346- How can you determine the user's preferred locale in Next.js?
+
+Ans- You can use libraries like negotiator to extract the preferred locale from the Accept-Language header.
+
+(----------------------------------------------------------------------)
+
