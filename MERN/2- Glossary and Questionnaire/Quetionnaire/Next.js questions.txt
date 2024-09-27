@@ -1668,4 +1668,16 @@ Ans- They can define independent loading and error UI states for each route, enh
 
 (----------------------------------------------------------------------)
 
+279- What happens during soft navigation in Parallel Routes?
+
+Ans- A partial render occurs, updating the active subpage while retaining the state of other slots.
+
+(----------------------------------------------------------------------)
+
+280- What’s a catch-all route in Parallel Routes?
+
+Ans- A catch-all route captures all unmatched paths in a slot, which helps in managing modal states effectively.
+
+(----------------------------------------------------------------------)
+
 
