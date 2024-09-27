@@ -1275,3 +1275,10 @@ Ans- revalidatePath updates the cache for a specific path before redirecting, en
 Ans- Redirects in next.config.js can return either a 307 (Temporary Redirect) or a 308 (Permanent Redirect) status code based on the permanent option.
 
 (-----------------------------------------------------------------------)
+
+214- How does redirect handling differ between Client Components and Server Components?
+
+Ans- In Client Components, redirects can only be handled with the useRouter hook, while Server Components can use redirect or permanentRedirect directly.
+
+(-----------------------------------------------------------------------)
+
