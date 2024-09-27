@@ -2490,3 +2490,9 @@ Ans- Use revalidatePath to invalidate the cache for the relevant route after the
 
 (----------------------------------------------------------------------)
 
+407- What is the purpose of the dynamicParams property?
+
+Ans- It controls whether to return a 404 for unknown paths or server-render them dynamically.
+
+(----------------------------------------------------------------------)
+
