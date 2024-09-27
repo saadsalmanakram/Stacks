@@ -2778,3 +2778,9 @@ Ans- It declares that a module and its imports are part of the client bundle and
 
 (----------------------------------------------------------------------)
 
+453- What happens if you don't define the "use client" directive?
+
+Ans- Without "use client", features like useState, onClick, and other browser APIs will not work in components.
+
+(----------------------------------------------------------------------)
+
