@@ -1926,3 +1926,9 @@ Ans- Path rewriting allows dynamic redirection of requests to different API rout
 
 (----------------------------------------------------------------------)
 
+322- How can middleware detect bot traffic?
+
+Ans- Middleware can analyze request patterns and block traffic identified as originating from bots.
+
+(----------------------------------------------------------------------)
+
