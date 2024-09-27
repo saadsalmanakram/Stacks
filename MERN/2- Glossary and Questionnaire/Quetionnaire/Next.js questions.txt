@@ -2849,3 +2849,10 @@ Ans- It helps reconcile Client and Server Component trees and hydrates the clien
 Ans- On the initial load, static HTML is rendered on the server, while on subsequent navigations, Client Components are rendered entirely on the client.
 
 (----------------------------------------------------------------------)
+
+465- What is a Server Component in React?
+
+Ans- A component rendered on the server, ideal for data fetching, backend interaction, and keeping sensitive data secure.
+
+(----------------------------------------------------------------------)
+
