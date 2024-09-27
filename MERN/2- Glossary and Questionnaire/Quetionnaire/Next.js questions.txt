@@ -3204,3 +3204,9 @@ Ans- It sets a revalidation period for individual fetch requests, updating the D
 
 (-----------------------------------------------------------------------)
 
+523- What is the difference between <Link> prefetch and router.prefetch?
+
+Ans- <Link> prefetch automatically caches routes, while router.prefetch allows manual caching of routes.
+
+(-----------------------------------------------------------------------)
+
