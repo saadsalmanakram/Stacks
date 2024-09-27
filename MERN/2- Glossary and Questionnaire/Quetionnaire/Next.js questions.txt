@@ -1462,3 +1462,9 @@ Ans- Route groups are created by wrapping a folder in parentheses (e.g., (folder
 
 (----------------------------------------------------------------------)
 
+245- What is the benefit of using route groups?
+
+Ans- Route groups help organize routes, enable nested layouts, and add layouts to a subset of routes at the same segment level.
+
+(----------------------------------------------------------------------)
+
