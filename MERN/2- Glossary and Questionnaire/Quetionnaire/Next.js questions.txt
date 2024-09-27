@@ -226,3 +226,9 @@ Ans- It represents a specific page in the app router structure.
 
 (-----------------------------------------------------------------------)
 
+39- What is a loading file used for in Next.js?
+
+Ans- It defines the loading UI displayed during page transitions.
+
+(-----------------------------------------------------------------------)
+
