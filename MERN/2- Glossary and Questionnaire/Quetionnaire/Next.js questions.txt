@@ -286,4 +286,10 @@ Ans- It defines rules for web crawlers about which parts of the site can be craw
 
 (-----------------------------------------------------------------------)
 
+49- What is the purpose of the _app.js file in the pages router?
+
+Ans- It customizes the App component, which wraps all other components in the app.
+
+(-----------------------------------------------------------------------)
+
 
