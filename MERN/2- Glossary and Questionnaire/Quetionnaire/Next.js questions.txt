@@ -10,3 +10,9 @@ Ans- Next.js uses a file-system based router that supports layouts, nested routi
 
 (-------------------------------------------------------------------------)
 
+3- How does rendering work in Next.js?
+
+Ans- Next.js supports both client-side and server-side rendering, optimized further with static and dynamic rendering.
+
+(-------------------------------------------------------------------------)
+
