@@ -208,4 +208,10 @@ Ans- It configures TypeScript settings for the project.
 
 (-----------------------------------------------------------------------)
 
+36- What is the role of jsconfig.json in a Next.js project?
+
+Ans- It configures JavaScript settings, often used in JavaScript projects.
+
+(-----------------------------------------------------------------------)
+
 
