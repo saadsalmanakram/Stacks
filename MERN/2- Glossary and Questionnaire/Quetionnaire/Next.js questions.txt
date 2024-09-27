@@ -2238,3 +2238,9 @@ Ans- Use the useEffect hook to call the fetch API and update state with the retr
 
 (----------------------------------------------------------------------)
 
+374- What is the purpose of the unstable_cache API?
+
+Ans- It caches the results of queries to improve performance and reduce load times for repeated data requests.
+
+(----------------------------------------------------------------------)
+
