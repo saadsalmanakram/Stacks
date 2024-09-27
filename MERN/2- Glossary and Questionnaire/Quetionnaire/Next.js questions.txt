@@ -22,3 +22,9 @@ Ans- Next.js simplifies data fetching with async/await in server components and 
 
 (-------------------------------------------------------------------------)
 
+5- What styling methods does Next.js support?
+
+Ans- Next.js supports various styling methods, including CSS Modules, Tailwind CSS, and CSS-in-JS.
+
+(-------------------------------------------------------------------------)
+
