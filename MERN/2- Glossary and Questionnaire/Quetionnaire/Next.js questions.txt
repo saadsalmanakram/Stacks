@@ -76,3 +76,9 @@ Ans- Create an app/ folder.
 
 (-------------------------------------------------------------------------)
 
+14- What two files are recommended to be created inside the app directory?
+
+Ans- Create layout.tsx and page.tsx.
+
+(-------------------------------------------------------------------------)
+
