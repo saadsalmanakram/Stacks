@@ -958,3 +958,8 @@ Ans- It enables smooth transitions between pages by re-rendering only the change
 
 (-----------------------------------------------------------------------)
 
+161- What happens during back and forward navigation in Next.js?
+
+Ans- The scroll position and route segments are preserved, ensuring smooth navigation using the Router Cache.
+
+(-----------------------------------------------------------------------)
