@@ -592,3 +592,9 @@ Ans- error.js is used to render custom error boundaries for handling errors in a
 
 (-----------------------------------------------------------------------)
 
+100- What does template.js do in Next.js routing?
+
+Ans- template.js provides re-rendered layout UI for specialized cases, typically to customize a segment’s appearance.
+
+(-----------------------------------------------------------------------)
+
