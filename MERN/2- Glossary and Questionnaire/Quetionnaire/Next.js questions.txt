@@ -1716,3 +1716,9 @@ Ans- Use the (..) convention to navigate segments, with (.) for the same level a
 
 (----------------------------------------------------------------------)
 
+287- Is the intercepting routes convention based on the file system?
+
+Ans- No, it is based on route segments rather than the file system structure.
+
+(----------------------------------------------------------------------)
+
