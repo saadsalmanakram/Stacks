@@ -2694,3 +2694,8 @@ Ans- Server-side data fetching reduces client-side requests and moves the fetchi
 
 (----------------------------------------------------------------------)
 
+439- How does server rendering enhance security?
+
+Ans- Sensitive data like tokens and API keys can remain on the server, minimizing the risk of client-side exposure.
+
+(----------------------------------------------------------------------)
