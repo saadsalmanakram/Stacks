@@ -1179,3 +1179,10 @@ Ans- No, once response headers are sent, the status code cannot be updated, but 
 Ans- It leads to faster initial load times and improved overall user experience, especially on slower devices.
 
 (-----------------------------------------------------------------------)
+
+198- What is the main advantage of using skeletons in loading UI?
+
+Ans- Skeletons provide a visual indication of content loading, making the application feel faster and more responsive.
+
+(-----------------------------------------------------------------------)
+
