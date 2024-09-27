@@ -532,3 +532,9 @@ Ans- page.js contains the unique UI for a specific route and makes it publicly a
 
 (-----------------------------------------------------------------------)
 
+90- What is the role of the loading.js file?
+
+Ans- loading.js provides loading state UI for a route and its children, typically displayed while content is fetching.
+
+(-----------------------------------------------------------------------)
+
