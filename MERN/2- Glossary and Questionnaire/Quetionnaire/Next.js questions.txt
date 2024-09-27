@@ -880,3 +880,8 @@ Ans- No, use the Metadata API to handle <head> elements, as it manages streaming
 
 (-----------------------------------------------------------------------)
 
+148- How do you determine active navigation links in Next.js?
+
+Ans- Use the usePathname() hook to check if a link matches the current route.
+
+(-----------------------------------------------------------------------)
