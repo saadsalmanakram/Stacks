@@ -2742,3 +2742,8 @@ Ans- Streaming is useful for pages that need to progressively load content, such
 
 (----------------------------------------------------------------------)
 
+447- How does Next.js handle static and dynamic content in the same route?
+
+Ans- Next.js allows routes to mix cached and uncached data, optimizing performance while delivering personalized content.
+
+(----------------------------------------------------------------------)
