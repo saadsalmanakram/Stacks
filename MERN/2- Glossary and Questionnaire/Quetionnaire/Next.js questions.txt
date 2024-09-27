@@ -1620,3 +1620,15 @@ Ans- Slots are passed as props to the parent layout, allowing for the rendering 
 
 (----------------------------------------------------------------------)
 
+271- Can slots affect the URL structure in Next.js?
+
+Ans- No, slots do not affect the URL structure; they serve as placeholders within the layout.
+
+(----------------------------------------------------------------------)
+
+272- What does the children prop represent in Parallel Routes?
+
+Ans- The children prop is an implicit slot that does not need a specific mapping.
+
+(----------------------------------------------------------------------)
+
