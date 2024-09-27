@@ -166,3 +166,8 @@ Ans- It defines the project’s dependencies and scripts.
 
 (------------------------------------------------------------------------)
 
+29- What does the instrumentation.ts file handle?
+
+Ans- It handles OpenTelemetry and instrumentation for monitoring.
+
+(------------------------------------------------------------------------)
