@@ -3114,3 +3114,15 @@ Ans- No, the Edge Runtime does not support Incremental Static Regeneration (ISR)
 
 (-----------------------------------------------------------------------)
 
+508- Can both runtimes (Node.js and Edge) support streaming?
+
+Ans- Yes, both runtimes can support streaming, depending on the deployment infrastructure.
+
+(-----------------------------------------------------------------------)
+
+509- Where can you find more information about the Edge Runtime APIs?
+
+Ans- You can view the Edge Runtime API reference for more information.
+
+(-----------------------------------------------------------------------)
+
