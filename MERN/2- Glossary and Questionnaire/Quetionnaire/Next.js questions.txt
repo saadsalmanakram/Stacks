@@ -1890,3 +1890,8 @@ Ans- Options include dynamic, dynamicParams, revalidate, fetchCache, and runtime
 
 (----------------------------------------------------------------------)
 
+316- What is middleware?
+
+Ans- Middleware is software that processes requests and responses, allowing code to run before and after a request is handled.
+
+(----------------------------------------------------------------------)
