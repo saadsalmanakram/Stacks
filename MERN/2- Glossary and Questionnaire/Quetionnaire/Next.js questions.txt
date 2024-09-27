@@ -2970,3 +2970,8 @@ Ans- To allow Next.js to optimize static parts of the Server Components.
 
 (----------------------------------------------------------------------)
 
+484- What is Partial Prerendering (PPR) in Next.js?
+
+Ans- PPR combines static and dynamic components, prerendering as much as possible and dynamically rendering other parts using React Suspense.
+
+(----------------------------------------------------------------------)
