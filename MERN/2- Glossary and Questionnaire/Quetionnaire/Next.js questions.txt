@@ -1638,4 +1638,10 @@ Ans- Next.js tracks active states for each slot during soft navigation, but not 
 
 (----------------------------------------------------------------------)
 
+274- What happens if a slot does not have a matching route on a refresh?
+
+Ans- Next.js will render a default.js file for unmatched slots, or a 404 if it doesn’t exist.
+
+(----------------------------------------------------------------------)
+
 
