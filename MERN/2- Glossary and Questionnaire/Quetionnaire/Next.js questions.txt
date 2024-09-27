@@ -1474,3 +1474,9 @@ Ans- The src directory separates application code from project configuration fil
 
 (----------------------------------------------------------------------)
 
+247- What are module path aliases in Next.js?
+
+Ans- Module path aliases simplify import statements by allowing shortened paths (e.g., @/components/button instead of relative paths).
+
+(----------------------------------------------------------------------)
+
