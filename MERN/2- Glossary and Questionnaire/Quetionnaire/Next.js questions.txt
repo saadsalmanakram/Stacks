@@ -1365,3 +1365,16 @@ Ans- Each root layout must include the <html> and <body> tags.
 Ans- By creating a Route Group and moving the routes that share the layout into that group.
 
 (----------------------------------------------------------------------)
+
+229- What happens if a route is outside of a Route Group?
+
+Ans- It will not share the layout defined in the Route Group.
+
+(----------------------------------------------------------------------)
+
+230- What is a consequence of navigating across multiple root layouts?
+
+Ans- It causes a full page load instead of client-side navigation.
+
+(----------------------------------------------------------------------)
+
