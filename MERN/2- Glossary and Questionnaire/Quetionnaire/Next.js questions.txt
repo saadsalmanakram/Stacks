@@ -2148,3 +2148,9 @@ Ans- Utilize dynamic imports to load translation files only when necessary, ensu
 
 (----------------------------------------------------------------------)
 
+359- What are some common challenges faced during internationalization?
+
+Ans- Common challenges include managing translations, handling locale-specific formats (dates, numbers), and ensuring a seamless user experience across different languages.
+
+(----------------------------------------------------------------------)
+
