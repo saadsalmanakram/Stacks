@@ -915,3 +915,16 @@ Ans- It allows programmatic route navigation from Client Components.
 Ans- It programmatically navigates and returns a 307 status code by default, and can be used in Server Actions.
 
 (-----------------------------------------------------------------------)
+
+154- What is the default behavior of the redirect function?
+
+Ans- It returns a 307 (Temporary Redirect) status code unless used in a Server Action, where it returns a 303.
+
+(-----------------------------------------------------------------------)
+
+155- What is the difference between window.history.pushState and window.history.replaceState?
+
+Ans- pushState adds a new history entry, while replaceState replaces the current entry.
+
+(-----------------------------------------------------------------------)
+
