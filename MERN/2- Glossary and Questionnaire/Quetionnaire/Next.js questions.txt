@@ -2688,3 +2688,9 @@ Ans- Using APIs like cookies(), headers(), unstable_noStore(), or searchParams w
 
 (----------------------------------------------------------------------)
 
+438- What are the advantages of server-side data fetching?
+
+Ans- Server-side data fetching reduces client-side requests and moves the fetching closer to the data source, enhancing performance.
+
+(----------------------------------------------------------------------)
+
