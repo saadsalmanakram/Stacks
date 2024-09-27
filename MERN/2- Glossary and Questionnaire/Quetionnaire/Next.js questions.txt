@@ -2844,3 +2844,8 @@ Ans- It helps reconcile Client and Server Component trees and hydrates the clien
 
 (----------------------------------------------------------------------)
 
+464- What is the difference in rendering Client Components on initial load vs subsequent navigations?
+
+Ans- On the initial load, static HTML is rendered on the server, while on subsequent navigations, Client Components are rendered entirely on the client.
+
+(----------------------------------------------------------------------)
