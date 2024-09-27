@@ -3060,4 +3060,9 @@ Ans- Incremental adoption allows you to opt into PPR on a per-route basis withou
 
 (----------------------------------------------------------------------)
 
+499- What are the two server runtimes supported by Next.js?
+
+Ans- Next.js supports the Node.js Runtime (default) and the Edge Runtime.
+
+(----------------------------------------------------------------------)
 
