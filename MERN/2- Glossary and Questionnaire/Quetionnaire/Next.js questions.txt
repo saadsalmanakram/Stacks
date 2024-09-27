@@ -1444,3 +1444,9 @@ Ans- By prefixing a folder name with an underscore (e.g., _folderName), the fold
 
 (----------------------------------------------------------------------)
 
+242- What is the purpose of private folders?
+
+Ans- Private folders help separate UI logic from routing logic, organize internal files, and avoid naming conflicts with future Next.js conventions.
+
+(----------------------------------------------------------------------)
+
