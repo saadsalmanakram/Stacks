@@ -1222,3 +1222,9 @@ Ans- The useRouter hook is used for client-side navigation within event handlers
 
 (-----------------------------------------------------------------------)
 
+205- What does the redirects configuration in next.config.js do?
+
+Ans- The redirects option in next.config.js allows you to define a set of incoming request paths to be redirected to different destination paths.
+
+(-----------------------------------------------------------------------)
+
