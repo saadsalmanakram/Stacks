@@ -1895,3 +1895,15 @@ Ans- Options include dynamic, dynamicParams, revalidate, fetchCache, and runtime
 Ans- Middleware is software that processes requests and responses, allowing code to run before and after a request is handled.
 
 (----------------------------------------------------------------------)
+
+317- What are the main functions of middleware?
+
+Ans- Middleware can modify requests/responses, handle authentication, log requests, and perform server-side redirects.
+
+(----------------------------------------------------------------------)
+
+318- When is middleware executed in the request lifecycle?
+
+Ans- Middleware executes before cached content is served and routes are matched.
+
+(----------------------------------------------------------------------)
