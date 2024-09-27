@@ -1138,3 +1138,15 @@ Ans- React prioritizes components to make interactive first based on user intera
 
 (-----------------------------------------------------------------------)
 
+191- How can you implement a Suspense boundary in a component?
+
+Ans- By wrapping asynchronous components in a <Suspense> component with a defined fallback UI.
+
+(-----------------------------------------------------------------------)
+
+192- Why is it important to manage status codes when streaming?
+
+Ans- It communicates request success and can still convey errors within the streamed content, impacting client-side handling.
+
+(-----------------------------------------------------------------------)
+
