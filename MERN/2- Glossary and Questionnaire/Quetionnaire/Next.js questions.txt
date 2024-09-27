@@ -2982,3 +2982,9 @@ Ans- Dynamic components are wrapped in a React Suspense boundary and streamed fr
 
 (----------------------------------------------------------------------)
 
+486- What is the purpose of React Suspense in PPR?
+
+Ans- React Suspense allows dynamic components to be loaded and rendered asynchronously with a fallback during prerendering.
+
+(----------------------------------------------------------------------)
+
