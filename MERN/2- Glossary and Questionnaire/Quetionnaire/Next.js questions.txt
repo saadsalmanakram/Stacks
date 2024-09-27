@@ -2322,3 +2322,9 @@ Ans- TypeScript may flag it, but props named "action" are heuristically assumed 
 
 (----------------------------------------------------------------------)
 
+388- What HTTP method is used to invoke Server Actions?
+
+Ans- Server Actions are invoked using the POST method exclusively.
+
+(----------------------------------------------------------------------)
+
