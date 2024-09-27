@@ -2664,3 +2664,9 @@ Ans- Streaming allows the server to send rendered UI chunks to the client progre
 
 (----------------------------------------------------------------------)
 
+434- What is the React Server Component (RSC) Payload?
+
+Ans- It is a compact binary representation of rendered Server Components, containing placeholders for Client Components.
+
+(----------------------------------------------------------------------)
+
