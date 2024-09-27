@@ -652,3 +652,9 @@ Ans- .js, .jsx, .ts, and .tsx can be used.
 
 (-----------------------------------------------------------------------)
 
+110- How do you define the UI for a route segment in Next.js?
+
+Ans- By adding a page.js file inside the folder representing the route segment.
+
+(-----------------------------------------------------------------------)
+
