@@ -2340,3 +2340,15 @@ Ans- Server Components support progressive enhancement, allowing form submission
 
 (----------------------------------------------------------------------)
 
+391- What is the purpose of the FormData object in Server Actions?
+
+Ans- FormData is automatically passed to Server Actions, allowing easy extraction of form input values.
+
+(----------------------------------------------------------------------)
+
+392- How do you handle additional arguments in Server Actions?
+
+Ans- By using the bind method or passing them as hidden input fields in the form.
+
+(----------------------------------------------------------------------)
+
