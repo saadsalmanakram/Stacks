@@ -1468,3 +1468,9 @@ Ans- Route groups help organize routes, enable nested layouts, and add layouts t
 
 (----------------------------------------------------------------------)
 
+246- What is the purpose of the src directory in Next.js?
+
+Ans- The src directory separates application code from project configuration files, enhancing organization.
+
+(----------------------------------------------------------------------)
+
