@@ -963,3 +963,16 @@ Ans- It enables smooth transitions between pages by re-rendering only the change
 Ans- The scroll position and route segments are preserved, ensuring smooth navigation using the Router Cache.
 
 (-----------------------------------------------------------------------)
+
+162- How does Next.js handle navigation between pages/ and app/ directories?
+
+Ans- It uses probabilistic checking to handle routing between the two, with a 0.01% chance of false positives.
+
+(-----------------------------------------------------------------------)
+
+163- How can you disable automatic navigation between pages/ and app/ directories in Next.js?
+
+Ans- Set experimental.clientRouterFilter to false in next.config.js to manage the routing manually.
+
+(-----------------------------------------------------------------------)
+
