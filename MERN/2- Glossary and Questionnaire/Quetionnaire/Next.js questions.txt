@@ -448,3 +448,8 @@ Ans- Static Generation is ideal when you want to pre-render pages at build time 
 
 (-----------------------------------------------------------------------)
 
+76- What is the purpose of next.config.js in Next.js?
+
+Ans- The next.config.js file is used for customizing the build and runtime configuration of a Next.js application.
+
+(-----------------------------------------------------------------------)
