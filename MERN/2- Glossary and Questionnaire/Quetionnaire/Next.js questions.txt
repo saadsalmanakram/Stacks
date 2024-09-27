@@ -1023,3 +1023,16 @@ Ans- An unexpected error that indicates a bug or issue in the application.
 Ans- By throwing errors that are caught by error boundaries.
 
 (-----------------------------------------------------------------------)
+
+172- Where should the global error handling logic be defined in Next.js?
+
+Ans- In global-error.tsx, located in the root app directory.
+
+(-----------------------------------------------------------------------)
+
+173- What is an error boundary in React/Next.js?
+
+Ans- A component that catches errors in its children and provides a fallback UI.
+
+(-----------------------------------------------------------------------)
+
