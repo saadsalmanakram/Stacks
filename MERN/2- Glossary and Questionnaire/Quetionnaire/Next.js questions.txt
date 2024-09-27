@@ -1566,3 +1566,9 @@ Ans- A dynamic segment captures variable values from the URL, while a static seg
 
 (----------------------------------------------------------------------)
 
+262- What is the significance of the params object in dynamic routes?
+
+Ans- The params object contains the values extracted from the dynamic segments of the route, enabling access to specific data in the component.
+
+(----------------------------------------------------------------------)
+
