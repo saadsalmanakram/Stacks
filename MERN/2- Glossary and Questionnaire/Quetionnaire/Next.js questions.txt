@@ -453,3 +453,16 @@ Ans- Static Generation is ideal when you want to pre-render pages at build time 
 Ans- The next.config.js file is used for customizing the build and runtime configuration of a Next.js application.
 
 (-----------------------------------------------------------------------)
+
+77- What are the steps involved in upgrading a Next.js application?
+
+Ans- Upgrading involves updating dependencies, resolving breaking changes, and testing for compatibility with new features.
+
+(-----------------------------------------------------------------------)
+
+78- What is routing in web development?
+
+Ans- Routing determines how an application responds to client requests for different paths or URLs.
+
+(-----------------------------------------------------------------------)
+
