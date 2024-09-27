@@ -1986,3 +1986,9 @@ Ans- The matcher defines specific paths where middleware should be applied, filt
 
 (----------------------------------------------------------------------)
 
+332- How can regex be used in matcher configurations?
+
+Ans- The matcher supports full regex, allowing complex patterns and negative lookaheads for precise path targeting.
+
+(----------------------------------------------------------------------)
+
