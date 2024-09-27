@@ -3036,3 +3036,9 @@ Ans- Wrapping dynamic components ensures that they are correctly prerendered wit
 
 (----------------------------------------------------------------------)
 
+495- What happens if you access a dynamic value like cookies in PPR?
+
+Ans- The component will render dynamically, requiring a Suspense fallback during the prerendering process.
+
+(----------------------------------------------------------------------)
+
