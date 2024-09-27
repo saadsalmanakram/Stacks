@@ -862,3 +862,9 @@ Ans- A template is defined by exporting a React component from a template.js fil
 
 (-----------------------------------------------------------------------)
 
+145- How are templates rendered in relation to layouts in Next.js?
+
+Ans- Templates are rendered between a layout and its children, creating a new instance with each route change.
+
+(-----------------------------------------------------------------------)
+
