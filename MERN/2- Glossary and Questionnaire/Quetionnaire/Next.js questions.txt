@@ -688,3 +688,9 @@ Ans- Yes, folders without a page.js file can be used for components, images, sty
 
 (-----------------------------------------------------------------------)
 
+116- How do route segments map to URL paths in Next.js?
+
+Ans- Route segments are directly mapped to URL path segments based on folder structure.
+
+(-----------------------------------------------------------------------)
+
