@@ -2190,3 +2190,9 @@ Ans- The main methods include server-side fetching, static site generation (SSG)
 
 (----------------------------------------------------------------------)
 
+366- What is the fetch API used for in Next.js?
+
+Ans- The fetch API is used to make HTTP requests to retrieve data from a server or API.
+
+(----------------------------------------------------------------------)
+
