@@ -1414,3 +1414,9 @@ Ans- Be cautious with URL conflicts and ensure proper structure for layouts and 
 
 (----------------------------------------------------------------------)
 
+237- What is safe colocation in Next.js?
+
+Ans- Safe colocation allows project files to be placed within route segments in the app directory without making them publicly accessible until a page.js or route.js file is added.
+
+(----------------------------------------------------------------------)
+
