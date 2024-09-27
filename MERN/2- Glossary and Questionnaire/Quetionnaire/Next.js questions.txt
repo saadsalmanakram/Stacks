@@ -2628,4 +2628,14 @@ Ans- This consideration ensures optimal performance and a smoother user experien
 
 (----------------------------------------------------------------------)
 
+430- How does understanding rendering environments improve application performance?
 
+Ans- Understanding rendering environments allows developers to optimize where and how code is executed, enhancing application efficiency and responsiveness.
+
+(----------------------------------------------------------------------)
+
+431- What are React Server Components?
+
+Ans- React Server Components allow UI to be rendered on the server and optionally cached, improving performance and security.
+
+(----------------------------------------------------------------------)
