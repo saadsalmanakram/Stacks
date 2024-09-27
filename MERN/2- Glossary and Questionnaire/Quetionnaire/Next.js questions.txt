@@ -1530,3 +1530,9 @@ Ans- An example is app/blog/[slug]/page.js, where [slug] represents the dynamic 
 
 (----------------------------------------------------------------------)
 
+256- What is the purpose of generateStaticParams?
+
+Ans- The generateStaticParams function is used to statically generate routes at build time by retrieving data and creating parameters for dynamic segments.
+
+(----------------------------------------------------------------------)
+
