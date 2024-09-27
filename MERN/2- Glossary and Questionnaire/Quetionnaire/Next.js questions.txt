@@ -2106,3 +2106,9 @@ Ans- Use JSON files for each language that map keys to localized strings, such a
 
 (----------------------------------------------------------------------)
 
+352- What is the significance of Server Components in Next.js for localization?
+
+Ans- Server Components allow you to load translation files server-side, reducing the impact on client-side JavaScript bundle size.
+
+(----------------------------------------------------------------------)
+
