@@ -813,3 +813,10 @@ Ans- Layouts can use .js, .jsx, or .tsx file extensions.
 Ans- Only the root layout can contain <html> and <body> tags.
 
 (-----------------------------------------------------------------------)
+
+137- Are layouts server components by default in Next.js?
+
+Ans- Yes, layouts are server components by default but can be set to client components.
+
+(-----------------------------------------------------------------------)
+
