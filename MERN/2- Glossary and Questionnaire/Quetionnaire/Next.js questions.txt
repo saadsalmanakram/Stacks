@@ -2124,3 +2124,9 @@ Ans- It allows you to specify parameters for static routes, such as locales, tha
 
 (----------------------------------------------------------------------)
 
+355- How would you implement a dynamic layout based on the selected language in Next.js?
+
+Ans- Create a layout that uses the lang parameter to set the language attribute in the HTML tag dynamically.
+
+(----------------------------------------------------------------------)
+
