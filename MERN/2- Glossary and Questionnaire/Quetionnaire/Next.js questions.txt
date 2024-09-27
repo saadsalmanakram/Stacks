@@ -994,3 +994,9 @@ Ans- Use error boundaries (e.g., error.tsx, global-error.tsx) for unexpected err
 
 (-----------------------------------------------------------------------)
 
+167- What is an expected error?
+
+Ans- An error that can occur during normal application operation, like validation failures.
+
+(-----------------------------------------------------------------------)
+
