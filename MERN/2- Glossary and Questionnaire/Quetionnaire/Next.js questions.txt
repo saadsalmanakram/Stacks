@@ -1578,3 +1578,9 @@ Ans- Catch-all segments are useful when you need to handle multiple levels of ne
 
 (----------------------------------------------------------------------)
 
+264- How would you implement a blog routing structure using dynamic routes?
+
+Ans- By creating a route like app/blog/[slug]/page.js, you can dynamically render blog posts based on their unique slugs.
+
+(----------------------------------------------------------------------)
+
