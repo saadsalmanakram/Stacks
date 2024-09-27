@@ -1060,3 +1060,9 @@ Ans- It must include its own HTML structure since it replaces the root layout.
 
 (-----------------------------------------------------------------------)
 
+178- How can you reset the state after catching an error in an error boundary?
+
+Ans- By using a reset function, typically triggered by a button to re-render the segment.
+
+(-----------------------------------------------------------------------)
+
