@@ -2934,3 +2934,8 @@ Ans- Ensure props are serializable, or fetch data on the client if needed.
 
 (----------------------------------------------------------------------)
 
+478- Can you import a Server Component into a Client Component?
+
+Ans- No, Server Components cannot be imported into Client Components directly.
+
+(----------------------------------------------------------------------)
