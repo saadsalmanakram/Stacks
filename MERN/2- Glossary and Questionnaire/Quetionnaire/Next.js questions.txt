@@ -1486,3 +1486,11 @@ Ans- No, there is no singular correct approach; it’s essential to choose a str
 
 (----------------------------------------------------------------------)
 
+249- What are some common project organization strategies in Next.js?
+
+Ans- Store project files outside the app directory.
+     Store project files in top-level folders within the app directory.
+     Split project files by feature or route.
+
+(----------------------------------------------------------------------)
+
