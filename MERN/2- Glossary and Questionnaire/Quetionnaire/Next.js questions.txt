@@ -2682,3 +2682,9 @@ Ans- Dynamic Rendering can use a combination of cached and uncached data, allowi
 
 (----------------------------------------------------------------------)
 
+437- What dynamic functions force Next.js to switch to Dynamic Rendering?
+
+Ans- Using APIs like cookies(), headers(), unstable_noStore(), or searchParams will opt a route into Dynamic Rendering.
+
+(----------------------------------------------------------------------)
+
