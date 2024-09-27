@@ -928,3 +928,15 @@ Ans- pushState adds a new history entry, while replaceState replaces the current
 
 (-----------------------------------------------------------------------)
 
+156- What is code splitting in Next.js, and why is it important?
+
+Ans- It automatically splits application code by route segments, optimizing performance by only loading the necessary code.
+
+(-----------------------------------------------------------------------)
+
+157- How does prefetching improve the user experience in Next.js?
+
+Ans- It preloads routes in the background, allowing faster navigation when a user interacts with a prefetched route.
+
+(-----------------------------------------------------------------------)
+
