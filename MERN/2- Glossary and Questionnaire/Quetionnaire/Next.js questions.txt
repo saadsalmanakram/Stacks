@@ -2676,3 +2676,9 @@ Ans- By caching pre-rendered pages on a CDN, Static Rendering allows users to sh
 
 (----------------------------------------------------------------------)
 
+436- How does Dynamic Rendering handle caching?
+
+Ans- Dynamic Rendering can use a combination of cached and uncached data, allowing for faster performance while still serving personalized content.
+
+(----------------------------------------------------------------------)
+
