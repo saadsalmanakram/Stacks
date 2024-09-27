@@ -3030,4 +3030,9 @@ Ans- Set ppr: true in the next.config.js file, which applies PPR globally to all
 
 (----------------------------------------------------------------------)
 
- 
+494- Why do dynamic components need to be wrapped with React Suspense during the build in PPR?
+
+Ans- Wrapping dynamic components ensures that they are correctly prerendered with a fallback before being dynamically rendered.
+
+(----------------------------------------------------------------------)
+
