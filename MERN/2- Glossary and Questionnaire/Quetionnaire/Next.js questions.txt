@@ -2388,4 +2388,9 @@ Ans- It marks components as client-side only, enabling the use of client-specifi
 
 (----------------------------------------------------------------------)
 
+390- Can Server Actions be reused across different components?
+
+Ans- Yes, Server Actions are reusable functions throughout the application.
+
+(----------------------------------------------------------------------)
 
