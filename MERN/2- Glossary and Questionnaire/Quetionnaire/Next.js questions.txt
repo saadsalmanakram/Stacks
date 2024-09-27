@@ -580,3 +580,15 @@ Ans- Colocation refers to placing components, styles, and tests inside folders a
 
 (-----------------------------------------------------------------------)
 
+98- What happens when a route is defined in both the app and pages directories?
+
+Ans- The App Router in the app directory takes priority over the Pages Router and causes a build-time error if there is a conflict.
+
+(-----------------------------------------------------------------------)
+
+99- What is the error.js file used for in Next.js routing?
+
+Ans- error.js is used to render custom error boundaries for handling errors in a specific route or segment.
+
+(-----------------------------------------------------------------------)
+
