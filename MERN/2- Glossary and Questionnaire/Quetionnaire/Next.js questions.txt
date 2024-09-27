@@ -664,4 +664,10 @@ Ans- Create a page.js or page.tsx file inside the relevant folder, and export a 
 
 (-----------------------------------------------------------------------)
 
+112- What’s the purpose of a layout.js file in Next.js?
+
+Ans- It defines UI shared across multiple routes.
+
+(-----------------------------------------------------------------------)
+
 
