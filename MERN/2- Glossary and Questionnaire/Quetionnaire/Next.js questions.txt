@@ -1794,3 +1794,9 @@ Ans- Next.js returns a 405 Method Not Allowed response.
 
 (----------------------------------------------------------------------)
 
+300- Are Route Handlers cached by default?
+
+Ans- No, they are not cached by default; however, caching can be enabled for GET methods.
+
+(----------------------------------------------------------------------)
+
