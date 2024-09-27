@@ -34,3 +34,9 @@ Ans- Next.js offers optimizations for images, fonts, and scripts to enhance Core
 
 (-------------------------------------------------------------------------)
 
+7- What improvements does Next.js provide for TypeScript?
+
+Ans- Next.js offers better TypeScript support with improved type checking, efficient compilation, and custom plugins.
+
+(-------------------------------------------------------------------------)
+
