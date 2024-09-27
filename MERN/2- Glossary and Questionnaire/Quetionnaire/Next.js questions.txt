@@ -2646,3 +2646,15 @@ Ans- Improved performance, security, caching, faster initial load, better SEO, a
 
 (----------------------------------------------------------------------)
 
+433- What is Static Rendering?
+
+Ans- Static Rendering pre-renders routes at build time and caches them for faster delivery, suitable for non-personalized data.
+
+(----------------------------------------------------------------------)
+
+433- When would you use Dynamic Rendering?
+
+Ans- Dynamic Rendering is used for personalized content or when data is only available at request time.
+
+(----------------------------------------------------------------------)
+
