@@ -52,4 +52,10 @@ Ans- Use npx create-next-app@latest.
 
 (-------------------------------------------------------------------------)
 
+10- What are the prompts you encounter when using create-next-app?
+
+Ans- Prompts include project name, TypeScript, ESLint, Tailwind CSS, src directory, App Router, Turbopack, and import alias.
+
+(-------------------------------------------------------------------------)
+
 
