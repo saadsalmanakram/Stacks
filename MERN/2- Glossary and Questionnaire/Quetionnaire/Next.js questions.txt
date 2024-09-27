@@ -64,4 +64,9 @@ Ans- Run npm run dev.
 
 (-------------------------------------------------------------------------)
 
+12- What routing method does Next.js use?
+
+Ans- Next.js uses file-system routing based on the structure of files.
+
+(-------------------------------------------------------------------------)
 
