@@ -2820,3 +2820,9 @@ Ans- By interleaving Client and Server Components, you can fetch data or use ser
 
 (----------------------------------------------------------------------)
 
+460- When would you want to go back to the server environment in a Client Component?
+
+Ans- To reduce bundle size, fetch server-side data, or use APIs only available on the server.
+
+(----------------------------------------------------------------------)
+
