@@ -874,3 +874,9 @@ Ans- Metadata is added by exporting a metadata object or generateMetadata functi
 
 (-----------------------------------------------------------------------)
 
+147- Should you manually add <title> and <meta> tags to root layouts in Next.js?
+
+Ans- No, use the Metadata API to handle <head> elements, as it manages streaming and deduplication.
+
+(-----------------------------------------------------------------------)
+
