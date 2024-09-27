@@ -694,3 +694,9 @@ Ans- Route segments are directly mapped to URL path segments based on folder str
 
 (-----------------------------------------------------------------------)
 
+117- What is the purpose of creating a route segment without a page.js file?
+
+Ans- It can be used to organize non-route-specific assets like components or stylesheets.
+
+(-----------------------------------------------------------------------)
+
