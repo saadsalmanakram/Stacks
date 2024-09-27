@@ -520,3 +520,9 @@ Ans- Nested routes are created by nesting folders within each other inside the a
 
 (-----------------------------------------------------------------------)
 
+88- What is the purpose of the layout.js file in Next.js?
+
+Ans- layout.js defines shared UI that is consistent across a route and its child segments.
+
+(-----------------------------------------------------------------------)
+
