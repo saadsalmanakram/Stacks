@@ -2280,3 +2280,9 @@ Ans- React.cache allows you to cache asynchronous functions, reducing unnecessar
 
 (----------------------------------------------------------------------)
 
+381- How do you prevent sensitive data exposure in Next.js?
+
+Ans- Use server-only functions and environment variables to ensure sensitive data is not sent to the client.
+
+(----------------------------------------------------------------------)
+
