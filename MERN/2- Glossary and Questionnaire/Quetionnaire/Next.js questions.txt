@@ -712,3 +712,9 @@ Ans- It provides a basic understanding of how routes are defined and structured 
 
 (-----------------------------------------------------------------------)
 
+120- How do you create a new page for a /dashboard route in Next.js?
+
+Ans- Create a dashboard folder inside the app directory, and add a page.js or page.tsx file to define the UI for the /dashboard route.
+
+(-----------------------------------------------------------------------)
+
