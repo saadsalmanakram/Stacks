@@ -2538,3 +2538,9 @@ Ans- Server-side rendering generates the HTML on the server and sends it to the 
 
 (----------------------------------------------------------------------)
 
+415- What is hybrid rendering?
+
+Ans- Hybrid rendering allows components to be rendered on both the server and client, optimizing performance and user experience.
+
+(----------------------------------------------------------------------)
+
