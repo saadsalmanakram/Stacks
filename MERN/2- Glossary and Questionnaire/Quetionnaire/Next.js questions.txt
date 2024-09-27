@@ -1914,3 +1914,9 @@ Ans- Middleware ensures user identity by checking session cookies before grantin
 
 (----------------------------------------------------------------------)
 
+320- How does middleware support server-side redirects?
+
+Ans- Middleware can redirect users based on conditions like locale or user role before reaching the requested page.
+
+(----------------------------------------------------------------------)
+
