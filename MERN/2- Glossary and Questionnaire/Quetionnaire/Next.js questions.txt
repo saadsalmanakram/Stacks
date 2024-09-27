@@ -2112,3 +2112,8 @@ Ans- Server Components allow you to load translation files server-side, reducing
 
 (----------------------------------------------------------------------)
 
+353- How can you generate static routes for multiple locales in Next.js?
+
+Ans- Use the generateStaticParams function in your layouts or pages to define static routes for each locale.
+
+(----------------------------------------------------------------------)
