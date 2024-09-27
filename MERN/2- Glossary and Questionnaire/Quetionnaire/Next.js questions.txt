@@ -418,3 +418,9 @@ Ans- Next.js offers built-in optimizations like code splitting, image optimizati
 
 (-----------------------------------------------------------------------)
 
+71- How can you customize your Next.js application's behavior?
+
+Ans- Customization is done through configuration files like next.config.js to modify the build process, routing, and environment variables.
+
+(-----------------------------------------------------------------------)
+
