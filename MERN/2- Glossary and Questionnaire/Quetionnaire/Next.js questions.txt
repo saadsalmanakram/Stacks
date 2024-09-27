@@ -850,3 +850,8 @@ Ans- Layouts persist state across navigation, while templates create new instanc
 
 (-----------------------------------------------------------------------)
 
+143- When should you use a template instead of a layout in Next.js?
+
+Ans- Use a template when you need to reset state or resynchronize effects between navigations.
+
+(-----------------------------------------------------------------------)
