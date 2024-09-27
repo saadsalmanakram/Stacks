@@ -2964,3 +2964,9 @@ Ans- Providers use state or context, which are not supported in Server Component
 
 (----------------------------------------------------------------------)
 
+483- Why should providers be rendered as deep as possible in the component tree?
+
+Ans- To allow Next.js to optimize static parts of the Server Components.
+
+(----------------------------------------------------------------------)
+
