@@ -1396,3 +1396,15 @@ Ans- Yes, you can nest Route Groups to further organize routes.
 
 (----------------------------------------------------------------------)
 
+234- What must be avoided when using multiple root layouts?
+
+Ans- Ensure that routes do not resolve to the same URL path to avoid conflicts.
+
+(----------------------------------------------------------------------)
+
+235- What error might occur with Route Groups?
+
+Ans- An error occurs if two routes resolve to the same URL, like (marketing)/about/page.js and (shop)/about/page.js.
+
+(----------------------------------------------------------------------)
+
