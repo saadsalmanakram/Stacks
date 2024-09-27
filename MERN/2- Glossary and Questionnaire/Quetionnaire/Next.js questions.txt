@@ -2610,3 +2610,9 @@ Ans- In hybrid applications, the code flows in one direction: from the server to
 
 (----------------------------------------------------------------------)
 
+427- How should developers approach accessing server data from the client?
+
+Ans- Developers should send a new request to the server to access data instead of reusing the existing request.
+
+(----------------------------------------------------------------------)
+
