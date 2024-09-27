@@ -670,4 +670,21 @@ Ans- It defines UI shared across multiple routes.
 
 (-----------------------------------------------------------------------)
 
+113- What is the role of page.tsx in TypeScript Next.js projects?
+
+Ans- It defines the UI for a specific route in TypeScript format.
+
+(-----------------------------------------------------------------------)
+
+114- What happens if you don’t have a page.js file in a route folder?
+
+Ans- The route will not be publicly accessible.
+
+(-----------------------------------------------------------------------)
+
+115- Can you store other files like images or stylesheets in route segment folders?
+
+Ans- Yes, folders without a page.js file can be used for components, images, styles, etc.
+
+(-----------------------------------------------------------------------)
 
