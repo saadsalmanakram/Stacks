@@ -1950,3 +1950,9 @@ Ans- Middleware should not be used for complex data fetching or manipulation; th
 
 (----------------------------------------------------------------------)
 
+326- Why should heavy computational tasks be avoided in middleware?
+
+Ans- Heavy tasks can slow down request processing and increase page load times, which middleware is not designed for.
+
+(----------------------------------------------------------------------)
+
