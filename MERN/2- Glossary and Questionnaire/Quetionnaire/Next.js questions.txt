@@ -1336,3 +1336,9 @@ Ans- It will cause an error as routes with the same path cannot coexist.
 
 (-----------------------------------------------------------------------)
 
+224- Can you use Route Groups for different site sections?
+
+Ans- Yes, Route Groups can be used to separate routes by site section, intent, or team.
+
+(----------------------------------------------------------------------)
+
