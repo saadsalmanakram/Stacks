@@ -2033,3 +2033,10 @@ Ans- The waitUntil method extends request processing time until a promise resolv
 Ans- Middleware can affect how pages are served and data is fetched, influencing the overall rendering process.
 
 (----------------------------------------------------------------------)
+
+340- Can middleware handle API requests?
+
+Ans- Yes, middleware can intercept and process API requests, allowing for authentication, logging, and other tasks before reaching the API route.
+
+(----------------------------------------------------------------------)
+
