@@ -87,3 +87,12 @@ Ans- Create layout.tsx and page.tsx.
 Ans- It defines the root layout with <html> and <body> tags.
 
 (-------------------------------------------------------------------------)
+
+16- What directory is optional for using the Pages Router?
+
+Ans- The pages/ directory.
+
+(-------------------------------------------------------------------------)
+
+
+
