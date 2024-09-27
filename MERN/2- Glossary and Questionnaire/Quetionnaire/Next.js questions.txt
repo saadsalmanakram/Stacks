@@ -1456,3 +1456,9 @@ Ans- Prefix the folder name with %5F, the URL-encoded form of an underscore (e.g
 
 (----------------------------------------------------------------------)
 
+244- What are route groups in Next.js?
+
+Ans- Route groups are created by wrapping a folder in parentheses (e.g., (folderName), allowing for organization without affecting the route's URL path.
+
+(----------------------------------------------------------------------)
+
