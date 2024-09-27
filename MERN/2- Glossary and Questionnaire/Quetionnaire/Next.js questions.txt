@@ -1132,3 +1132,9 @@ Ans- It provides a fallback UI during asynchronous operations and supports strea
 
 (-----------------------------------------------------------------------)
 
+190- What does selective hydration mean?
+
+Ans- React prioritizes components to make interactive first based on user interaction, improving responsiveness.
+
+(-----------------------------------------------------------------------)
+
