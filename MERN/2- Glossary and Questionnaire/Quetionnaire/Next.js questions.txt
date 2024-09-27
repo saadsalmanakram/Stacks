@@ -2760,3 +2760,8 @@ Ans- Client Components are interactive UI elements rendered on the server but ru
 
 (----------------------------------------------------------------------)
 
+450- What are the benefits of using Client Components?
+
+Ans- Client Components provide interactivity and access to browser APIs like geolocation or localStorage.
+
+(----------------------------------------------------------------------)
