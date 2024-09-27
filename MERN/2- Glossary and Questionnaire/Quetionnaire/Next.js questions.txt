@@ -2520,3 +2520,9 @@ Ans- Rendering is the process of converting code into a user interface that user
 
 (----------------------------------------------------------------------)
 
+412- What are the two main rendering environments in web applications?
+
+Ans- The two main environments are the client (browser) and the server (data center).
+
+(----------------------------------------------------------------------)
+
