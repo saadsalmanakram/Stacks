@@ -3018,3 +3018,9 @@ Ans- The route will not be prerendered using PPR and will follow the default ren
 
 (----------------------------------------------------------------------)
 
+492- Can PPR be disabled for child segments of a route?
+
+Ans- Yes, set experimental_ppr to false in the child segment configuration.
+
+(----------------------------------------------------------------------)
+
