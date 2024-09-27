@@ -2622,4 +2622,10 @@ Ans- Interleaving components allows for more efficient rendering and better mana
 
 (----------------------------------------------------------------------)
 
+429- Why is it essential to consider server-side execution before sending results to the client?
+
+Ans- This consideration ensures optimal performance and a smoother user experience by reducing client workload.
+
+(----------------------------------------------------------------------)
+
 
