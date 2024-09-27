@@ -2544,3 +2544,9 @@ Ans- Hybrid rendering allows components to be rendered on both the server and cl
 
 (----------------------------------------------------------------------)
 
+416- What are the environments where application code can execute?
+
+Ans- Application code can execute in the client environment (browser) and the server environment (data center).
+
+(----------------------------------------------------------------------)
+
