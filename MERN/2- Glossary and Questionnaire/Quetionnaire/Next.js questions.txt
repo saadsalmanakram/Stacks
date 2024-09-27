@@ -1980,3 +1980,9 @@ Ans- Only one middleware.ts file is supported per project, but you can modulariz
 
 (----------------------------------------------------------------------)
 
+331- What is the matcher in middleware configuration?
+
+Ans- The matcher defines specific paths where middleware should be applied, filtering requests based on defined patterns.
+
+(----------------------------------------------------------------------)
+
