@@ -2268,3 +2268,9 @@ Ans- The preload pattern initiates data fetching ahead of time to reduce loading
 
 (----------------------------------------------------------------------)
 
+379- How can you use the preload function with caching?
+
+Ans- You can create a preload function that caches the data and starts fetching before rendering the component to minimize wait times.
+
+(----------------------------------------------------------------------)
+
