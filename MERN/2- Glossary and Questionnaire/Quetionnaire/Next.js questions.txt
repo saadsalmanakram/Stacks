@@ -370,3 +370,9 @@ Ans- Use Next.js' recommended architecture as demonstrated in their example for 
 
 (-----------------------------------------------------------------------)
 
+63- How can you invalidate the App Router cache?
+
+Ans- There are multiple caching layers in Next.js; different parts of the cache can be invalidated in various ways.
+
+(-----------------------------------------------------------------------)
+
