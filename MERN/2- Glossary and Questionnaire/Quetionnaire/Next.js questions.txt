@@ -3144,3 +3144,8 @@ Ans- It caches layouts, loading states, and pages for browser backward/forward n
 
 (-----------------------------------------------------------------------)
 
+513- How are layouts cached in Next.js?
+
+Ans- Layouts are cached and reused during navigation, enabling partial rendering.
+
+(-----------------------------------------------------------------------)
