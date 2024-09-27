@@ -2136,3 +2136,9 @@ Ans- Use the Accept-Language header for locale detection, maintain separate tran
 
 (----------------------------------------------------------------------)
 
+357- Why should special files be nested under app/[lang] in Next.js?
+
+Ans- Nesting special files under app/[lang] allows the Next.js router to handle locales dynamically and pass the language parameter to every layout and page.
+
+(----------------------------------------------------------------------)
+
