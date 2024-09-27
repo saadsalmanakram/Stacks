@@ -1944,3 +1944,9 @@ Ans- Middleware enables or disables features dynamically, allowing for seamless 
 
 (----------------------------------------------------------------------)
 
+325- When should you avoid using middleware?
+
+Ans- Middleware should not be used for complex data fetching or manipulation; this should be handled in route handlers.
+
+(----------------------------------------------------------------------)
+
