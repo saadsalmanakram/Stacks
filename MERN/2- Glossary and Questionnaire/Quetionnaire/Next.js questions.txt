@@ -2501,3 +2501,10 @@ Ans- It controls whether to return a 404 for unknown paths or server-render them
 Ans- Consider switching to dynamic rendering instead of relying on ISR.
 
 (----------------------------------------------------------------------)
+
+409- What is the significance of setting NEXT_PRIVATE_DEBUG_CACHE=1?
+
+Ans- It allows logging of cache hits and misses in the console to verify ISR behavior in production.
+
+(----------------------------------------------------------------------)
+
