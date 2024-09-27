@@ -1066,3 +1066,9 @@ Ans- By using a reset function, typically triggered by a button to re-render the
 
 (-----------------------------------------------------------------------)
 
+179- What is the purpose of the loading.js file in React?
+
+Ans- It creates a meaningful loading UI with React Suspense for better user experience during navigation.
+
+(-----------------------------------------------------------------------)
+
