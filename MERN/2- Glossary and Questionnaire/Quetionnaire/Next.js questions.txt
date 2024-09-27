@@ -1860,3 +1860,9 @@ Ans- By using the standard Web API methods like request.json() for JSON payloads
 
 (----------------------------------------------------------------------)
 
+311- How can you read FormData from a request?
+
+Ans- By using request.formData() to access form data in a Route Handler.
+
+(----------------------------------------------------------------------)
+
