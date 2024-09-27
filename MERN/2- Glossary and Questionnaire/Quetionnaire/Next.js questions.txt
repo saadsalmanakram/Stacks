@@ -1018,3 +1018,8 @@ Ans- An unexpected error that indicates a bug or issue in the application.
 
 (-----------------------------------------------------------------------)
 
+171- How should uncaught exceptions be handled in Next.js?
+
+Ans- By throwing errors that are caught by error boundaries.
+
+(-----------------------------------------------------------------------)
