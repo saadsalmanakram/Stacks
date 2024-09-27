@@ -100,3 +100,9 @@ Ans- Create index.tsx.
 
 (-------------------------------------------------------------------------)
 
+18- What is the role of _app.tsx in the pages directory?
+
+Ans- It defines the global layout for the application.
+
+(-------------------------------------------------------------------------)
+
