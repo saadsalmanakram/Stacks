@@ -124,3 +124,9 @@ Ans- They can be referenced starting from the base URL /.
 
 (-------------------------------------------------------------------------)
 
+22- What URL do you visit to see your application running?
+
+Ans- Visit http://localhost:3000 after running the development server.
+
+(-------------------------------------------------------------------------)
+
