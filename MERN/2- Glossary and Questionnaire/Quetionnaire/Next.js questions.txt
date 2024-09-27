@@ -2994,3 +2994,15 @@ Ans- PPR is still under development, not stable, and subject to changes before i
 
 (----------------------------------------------------------------------)
 
+488- How does PPR help prevent client-to-server waterfalls?
+
+Ans- It streams dynamic components in parallel with the prerender, reducing the delay caused by waiting for client-side JavaScript.
+
+(----------------------------------------------------------------------)
+
+489- How does PPR optimize network requests?
+
+Ans- PPR combines static and dynamic components into a single HTTP request, avoiding multiple network roundtrips.
+
+(----------------------------------------------------------------------)
+
