@@ -112,3 +112,9 @@ Ans- It controls the initial response from the server.
 
 (-------------------------------------------------------------------------)
 
+20- What is the purpose of the public folder in Next.js?
+
+Ans- To store static assets like images and fonts.
+
+(-------------------------------------------------------------------------)
+
