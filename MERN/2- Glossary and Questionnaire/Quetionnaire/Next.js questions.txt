@@ -2208,3 +2208,9 @@ Ans- It prevents the response from being cached, ensuring that a fresh response 
 
 (----------------------------------------------------------------------)
 
+369- What is Incremental Static Regeneration (ISR)?
+
+Ans- ISR allows you to update static pages after the site has been built, without rebuilding the entire site.
+
+(----------------------------------------------------------------------)
+
