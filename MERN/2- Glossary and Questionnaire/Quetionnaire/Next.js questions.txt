@@ -2394,3 +2394,15 @@ Ans- Yes, Server Actions are reusable functions throughout the application.
 
 (----------------------------------------------------------------------)
 
+391- What is Incremental Static Regeneration (ISR)?
+
+Ans- ISR allows updating static content without rebuilding the entire site by serving prerendered pages.
+
+(----------------------------------------------------------------------)
+
+392- How does ISR reduce server load?
+
+Ans- By serving cached static pages for most requests, ISR minimizes the need for dynamic rendering.
+
+(----------------------------------------------------------------------)
+
