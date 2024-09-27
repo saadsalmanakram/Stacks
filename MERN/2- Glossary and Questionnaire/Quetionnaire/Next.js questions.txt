@@ -1764,3 +1764,9 @@ Ans- They can be used together to manage different parts of the UI concurrently,
 
 (----------------------------------------------------------------------)
 
+295- What are Route Handlers in Next.js?
+
+Ans- They are custom request handlers for specific routes using Web Request and Response APIs.
+
+(----------------------------------------------------------------------)
+
