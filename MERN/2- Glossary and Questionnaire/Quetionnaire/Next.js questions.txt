@@ -550,3 +550,8 @@ Ans- Server-side API endpoints are created using route.js files, allowing for se
 
 (-----------------------------------------------------------------------)
 
+93- What are Parallel Routes in Next.js?
+
+Ans- Parallel routes allow you to display multiple pages or views simultaneously that can be navigated independently.
+
+(-----------------------------------------------------------------------)
