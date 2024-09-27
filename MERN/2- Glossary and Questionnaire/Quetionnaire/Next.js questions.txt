@@ -1680,4 +1680,9 @@ Ans- A catch-all route captures all unmatched paths in a slot, which helps in ma
 
 (----------------------------------------------------------------------)
 
+281- What are intercepting routes?
+
+Ans- Intercepting routes allow loading a route from another part of the application without switching the user context.
+
+(----------------------------------------------------------------------)
 
