@@ -640,3 +640,15 @@ Ans- The page.js file is required for making a route segment publicly accessible
 
 (-----------------------------------------------------------------------)
 
+108- Can a route segment without a page.js file be accessed via a URL?
+
+Ans- No, without a page.js file, the route is not publicly accessible.
+
+(-----------------------------------------------------------------------)
+
+109- What file extensions can be used for route-related files in Next.js?
+
+Ans- .js, .jsx, .ts, and .tsx can be used.
+
+(-----------------------------------------------------------------------)
+
