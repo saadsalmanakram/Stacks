@@ -2196,3 +2196,9 @@ Ans- The fetch API is used to make HTTP requests to retrieve data from a server 
 
 (----------------------------------------------------------------------)
 
+367- How do you fetch data on the server in a Next.js component?
+
+Ans- You can use the fetch API inside an async function in your component to retrieve data server-side.
+
+(----------------------------------------------------------------------)
+
