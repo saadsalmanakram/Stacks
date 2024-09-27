@@ -3240,3 +3240,9 @@ Ans- It memoizes the return value of a function, caching it for repeated calls t
 
 (-----------------------------------------------------------------------)
 
+529- What happens when you disable dynamic parameters with dynamicParams = false?
+
+Ans- Only paths defined by generateStaticParams will be served; other routes will return 404 or match catch-all routes.
+
+(-----------------------------------------------------------------------)
+
