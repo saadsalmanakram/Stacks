@@ -2172,3 +2172,9 @@ Ans- Test internationalization by switching locales and ensuring that all conten
 
 (----------------------------------------------------------------------)
 
+363- Explain the concept of locale negotiation.
+
+Ans- Locale negotiation is the process of determining the best matching locale for a user based on their preferences and the available locales in the application.
+
+(----------------------------------------------------------------------)
+
