@@ -2814,3 +2814,9 @@ Ans- It is a data format that includes references to Client Components and is us
 
 (----------------------------------------------------------------------)
 
+459- How can you return to the server environment after declaring a Client Component boundary?
+
+Ans- By interleaving Client and Server Components, you can fetch data or use server-specific APIs within a Client Component tree.
+
+(----------------------------------------------------------------------)
+
