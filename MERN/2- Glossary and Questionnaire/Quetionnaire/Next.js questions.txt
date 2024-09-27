@@ -2772,3 +2772,9 @@ Ans- By adding the "use client" directive at the top of a file to define a bound
 
 (----------------------------------------------------------------------)
 
+452- What is the "use client" directive in Next.js?
+
+Ans- It declares that a module and its imports are part of the client bundle and will be rendered on the client side.
+
+(----------------------------------------------------------------------)
+
