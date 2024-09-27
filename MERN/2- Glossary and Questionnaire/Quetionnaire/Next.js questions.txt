@@ -1204,3 +1204,9 @@ Ans- Loading indicators like spinners, skeletons, or any meaningful UI elements 
 
 (-----------------------------------------------------------------------)
 
+202- What is the purpose of the redirect function in Next.js?
+
+Ans- The redirect function is used to navigate users to another URL after a mutation or event, returning a 307 or 303 status code.
+
+(-----------------------------------------------------------------------)
+
