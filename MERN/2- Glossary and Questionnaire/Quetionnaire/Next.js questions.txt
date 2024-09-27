@@ -2988,3 +2988,9 @@ Ans- React Suspense allows dynamic components to be loaded and rendered asynchro
 
 (----------------------------------------------------------------------)
 
+487- Why is PPR considered an experimental feature?
+
+Ans- PPR is still under development, not stable, and subject to changes before it’s ready for production use.
+
+(----------------------------------------------------------------------)
+
