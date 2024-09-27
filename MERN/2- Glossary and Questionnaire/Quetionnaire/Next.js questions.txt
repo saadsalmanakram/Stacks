@@ -2298,3 +2298,9 @@ Ans- They are defined using the "use server" directive at the top of an async fu
 
 (----------------------------------------------------------------------)
 
+384- Can Server Actions be used in Client Components?
+
+Ans- Yes, by importing them from a file where the "use server" directive is declared.
+
+(----------------------------------------------------------------------)
+
