@@ -1312,3 +1312,9 @@ Ans- You create a Route Group by wrapping a folder name in parentheses, e.g., (f
 
 (-----------------------------------------------------------------------)
 
+220- Do Route Groups affect the URL path?
+
+Ans- No, folders wrapped in parentheses are omitted from the URL path.
+
+(-----------------------------------------------------------------------)
+
