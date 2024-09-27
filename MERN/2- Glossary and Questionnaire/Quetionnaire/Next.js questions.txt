@@ -2736,3 +2736,9 @@ Ans- Next.js splits route segments into chunks for parallelized rendering, impro
 
 (----------------------------------------------------------------------)
 
+446- What is the main use case for Streaming in Next.js?
+
+Ans- Streaming is useful for pages that need to progressively load content, such as when waiting for slow data fetches.
+
+(----------------------------------------------------------------------)
+
