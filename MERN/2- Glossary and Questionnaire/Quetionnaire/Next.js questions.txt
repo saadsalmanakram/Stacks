@@ -2838,3 +2838,9 @@ Ans- By rendering static HTML previews on the server, ensuring content is visibl
 
 (----------------------------------------------------------------------)
 
+463- What role does the RSC Payload play in the rendering process?
+
+Ans- It helps reconcile Client and Server Component trees and hydrates the client-side UI to make it interactive.
+
+(----------------------------------------------------------------------)
+
