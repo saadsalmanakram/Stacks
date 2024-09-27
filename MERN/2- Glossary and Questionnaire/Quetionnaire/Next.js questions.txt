@@ -2328,3 +2328,9 @@ Ans- Server Actions are invoked using the POST method exclusively.
 
 (----------------------------------------------------------------------)
 
+389- Can Server Actions be triggered without a form?
+
+Ans- Yes, they can be invoked from event handlers, useEffect, or other interactive elements.
+
+(----------------------------------------------------------------------)
+
