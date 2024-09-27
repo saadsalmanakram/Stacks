@@ -2496,3 +2496,8 @@ Ans- It controls whether to return a 404 for unknown paths or server-render them
 
 (----------------------------------------------------------------------)
 
+408- It controls whether to return a 404 for unknown paths or server-render them dynamically.
+
+Ans- Consider switching to dynamic rendering instead of relying on ISR.
+
+(----------------------------------------------------------------------)
