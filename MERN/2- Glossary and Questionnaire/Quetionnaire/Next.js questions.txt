@@ -3156,3 +3156,9 @@ Ans- It persists across navigations but is cleared on page refresh and automatic
 
 (-----------------------------------------------------------------------)
 
+515- What is the automatic invalidation period for the Router Cache?
+
+Ans- For static pages, it's 5 minutes; dynamic pages aren’t cached unless fully prefetched, which gives them a 5-minute cache.
+
+(-----------------------------------------------------------------------)
+
