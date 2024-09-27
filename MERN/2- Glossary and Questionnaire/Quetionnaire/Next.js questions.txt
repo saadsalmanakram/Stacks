@@ -3054,3 +3054,10 @@ Ans- The fallback provides a placeholder while the dynamic component is being st
 
 (----------------------------------------------------------------------)
 
+498- What is incremental adoption in Partial Prerendering (PPR)?
+
+Ans- Incremental adoption allows you to opt into PPR on a per-route basis without applying it globally across your entire app.
+
+(----------------------------------------------------------------------)
+
+
