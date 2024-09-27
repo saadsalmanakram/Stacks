@@ -2946,3 +2946,9 @@ Ans- Pass Server Components as props to Client Components.
 
 (----------------------------------------------------------------------)
 
+480- What happens during the interleaving of Server and Client Components?
+
+Ans- Server Components are rendered first, followed by Client Components, ensuring a unified tree on the client.
+
+(----------------------------------------------------------------------)
+
