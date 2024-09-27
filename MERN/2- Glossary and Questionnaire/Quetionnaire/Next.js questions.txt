@@ -274,4 +274,10 @@ Ans- It defines images for Open Graph protocol, used for social sharing.
 
 (-----------------------------------------------------------------------)
 
+47- What is a sitemap.xml file in Next.js?
+
+Ans- It lists all the URLs for a website, helping search engines crawl the site.
+
+(-----------------------------------------------------------------------)
+
 
