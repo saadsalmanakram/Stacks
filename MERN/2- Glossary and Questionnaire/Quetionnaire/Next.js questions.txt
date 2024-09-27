@@ -327,3 +327,10 @@ Ans- You cannot access the raw request object in a layout, but you can access he
 Ans- No, layouts are cached and reused to avoid unnecessary computations during navigation between pages.
 
 (-----------------------------------------------------------------------)
+
+56- How can you access the URL on a page in the App Router?
+
+Ans- Use the params prop for route segments and the searchParams prop for URL search parameters in Server Components.
+
+(-----------------------------------------------------------------------)
+
