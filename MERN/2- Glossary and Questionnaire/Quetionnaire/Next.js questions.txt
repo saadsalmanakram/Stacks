@@ -2016,3 +2016,9 @@ Ans- Headers can be set on responses or requests using the NextResponse API.
 
 (----------------------------------------------------------------------)
 
+337- What is CORS, and how is it managed in middleware?
+
+Ans- CORS (Cross-Origin Resource Sharing) can be configured in middleware to allow or restrict cross-origin requests.
+
+(----------------------------------------------------------------------)
+
