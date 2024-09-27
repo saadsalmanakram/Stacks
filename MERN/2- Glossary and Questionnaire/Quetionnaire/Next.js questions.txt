@@ -2616,3 +2616,10 @@ Ans- Developers should send a new request to the server to access data instead o
 
 (----------------------------------------------------------------------)
 
+428- What is the benefit of interleaving client and server components?
+
+Ans- Interleaving components allows for more efficient rendering and better management of client-server interactions.
+
+(----------------------------------------------------------------------)
+
+
