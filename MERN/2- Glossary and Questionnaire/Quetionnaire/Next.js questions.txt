@@ -28,3 +28,9 @@ Ans- Next.js supports various styling methods, including CSS Modules, Tailwind C
 
 (-------------------------------------------------------------------------)
 
+6- How does Next.js optimize images and fonts?
+
+Ans- Next.js offers optimizations for images, fonts, and scripts to enhance Core Web Vitals and overall user experience.
+
+(-------------------------------------------------------------------------)
+
