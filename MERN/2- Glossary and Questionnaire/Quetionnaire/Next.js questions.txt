@@ -106,3 +106,9 @@ Ans- It defines the global layout for the application.
 
 (-------------------------------------------------------------------------)
 
+19- What does _document.tsx control in a Next.js application?
+
+Ans- It controls the initial response from the server.
+
+(-------------------------------------------------------------------------)
+
