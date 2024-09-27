@@ -1554,3 +1554,9 @@ Ans- Optional catch-all segments, defined as [[...slug]], can match routes witho
 
 (----------------------------------------------------------------------)
 
+260- How would you type dynamic segments in TypeScript?
+
+Ans- You can define types for params based on the route segment configuration, such as { slug: string } for [slug] or { slug?: string[] } for [[...slug]].
+
+(----------------------------------------------------------------------)
+
