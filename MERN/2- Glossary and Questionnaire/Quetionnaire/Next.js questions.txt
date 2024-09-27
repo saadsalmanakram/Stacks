@@ -976,3 +976,9 @@ Ans- Set experimental.clientRouterFilter to false in next.config.js to manage th
 
 (-----------------------------------------------------------------------)
 
+164- What are the two main categories of errors?
+
+Ans- Expected errors and uncaught exceptions.
+
+(-----------------------------------------------------------------------)
+
