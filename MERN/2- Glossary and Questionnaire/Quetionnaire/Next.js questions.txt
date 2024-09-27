@@ -1998,3 +1998,15 @@ Ans- Conditional statements enable middleware to execute specific actions based 
 
 (----------------------------------------------------------------------)
 
+334- How does the NextResponse API work in middleware?
+
+Ans- The NextResponse API allows you to redirect, rewrite responses, and set request/response headers and cookies.
+
+(----------------------------------------------------------------------)
+
+335- What are some common methods to manipulate cookies in middleware?
+
+Ans- Methods include get, getAll, set, and delete for both incoming and outgoing cookies.
+
+(----------------------------------------------------------------------)
+
