@@ -3066,3 +3066,8 @@ Ans- Next.js supports the Node.js Runtime (default) and the Edge Runtime.
 
 (----------------------------------------------------------------------)
 
+500- What is the default runtime used in Next.js?
+
+Ans- The default runtime is the Node.js Runtime.
+
+(----------------------------------------------------------------------)
