@@ -1854,3 +1854,9 @@ Ans- They can be accessed via request.nextUrl.searchParams in a NextRequest inst
 
 (----------------------------------------------------------------------)
 
+310- How can you read the request body?
+
+Ans- By using the standard Web API methods like request.json() for JSON payloads.
+
+(----------------------------------------------------------------------)
+
