@@ -2214,3 +2214,9 @@ Ans- ISR allows you to update static pages after the site has been built, withou
 
 (----------------------------------------------------------------------)
 
+370- How do you fetch data from a database in Next.js?
+
+Ans- You can use an ORM or a database client to retrieve data, usually inside an async function in your component.
+
+(----------------------------------------------------------------------)
+
