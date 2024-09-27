@@ -1686,3 +1686,9 @@ Ans- Intercepting routes allow loading a route from another part of the applicat
 
 (----------------------------------------------------------------------)
 
+282- When would you use intercepting routes?
+
+Ans- They are useful for displaying content like modals while keeping the current layout intact.
+
+(----------------------------------------------------------------------)
+
