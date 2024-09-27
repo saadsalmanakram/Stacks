@@ -1198,4 +1198,9 @@ Ans- By progressively rendering components, it allows the UI to become interacti
 
 (-----------------------------------------------------------------------)
 
+201- What types of fallbacks can be used in the Suspense fallback prop?
+
+Ans- Loading indicators like spinners, skeletons, or any meaningful UI elements that indicate loading.
+
+(-----------------------------------------------------------------------)
 
