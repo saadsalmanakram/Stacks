@@ -1824,3 +1824,9 @@ Ans- Conflicts occur if a route.js file is placed at the same level as a page.js
 
 (----------------------------------------------------------------------)
 
+305- How do Route Handlers work with dynamic route segments?
+
+Ans- They can create request handlers using dynamic data through route segments.
+
+(----------------------------------------------------------------------)
+
