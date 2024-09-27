@@ -904,3 +904,9 @@ Ans- Import it from next/link and pass the href prop to specify the target route
 
 (-----------------------------------------------------------------------)
 
+152- What is the primary use case for the useRouter hook?
+
+Ans- It allows programmatic route navigation from Client Components.
+
+(-----------------------------------------------------------------------)
+
