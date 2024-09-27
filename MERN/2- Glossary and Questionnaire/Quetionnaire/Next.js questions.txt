@@ -1572,3 +1572,9 @@ Ans- The params object contains the values extracted from the dynamic segments o
 
 (----------------------------------------------------------------------)
 
+263- In what scenarios would you use catch-all segments?
+
+Ans- Catch-all segments are useful when you need to handle multiple levels of nested routes or when the exact path structure is not predetermined.
+
+(----------------------------------------------------------------------)
+
