@@ -2130,3 +2130,9 @@ Ans- Create a layout that uses the lang parameter to set the language attribute 
 
 (----------------------------------------------------------------------)
 
+356- What are best practices for implementing internationalization in Next.js?
+
+Ans- Use the Accept-Language header for locale detection, maintain separate translation files, and structure routes clearly by locale.
+
+(----------------------------------------------------------------------)
+
