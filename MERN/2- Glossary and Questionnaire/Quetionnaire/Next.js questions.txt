@@ -2040,3 +2040,8 @@ Ans- Yes, middleware can intercept and process API requests, allowing for authen
 
 (----------------------------------------------------------------------)
 
+341- What is internationalization (i18n) in web development?
+
+Ans- Internationalization is the process of designing an application to support multiple languages and regional differences.
+
+(----------------------------------------------------------------------)
