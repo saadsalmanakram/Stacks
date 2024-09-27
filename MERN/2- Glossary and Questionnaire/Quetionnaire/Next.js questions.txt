@@ -1974,3 +1974,9 @@ Ans- Middleware is defined in a middleware.ts or .js file located at the project
 
 (----------------------------------------------------------------------)
 
+330- Can you have multiple middleware files in a Next.js project?
+
+Ans- Only one middleware.ts file is supported per project, but you can modularize middleware logic in separate files.
+
+(----------------------------------------------------------------------)
+
