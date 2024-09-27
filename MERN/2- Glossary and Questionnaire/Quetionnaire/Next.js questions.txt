@@ -3180,3 +3180,9 @@ Ans- Use the experimental staleTimes config option or set dynamic = 'force-dynam
 
 (-----------------------------------------------------------------------)
 
+519- How does Next.js handle cache interactions between Data Cache and Full Route Cache?
+
+Ans- Invalidating the Data Cache invalidates the Full Route Cache, but invalidating the Full Route Cache doesn't affect the Data Cache.
+
+(-----------------------------------------------------------------------)
+
