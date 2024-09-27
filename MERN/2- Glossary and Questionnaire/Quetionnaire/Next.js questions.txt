@@ -2712,3 +2712,9 @@ Ans- Server-rendered HTML is sent immediately, enabling faster display of conten
 
 (----------------------------------------------------------------------)
 
+442- How do Server Components aid in SEO?
+
+Ans- The server-generated HTML can be indexed by search engines, improving search engine optimization (SEO) and social media previews.
+
+(----------------------------------------------------------------------)
+
