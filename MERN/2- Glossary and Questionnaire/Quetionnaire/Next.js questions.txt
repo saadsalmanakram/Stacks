@@ -1650,3 +1650,9 @@ Ans- default.js provides a fallback rendering for unmatched slots during initial
 
 (----------------------------------------------------------------------)
 
+276- What is the router.back() function used for?
+
+Ans- It closes the modal by navigating back to the previous page in the browser history.
+
+(----------------------------------------------------------------------)
+
