@@ -2856,3 +2856,9 @@ Ans- A component rendered on the server, ideal for data fetching, backend intera
 
 (----------------------------------------------------------------------)
 
+466- What is a Client Component in React?
+
+Ans- A component rendered on the client, suitable for interactivity, state management, and accessing browser-specific APIs.
+
+(----------------------------------------------------------------------)
+
