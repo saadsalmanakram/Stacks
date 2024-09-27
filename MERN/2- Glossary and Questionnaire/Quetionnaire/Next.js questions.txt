@@ -2808,3 +2808,9 @@ Ans- They are rendered entirely on the client without relying on server-rendered
 
 (----------------------------------------------------------------------)
 
+458- What is the React Server Component Payload (RSC Payload)?
+
+Ans- It is a data format that includes references to Client Components and is used to render HTML and reconcile the component trees.
+
+(----------------------------------------------------------------------)
+
