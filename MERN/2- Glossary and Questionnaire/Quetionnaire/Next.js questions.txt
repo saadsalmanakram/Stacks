@@ -220,4 +220,9 @@ Ans- It defines layout components for pages in a Next.js application.
 
 (-----------------------------------------------------------------------)
 
+38- What is the function of a page file in the app router?
+
+Ans- It represents a specific page in the app router structure.
+
+(-----------------------------------------------------------------------)
 
