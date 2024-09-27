@@ -1662,3 +1662,10 @@ Ans- By matching the slot to a component that returns null or using a catch-all 
 
 (----------------------------------------------------------------------)
 
+278- How does Parallel Routes manage loading and error states?
+
+Ans- They can define independent loading and error UI states for each route, enhancing user experience.
+
+(----------------------------------------------------------------------)
+
+
