@@ -1907,3 +1907,10 @@ Ans- Middleware can modify requests/responses, handle authentication, log reques
 Ans- Middleware executes before cached content is served and routes are matched.
 
 (----------------------------------------------------------------------)
+
+319- What is a common use case for authentication in middleware?
+
+Ans- Middleware ensures user identity by checking session cookies before granting access to protected routes.
+
+(----------------------------------------------------------------------)
+
