@@ -2076,3 +2076,9 @@ Ans- You can use libraries like negotiator to extract the preferred locale from 
 
 (----------------------------------------------------------------------)
 
+347- How can you structure your middleware for locale redirection in Next.js?
+
+Ans- Use middleware to check the pathname for supported locales, redirecting users to the appropriate locale if none is present.
+
+(----------------------------------------------------------------------)
+
