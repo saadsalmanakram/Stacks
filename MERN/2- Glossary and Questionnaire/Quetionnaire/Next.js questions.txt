@@ -748,3 +748,9 @@ Ans- It will create a page for the /about route.
 
 (-----------------------------------------------------------------------)
 
+126- What is the advantage of Next.js automatically creating routes based on the file structure?
+
+Ans- It simplifies the creation and management of routes without needing additional routing code.
+
+(-----------------------------------------------------------------------)
+
