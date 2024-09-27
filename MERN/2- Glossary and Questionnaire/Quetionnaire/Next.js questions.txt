@@ -538,3 +538,9 @@ Ans- loading.js provides loading state UI for a route and its children, typicall
 
 (-----------------------------------------------------------------------)
 
+91- What is the significance of the not-found.js file in routing?
+
+Ans- not-found.js renders a "not found" UI for when a route or resource is unavailable.
+
+(-----------------------------------------------------------------------)
+
