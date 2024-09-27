@@ -790,3 +790,9 @@ Ans- The children prop is populated with a child layout or a page during renderi
 
 (-----------------------------------------------------------------------)
 
+133- What is the root layout in Next.js, and why is it required?
+
+Ans- The root layout is a required layout that applies to all routes and must contain the <html> and <body> tags.
+
+(-----------------------------------------------------------------------)
+
