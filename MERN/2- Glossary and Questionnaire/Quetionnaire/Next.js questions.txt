@@ -189,3 +189,10 @@ Ans- They define environment variables for different environments like local, pr
 Ans- It configures ESLint to enforce code style and quality.
 
 (------------------------------------------------------------------------)
+
+33- What does .gitignore do in a Next.js project?
+
+Ans- It specifies files and folders to be ignored by Git.
+
+(------------------------------------------------------------------------)
+
