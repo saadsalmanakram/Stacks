@@ -2334,3 +2334,9 @@ Ans- Yes, they can be invoked from event handlers, useEffect, or other interacti
 
 (----------------------------------------------------------------------)
 
+390- How does Next.js handle form submissions when JavaScript is disabled?
+
+Ans- Server Components support progressive enhancement, allowing form submission even without JavaScript.
+
+(----------------------------------------------------------------------)
+
