@@ -3108,3 +3108,9 @@ Ans- No, some packages may not work as expected in the Edge Runtime.
 
 (-----------------------------------------------------------------------)
 
+507- Does the Edge Runtime support Incremental Static Regeneration (ISR)?
+
+Ans- No, the Edge Runtime does not support Incremental Static Regeneration (ISR).
+
+(-----------------------------------------------------------------------)
+
