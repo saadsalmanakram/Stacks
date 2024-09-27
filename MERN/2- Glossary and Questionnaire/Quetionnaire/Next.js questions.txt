@@ -2082,3 +2082,15 @@ Ans- Use middleware to check the pathname for supported locales, redirecting use
 
 (----------------------------------------------------------------------)
 
+348- Explain how to handle routes in different languages in Next.js.
+
+Ans- You can handle internationalized routes by using either sub-paths (e.g., /fr/products) or different domains (e.g., my-site.fr/products).
+
+(----------------------------------------------------------------------)
+
+349- What is localization in the context of web applications?
+
+Ans- Localization is the process of adapting displayed content based on the user's preferred locale, including translated strings.
+
+(----------------------------------------------------------------------)
+
