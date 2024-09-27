@@ -3006,3 +3006,9 @@ Ans- PPR combines static and dynamic components into a single HTTP request, avoi
 
 (----------------------------------------------------------------------)
 
+490- How can you enable Partial Prerendering in Next.js 15?
+
+Ans- Set ppr: 'incremental' in next.config.js and enable experimental_ppr in the route’s configuration.
+
+(----------------------------------------------------------------------)
+
