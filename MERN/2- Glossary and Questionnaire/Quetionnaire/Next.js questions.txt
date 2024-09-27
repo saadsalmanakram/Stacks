@@ -658,3 +658,10 @@ Ans- By adding a page.js file inside the folder representing the route segment.
 
 (-----------------------------------------------------------------------)
 
+111- How do you create a page in Next.js?
+
+Ans- Create a page.js or page.tsx file inside the relevant folder, and export a React component.
+
+(-----------------------------------------------------------------------)
+
+
