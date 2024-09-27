@@ -910,3 +910,8 @@ Ans- It allows programmatic route navigation from Client Components.
 
 (-----------------------------------------------------------------------)
 
+153- How does the redirect function work in Server Components?
+
+Ans- It programmatically navigates and returns a 307 status code by default, and can be used in Server Actions.
+
+(-----------------------------------------------------------------------)
