@@ -1500,3 +1500,8 @@ Ans- Consistency and alignment with team preferences are crucial for maintaining
 
 (----------------------------------------------------------------------)
 
+251- Why is it beneficial to keep the app directory purely for routing purposes?
+
+Ans- This approach helps to maintain a clear separation between application logic and routing concerns, enhancing code maintainability.
+
+(----------------------------------------------------------------------)
