@@ -1596,3 +1596,9 @@ Ans- By using multiple dynamic segments, such as app/[categoryId]/[itemId]/page.
 
 (----------------------------------------------------------------------)
 
+267- What are Parallel Routes in Next.js?
+
+Ans- Parallel Routes allow simultaneous or conditional rendering of multiple pages within the same layout.
+
+(----------------------------------------------------------------------)
+
