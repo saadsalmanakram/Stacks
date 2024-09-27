@@ -2358,3 +2358,21 @@ Ans- It allows managing the state of a form while integrating with Server Action
 
 (----------------------------------------------------------------------)
 
+394- How can you validate form data on the server side?
+
+Ans- By using libraries like zod to validate inputs before data mutation.
+
+(----------------------------------------------------------------------)
+
+395- What does the useFormStatus hook do?
+
+Ans- It exposes the pending state, enabling loading indicators during action execution.
+
+(----------------------------------------------------------------------)
+
+396- What are optimistic updates in React?
+
+Ans- They allow UI updates before the Server Action completes, enhancing user experience.
+
+(----------------------------------------------------------------------)
+
