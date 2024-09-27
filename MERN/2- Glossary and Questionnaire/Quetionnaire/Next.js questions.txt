@@ -1186,3 +1186,9 @@ Ans- Skeletons provide a visual indication of content loading, making the applic
 
 (-----------------------------------------------------------------------)
 
+199- What UI components can be wrapped in a Suspense boundary?
+
+Ans- Any component that performs asynchronous actions, such as data fetching or lazy loading.
+
+(-----------------------------------------------------------------------)
+
