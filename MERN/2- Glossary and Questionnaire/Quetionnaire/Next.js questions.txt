@@ -1602,3 +1602,9 @@ Ans- Parallel Routes allow simultaneous or conditional rendering of multiple pag
 
 (----------------------------------------------------------------------)
 
+268- Why are Parallel Routes useful?
+
+Ans- They are particularly useful for dynamic app sections, such as dashboards and feeds.
+
+(----------------------------------------------------------------------)
+
