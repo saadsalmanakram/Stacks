@@ -6556,3 +6556,9 @@ Ans- Middleware centralizes session checks and can redirect users based on their
 Ans- By checking if the session exists and redirecting to the login page if not.
 
 (-------------------------------------------------------------------------)
+
+1088- What routes should be excluded from middleware checks?
+
+Ans- API routes, static assets, and any routes that don't require authentication.
+
+(-------------------------------------------------------------------------)
