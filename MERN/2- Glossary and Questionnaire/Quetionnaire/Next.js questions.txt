@@ -6421,3 +6421,9 @@ Ans- Use the command: npx create-next-app@latest --example with-cypress with-cyp
 Ans- You can use npm install -D cypress, yarn add -D cypress, or pnpm install -D cypress.
 
 (-------------------------------------------------------------------------)
+
+1067- How do you open Cypress for the first time?
+
+Ans- Run the command: npm run cypress:open.
+
+(-------------------------------------------------------------------------)
