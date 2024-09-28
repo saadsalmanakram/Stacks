@@ -4698,3 +4698,9 @@ Ans- The public folder is used to serve static files like images, which can be a
 
 (----------------------------------------------------------------------)
 
+783- How can you reference static assets stored in the public folder in Next.js?
+
+Ans- Static assets can be referenced starting from the base URL, such as /avatars/me.png.
+
+(----------------------------------------------------------------------)
+
