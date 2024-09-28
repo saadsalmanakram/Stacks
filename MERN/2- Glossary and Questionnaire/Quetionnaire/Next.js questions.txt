@@ -4398,3 +4398,9 @@ Ans- Next.js provides the useReportWebVitals hook to manage Web Vitals reporting
 
 (----------------------------------------------------------------------)
 
+723- How do you use the useReportWebVitals hook in Next.js?
+
+Ans- You import it and call it in a component to handle metrics, optionally sending them to external systems like Google Analytics.
+
+(----------------------------------------------------------------------)
+
