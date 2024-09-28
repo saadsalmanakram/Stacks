@@ -4181,3 +4181,9 @@ Ans- It executes additional code after the script finishes loading.
 Ans- onReady executes code after the script loads and every time the component mounts.
 
 (----------------------------------------------------------------------)
+
+687- What is the use of the onError event in next/script?
+
+Ans- It handles the failure case when a script fails to load.
+
+(----------------------------------------------------------------------)
