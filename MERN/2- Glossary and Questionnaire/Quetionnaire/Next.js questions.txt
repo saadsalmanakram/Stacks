@@ -5399,3 +5399,18 @@ Ans- The baseUrl option allows you to specify a root directory for resolving non
 Ans- You can alias module paths by using the paths option in the tsconfig.json or jsconfig.json file to map aliases to actual paths.
 
 (-------------------------------------------------------------------------)
+
+899- Give an example of a path alias configuration in a Next.js project.
+
+Ans-
+     {
+       "compilerOptions": {
+         "baseUrl": ".",
+         "paths": {
+           "@/components/*": ["components/*"]
+         }
+       }
+     }
+
+(-------------------------------------------------------------------------)
+
