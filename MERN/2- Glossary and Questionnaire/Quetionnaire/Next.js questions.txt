@@ -6002,3 +6002,8 @@ Ans- PWAs can be installed on a device, work offline, and offer push notificatio
 
 (-------------------------------------------------------------------------)
 
+997- What are the key benefits of PWAs for users?
+
+Ans- Users get faster load times, offline capabilities, and access to native app features without downloading from app stores.
+
+(-------------------------------------------------------------------------)
