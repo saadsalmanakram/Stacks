@@ -6904,3 +6904,15 @@ Ans- A security measure to protect against threats like XSS and code injection.
 Ans- It allows you to add essential page metadata, like titles and descriptions.
 
 (-------------------------------------------------------------------------)
+
+1146- What are Open Graph images?
+
+Ans- Images prepared for social sharing to improve engagement on platforms.
+
+(-------------------------------------------------------------------------)
+
+1147- How do sitemaps and robots files help SEO?
+
+Ans- They assist search engines in crawling and indexing your pages efficiently.
+
+(-------------------------------------------------------------------------)
