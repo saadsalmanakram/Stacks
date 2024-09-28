@@ -5267,3 +5267,9 @@ Ans- Environment variables are key-value pairs used to configure applications, a
 Ans- You can load environment variables from .env files into process.env automatically.
 
 (-------------------------------------------------------------------------)
+
+877- What prefix is required to expose environment variables to the browser in Next.js?
+
+Ans- Environment variables must be prefixed with NEXT_PUBLIC_ to be accessible in the browser.
+
+(-------------------------------------------------------------------------)
