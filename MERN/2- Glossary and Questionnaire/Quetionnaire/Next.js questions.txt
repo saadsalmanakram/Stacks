@@ -5725,3 +5725,9 @@ Ans- No, Vercel does not support custom servers; it only supports static and ser
 Ans- Options include conf, customServer, dev, dir, quiet, hostname, port, httpServer, and turbo.
 
 (-------------------------------------------------------------------------)
+
+952- How does Next.js handle requests in a custom server setup?
+
+Ans- Requests are handled by the app.getRequestHandler() method, which routes them through Next.js's internal system.
+
+(-------------------------------------------------------------------------)
