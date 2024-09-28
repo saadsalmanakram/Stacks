@@ -7024,3 +7024,15 @@ Ans- Use SWR in a Client Component to fetch and cache data on the client-side.
 Ans- Static data fetching occurs at build time, while client-side fetching happens in the browser after the page loads.
 
 (-------------------------------------------------------------------------)
+
+1166- How can you optimize images in a static export?
+
+Ans- By defining a custom image loader in next.config.js and using next/image.
+
+(-------------------------------------------------------------------------)
+
+1167- What do Route Handlers do in a static export?
+
+Ans- They render static responses for GET requests, enabling static HTML, JSON, or TXT files during the build.
+
+(-------------------------------------------------------------------------)
