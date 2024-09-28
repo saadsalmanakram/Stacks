@@ -4614,3 +4614,8 @@ Ans- Common attributes include http.method, http.status_code, next.route, and ne
 
 (----------------------------------------------------------------------)
 
+769- What is an OpenTelemetry Exporter?
+
+Ans- An exporter is responsible for sending telemetry data (e.g., traces or metrics) from your app to a backend or monitoring system.
+
+(----------------------------------------------------------------------)
