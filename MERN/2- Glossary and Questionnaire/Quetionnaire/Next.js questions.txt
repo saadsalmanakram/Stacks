@@ -6521,3 +6521,8 @@ Ans- Optimistic checks use stored session data for quick decisions, while secure
 
 (-------------------------------------------------------------------------)
 
+1082- How can you create a session in Next.js?
+
+Ans- By inserting session data into a database and storing an encrypted session ID in cookies.
+
+(-------------------------------------------------------------------------)
