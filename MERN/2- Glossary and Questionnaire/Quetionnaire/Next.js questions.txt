@@ -5333,3 +5333,9 @@ Ans- Next.js ignores .env.local in the testing environment to ensure uniform res
 Ans- Environment variables are checked in the order: process.env, .env.$(NODE_ENV).local, .env.local, .env.$(NODE_ENV), and .env.
 
 (-------------------------------------------------------------------------)
+
+888- How can you access runtime environment variables in Next.js?
+
+Ans- You can access runtime environment variables using server-side functions like getServerSideProps or during dynamic rendering.
+
+(-------------------------------------------------------------------------)
