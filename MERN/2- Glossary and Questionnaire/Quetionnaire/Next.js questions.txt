@@ -6856,3 +6856,9 @@ Ans- They handle form submissions and server-side validation seamlessly.
 Ans- It hosts fonts with static assets, reducing layout shifts.
 
 (-------------------------------------------------------------------------)
+
+1138- What advantages does the <Image> component provide?
+
+Ans- It optimizes images, prevents layout shifts, and serves them in modern formats.
+
+(-------------------------------------------------------------------------)
