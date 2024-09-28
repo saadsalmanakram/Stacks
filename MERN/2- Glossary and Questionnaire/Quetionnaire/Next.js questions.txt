@@ -5003,3 +5003,9 @@ Ans- It is a configuration file for TypeScript that specifies compiler options a
 Ans- The TypeScript plugin enhances type-checking and auto-completion in code editors like VSCode, improving developer experience.
 
 (--------------------------------------------------------------------------)
+
+834- How can you enforce type checking in next.config.js?
+
+Ans- You can enforce type checking by using JSDoc comments with @ts-check and specifying the type of the config object.
+
+(-------------------------------------------------------------------------)
