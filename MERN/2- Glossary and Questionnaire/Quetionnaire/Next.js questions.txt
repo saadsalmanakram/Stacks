@@ -6163,3 +6163,10 @@ Ans- Integration testing checks how multiple components work together, while uni
 Ans- Unit testing tools currently lack full support for async Server Components, making End-to-End Testing more suitable.
 
 (-------------------------------------------------------------------------)
+
+1024- What command is used to quickly set up Vitest with Next.js?
+
+Ans- npx create-next-app@latest --example with-vitest with-vitest-app.
+
+(-------------------------------------------------------------------------)
+
