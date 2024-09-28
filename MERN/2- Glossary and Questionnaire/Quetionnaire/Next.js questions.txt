@@ -6832,3 +6832,9 @@ Ans- They access backend resources from Client Components without additional ser
 Ans- It sends UI progressively, preventing complete route blocking during data fetching.
 
 (-------------------------------------------------------------------------)
+
+1134- What is parallel data fetching?
+
+Ans- It fetches data concurrently to reduce network delays.
+
+(-------------------------------------------------------------------------)
