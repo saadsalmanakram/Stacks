@@ -4122,3 +4122,9 @@ Ans- Include the script in the layout component using next/script, ensuring it l
 
 (----------------------------------------------------------------------)
 
+677- How do you load a third-party script for all routes in a Next.js app?
+
+Ans- Include the script in the root layout, ensuring it loads once for the entire application.
+
+(----------------------------------------------------------------------)
+
