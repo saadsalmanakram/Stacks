@@ -7084,3 +7084,15 @@ Ans- Multi-Zones separate a large application into smaller Next.js applications 
 Ans- They improve build times and reduce the size of applications by isolating unrelated pages into separate zones.
 
 (-------------------------------------------------------------------------)
+
+1176- Can you give an example of how to structure Multi-Zones?
+
+Ans- You can have zones for /blog/*, /dashboard/*, and a catch-all /* for the rest of the website.
+
+(-------------------------------------------------------------------------)
+
+1177- What is the difference between hard navigation and soft navigation in Multi-Zones?
+
+Ans- Soft navigation occurs within the same zone without a page reload, while hard navigation occurs between zones, unloading the current page and loading a new one.
+
+(-------------------------------------------------------------------------)
