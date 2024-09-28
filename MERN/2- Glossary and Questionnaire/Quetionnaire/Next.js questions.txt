@@ -4997,3 +4997,9 @@ Ans- You can enable TypeScript by renaming files to .ts or .tsx and running next
 Ans- It is a configuration file for TypeScript that specifies compiler options and the files to include or exclude during the compilation process.
 
 (--------------------------------------------------------------------------)
+
+833- What is the purpose of the TypeScript plugin in Next.js?
+
+Ans- The TypeScript plugin enhances type-checking and auto-completion in code editors like VSCode, improving developer experience.
+
+(--------------------------------------------------------------------------)
