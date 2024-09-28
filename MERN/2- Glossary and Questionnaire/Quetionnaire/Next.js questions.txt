@@ -4740,3 +4740,8 @@ Ans- Files added after build time will not be served by Next.js.
 
 (----------------------------------------------------------------------)
 
+790- How should static metadata files like robots.txt and favicon.ico be handled in Next.js?
+
+Ans- These should be placed inside the special metadata files in the app folder, not in public.
+
+(----------------------------------------------------------------------)
