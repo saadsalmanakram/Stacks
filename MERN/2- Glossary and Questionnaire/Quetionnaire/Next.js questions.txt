@@ -6490,3 +6490,9 @@ Ans- Use the command cypress run for headless testing suited for CI environments
 Ans- The command is npm run e2e:headless.
 
 (-------------------------------------------------------------------------)
+
+1077- What is a good practice for handling the base URL in tests?
+
+Ans- You can set baseUrl: 'http://localhost:3000' in cypress.config.js to avoid hardcoding URLs in tests.
+
+(-------------------------------------------------------------------------)
