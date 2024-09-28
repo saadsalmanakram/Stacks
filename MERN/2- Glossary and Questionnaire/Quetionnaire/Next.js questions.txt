@@ -3666,4 +3666,10 @@ Ans- It optimizes images for faster page loads by serving the correct image size
 
 (----------------------------------------------------------------------)
 
+600- How does the Next.js Image component prevent layout shifts?
+
+Ans- It calculates the intrinsic width and height to maintain the aspect ratio, preventing cumulative layout shift.
+
+(----------------------------------------------------------------------)
+
 
