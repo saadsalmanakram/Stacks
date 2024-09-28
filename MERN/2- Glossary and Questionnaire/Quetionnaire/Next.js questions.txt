@@ -6344,3 +6344,14 @@ Ans- The setup process creates a playwright.config.ts file.
 
 (-------------------------------------------------------------------------)
 
+1054- How do you create a simple Next.js page for testing?
+
+Ans- Create two pages: app/page.tsx for Home and app/about/page.tsx for About.
+
+(-------------------------------------------------------------------------)
+
+1055- What is the purpose of the test example in tests/example.spec.ts?
+
+Ans- The test verifies that clicking the "About" link navigates to the About page and checks the URL and header text.
+
+(-------------------------------------------------------------------------)
