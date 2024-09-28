@@ -6532,3 +6532,9 @@ Ans- By inserting session data into a database and storing an encrypted session 
 Ans- It removes the user's session from storage, effectively logging them out.
 
 (-------------------------------------------------------------------------)
+
+1084- What are the advantages of using a database for session management?
+
+Ans- It allows tracking of user activity, supports scalability, and provides better security.
+
+(-------------------------------------------------------------------------)
