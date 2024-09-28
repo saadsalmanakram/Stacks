@@ -5141,3 +5141,9 @@ Ans- To specify custom rules, including enabling or disabling specific linting r
 Ans- Next.js provides an integrated ESLint experience out of the box, enabling linting during development and builds.
 
 (-------------------------------------------------------------------------)
+
+857- How do you add ESLint to a Next.js project?
+
+Ans- By adding a script in package.json like "lint": "next lint" and running npm run lint or yarn lint.
+
+(-------------------------------------------------------------------------)
