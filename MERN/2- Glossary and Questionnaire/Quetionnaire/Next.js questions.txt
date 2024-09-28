@@ -5491,3 +5491,9 @@ Ans- Update the next.config.mjs file to include MDX as a page extension and inte
 Ans- It defines global MDX components to customize how MDX content is rendered.
 
 (-------------------------------------------------------------------------)
+
+913- How do you create an MDX page in Next.js?
+
+Ans- Place an MDX file within the /app directory, using the .mdx or .md extension.
+
+(-------------------------------------------------------------------------)
