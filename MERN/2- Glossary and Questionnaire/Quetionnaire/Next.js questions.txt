@@ -4554,3 +4554,9 @@ Ans- To centralize side effects in one place and prevent unintended global impor
 
 (----------------------------------------------------------------------)
 
+759- How can you conditionally import runtime-specific code in instrumentation?
+
+Ans- Use the NEXT_RUNTIME environment variable to check if the current environment is Node.js or Edge and import the respective code accordingly.
+
+(----------------------------------------------------------------------)
+
