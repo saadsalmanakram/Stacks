@@ -5708,3 +5708,8 @@ Ans- Use the port option in the next function or specify it programmatically in 
 
 (-------------------------------------------------------------------------)
 
+949- What is the purpose of the handle function in a custom Next.js server?
+
+Ans- It is used to route all requests to Next.js to be handled appropriately by its routing system.
+
+(-------------------------------------------------------------------------)
