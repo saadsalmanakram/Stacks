@@ -3672,4 +3672,8 @@ Ans- It calculates the intrinsic width and height to maintain the aspect ratio, 
 
 (----------------------------------------------------------------------)
 
+601- What is lazy loading in Next.js Image component?
 
+Ans- Images are only loaded when they enter the viewport, improving performance.
+
+(----------------------------------------------------------------------)
