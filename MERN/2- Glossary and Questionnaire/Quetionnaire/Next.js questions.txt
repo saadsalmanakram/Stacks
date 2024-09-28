@@ -6224,3 +6224,8 @@ Ans- It automatically re-runs tests on file changes.
 
 (-------------------------------------------------------------------------)
 
+1034- Why does Vitest not support async Server Components currently?
+
+Ans- Async Server Components are new in React, and Vitest has not yet implemented support for them.
+
+(-------------------------------------------------------------------------)
