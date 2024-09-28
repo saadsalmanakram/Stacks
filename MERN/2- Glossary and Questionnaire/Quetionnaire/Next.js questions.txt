@@ -4169,3 +4169,9 @@ Ans- Inline scripts can be included directly with curly braces or by using dange
 Ans- The id is necessary for Next.js to track and optimize the inline script.
 
 (----------------------------------------------------------------------)
+
+685- What is the purpose of the onLoad event in next/script?
+
+Ans- It executes additional code after the script finishes loading.
+
+(----------------------------------------------------------------------)
