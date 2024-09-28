@@ -4175,3 +4175,9 @@ Ans- The id is necessary for Next.js to track and optimize the inline script.
 Ans- It executes additional code after the script finishes loading.
 
 (----------------------------------------------------------------------)
+
+686- How does the onReady event differ from onLoad in next/script?
+
+Ans- onReady executes code after the script loads and every time the component mounts.
+
+(----------------------------------------------------------------------)
