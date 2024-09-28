@@ -5039,3 +5039,15 @@ Ans- Async Server Components enable asynchronous data fetching while maintaining
 Ans- You can set ignoreBuildErrors: true in the typescript configuration section of next.config.ts, but it’s risky as it allows builds with type errors.
 
 (-------------------------------------------------------------------------)
+
+840- What is the purpose of incremental type checking in Next.js?
+
+Ans- Incremental type checking speeds up the type checking process in larger applications by only checking files that have changed since the last check.
+
+(-------------------------------------------------------------------------)
+
+841- How can you create custom type declarations in Next.js?
+
+Ans- Instead of modifying next-env.d.ts, create a separate file (e.g., new-types.d.ts) for custom types and include it in your tsconfig.json.
+
+(-------------------------------------------------------------------------)
