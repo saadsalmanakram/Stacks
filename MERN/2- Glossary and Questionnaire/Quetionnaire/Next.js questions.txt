@@ -5075,3 +5075,9 @@ Ans- To achieve full type safety, both your database or content provider and the
 Ans- You may encounter a 'Promise<Element>' is not a valid JSX element type error if using outdated versions of TypeScript and React types.
 
 (-------------------------------------------------------------------------)
+
+846- How does Next.js handle custom components with typed href props?
+
+Ans- You can use generics to define typed href props, ensuring that only valid routes are passed to components wrapping next/link.
+
+(-------------------------------------------------------------------------)
