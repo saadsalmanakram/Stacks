@@ -3701,3 +3701,10 @@ Ans- It makes the image expand to fill its parent element.
 Ans- Loaders are functions that generate URLs for the image and manage resizing for different screen sizes.
 
 (----------------------------------------------------------------------)
+
+606- What happens if you don’t provide width and height for remote images?
+
+Ans- You risk layout shift because Next.js can’t infer the aspect ratio without width and height properties.
+
+(----------------------------------------------------------------------)
+
