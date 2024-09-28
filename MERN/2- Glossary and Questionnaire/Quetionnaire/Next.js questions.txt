@@ -5653,3 +5653,9 @@ Ans- No, standalone output mode does not trace custom server files and cannot be
 Ans- By creating a server.js (or server.ts for TypeScript) file, using the next module, and configuring an HTTP server with createServer and app.getRequestHandler().
 
 (-------------------------------------------------------------------------)
+
+940- Why does server.js not run through the Next.js compiler or bundling process?
+
+Ans- server.js runs outside Next.js's build process, so it must be compatible with your current Node.js version.
+
+(-------------------------------------------------------------------------)
