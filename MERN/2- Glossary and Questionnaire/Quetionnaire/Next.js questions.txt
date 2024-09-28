@@ -5485,3 +5485,9 @@ Ans- npm install @next/mdx @mdx-js/loader @mdx-js/react @types/mdx.
 Ans- Update the next.config.mjs file to include MDX as a page extension and integrate it with the Next.js configuration.
 
 (-------------------------------------------------------------------------)
+
+912- What is the purpose of the mdx-components.tsx file?
+
+Ans- It defines global MDX components to customize how MDX content is rendered.
+
+(-------------------------------------------------------------------------)
