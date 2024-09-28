@@ -4847,3 +4847,10 @@ Ans- It loads and displays a YouTube video embed quickly using lite-youtube-embe
 Ans- Required: videoid.
 
 (--------------------------------------------------------------------------)
+
+808- What optional props can be passed to YouTubeEmbed?
+
+Ans- Width, Height, Playlabel, Params.
+
+(--------------------------------------------------------------------------)
+
