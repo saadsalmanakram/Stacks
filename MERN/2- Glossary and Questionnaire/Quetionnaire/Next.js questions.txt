@@ -4974,3 +4974,8 @@ Ans- Send a SIGUSR2 signal to the process while it's running with --experimental
 
 (--------------------------------------------------------------------------)
 
+829- What effect does the Webpack cache have on build performance and memory?
+
+Ans- While it improves build speed, it also increases memory usage to store cached data.
+
+(--------------------------------------------------------------------------)
