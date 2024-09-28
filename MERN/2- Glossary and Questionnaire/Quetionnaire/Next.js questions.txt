@@ -7096,3 +7096,9 @@ Ans- You can have zones for /blog/*, /dashboard/*, and a catch-all /* for the re
 Ans- Soft navigation occurs within the same zone without a page reload, while hard navigation occurs between zones, unloading the current page and loading a new one.
 
 (-------------------------------------------------------------------------)
+
+1178- How do you define a zone in a Next.js application?
+
+Ans- A zone is defined as a normal Next.js application configured with a basePath in next.config.js.
+
+(-------------------------------------------------------------------------)
