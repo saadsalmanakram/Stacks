@@ -5357,3 +5357,9 @@ Ans- Default .env files should be committed, while sensitive values should be ex
 Ans- runtimeConfig does not work with standalone output mode and is not ideal for dynamic rendering.
 
 (-------------------------------------------------------------------------)
+
+892- How can you pull environment variables from Vercel to a local .env.local file?
+
+Ans- You can use the command vercel env pull to download the variables to a local .env.local file.
+
+(-------------------------------------------------------------------------)
