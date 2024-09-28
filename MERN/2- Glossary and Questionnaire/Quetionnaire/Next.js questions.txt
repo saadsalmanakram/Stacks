@@ -4674,3 +4674,9 @@ Ans- It ensures that Node-specific OpenTelemetry packages are only imported in N
 
 (----------------------------------------------------------------------)
 
+779- What are semantic conventions in OpenTelemetry?
+
+Ans- Semantic conventions are standardized attributes used across spans to provide consistency in telemetry data.
+
+(----------------------------------------------------------------------)
+
