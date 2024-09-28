@@ -6253,3 +6253,9 @@ Ans- npm install -D jest jest-environment-jsdom @testing-library/react @testing-
 Ans- Run npm init jest@latest to create a jest.config.ts|js file.
 
 (-------------------------------------------------------------------------)
+
+1039- What is the purpose of the next/jest transformer?
+
+Ans- It configures Jest to work seamlessly with Next.js, handling styles, images, and environment variables.
+
+(-------------------------------------------------------------------------)
