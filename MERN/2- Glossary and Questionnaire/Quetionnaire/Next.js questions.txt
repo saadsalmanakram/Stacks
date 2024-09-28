@@ -5159,3 +5159,9 @@ Ans- You can choose between "Strict" and "Base" configurations during setup.
 Ans- It runs ESLint in a Next.js application, checking for code quality and style issues.
 
 (-------------------------------------------------------------------------)
+
+860- What happens when ESLint is set up in a Next.js project?
+
+Ans- ESLint will automatically run during each build (next build), failing the build on errors.
+
+(-------------------------------------------------------------------------)
