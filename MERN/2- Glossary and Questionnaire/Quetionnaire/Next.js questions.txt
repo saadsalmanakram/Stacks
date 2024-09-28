@@ -4476,3 +4476,9 @@ Ans- CLS quantifies how much the layout of the web page shifts unexpectedly duri
 
 (----------------------------------------------------------------------)
 
+736- How can you collect and track real user performance on your site using Web Vitals?
+
+Ans- You can send Web Vitals metrics to external services, track the data, and use it to analyze and improve performance.
+
+(----------------------------------------------------------------------)
+
