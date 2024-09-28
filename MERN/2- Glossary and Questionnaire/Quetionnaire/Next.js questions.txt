@@ -3264,3 +3264,9 @@ Ans- CSS Modules locally scope CSS by creating unique class names, ideal for com
 
 (-----------------------------------------------------------------------)
 
+533- How do you enable CSS Modules in Next.js?
+
+Ans- By using the .module.css or .module.sass extensions.
+
+(-----------------------------------------------------------------------)
+
