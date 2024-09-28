@@ -3503,3 +3503,10 @@ Ans- Next.js uses the sass package by default for Sass implementation.
 Ans- Import the variable from the Sass module and use it inline, e.g., style={{ color: variables.primaryColor }}.
 
 (----------------------------------------------------------------------)
+
+573- What is CSS-in-JS?
+
+Ans- CSS-in-JS is a technique for writing CSS directly within JavaScript, often used in modern React-based applications.
+
+(----------------------------------------------------------------------)
+
