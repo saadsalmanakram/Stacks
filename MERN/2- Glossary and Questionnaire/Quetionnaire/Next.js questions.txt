@@ -6133,3 +6133,9 @@ Ans- E2E testing simulates real user interactions by testing user flows in a pro
 Ans- Snapshot testing captures a component's output and compares it with a saved snapshot to detect unexpected changes.
 
 (-------------------------------------------------------------------------)
+
+1019- Why is End-to-End Testing recommended for Async Server Components?
+
+Ans- E2E testing is recommended for async Server Components as current tools do not fully support unit testing for them.
+
+(-------------------------------------------------------------------------)
