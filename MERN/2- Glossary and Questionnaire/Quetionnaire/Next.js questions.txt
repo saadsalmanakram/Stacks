@@ -3395,3 +3395,11 @@ Ans- In the content array inside tailwind.config.js.
 Ans- Add './src/**/*.{js,ts,jsx,tsx,mdx}' to the content array in tailwind.config.js.
 
 (-----------------------------------------------------------------------)
+
+555- Where should you add the Tailwind CSS directives for global styles?
+
+Ans- Add them to a global stylesheet like globals.css.
+
+(-----------------------------------------------------------------------)
+
+
