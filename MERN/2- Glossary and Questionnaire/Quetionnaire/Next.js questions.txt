@@ -3461,3 +3461,9 @@ Ans- Next.js supports both .scss and .sass extensions.
 Ans- .scss follows SCSS syntax (superset of CSS), while .sass uses Indented Syntax (more concise).
 
 (----------------------------------------------------------------------)
+
+566- How do you use component-level Sass with CSS Modules in Next.js?
+
+Ans- Use the .module.scss or .module.sass extension for component-level Sass in Next.js.
+
+(----------------------------------------------------------------------)
