@@ -6694,3 +6694,15 @@ Ans- Middleware allows for custom server-side logic and can handle requests befo
 Ans- Server-side variables can be accessed directly, while public variables need the NEXT_PUBLIC_ prefix to be exposed to the client.
 
 (-------------------------------------------------------------------------)
+
+1111- What is Incremental Static Regeneration (ISR)?
+
+Ans- ISR allows pages to be updated after initial build time, with cache management handled through defined revalidation times.
+
+(-------------------------------------------------------------------------)
+
+1112- How does Next.js cache static assets?
+
+Ans- Next.js sets Cache-Control headers for public, immutable assets to enable long-term caching.
+
+(-------------------------------------------------------------------------)
