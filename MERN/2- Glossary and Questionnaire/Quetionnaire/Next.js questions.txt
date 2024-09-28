@@ -3893,3 +3893,10 @@ Ans- It defers video loading until the video is needed, reducing initial load ti
 Ans- It enables the video content to be viewed in full-screen mode.
 
 (----------------------------------------------------------------------)
+
+638- What is the purpose of using skeleton loaders with video components?
+
+Ans- To improve user experience by showing a placeholder while the video is being loaded.
+
+(----------------------------------------------------------------------)
+
