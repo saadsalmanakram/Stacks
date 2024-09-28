@@ -3563,3 +3563,9 @@ Ans- Styles are appended to a global registry and dynamically handled by styled-
 Ans- It prevents re-generating styles on subsequent renders and reduces the payload size sent to the client.
 
 (----------------------------------------------------------------------)
+
+583- Why is it recommended to use CSS Modules or PostCSS for Server Components?
+
+Ans- These tools output static CSS files, which are compatible with Server Components without requiring runtime JavaScript.
+
+(----------------------------------------------------------------------)
