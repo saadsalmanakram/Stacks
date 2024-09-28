@@ -5774,8 +5774,11 @@ Ans- Use a custom URL containing a secret token and the desired page slug to ena
 
 (-------------------------------------------------------------------------)
 
+960- What is the role of a secret token in Draft Mode?
 
+Ans- The secret token ensures that only authorized requests from the headless CMS can trigger Draft Mode.
 
+(-------------------------------------------------------------------------)
 
 
 
