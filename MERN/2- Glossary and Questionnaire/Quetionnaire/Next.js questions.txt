@@ -6616,3 +6616,9 @@ Ans- Because they may share data between users and can pose security risks if no
 Ans- By using encryption for session data, implementing secure cookie practices, and performing server-side validation.
 
 (-------------------------------------------------------------------------)
+
+1098- What should be the approach for checking user authentication in layouts?
+
+Ans- Perform checks in the DAL to ensure consistent authorization across components rather than relying solely on layout checks.
+
+(-------------------------------------------------------------------------)
