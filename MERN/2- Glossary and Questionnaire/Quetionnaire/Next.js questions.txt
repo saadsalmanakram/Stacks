@@ -3828,3 +3828,9 @@ Ans- Ensure the video is responsive, use lazy loading (loading="lazy"), and incl
 
 (----------------------------------------------------------------------)
 
+627- What is the function of React Suspense in video embedding?
+
+Ans- It helps display fallback content (e.g., loading skeleton) while the video component or data is loading.
+
+(----------------------------------------------------------------------)
+
