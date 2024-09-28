@@ -4355,3 +4355,9 @@ Ans- Pass a loading component as an option in next/dynamic().
 Ans- Yes, by returning the named export from the import() Promise.
 
 (----------------------------------------------------------------------)
+
+716- Why use React.lazy() and Suspense in Next.js?
+
+Ans- To handle lazy loading of components with support for fallback content.
+
+(----------------------------------------------------------------------)
