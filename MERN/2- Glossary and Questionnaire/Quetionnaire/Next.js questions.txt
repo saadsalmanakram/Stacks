@@ -4296,3 +4296,9 @@ Ans- Lazy loading improves initial loading performance by loading JavaScript onl
 
 (----------------------------------------------------------------------)
 
+706- What is the purpose of lazy loading Client Components?
+
+Ans- It defers the loading of Client Components to reduce the client bundle size.
+
+(----------------------------------------------------------------------)
+
