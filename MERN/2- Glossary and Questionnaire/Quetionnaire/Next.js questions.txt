@@ -5099,3 +5099,9 @@ Ans- It initializes a new Next.js project with TypeScript set up by default, alo
 Ans- ESLint is a static code analysis tool for identifying problematic patterns in JavaScript code.
 
 (-------------------------------------------------------------------------)
+
+850- Why use ESLint?
+
+Ans- To maintain code quality and consistency by catching syntax errors and enforcing coding standards.
+
+(-------------------------------------------------------------------------)
