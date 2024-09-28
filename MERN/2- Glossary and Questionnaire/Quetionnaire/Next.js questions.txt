@@ -5990,3 +5990,8 @@ Ans- It can significantly slow down Fast Refresh during development.
 
 (-------------------------------------------------------------------------)
 
+995- What is a Progressive Web Application (PWA)?
+
+Ans- A PWA is a web application that delivers a native app-like experience on the web with features like offline access, push notifications, and home screen installation.
+
+(-------------------------------------------------------------------------)
