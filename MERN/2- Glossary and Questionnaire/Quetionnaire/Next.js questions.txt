@@ -4008,3 +4008,8 @@ Ans- It defines metadata through a static object or dynamic function in layout.j
 
 (----------------------------------------------------------------------)
 
+658- How does File-based Metadata work?
+
+Ans- It involves adding special files to route segments like favicon.ico, opengraph-image.jpg, etc.
+
+(----------------------------------------------------------------------)
