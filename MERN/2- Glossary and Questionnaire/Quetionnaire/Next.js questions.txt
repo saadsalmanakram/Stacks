@@ -5906,3 +5906,15 @@ Ans- You can read the nonce from a server component using the headers().get('x-n
 
 (-------------------------------------------------------------------------)
 
+981- What happens if you don't use nonces with CSP? 
+
+Ans- Without nonces, inline scripts must be avoided or explicitly marked as safe using 'unsafe-inline', which is not recommended.
+
+(-------------------------------------------------------------------------)
+
+982- Where can you directly set the CSP header without using nonces in Next.js?
+
+Ans- You can set the CSP header directly in the next.config.js file for applications that do not require nonces.
+
+(-------------------------------------------------------------------------)
+
