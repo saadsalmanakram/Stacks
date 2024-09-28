@@ -4704,3 +4704,9 @@ Ans- Static assets can be referenced starting from the base URL, such as /avatar
 
 (----------------------------------------------------------------------)
 
+784- What would the path be for a file located at public/images/pic.jpg?
+
+Ans- The file would be available at /images/pic.jpg in the browser.
+
+(----------------------------------------------------------------------)
+
