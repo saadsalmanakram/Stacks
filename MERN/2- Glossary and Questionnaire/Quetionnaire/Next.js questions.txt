@@ -6928,3 +6928,9 @@ Ans- TypeScript improves type safety, helping catch errors early in development.
 Ans- It builds the application locally to catch any potential build errors.
 
 (-------------------------------------------------------------------------)
+
+1150- How can you measure production performance with Next.js?
+
+Ans- By running next start to test the application in a production-like environment.
+
+(-------------------------------------------------------------------------)
