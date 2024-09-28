@@ -6736,3 +6736,9 @@ Ans- Disable buffering in your proxy settings, like setting X-Accel-Buffering to
 Ans- It allows certain pages to be prerendered while still being dynamic, working by default with Next.js deployments that aren't on a CDN.
 
 (-------------------------------------------------------------------------)
+
+1118- What is the recommended way to expose runtime environment variables?
+
+Ans- Use getServerSideProps or incrementally adopt the App Router for safe access to environment variables.
+
+(-------------------------------------------------------------------------)
