@@ -5375,3 +5375,9 @@ Ans- Use a backslash to escape special characters like $ in variable values.
 Ans- The .env.test file allows for setting environment variables specific to the testing environment, ensuring consistent testing conditions.
 
 (-------------------------------------------------------------------------)
+
+895- What are absolute imports in Next.js?
+
+Ans- Absolute imports allow you to import modules using a path that is relative to the root of your project, simplifying the import statements.
+
+(-------------------------------------------------------------------------)
