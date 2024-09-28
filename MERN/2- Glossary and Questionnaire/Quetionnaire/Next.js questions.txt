@@ -6496,3 +6496,10 @@ Ans- The command is npm run e2e:headless.
 Ans- You can set baseUrl: 'http://localhost:3000' in cypress.config.js to avoid hardcoding URLs in tests.
 
 (-------------------------------------------------------------------------)
+
+1078- Why should you use E2E testing for async Server Components?
+
+Ans- Since async Server Components are not supported in component testing, E2E testing is recommended for verifying their behavior.
+
+(-------------------------------------------------------------------------)
+
