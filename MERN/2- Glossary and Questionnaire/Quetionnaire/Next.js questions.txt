@@ -3888,3 +3888,8 @@ Ans- It defers video loading until the video is needed, reducing initial load ti
 
 (----------------------------------------------------------------------)
 
+637- What does the allowfullscreen attribute in the <iframe> tag do?
+
+Ans- It enables the video content to be viewed in full-screen mode.
+
+(----------------------------------------------------------------------)
