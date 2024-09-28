@@ -5051,3 +5051,16 @@ Ans- Incremental type checking speeds up the type checking process in larger app
 Ans- Instead of modifying next-env.d.ts, create a separate file (e.g., new-types.d.ts) for custom types and include it in your tsconfig.json.
 
 (-------------------------------------------------------------------------)
+
+842- What is the function of the experimental.typedRoutes option in Next.js?
+
+Ans- It enables the generation of type-safe route definitions, improving type safety when using dynamic routes with next/link.
+
+(-------------------------------------------------------------------------)
+
+843- How do path aliases work in Next.js?
+
+Ans- Next.js supports the paths and baseUrl options in tsconfig.json to create easier import paths throughout the application.
+
+(-------------------------------------------------------------------------)
+
