@@ -5780,6 +5780,12 @@ Ans- The secret token ensures that only authorized requests from the headless CM
 
 (-------------------------------------------------------------------------)
 
+961- What happens if the secret token or slug is invalid in the Draft Mode request handler?
+
+Ans- The request fails with a 401 error, indicating an invalid token or slug.
+
+(-------------------------------------------------------------------------)
+
 
 
 
