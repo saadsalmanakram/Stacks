@@ -6157,3 +6157,9 @@ Ans- Use snapshot testing to detect unexpected changes in the rendered output of
 Ans- Integration testing checks how multiple components work together, while unit testing focuses on testing individual components or functions in isolation.
 
 (-------------------------------------------------------------------------)
+
+1023- What are the limitations of Unit Testing for Async Server Components?
+
+Ans- Unit testing tools currently lack full support for async Server Components, making End-to-End Testing more suitable.
+
+(-------------------------------------------------------------------------)
