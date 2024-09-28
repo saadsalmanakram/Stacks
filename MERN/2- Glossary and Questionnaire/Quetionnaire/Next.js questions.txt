@@ -3335,3 +3335,9 @@ Ans- Prefer CSS Modules, import styles consistently, and avoid using automatic i
 Ans- By merging stylesheets and bundling them into minified .css files to reduce network requests.
 
 (-----------------------------------------------------------------------)
+
+545- How does Fast Refresh work with CSS in Next.js?
+
+Ans- In development mode, Fast Refresh instantly reflects changes to local stylesheets when saved.
+
+(-----------------------------------------------------------------------)
