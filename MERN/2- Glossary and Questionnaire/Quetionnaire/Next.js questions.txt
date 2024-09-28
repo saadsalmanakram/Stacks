@@ -3276,3 +3276,9 @@ Ans- It prevents class name collisions, allowing the same class names to be used
 
 (-----------------------------------------------------------------------)
 
+535- How are CSS Modules bundled in production?
+
+Ans- CSS Modules are concatenated into minified, code-split .css files to ensure minimal CSS is loaded.
+
+(-----------------------------------------------------------------------)
+
