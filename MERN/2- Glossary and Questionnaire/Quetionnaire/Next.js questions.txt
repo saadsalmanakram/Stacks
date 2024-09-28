@@ -6790,3 +6790,9 @@ Ans- Next.js caches data requests and rendered components to minimize network re
 Ans- They allow UI sharing across pages and enable partial rendering on navigation.
 
 (-------------------------------------------------------------------------)
+
+1127- What is the purpose of the <Link> component?
+
+Ans- It facilitates client-side navigation and prefetches linked routes.
+
+(-------------------------------------------------------------------------)
