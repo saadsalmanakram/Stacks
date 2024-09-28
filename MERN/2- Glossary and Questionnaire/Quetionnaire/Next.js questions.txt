@@ -3689,3 +3689,10 @@ Ans- It prioritizes the loading of the Largest Contentful Paint (LCP) element, b
 Ans- They define allowed URL patterns for optimizing remote images, providing security against malicious usage.
 
 (----------------------------------------------------------------------)
+
+604- What does the fill prop do in the Image component?
+
+Ans- It makes the image expand to fill its parent element.
+
+(----------------------------------------------------------------------)
+
