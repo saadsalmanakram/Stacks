@@ -5839,3 +5839,9 @@ Ans- Update your page to check the draftMode().isEnabled value to conditionally 
 Ans- CSP is a security feature that helps protect web applications from threats like XSS, clickjacking, and code injection by controlling the sources of content.
 
 (-------------------------------------------------------------------------)
+
+971- Why is CSP important for Next.js applications?
+
+Ans- CSP guards Next.js applications against common security risks, enhancing overall security by limiting which resources can be loaded.
+
+(-------------------------------------------------------------------------)
