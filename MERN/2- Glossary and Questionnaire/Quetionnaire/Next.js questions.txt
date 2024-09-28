@@ -4373,3 +4373,10 @@ Ans- It helps optimize the client-side bundle by loading components only when ne
 Ans- Lazy loading applies only to Client Components, while Server Components handle their own SSR.
 
 (----------------------------------------------------------------------)
+
+719- Why might you disable SSR for certain components?
+
+Ans- To avoid unnecessary server-side rendering for components that are client-side only.
+
+(----------------------------------------------------------------------)
+
