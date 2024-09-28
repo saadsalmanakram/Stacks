@@ -4745,3 +4745,16 @@ Ans- Files added after build time will not be served by Next.js.
 Ans- These should be placed inside the special metadata files in the app folder, not in public.
 
 (----------------------------------------------------------------------)
+
+791- What would you use for persistent file storage in Next.js?
+
+Ans- A third-party service like Vercel Blob is recommended for persistent file storage.
+
+(----------------------------------------------------------------------)
+
+792- What is the correct way to display an image from the public folder in a Next.js component?
+
+Ans- Use the <Image> component with the src starting from the base URL, like /avatars/{id}.png.
+
+(----------------------------------------------------------------------)
+
