@@ -5461,3 +5461,9 @@ Ans- It uses plain text syntax to convert text into structurally valid HTML elem
 Ans- MDX is a superset of Markdown that allows embedding JSX directly within Markdown files.
 
 (-------------------------------------------------------------------------)
+
+908- What is the main benefit of using MDX?
+
+Ans- It enables dynamic interactivity by allowing React components to be used within Markdown content.
+
+(-------------------------------------------------------------------------)
