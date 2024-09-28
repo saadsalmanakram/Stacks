@@ -5749,3 +5749,10 @@ Ans- Set the turbo option to true when initializing the next function.
 Ans- Draft Mode allows previewing draft content from your headless CMS by switching to dynamic rendering without rebuilding the site.
 
 (-------------------------------------------------------------------------)
+
+956- How do you enable Draft Mode in Next.js?
+
+Ans- Create a route handler and use the draftMode().enable() method to enable Draft Mode by setting a cookie.
+
+(-------------------------------------------------------------------------)
+
