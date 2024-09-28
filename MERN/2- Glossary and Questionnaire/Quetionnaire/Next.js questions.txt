@@ -5605,3 +5605,9 @@ Ans- Other folders like /components or /lib are typically moved to the src direc
 Ans- Middleware should be placed inside the src directory.
 
 (-------------------------------------------------------------------------)
+
+932- What additional configuration is required for Tailwind CSS when using the src directory?
+
+Ans- Add the /src prefix to the content section of the tailwind.config.js file.
+
+(-------------------------------------------------------------------------)
