@@ -3774,3 +3774,9 @@ Ans- By allowing remote image URLs and manually setting width and height to avoi
 
 (----------------------------------------------------------------------)
 
+618- What is the difference between using a local image and a remote image with the Image component?
+
+Ans- Local images automatically infer size, while remote images require manual size definition for optimization.
+
+(----------------------------------------------------------------------)
+
