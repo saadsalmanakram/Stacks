@@ -6391,3 +6391,9 @@ Ans- Running tests against production code closely resembles how the application
 Ans- You can configure Playwright to use the webServer feature for automatic server startup.
 
 (-------------------------------------------------------------------------)
+
+1062- What is the advantage of using Playwright’s expect function?
+
+Ans- The expect function allows for easy assertions on the page state, such as URL checks and element content validation.
+
+(-------------------------------------------------------------------------)
