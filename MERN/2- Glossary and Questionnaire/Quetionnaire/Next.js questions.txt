@@ -5363,3 +5363,9 @@ Ans- runtimeConfig does not work with standalone output mode and is not ideal fo
 Ans- You can use the command vercel env pull to download the variables to a local .env.local file.
 
 (-------------------------------------------------------------------------)
+
+893- How can you handle escaping special characters in environment variable values?
+
+Ans- Use a backslash to escape special characters like $ in variable values.
+
+(-------------------------------------------------------------------------)
