@@ -4062,3 +4062,8 @@ Ans- It generates dynamic images, such as Open Graph images, using JSX and CSS.
 
 (----------------------------------------------------------------------)
 
+667- What is JSON-LD, and how is it used in Next.js?
+
+Ans- JSON-LD is a format for structured data that helps search engines understand content, typically rendered as a <script> tag.
+
+(----------------------------------------------------------------------)
