@@ -6958,3 +6958,9 @@ Ans- It helps analyze JavaScript bundle sizes and identifies performance impacts
 Ans- A dashboard for tracking traffic metrics like unique visitors and page views.
 
 (-------------------------------------------------------------------------)
+
+1155- How can Speed Insights improve your application?
+
+Ans- By providing real-world performance insights based on user data.
+
+(-------------------------------------------------------------------------)
