@@ -5647,3 +5647,9 @@ Ans- Custom servers cannot be deployed on Vercel, and they lack performance opti
 Ans- No, standalone output mode does not trace custom server files and cannot be used with a custom server.
 
 (-------------------------------------------------------------------------)
+
+939- How do you set up a basic custom server in Next.js?
+
+Ans- By creating a server.js (or server.ts for TypeScript) file, using the next module, and configuring an HTTP server with createServer and app.getRequestHandler().
+
+(-------------------------------------------------------------------------)
