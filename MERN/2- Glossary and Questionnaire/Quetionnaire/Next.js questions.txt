@@ -4332,3 +4332,9 @@ Ans- No, it is not allowed with next/dynamic in Server Components.
 
 (----------------------------------------------------------------------)
 
+712- What happens if you dynamically import a Server Component?
+
+Ans- Only its Client Component children will be lazy-loaded.
+
+(----------------------------------------------------------------------)
+
