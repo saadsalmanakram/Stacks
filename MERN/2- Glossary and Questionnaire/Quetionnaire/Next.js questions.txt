@@ -5599,3 +5599,9 @@ Ans- The src/app directory will be ignored if app is present in the root directo
 Ans- Other folders like /components or /lib are typically moved to the src directory.
 
 (-------------------------------------------------------------------------)
+
+931- Where should Middleware be placed when using the src directory in Next.js?
+
+Ans- Middleware should be placed inside the src directory.
+
+(-------------------------------------------------------------------------)
