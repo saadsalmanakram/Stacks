@@ -4985,3 +4985,10 @@ Ans- While it improves build speed, it also increases memory usage to store cach
 Ans- TypeScript is a superset of JavaScript that adds static typing and other features to enhance code quality and developer productivity.
 
 (--------------------------------------------------------------------------)
+
+831- How do you enable TypeScript in a Next.js project?
+
+Ans- You can enable TypeScript by renaming files to .ts or .tsx and running next dev, which will install necessary dependencies and create a tsconfig.json.
+
+(--------------------------------------------------------------------------)
+
