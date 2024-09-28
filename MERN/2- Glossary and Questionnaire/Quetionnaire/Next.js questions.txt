@@ -3467,3 +3467,9 @@ Ans- .scss follows SCSS syntax (superset of CSS), while .sass uses Indented Synt
 Ans- Use the .module.scss or .module.sass extension for component-level Sass in Next.js.
 
 (----------------------------------------------------------------------)
+
+567- How do you customize Sass options in Next.js?
+
+Ans- Use the sassOptions property in next.config.js or next.config.ts to configure Sass options.
+
+(----------------------------------------------------------------------)
