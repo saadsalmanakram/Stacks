@@ -4133,3 +4133,9 @@ Ans- Include the script in the root layout, ensuring it loads once for the entir
 Ans- afterInteractive, which loads the script after some hydration on the page occurs.
 
 (----------------------------------------------------------------------)
+
+679- What does the beforeInteractive strategy do in Next.js?
+
+Ans- It loads the script before any Next.js code or page hydration.
+
+(----------------------------------------------------------------------)
