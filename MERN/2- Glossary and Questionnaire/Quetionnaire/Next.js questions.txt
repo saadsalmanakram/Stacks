@@ -4511,3 +4511,10 @@ Ans- Instrumentation involves adding code to track the performance, behavior, an
 Ans- It helps monitor application performance and aids in debugging production issues.
 
 (----------------------------------------------------------------------)
+
+742- How do you set up instrumentation in a Next.js project?
+
+Ans- Create an instrumentation.ts|js file and export a register function that is called when the Next.js server instance starts.
+
+(----------------------------------------------------------------------)
+
