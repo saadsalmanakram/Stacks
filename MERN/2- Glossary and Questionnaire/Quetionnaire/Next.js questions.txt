@@ -3455,3 +3455,9 @@ Ans- Use the command npm install --save-dev sass to install Sass in a Next.js pr
 Ans- Next.js supports both .scss and .sass extensions.
 
 (----------------------------------------------------------------------)
+
+565- What is the difference between the .scss and .sass syntax?
+
+Ans- .scss follows SCSS syntax (superset of CSS), while .sass uses Indented Syntax (more concise).
+
+(----------------------------------------------------------------------)
