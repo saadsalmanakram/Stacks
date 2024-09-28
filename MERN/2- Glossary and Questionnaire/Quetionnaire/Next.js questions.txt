@@ -7054,3 +7054,9 @@ Ans- Use effects or conditional checks to ensure code runs only in the browser e
 Ans- Dynamic routes, server-side cookies, redirects, middleware, and any Node.js-dependent logic are not supported.
 
 (-------------------------------------------------------------------------)
+
+1171- What happens if you use unsupported features with next dev?
+
+Ans- An error occurs, similar to setting the dynamic option to error in the root layout.
+
+(-------------------------------------------------------------------------)
