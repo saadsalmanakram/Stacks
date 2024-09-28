@@ -6814,3 +6814,9 @@ Ans- They guide the use of Server and Client Components to optimize JavaScript b
 Ans- Dynamic functions can make entire routes dynamic; wrap them in <Suspense> boundaries if needed.
 
 (-------------------------------------------------------------------------)
+
+1131- What are the benefits of Server Components for data fetching?
+
+Ans- They allow server-side data fetching, reducing client-side workload.
+
+(-------------------------------------------------------------------------)
