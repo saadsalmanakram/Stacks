@@ -6640,3 +6640,9 @@ Ans- By implementing try-catch blocks and returning null or default values in ca
 Ans- You can deploy using Vercel, a Node.js server, Docker, or as static HTML files.
 
 (-------------------------------------------------------------------------)
+
+1102- How does the next build command function?
+
+Ans- It generates an optimized production version of your application, creating minified HTML, CSS, and JavaScript files.
+
+(-------------------------------------------------------------------------)
