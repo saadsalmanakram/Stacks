@@ -4086,3 +4086,9 @@ Ans- The maximum bundle size is 500KB.
 
 (----------------------------------------------------------------------)
 
+671- What file formats are supported for fonts in dynamic image generation?
+
+Ans- ttf, otf, and woff formats are supported.
+
+(----------------------------------------------------------------------)
+
