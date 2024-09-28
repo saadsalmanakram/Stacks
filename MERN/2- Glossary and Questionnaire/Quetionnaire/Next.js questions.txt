@@ -4302,3 +4302,8 @@ Ans- It defers the loading of Client Components to reduce the client bundle size
 
 (----------------------------------------------------------------------)
 
+707- What are two ways to implement lazy loading in Next.js?
+
+Ans- Using next/dynamic and React.lazy() with Suspense.
+
+(----------------------------------------------------------------------)
