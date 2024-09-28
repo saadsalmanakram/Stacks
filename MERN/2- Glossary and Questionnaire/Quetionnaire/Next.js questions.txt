@@ -3659,3 +3659,11 @@ Ans- The /public folder serves static assets like images and fonts, which can be
 Ans- Next.js integrates with tools like OpenTelemetry for application performance monitoring and instrumentation.
 
 (----------------------------------------------------------------------)
+
+599- What is the purpose of Next.js Image Optimization?
+
+Ans- It optimizes images for faster page loads by serving the correct image size for each device and using modern formats like WebP and AVIF.
+
+(----------------------------------------------------------------------)
+
+
