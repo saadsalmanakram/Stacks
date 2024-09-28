@@ -4782,3 +4782,21 @@ Ans- No, it is currently experimental and under active development.
 
 (--------------------------------------------------------------------------)
 
+797- How do you include Google Tag Manager in a Next.js application?
+
+Ans- Import the GoogleTagManager component and pass your GTM container ID in your root layout or specific page file.
+
+(--------------------------------------------------------------------------)
+
+798- What is the function of the sendGTMEvent method?
+
+Ans- It tracks user interactions by sending events to the Google Tag Manager using the dataLayer object.
+
+(--------------------------------------------------------------------------)
+
+799- What options can be passed to the GoogleTagManager component?
+
+Ans- Required: gtmId, Optional: gtmScriptUrl, dataLayer, dataLayerName, auth, preview.
+
+(--------------------------------------------------------------------------)
+
