@@ -4500,3 +4500,14 @@ Ans- TTFB helps assess the server's responsiveness and overall network latency f
 
 (----------------------------------------------------------------------)
 
+740- What is instrumentation in software applications?
+
+Ans- Instrumentation involves adding code to track the performance, behavior, and issues within an application.
+
+(----------------------------------------------------------------------)
+
+741- What is the purpose of using instrumentation in an application?
+
+Ans- It helps monitor application performance and aids in debugging production issues.
+
+(----------------------------------------------------------------------)
