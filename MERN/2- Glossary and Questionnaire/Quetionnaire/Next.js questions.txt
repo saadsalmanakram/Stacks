@@ -6127,3 +6127,9 @@ Ans- Integration testing checks how multiple components, hooks, or functions wor
 Ans- E2E testing simulates real user interactions by testing user flows in a production-like environment, such as a browser.
 
 (-------------------------------------------------------------------------)
+
+1018- What is Snapshot Testing in React?
+
+Ans- Snapshot testing captures a component's output and compares it with a saved snapshot to detect unexpected changes.
+
+(-------------------------------------------------------------------------)
