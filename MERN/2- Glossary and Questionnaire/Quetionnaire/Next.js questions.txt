@@ -5291,3 +5291,9 @@ Ans- .env files should be placed in the root of the project, not within the /src
 Ans- After the build, NEXT_PUBLIC_ variables are inlined into the JavaScript bundle and do not change at runtime.
 
 (-------------------------------------------------------------------------)
+
+881- How do you reference other environment variables in .env files?
+
+Ans- You can reference other variables by using the $ symbol, like $VARIABLE_NAME.
+
+(-------------------------------------------------------------------------)
