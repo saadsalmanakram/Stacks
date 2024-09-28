@@ -6718,3 +6718,9 @@ Ans- The page will include a Cache-Control: private response header to prevent c
 Ans- Configure a shared cache by using a custom cache handler to ensure consistency across pods.
 
 (-------------------------------------------------------------------------)
+
+1115- What is version skew in Next.js, and how is it handled?
+
+Ans- Version skew occurs when different versions of an app are served to users, and Next.js mitigates this by reloading applications to fetch new assets.
+
+(-------------------------------------------------------------------------)
