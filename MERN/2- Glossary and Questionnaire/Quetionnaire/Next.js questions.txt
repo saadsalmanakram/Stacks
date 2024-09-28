@@ -4049,3 +4049,9 @@ Ans- <meta charset="utf-8" /> and <meta name="viewport" content="width=device-wi
 Ans- Metadata is evaluated in order, from root to the closest page.js segment.
 
 (----------------------------------------------------------------------)
+
+665- What happens if multiple segments export Metadata objects?
+
+Ans- They are shallowly merged, with later segments overwriting earlier ones.
+
+(----------------------------------------------------------------------)
