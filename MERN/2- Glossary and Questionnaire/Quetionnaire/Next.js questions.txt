@@ -6049,3 +6049,9 @@ Ans- Push notifications are managed via service workers and Web Push APIs, enabl
 Ans- VAPID (Voluntary Application Server Identification) keys authenticate your push notifications and allow browsers to verify their origin.
 
 (-------------------------------------------------------------------------)
+
+1005- How do you register a service worker in a Next.js PWA?
+
+Ans- A service worker is registered using the navigator.serviceWorker.register method in the client-side JavaScript code.
+
+(-------------------------------------------------------------------------)
