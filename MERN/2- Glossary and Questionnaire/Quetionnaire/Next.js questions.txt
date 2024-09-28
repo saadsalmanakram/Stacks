@@ -3599,3 +3599,9 @@ Ans- It wraps components and ensures proper style injection during server render
 Ans- Styles from each chunk are dynamically collected and appended as chunks are streamed to the client.
 
 (----------------------------------------------------------------------)
+
+589- How does Next.js optimize application performance?
+
+Ans- Next.js provides built-in optimizations like image lazy loading, prefetching links, and script control to improve speed and Core Web Vitals.
+
+(----------------------------------------------------------------------)
