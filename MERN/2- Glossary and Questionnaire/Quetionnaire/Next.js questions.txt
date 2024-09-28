@@ -4044,3 +4044,8 @@ Ans- <meta charset="utf-8" /> and <meta name="viewport" content="width=device-wi
 
 (----------------------------------------------------------------------)
 
+664- How is metadata evaluated across multiple segments?
+
+Ans- Metadata is evaluated in order, from root to the closest page.js segment.
+
+(----------------------------------------------------------------------)
