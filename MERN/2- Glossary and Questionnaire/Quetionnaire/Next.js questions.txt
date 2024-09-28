@@ -4716,3 +4716,9 @@ Ans- Next.js cannot safely cache assets in the public folder and applies the cac
 
 (----------------------------------------------------------------------)
 
+786- Why is caching disabled for assets in the public folder by default?
+
+Ans- Because assets in the public folder might change, making them unsafe to cache.
+
+(----------------------------------------------------------------------)
+
