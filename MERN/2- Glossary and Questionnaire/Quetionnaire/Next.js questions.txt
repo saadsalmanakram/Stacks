@@ -3750,3 +3750,9 @@ Ans- The built-in Next.js Image Optimization API handles automatic optimization 
 
 (----------------------------------------------------------------------)
 
+614- What is Cumulative Layout Shift (CLS) and how does Next.js prevent it with images?
+
+Ans- CLS is when elements move around while loading, and Next.js prevents it by reserving space for images based on their size.
+
+(----------------------------------------------------------------------)
+
