@@ -6091,3 +6091,9 @@ Ans- Use next dev --experimental-https to run your Next.js application with HTTP
 Ans- Security headers like X-Content-Type-Options, X-Frame-Options, and Referrer-Policy can be configured in next.config.js to secure the PWA.
 
 (-------------------------------------------------------------------------)
+
+1012- How does the X-Content-Type-Options header improve PWA security?
+
+Ans- It prevents browsers from interpreting files as a different MIME type, reducing exposure to certain types of attacks.
+
+(-------------------------------------------------------------------------)
