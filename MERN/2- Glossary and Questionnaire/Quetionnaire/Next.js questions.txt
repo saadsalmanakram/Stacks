@@ -5569,3 +5569,9 @@ Ans- By returning customized components within the useMDXComponents function in 
 Ans- It separates application code from project configuration files for better project organization.
 
 (-------------------------------------------------------------------------)
+
+926- Which folders should be moved when using the src directory in Next.js?
+
+Ans- The app Router folder or pages Router folder should be moved to src/app or src/pages, respectively.
+
+(-------------------------------------------------------------------------)
