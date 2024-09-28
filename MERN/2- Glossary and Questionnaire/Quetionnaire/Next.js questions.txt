@@ -3443,3 +3443,9 @@ Ans- You can extend it by adding custom plugins in the plugins array of tailwind
 Ans- No, it is not necessary to modify postcss.config.js for basic Tailwind setup.
 
 (----------------------------------------------------------------------)
+
+563- How do you install Sass in a Next.js project?
+
+Ans- Use the command npm install --save-dev sass to install Sass in a Next.js project.
+
+(----------------------------------------------------------------------)
