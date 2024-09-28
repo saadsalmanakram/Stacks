@@ -5437,3 +5437,10 @@ Ans- They reduce the complexity of import paths, making the code cleaner and eas
 Ans- Yes, you can set baseUrl to any subdirectory, allowing you to resolve imports relative to that specific directory.
 
 (-------------------------------------------------------------------------)
+
+904- What happens if you do not configure baseUrl or paths in your Next.js project?
+
+Ans- If neither baseUrl nor paths is configured, you would have to use relative paths, which can become cumbersome and error-prone as the project structure grows.
+
+(-------------------------------------------------------------------------)
+
