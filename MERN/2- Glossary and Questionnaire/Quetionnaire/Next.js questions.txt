@@ -5087,3 +5087,9 @@ Ans- You can use generics to define typed href props, ensuring that only valid r
 Ans- It simplifies data flow between components, making it easier to type and reducing bugs related to data serialization between pages.
 
 (-------------------------------------------------------------------------)
+
+848- What happens when you run npx create-next-app@latest?
+
+Ans- It initializes a new Next.js project with TypeScript set up by default, along with the necessary configurations and dependencies.
+
+(-------------------------------------------------------------------------)
