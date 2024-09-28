@@ -7078,3 +7078,9 @@ Ans- Use try_files and rewrite directives in the Nginx configuration to serve th
 Ans- Multi-Zones separate a large application into smaller Next.js applications that each serve a specific set of paths.
 
 (-------------------------------------------------------------------------)
+
+1175- Why use Multi-Zones?
+
+Ans- They improve build times and reduce the size of applications by isolating unrelated pages into separate zones.
+
+(-------------------------------------------------------------------------)
