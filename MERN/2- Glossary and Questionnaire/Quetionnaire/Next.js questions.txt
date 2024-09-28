@@ -6646,3 +6646,9 @@ Ans- You can deploy using Vercel, a Node.js server, Docker, or as static HTML fi
 Ans- It generates an optimized production version of your application, creating minified HTML, CSS, and JavaScript files.
 
 (-------------------------------------------------------------------------)
+
+1103- What is the role of Vercel in deploying Next.js?
+
+Ans- Vercel offers managed infrastructure for Next.js, providing zero-configuration deployments with enhanced scalability and performance.
+
+(-------------------------------------------------------------------------)
