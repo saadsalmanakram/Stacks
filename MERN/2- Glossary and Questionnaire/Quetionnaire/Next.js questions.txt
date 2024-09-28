@@ -5351,3 +5351,9 @@ Ans- You should create an API to provide the runtime environment values to the c
 Ans- Default .env files should be committed, while sensitive values should be excluded or kept in a secure location.
 
 (-------------------------------------------------------------------------)
+
+891- Why is it not recommended to use the runtimeConfig option in Next.js?
+
+Ans- runtimeConfig does not work with standalone output mode and is not ideal for dynamic rendering.
+
+(-------------------------------------------------------------------------)
