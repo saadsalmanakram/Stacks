@@ -5539,3 +5539,9 @@ Ans- It provides a set of prose classes for adding typographic styles to Markdow
 Ans- MDX files can be treated as routes, allowing for navigation directly to MDX content like standard pages.
 
 (-------------------------------------------------------------------------)
+
+921- What are the potential security concerns with remote MDX?
+
+Ans- Fetching and executing MDX from untrusted sources can lead to remote code execution vulnerabilities.
+
+(-------------------------------------------------------------------------)
