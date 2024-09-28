@@ -4163,3 +4163,9 @@ Ans- Enable nextScriptWorkers in next.config.js and install Partytown.
 Ans- Inline scripts can be included directly with curly braces or by using dangerouslySetInnerHTML.
 
 (----------------------------------------------------------------------)
+
+684- Why must you assign an id to inline scripts in Next.js?
+
+Ans- The id is necessary for Next.js to track and optimize the inline script.
+
+(----------------------------------------------------------------------)
