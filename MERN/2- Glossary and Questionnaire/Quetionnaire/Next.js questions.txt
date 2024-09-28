@@ -4686,3 +4686,9 @@ Ans- Use an OpenTelemetry-compatible backend or local dev environment to collect
 
 (----------------------------------------------------------------------)
 
+781- How does OpenTelemetry improve observability in complex applications?
+
+Ans- By collecting traces and metrics, it helps monitor application behavior, detect issues, and optimize performance in complex systems.
+
+(----------------------------------------------------------------------)
+
