@@ -3420,3 +3420,8 @@ Ans- Use Tailwind's utility classes directly in the className attribute of JSX e
 
 (----------------------------------------------------------------------)
 
+559- Provide an example of a Tailwind class to style a heading in a Next.js component.
+
+Ans- <h1 className="text-3xl font-bold underline">Hello, Next.js!</h1>.
+
+(----------------------------------------------------------------------)
