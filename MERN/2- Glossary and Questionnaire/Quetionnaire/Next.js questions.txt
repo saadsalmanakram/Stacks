@@ -4530,3 +4530,15 @@ Ans- OpenTelemetry is an observability framework that is integrated into Next.js
 
 (----------------------------------------------------------------------)
 
+745- Why is instrumentation considered experimental in Next.js?
+
+Ans- The feature is currently experimental and requires setting experimental.instrumentationHook = true in next.config.js to opt-in.
+
+(----------------------------------------------------------------------)
+
+756- Where should the instrumentation file be placed in a Next.js project?
+
+Ans- It should be placed at the root of the project or inside the src folder alongside pages and app.
+
+(----------------------------------------------------------------------)
+
