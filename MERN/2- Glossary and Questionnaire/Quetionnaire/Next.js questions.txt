@@ -5178,3 +5178,8 @@ Ans- It includes rules to catch common issues specific to Next.js applications, 
 
 (-------------------------------------------------------------------------)
 
+862- How can you disable specific ESLint rules?
+
+Ans- By specifying the rule in the rules section of your ESLint configuration file and setting it to "off."
+
+(-------------------------------------------------------------------------)
