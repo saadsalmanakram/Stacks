@@ -5303,3 +5303,9 @@ Ans- You can reference other variables by using the $ symbol, like $VARIABLE_NAM
 Ans- You can use the @next/env package for loading environment variables in configurations.
 
 (-------------------------------------------------------------------------)
+
+883- What is the purpose of loadEnvConfig in Next.js?
+
+Ans- loadEnvConfig loads environment variables from .env files into the process environment for use in the application.
+
+(-------------------------------------------------------------------------)
