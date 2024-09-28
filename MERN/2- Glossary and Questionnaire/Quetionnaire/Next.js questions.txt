@@ -6874,3 +6874,9 @@ Ans- It defers third-party scripts, preventing them from blocking the main threa
 Ans- It helps catch accessibility issues early in the development process.
 
 (-------------------------------------------------------------------------)
+
+1141- What is tainting in Next.js?
+
+Ans- It's a technique to prevent sensitive data exposure by controlling data objects.
+
+(-------------------------------------------------------------------------)
