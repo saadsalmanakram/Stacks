@@ -4013,3 +4013,10 @@ Ans- It defines metadata through a static object or dynamic function in layout.j
 Ans- It involves adding special files to route segments like favicon.ico, opengraph-image.jpg, etc.
 
 (----------------------------------------------------------------------)
+
+659- How do you define static metadata in Next.js?
+
+Ans- By exporting a Metadata object from layout.tsx or page.tsx.
+
+(----------------------------------------------------------------------)
+
