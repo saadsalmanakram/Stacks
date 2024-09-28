@@ -3294,3 +3294,9 @@ Ans- They can be imported anywhere in the app directory but must be truly global
 
 (-----------------------------------------------------------------------)
 
+538- Why does Next.js recommend CSS Modules over global styles?
+
+Ans- CSS Modules ensure styles are scoped and avoid issues with React’s built-in stylesheet support.
+
+(-----------------------------------------------------------------------)
+
