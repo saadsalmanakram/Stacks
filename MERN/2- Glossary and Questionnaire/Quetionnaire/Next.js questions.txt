@@ -6838,3 +6838,9 @@ Ans- It sends UI progressively, preventing complete route blocking during data f
 Ans- It fetches data concurrently to reduce network delays.
 
 (-------------------------------------------------------------------------)
+
+1135- How can you optimize static images in Next.js?
+
+Ans- Use the public directory for caching static assets like images.
+
+(-------------------------------------------------------------------------)
