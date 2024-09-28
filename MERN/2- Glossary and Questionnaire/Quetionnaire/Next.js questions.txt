@@ -5327,3 +5327,9 @@ Ans- NODE_ENV can be set to development, production, or test, influencing which 
 Ans- Next.js ignores .env.local in the testing environment to ensure uniform results.
 
 (-------------------------------------------------------------------------)
+
+887- What is the load order for environment variables in Next.js?
+
+Ans- Environment variables are checked in the order: process.env, .env.$(NODE_ENV).local, .env.local, .env.$(NODE_ENV), and .env.
+
+(-------------------------------------------------------------------------)
