@@ -6104,3 +6104,8 @@ Ans- Caching strategies help PWAs load quickly, reduce data usage, and ensure th
 
 (-------------------------------------------------------------------------)
 
+1014- What is Unit Testing in React?
+
+Ans- Unit testing involves testing individual functions, hooks, or components in isolation.
+
+(-------------------------------------------------------------------------)
