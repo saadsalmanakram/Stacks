@@ -3360,3 +3360,9 @@ Ans- Tailwind provides utility classes instead of predefined components, giving 
 
 (-----------------------------------------------------------------------)
 
+549- What is a utility-first CSS framework?
+
+Ans- A utility-first framework provides low-level utility classes to build complex designs without writing custom CSS.
+
+(-----------------------------------------------------------------------)
+
