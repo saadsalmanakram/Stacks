@@ -5719,3 +5719,9 @@ Ans- It is used to route all requests to Next.js to be handled appropriately by 
 Ans- No, Vercel does not support custom servers; it only supports static and serverless deployments.
 
 (-------------------------------------------------------------------------)
+
+951- What options can you pass to the next function in a custom server setup?
+
+Ans- Options include conf, customServer, dev, dir, quiet, hostname, port, httpServer, and turbo.
+
+(-------------------------------------------------------------------------)
