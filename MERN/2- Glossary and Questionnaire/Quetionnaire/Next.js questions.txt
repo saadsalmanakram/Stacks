@@ -6688,3 +6688,9 @@ Ans- It uses the next/image component for runtime image optimization with zero c
 Ans- Middleware allows for custom server-side logic and can handle requests before they reach the route handlers, but it is not supported in static exports.
 
 (-------------------------------------------------------------------------)
+
+1110- How are environment variables managed in Next.js?
+
+Ans- Server-side variables can be accessed directly, while public variables need the NEXT_PUBLIC_ prefix to be exposed to the client.
+
+(-------------------------------------------------------------------------)
