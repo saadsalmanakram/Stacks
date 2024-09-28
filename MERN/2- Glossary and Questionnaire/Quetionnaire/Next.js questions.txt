@@ -5863,3 +5863,9 @@ Ans- A nonce is a unique, one-time-use random string used to allow specific inli
 Ans- Nonces allow legitimate inline scripts to run safely while still enforcing a strict CSP to block malicious scripts.
 
 (-------------------------------------------------------------------------)
+
+974- How are nonces generated in Next.js?
+
+Ans- Nonces are dynamically generated in Next.js using Middleware, creating a fresh nonce for each page request.
+
+(-------------------------------------------------------------------------)
