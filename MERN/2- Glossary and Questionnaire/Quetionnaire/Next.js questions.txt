@@ -3852,3 +3852,9 @@ Ans- Include both muted and playsInline attributes for broader browser compatibi
 
 (----------------------------------------------------------------------)
 
+631- What is the sandbox attribute in the <iframe> tag used for?
+
+Ans- It applies additional restrictions on the content within the iframe for security purposes.
+
+(----------------------------------------------------------------------)
+
