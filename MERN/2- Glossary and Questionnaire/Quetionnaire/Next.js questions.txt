@@ -6079,3 +6079,10 @@ Ans- This function sends a push notification payload to the user's device using 
 Ans- PWAs require HTTPS for security, as service workers and features like push notifications are only available on secure connections.
 
 (-------------------------------------------------------------------------)
+
+1010- How do you test PWAs locally with Next.js?
+
+Ans- Use next dev --experimental-https to run your Next.js application with HTTPS locally and enable push notifications.
+
+(-------------------------------------------------------------------------)
+
