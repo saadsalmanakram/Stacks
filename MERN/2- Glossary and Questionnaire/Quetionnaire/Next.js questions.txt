@@ -6073,3 +6073,9 @@ Ans- This event allows you to prompt users to install your PWA on their device w
 Ans- This function sends a push notification payload to the user's device using the Web Push API.
 
 (-------------------------------------------------------------------------)
+
+1009- Why is HTTPS required for PWAs?
+
+Ans- PWAs require HTTPS for security, as service workers and features like push notifications are only available on secure connections.
+
+(-------------------------------------------------------------------------)
