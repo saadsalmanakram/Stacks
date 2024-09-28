@@ -5833,3 +5833,9 @@ Ans- Avoid directly redirecting to searchParams.slug to prevent open redirect vu
 Ans- Update your page to check the draftMode().isEnabled value to conditionally fetch draft or production data.
 
 (-------------------------------------------------------------------------)
+
+970- What is Content Security Policy (CSP)?
+
+Ans- CSP is a security feature that helps protect web applications from threats like XSS, clickjacking, and code injection by controlling the sources of content.
+
+(-------------------------------------------------------------------------)
