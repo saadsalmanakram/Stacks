@@ -6485,3 +6485,8 @@ Ans- Use the command cypress run for headless testing suited for CI environments
 
 (-------------------------------------------------------------------------)
 
+1076- What command do you use for running Cypress in a headless mode for E2E tests?
+
+Ans- The command is npm run e2e:headless.
+
+(-------------------------------------------------------------------------)
