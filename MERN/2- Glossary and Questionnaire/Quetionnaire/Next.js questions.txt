@@ -6964,3 +6964,10 @@ Ans- A dashboard for tracking traffic metrics like unique visitors and page view
 Ans- By providing real-world performance insights based on user data.
 
 (-------------------------------------------------------------------------)
+
+1156- Why are logging tools important in production?
+
+Ans- They help debug issues and monitor application health after deployment.
+
+(-------------------------------------------------------------------------)
+
