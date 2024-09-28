@@ -5575,3 +5575,27 @@ Ans- It separates application code from project configuration files for better p
 Ans- The app Router folder or pages Router folder should be moved to src/app or src/pages, respectively.
 
 (-------------------------------------------------------------------------)
+
+927- Can the /public directory be moved into the src folder?
+
+Ans- No, the /public directory should remain in the root of the project.
+
+(-------------------------------------------------------------------------)
+
+928- Where should config files like package.json, next.config.js, and .env.* files be placed when using the src directory?
+
+Ans- They should remain in the root of the project.
+
+(-------------------------------------------------------------------------)
+
+929- What happens if both src/app and app directories are present in the project?
+
+Ans- The src/app directory will be ignored if app is present in the root directory.
+
+(-------------------------------------------------------------------------)
+
+930- What other common application folders are usually moved to the src directory?
+
+Ans- Other folders like /components or /lib are typically moved to the src directory.
+
+(-------------------------------------------------------------------------)
