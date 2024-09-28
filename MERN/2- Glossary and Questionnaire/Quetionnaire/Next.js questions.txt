@@ -6880,3 +6880,15 @@ Ans- It helps catch accessibility issues early in the development process.
 Ans- It's a technique to prevent sensitive data exposure by controlling data objects.
 
 (-------------------------------------------------------------------------)
+
+1142- Why are Server Actions important for security?
+
+Ans- They require user authorization to ensure that actions are securely handled.
+
+(-------------------------------------------------------------------------)
+
+1143- What should you remember about environment variables in Next.js?
+
+Ans- Keep sensitive variables in .env.* files and prefix public ones with NEXT_PUBLIC_.
+
+(-------------------------------------------------------------------------)
