@@ -4920,3 +4920,9 @@ Ans- Modify the Webpack configuration to set config.cache = Object.freeze({ type
 
 (--------------------------------------------------------------------------)
 
+820- What is the memory cost of static analysis in large Next.js projects?
+
+Ans- Typechecking and linting can consume significant memory, especially during builds of large projects.
+
+(--------------------------------------------------------------------------)
+
