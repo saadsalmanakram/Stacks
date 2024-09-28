@@ -3756,3 +3756,9 @@ Ans- CLS is when elements move around while loading, and Next.js prevents it by 
 
 (----------------------------------------------------------------------)
 
+615- What are the three ways to size images in Next.js Image component?
+
+Ans- Automatically with static imports, manually by specifying width and height, or using the fill prop.
+
+(----------------------------------------------------------------------)
+
