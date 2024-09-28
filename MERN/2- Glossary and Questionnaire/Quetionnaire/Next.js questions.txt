@@ -3864,3 +3864,8 @@ Ans- CDNs enhance video delivery speed and manage high traffic by caching conten
 
 (----------------------------------------------------------------------)
 
+633- What video formats are commonly recommended for web use?
+
+Ans- MP4 is widely compatible, while WebM is optimized for the web.
+
+(----------------------------------------------------------------------)
