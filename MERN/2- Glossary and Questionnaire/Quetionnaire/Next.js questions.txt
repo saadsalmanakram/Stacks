@@ -3414,3 +3414,9 @@ Ans- Import the global stylesheet in app/layout.tsx using import './globals.css'
 
 (----------------------------------------------------------------------)
 
+558- How do you apply Tailwind CSS classes in a Next.js component?
+
+Ans- Use Tailwind's utility classes directly in the className attribute of JSX elements.
+
+(----------------------------------------------------------------------)
+
