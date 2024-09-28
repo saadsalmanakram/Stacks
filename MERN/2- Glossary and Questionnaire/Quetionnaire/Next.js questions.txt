@@ -3653,3 +3653,9 @@ Ans- Dynamic Open Graph Images can be generated using JSX and CSS through the im
 Ans- The /public folder serves static assets like images and fonts, which can be cached by CDNs for faster delivery.
 
 (----------------------------------------------------------------------)
+
+598- How does Next.js integrate analytics and monitoring?
+
+Ans- Next.js integrates with tools like OpenTelemetry for application performance monitoring and instrumentation.
+
+(----------------------------------------------------------------------)
