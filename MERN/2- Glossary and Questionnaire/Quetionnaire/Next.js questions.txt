@@ -3341,3 +3341,9 @@ Ans- By merging stylesheets and bundling them into minified .css files to reduce
 Ans- In development mode, Fast Refresh instantly reflects changes to local stylesheets when saved.
 
 (-----------------------------------------------------------------------)
+
+546- What happens to CSS when JavaScript is disabled in production?
+
+Ans- Styles will still be loaded, but JavaScript is required for development features like Fast Refresh.
+
+(-----------------------------------------------------------------------)
