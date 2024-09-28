@@ -5965,3 +5965,10 @@ Ans- Open Chrome’s Developer Tools and use the Sources tab to set breakpoints 
 Ans- It allows you to debug server-side code using Chrome DevTools by enabling the inspector.
 
 (-------------------------------------------------------------------------)
+
+991- How can you debug server-side Next.js code with Chrome DevTools?
+
+Ans- Pass the --inspect flag to Node.js, then open Chrome’s chrome://inspect and select the application.
+
+(-------------------------------------------------------------------------)
+
