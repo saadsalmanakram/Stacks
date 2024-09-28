@@ -6682,3 +6682,9 @@ Ans- It does not support features that require a server.
 Ans- It uses the next/image component for runtime image optimization with zero configuration on self-hosted deployments.
 
 (-------------------------------------------------------------------------)
+
+1109- What is Middleware in Next.js?
+
+Ans- Middleware allows for custom server-side logic and can handle requests before they reach the route handlers, but it is not supported in static exports.
+
+(-------------------------------------------------------------------------)
