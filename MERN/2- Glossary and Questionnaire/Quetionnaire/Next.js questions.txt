@@ -3900,3 +3900,8 @@ Ans- To improve user experience by showing a placeholder while the video is bein
 
 (----------------------------------------------------------------------)
 
+639- What is Next.js font optimization?
+
+Ans- Next.js font optimization removes external requests and self-hosts fonts for better performance and privacy.
+
+(----------------------------------------------------------------------)
