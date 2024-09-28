@@ -6229,3 +6229,9 @@ Ans- It automatically re-runs tests on file changes.
 Ans- Async Server Components are new in React, and Vitest has not yet implemented support for them.
 
 (-------------------------------------------------------------------------)
+
+1035- What is the recommended testing approach for async components in Next.js?
+
+Ans- Use end-to-end (E2E) testing for async components.
+
+(-------------------------------------------------------------------------)
