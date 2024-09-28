@@ -5977,3 +5977,9 @@ Ans- Pass the --inspect flag to Node.js, then open Chrome’s chrome://inspect a
 Ans- It allows running both the Node.js application and browser debugging simultaneously using custom runtime configurations.
 
 (-------------------------------------------------------------------------)
+
+993- What should Windows users do to debug Next.js applications with the --inspect flag?
+
+Ans- Use the cross-env package to handle environment variables consistently across platforms.
+
+(-------------------------------------------------------------------------)
