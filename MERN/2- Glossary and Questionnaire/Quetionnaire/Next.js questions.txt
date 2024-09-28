@@ -4241,3 +4241,10 @@ Ans- It allows you to identify large dependencies, split code, or lazy-load comp
 Ans- By using the optimizePackageImports option in next.config.js to only load the modules actually used.
 
 (----------------------------------------------------------------------)
+
+697- Which types of packages benefit the most from optimized imports?
+
+Ans- Packages like icon libraries that export a large number of modules.
+
+(----------------------------------------------------------------------)
+
