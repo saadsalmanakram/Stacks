@@ -5315,3 +5315,9 @@ Ans- loadEnvConfig loads environment variables from .env files into the process 
 Ans- In Vercel, environment variables are configured in Project Settings and are not automatically pulled from .env files.
 
 (-------------------------------------------------------------------------)
+
+885- What is the difference between NODE_ENV values in Next.js?
+
+Ans- NODE_ENV can be set to development, production, or test, influencing which .env files are loaded.
+
+(-------------------------------------------------------------------------)
