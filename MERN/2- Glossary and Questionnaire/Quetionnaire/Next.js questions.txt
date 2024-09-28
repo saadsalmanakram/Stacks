@@ -5297,3 +5297,9 @@ Ans- After the build, NEXT_PUBLIC_ variables are inlined into the JavaScript bun
 Ans- You can reference other variables by using the $ symbol, like $VARIABLE_NAME.
 
 (-------------------------------------------------------------------------)
+
+882- What package can you use to load environment variables outside of Next.js runtime?
+
+Ans- You can use the @next/env package for loading environment variables in configurations.
+
+(-------------------------------------------------------------------------)
