@@ -5255,3 +5255,9 @@ Ans- To ensure code quality and prevent problematic code from being merged or de
 Ans- Overriding default settings in a way that conflicts with Next.js or using multiple conflicting plugins.
 
 (-------------------------------------------------------------------------)
+
+875- What are environment variables in Next.js?
+
+Ans- Environment variables are key-value pairs used to configure applications, allowing dynamic behavior based on the environment.
+
+(-------------------------------------------------------------------------)
