@@ -5683,3 +5683,9 @@ Ans- It ensures Next.js is ready before starting the custom server.
 Ans- Automatic Static Optimization, which is crucial for better performance, is lost when using a custom server.
 
 (-------------------------------------------------------------------------)
+
+945- How can you add live reload support for a custom server in development mode? 
+
+Ans- Use nodemon to watch for changes and restart the server automatically in development mode.
+
+(-------------------------------------------------------------------------)
