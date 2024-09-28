@@ -3941,3 +3941,9 @@ Ans- Font subsets reduce the size of font files, improving load times by only do
 Ans- A warning is generated, as failing to specify subsets can lead to performance inefficiencies.
 
 (----------------------------------------------------------------------)
+
+646- How can you apply multiple fonts in a Next.js app?
+
+Ans- Multiple fonts can be imported in different components and applied using their respective className properties.
+
+(----------------------------------------------------------------------)
