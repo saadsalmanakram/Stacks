@@ -3479,3 +3479,9 @@ Ans- Use the sassOptions property in next.config.js or next.config.ts to configu
 Ans- Add variables using the additionalData property under sassOptions in next.config.js.
 
 (----------------------------------------------------------------------)
+
+569- How do you specify a different Sass implementation in Next.js?
+
+Ans- Use the implementation property in next.config.js to define the Sass implementation, e.g., sass-embedded.
+
+(----------------------------------------------------------------------)
