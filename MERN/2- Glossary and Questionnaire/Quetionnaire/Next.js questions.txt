@@ -5135,3 +5135,9 @@ Ans- It allows you to use a set of predefined rules from another configuration.
 Ans- To specify custom rules, including enabling or disabling specific linting rules.
 
 (-------------------------------------------------------------------------)
+
+856- How does Next.js integrate ESLint?
+
+Ans- Next.js provides an integrated ESLint experience out of the box, enabling linting during development and builds.
+
+(-------------------------------------------------------------------------)
