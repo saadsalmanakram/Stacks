@@ -3408,6 +3408,9 @@ Ans- @tailwind base;, @tailwind components;, and @tailwind utilities;.
 
 (-----------------------------------------------------------------------)
 
+557- How do you import Tailwind CSS styles in your Next.js root layout file?
 
+Ans- Import the global stylesheet in app/layout.tsx using import './globals.css'.
 
+(----------------------------------------------------------------------)
 
