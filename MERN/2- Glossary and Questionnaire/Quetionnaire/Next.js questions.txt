@@ -7144,3 +7144,21 @@ Ans- Code can be shared using a monorepo or by publishing packages to a public o
 Ans- Feature flags allow for enabling or disabling features across different zones, accommodating staggered releases.
 
 (-------------------------------------------------------------------------)
+
+1186- How can you deploy all affected zones simultaneously in a Next.js application on Vercel?
+
+Ans- You can use a monorepo to manage all zones and deploy them with a single git push.
+
+(-------------------------------------------------------------------------)
+
+1187- What should you ensure about URL paths when setting up Multi-Zones?
+
+Ans- URL paths must be unique to each zone to avoid routing conflicts.
+
+(-------------------------------------------------------------------------)
+
+1188- How does separating zones improve performance?
+
+Ans- By isolating code and assets specific to each zone, it reduces the overall application size and optimizes loading times.
+
+(-------------------------------------------------------------------------)
