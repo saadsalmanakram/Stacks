@@ -5798,4 +5798,8 @@ Ans- The route handler checks if the secret token matches and if the slug exists
 
 (-------------------------------------------------------------------------)
 
+964- What happens when draftMode().isEnabled is true?
 
+Ans- When enabled, the data is fetched dynamically from the draft source instead of the production source.
+
+(-------------------------------------------------------------------------)
