@@ -4800,3 +4800,9 @@ Ans- Required: gtmId, Optional: gtmScriptUrl, dataLayer, dataLayerName, auth, pr
 
 (--------------------------------------------------------------------------)
 
+800- How do you implement Google Analytics using @next/third-parties?
+
+Ans- Import the GoogleAnalytics component and pass your measurement ID in your root layout or specific page file.
+
+(--------------------------------------------------------------------------)
+
