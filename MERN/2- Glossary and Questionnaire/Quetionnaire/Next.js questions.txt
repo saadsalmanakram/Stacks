@@ -4110,3 +4110,15 @@ Ans- The default charset and viewport meta tags are still added automatically.
 
 (----------------------------------------------------------------------)
 
+675- What is the purpose of next/script in Next.js?
+
+Ans- It helps optimize the loading of third-party scripts in Next.js applications.
+
+(----------------------------------------------------------------------)
+
+676- How can you load a third-party script across multiple routes in Next.js?
+
+Ans- Include the script in the layout component using next/script, ensuring it loads once across routes.
+
+(----------------------------------------------------------------------)
+
