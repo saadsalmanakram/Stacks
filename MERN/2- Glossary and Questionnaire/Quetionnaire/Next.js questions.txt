@@ -5689,3 +5689,10 @@ Ans- Automatic Static Optimization, which is crucial for better performance, is 
 Ans- Use nodemon to watch for changes and restart the server automatically in development mode.
 
 (-------------------------------------------------------------------------)
+
+946- What happens if you set customServer: false in the Next.js options?
+
+Ans- Setting customServer: false indicates that the server was created by Next.js, not manually by the developer.
+
+(-------------------------------------------------------------------------)
+
