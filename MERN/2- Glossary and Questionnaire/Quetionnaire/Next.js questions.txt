@@ -4446,4 +4446,10 @@ Ans- You can use a switch-case block on the metric.name property to handle resul
 
 (----------------------------------------------------------------------)
 
+731- What does the 'Largest Contentful Paint (LCP)' measure?
+
+Ans- LCP measures how long it takes for the largest content element to load and appear on the screen.
+
+(----------------------------------------------------------------------)
+
 
