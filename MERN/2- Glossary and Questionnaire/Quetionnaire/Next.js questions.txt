@@ -4145,3 +4145,9 @@ Ans- It loads the script before any Next.js code or page hydration.
 Ans- It loads the script later during browser idle time to improve performance.
 
 (----------------------------------------------------------------------)
+
+681- What is the worker strategy in Next.js?
+
+Ans- It offloads scripts to a web worker using Partytown, improving performance by freeing the main thread.
+
+(----------------------------------------------------------------------)
