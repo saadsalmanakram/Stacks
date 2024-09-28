@@ -6302,3 +6302,9 @@ Ans- Jest currently does not support async Server Components; E2E tests are reco
 
 (-------------------------------------------------------------------------)
 
+1047- How do you import custom matchers from @testing-library/jest-dom?
+
+Ans- Add import '@testing-library/jest-dom' to your jest.setup.ts file.
+
+(-------------------------------------------------------------------------)
+
