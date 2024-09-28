@@ -6712,3 +6712,9 @@ Ans- Next.js sets Cache-Control headers for public, immutable assets to enable l
 Ans- The page will include a Cache-Control: private response header to prevent caching of dynamic content.
 
 (-------------------------------------------------------------------------)
+
+1114- How can you prevent stale data when using multiple containers in a Kubernetes environment?
+
+Ans- Configure a shared cache by using a custom cache handler to ensure consistency across pods.
+
+(-------------------------------------------------------------------------)
