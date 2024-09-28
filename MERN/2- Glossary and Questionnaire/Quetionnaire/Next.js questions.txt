@@ -5064,3 +5064,8 @@ Ans- Next.js supports the paths and baseUrl options in tsconfig.json to create e
 
 (-------------------------------------------------------------------------)
 
+844- What are the requirements for full end-to-end type safety with Next.js?
+
+Ans- To achieve full type safety, both your database or content provider and the data fetching methods must support TypeScript.
+
+(-------------------------------------------------------------------------)
