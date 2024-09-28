@@ -6568,3 +6568,9 @@ Ans- API routes, static assets, and any routes that don't require authentication
 Ans- It centralizes data requests and authorization logic to enhance security and maintainability.
 
 (-------------------------------------------------------------------------)
+
+1090- Why is using Data Transfer Objects (DTO) recommended?
+
+Ans- It ensures only the necessary data is exposed, reducing the risk of sensitive data leakage.
+
+(-------------------------------------------------------------------------)
