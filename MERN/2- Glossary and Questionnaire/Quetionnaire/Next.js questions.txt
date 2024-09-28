@@ -6748,3 +6748,9 @@ Ans- Use getServerSideProps or incrementally adopt the App Router for safe acces
 Ans- Implement a custom cache handler to manage the cache storage outside of in-memory options.
 
 (-------------------------------------------------------------------------)
+
+1120- What is the significance of the generateBuildId in next.config.js?
+
+Ans- It generates a consistent build ID across different environments, essential for preventing version mismatches.
+
+(-------------------------------------------------------------------------)
