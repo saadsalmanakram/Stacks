@@ -5731,3 +5731,9 @@ Ans- Options include conf, customServer, dev, dir, quiet, hostname, port, httpSe
 Ans- Requests are handled by the app.getRequestHandler() method, which routes them through Next.js's internal system.
 
 (-------------------------------------------------------------------------)
+
+953- What is the purpose of the httpServer option in a custom Next.js server?
+
+Ans- It allows Next.js to run behind an existing Node.js HTTP server.
+
+(-------------------------------------------------------------------------)
