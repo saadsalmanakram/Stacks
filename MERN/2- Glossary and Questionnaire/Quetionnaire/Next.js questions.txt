@@ -4776,3 +4776,9 @@ Ans- Use the command: npm install @next/third-parties@latest next@latest.
 
 (--------------------------------------------------------------------------)
 
+796- Is @next/third-parties a stable library?
+
+Ans- No, it is currently experimental and under active development.
+
+(--------------------------------------------------------------------------)
+
