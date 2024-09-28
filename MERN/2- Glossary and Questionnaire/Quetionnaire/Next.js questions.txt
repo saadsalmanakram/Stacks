@@ -5231,3 +5231,9 @@ Ans- By using the dirs option in the eslint configuration of next.config.js.
 Ans- Using next lint --no-cache disables caching for that linting session.
 
 (-------------------------------------------------------------------------)
+
+871- How do you migrate an existing ESLint config to Next.js?
+
+Ans- By extending from plugin:@next/next/recommended in your ESLint configuration file.
+
+(-------------------------------------------------------------------------)
