@@ -3840,3 +3840,15 @@ Ans- Self-hosting offers full control over playback, appearance, and performance
 
 (----------------------------------------------------------------------)
 
+629- How does the Vercel Blob service help in hosting videos?
+
+Ans- Vercel Blob provides a scalable cloud storage solution, easily integrated with Next.js for video hosting.
+
+(----------------------------------------------------------------------)
+
+630- What is a key consideration when using autoPlay for videos in Next.js?
+
+Ans- Include both muted and playsInline attributes for broader browser compatibility.
+
+(----------------------------------------------------------------------)
+
