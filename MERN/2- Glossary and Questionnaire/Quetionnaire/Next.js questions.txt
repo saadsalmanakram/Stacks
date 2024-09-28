@@ -6922,3 +6922,9 @@ Ans- They assist search engines in crawling and indexing your pages efficiently.
 Ans- TypeScript improves type safety, helping catch errors early in development.
 
 (-------------------------------------------------------------------------)
+
+1149- What is the purpose of next build?
+
+Ans- It builds the application locally to catch any potential build errors.
+
+(-------------------------------------------------------------------------)
