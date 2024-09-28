@@ -5183,3 +5183,9 @@ Ans- It includes rules to catch common issues specific to Next.js applications, 
 Ans- By specifying the rule in the rules section of your ESLint configuration file and setting it to "off."
 
 (-------------------------------------------------------------------------)
+
+863- What is the purpose of the settings property in ESLint?
+
+Ans- It allows you to define project-specific settings, such as the root directory in monorepo setups.
+
+(-------------------------------------------------------------------------)
