@@ -3804,3 +3804,8 @@ Ans- Many browsers require videos to be muted for autoplay functionality due to 
 
 (----------------------------------------------------------------------)
 
+623- What is the playsInline attribute used for?
+
+Ans- It enables videos to play inline on iOS devices, rather than opening in full-screen.
+
+(----------------------------------------------------------------------)
