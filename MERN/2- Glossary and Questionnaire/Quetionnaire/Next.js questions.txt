@@ -4338,3 +4338,8 @@ Ans- Only its Client Component children will be lazy-loaded.
 
 (----------------------------------------------------------------------)
 
+713- How can you lazy-load an external library in Next.js?
+
+Ans- By using the import() function, such as importing fuse.js for fuzzy search.
+
+(----------------------------------------------------------------------)
