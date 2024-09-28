@@ -7108,3 +7108,9 @@ Ans- A zone is defined as a normal Next.js application configured with a basePat
 Ans- basePath prevents conflicts with pages and static files in other zones by providing a unique path prefix.
 
 (-------------------------------------------------------------------------)
+
+1180- What is assetPrefix and when would you use it?
+
+Ans- assetPrefix is used to serve Next.js assets under a unique path prefix when zones don't share a common path prefix.
+
+(-------------------------------------------------------------------------)
