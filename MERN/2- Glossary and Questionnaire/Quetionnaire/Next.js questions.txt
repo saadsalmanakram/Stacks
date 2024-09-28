@@ -5845,3 +5845,9 @@ Ans- CSP is a security feature that helps protect web applications from threats 
 Ans- CSP guards Next.js applications against common security risks, enhancing overall security by limiting which resources can be loaded.
 
 (-------------------------------------------------------------------------)
+
+971- What can developers control using CSP?
+
+Ans- Developers can control the sources of scripts, stylesheets, images, fonts, media, iframes, and more using CSP.
+
+(-------------------------------------------------------------------------)
