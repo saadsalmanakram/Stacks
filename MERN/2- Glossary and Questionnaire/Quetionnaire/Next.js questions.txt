@@ -7006,3 +7006,9 @@ Ans- It changes URLs to end with a slash and emits .html files accordingly.
 Ans- By setting the distDir option in next.config.js.
 
 (-------------------------------------------------------------------------)
+
+1163- What is the role of Server Components in static exports?
+
+Ans- Server Components run during build time and generate static HTML for the initial page load.
+
+(-------------------------------------------------------------------------)
