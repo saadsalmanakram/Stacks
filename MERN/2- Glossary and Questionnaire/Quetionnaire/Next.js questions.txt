@@ -5821,3 +5821,15 @@ Ans- Draft Mode is enabled, a cookie is set, and the browser redirects to the sp
 Ans- By accessing the draft URL from the headless CMS or manually with the correct token and slug, you can preview draft content.
 
 (-------------------------------------------------------------------------)
+
+968- What should you avoid in the redirection URL to prevent security vulnerabilities?
+
+Ans- Avoid directly redirecting to searchParams.slug to prevent open redirect vulnerabilities.
+
+(-------------------------------------------------------------------------)
+
+969- What is the next step after enabling Draft Mode?
+
+Ans- Update your page to check the draftMode().isEnabled value to conditionally fetch draft or production data.
+
+(-------------------------------------------------------------------------)
