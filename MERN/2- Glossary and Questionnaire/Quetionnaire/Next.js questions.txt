@@ -4254,3 +4254,9 @@ Ans- It allows you to opt specific packages out of bundling in Server Components
 
 (----------------------------------------------------------------------)
 
+699- How can you exclude specific packages from bundling in Next.js?
+
+Ans- Use the serverExternalPackages option in next.config.js with the package name you want to exclude.
+
+(----------------------------------------------------------------------)
+
