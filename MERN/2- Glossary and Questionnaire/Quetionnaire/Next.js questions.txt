@@ -6898,3 +6898,9 @@ Ans- Keep sensitive variables in .env.* files and prefix public ones with NEXT_P
 Ans- A security measure to protect against threats like XSS and code injection.
 
 (-------------------------------------------------------------------------)
+
+1145- How does the Metadata API enhance SEO?
+
+Ans- It allows you to add essential page metadata, like titles and descriptions.
+
+(-------------------------------------------------------------------------)
