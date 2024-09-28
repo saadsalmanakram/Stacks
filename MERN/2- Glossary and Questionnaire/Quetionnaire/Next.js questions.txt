@@ -6604,3 +6604,9 @@ Ans- By checking the user's role against required permissions before executing a
 Ans- Centralizing logic in a DAL and using DTOs to limit the data exposed to the client.
 
 (-------------------------------------------------------------------------)
+
+1096- Why should static routes have their own protection mechanisms?
+
+Ans- Because they may share data between users and can pose security risks if not properly protected.
+
+(-------------------------------------------------------------------------)
