@@ -4872,3 +4872,8 @@ Ans- More dependencies lead to higher memory consumption during development and 
 
 (--------------------------------------------------------------------------)
 
+812- How can you identify large dependencies in a Next.js application?
+
+Ans- Use the Bundle Analyzer to investigate and potentially remove large dependencies for better performance.
+
+(--------------------------------------------------------------------------)
