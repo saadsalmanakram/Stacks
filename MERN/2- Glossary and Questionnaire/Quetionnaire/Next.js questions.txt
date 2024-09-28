@@ -4883,3 +4883,10 @@ Ans- Use the Bundle Analyzer to investigate and potentially remove large depende
 Ans- It reduces the maximum memory usage during builds at the cost of slightly increased compilation times.
 
 (--------------------------------------------------------------------------)
+
+814- How can you debug memory usage during the build process in Next.js?
+
+Ans- Run next build --experimental-debug-memory-usage to get continuous memory usage information during builds.
+
+(--------------------------------------------------------------------------)
+
