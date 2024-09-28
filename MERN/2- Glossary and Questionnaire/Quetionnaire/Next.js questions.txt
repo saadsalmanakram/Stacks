@@ -5189,3 +5189,15 @@ Ans- By specifying the rule in the rules section of your ESLint configuration fi
 Ans- It allows you to define project-specific settings, such as the root directory in monorepo setups.
 
 (-------------------------------------------------------------------------)
+
+864- What are Core Web Vitals in the context of ESLint?
+
+Ans- They are performance metrics that can be enforced through the next/core-web-vitals rule set.
+
+(-------------------------------------------------------------------------)
+
+865- How does TypeScript integration with ESLint work in Next.js?
+
+Ans- By extending the configuration with "next/typescript" to include TypeScript-specific linting rules.
+
+(-------------------------------------------------------------------------)
