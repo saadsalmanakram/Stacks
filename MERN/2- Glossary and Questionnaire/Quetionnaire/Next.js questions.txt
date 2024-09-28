@@ -5947,3 +5947,15 @@ Ans- Run npm run dev or equivalent (yarn dev, pnpm dev).
 Ans- Replace localhost:3000 in the configuration with the desired port.
 
 (-------------------------------------------------------------------------)
+
+988- What is the role of --inspect in Next.js debugging?
+
+Ans- The --inspect flag enables Node.js debugging in tools like Chrome DevTools.
+
+(-------------------------------------------------------------------------)
+
+989- How can Chrome DevTools be used to debug client-side code in Next.js?
+
+Ans- Open Chrome’s Developer Tools and use the Sources tab to set breakpoints or inspect code.
+
+(-------------------------------------------------------------------------)
