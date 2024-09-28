@@ -3738,3 +3738,9 @@ Ans- To improve LCP performance by prioritizing the load of the largest image or
 
 (----------------------------------------------------------------------)
 
+612- How does Next.js handle caching for optimized images?
+
+Ans- Caching behavior for optimized images can be configured in next.config.js.
+
+(----------------------------------------------------------------------)
+
