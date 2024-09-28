@@ -3732,3 +3732,9 @@ Ans- No, styled-jsx cannot be used unless it is marked as global.
 
 (----------------------------------------------------------------------)
 
+611- Why should images be preloaded using the priority prop?
+
+Ans- To improve LCP performance by prioritizing the load of the largest image or content visible in the viewport.
+
+(----------------------------------------------------------------------)
+
