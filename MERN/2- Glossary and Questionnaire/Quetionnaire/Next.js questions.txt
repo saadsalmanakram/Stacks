@@ -5369,3 +5369,9 @@ Ans- You can use the command vercel env pull to download the variables to a loca
 Ans- Use a backslash to escape special characters like $ in variable values.
 
 (-------------------------------------------------------------------------)
+
+894- What is the significance of .env.test file in Next.js?
+
+Ans- The .env.test file allows for setting environment variables specific to the testing environment, ensuring consistent testing conditions.
+
+(-------------------------------------------------------------------------)
