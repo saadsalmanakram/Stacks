@@ -6217,3 +6217,10 @@ Ans- Test files can be in the __tests__ directory or colocated with components.
 Ans- npm run test or alternatives like yarn test, pnpm test, or bun test.
 
 (-------------------------------------------------------------------------)
+
+1033- What does the watch feature in Vitest do when running tests?
+
+Ans- It automatically re-runs tests on file changes.
+
+(-------------------------------------------------------------------------)
+
