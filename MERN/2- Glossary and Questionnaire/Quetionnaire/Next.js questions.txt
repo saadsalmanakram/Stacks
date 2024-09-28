@@ -6211,3 +6211,9 @@ Ans- It mounts the component in a virtual DOM for testing.
 Ans- Test files can be in the __tests__ directory or colocated with components.
 
 (-------------------------------------------------------------------------)
+
+1032- What command is used to run tests in a Next.js project configured with Vitest?
+
+Ans- npm run test or alternatives like yarn test, pnpm test, or bun test.
+
+(-------------------------------------------------------------------------)
