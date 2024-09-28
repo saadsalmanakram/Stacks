@@ -4361,3 +4361,10 @@ Ans- Yes, by returning the named export from the import() Promise.
 Ans- To handle lazy loading of components with support for fallback content.
 
 (----------------------------------------------------------------------)
+
+717- What is a key benefit of lazy loading Client Components?
+
+Ans- It helps optimize the client-side bundle by loading components only when necessary.
+
+(----------------------------------------------------------------------)
+
