@@ -6820,3 +6820,15 @@ Ans- Dynamic functions can make entire routes dynamic; wrap them in <Suspense> b
 Ans- They allow server-side data fetching, reducing client-side workload.
 
 (-------------------------------------------------------------------------)
+
+1132- What are Route Handlers used for?
+
+Ans- They access backend resources from Client Components without additional server requests.
+
+(-------------------------------------------------------------------------)
+
+1133- How does streaming improve performance in Next.js?
+
+Ans- It sends UI progressively, preventing complete route blocking during data fetching.
+
+(-------------------------------------------------------------------------)
