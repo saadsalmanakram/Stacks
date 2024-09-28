@@ -6610,3 +6610,9 @@ Ans- Centralizing logic in a DAL and using DTOs to limit the data exposed to the
 Ans- Because they may share data between users and can pose security risks if not properly protected.
 
 (-------------------------------------------------------------------------)
+
+1097- How can you secure sensitive user data in a Next.js application?
+
+Ans- By using encryption for session data, implementing secure cookie practices, and performing server-side validation.
+
+(-------------------------------------------------------------------------)
