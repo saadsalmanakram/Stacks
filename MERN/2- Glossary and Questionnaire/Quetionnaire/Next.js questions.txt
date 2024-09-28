@@ -6514,3 +6514,10 @@ Ans- It is the process of maintaining a user's session state across multiple req
 Ans- It helps secure user sessions by preventing session hijacking and tampering.
 
 (-------------------------------------------------------------------------)
+
+1081- What are optimistic and secure authorization checks?
+
+Ans- Optimistic checks use stored session data for quick decisions, while secure checks verify authorization against the database.
+
+(-------------------------------------------------------------------------)
+
