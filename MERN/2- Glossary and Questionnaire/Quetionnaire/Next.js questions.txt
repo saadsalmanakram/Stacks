@@ -3324,3 +3324,9 @@ Ans- Import each CSS file in a single JS/TS file and follow a consistent import 
 
 (-----------------------------------------------------------------------)
 
+543- What are some tips for managing CSS order in Next.js?
+
+Ans- Prefer CSS Modules, import styles consistently, and avoid using automatic import sorting tools.
+
+(-----------------------------------------------------------------------)
+
