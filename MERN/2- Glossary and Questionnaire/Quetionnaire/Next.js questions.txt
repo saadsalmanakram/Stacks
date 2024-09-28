@@ -3786,3 +3786,8 @@ Ans- It allows full control over video playback and appearance, suitable for sel
 
 (----------------------------------------------------------------------)
 
+620- How does the <iframe> tag differ from the <video> tag when embedding videos?
+
+Ans- <iframe> is used for embedding externally hosted videos (e.g., YouTube), whereas <video> embeds self-hosted files.
+
+(----------------------------------------------------------------------)
