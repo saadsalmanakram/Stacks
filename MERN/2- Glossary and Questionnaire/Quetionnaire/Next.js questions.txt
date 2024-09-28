@@ -6706,3 +6706,9 @@ Ans- ISR allows pages to be updated after initial build time, with cache managem
 Ans- Next.js sets Cache-Control headers for public, immutable assets to enable long-term caching.
 
 (-------------------------------------------------------------------------)
+
+1113- What happens if you use a CDN with a dynamic API in Next.js?
+
+Ans- The page will include a Cache-Control: private response header to prevent caching of dynamic content.
+
+(-------------------------------------------------------------------------)
