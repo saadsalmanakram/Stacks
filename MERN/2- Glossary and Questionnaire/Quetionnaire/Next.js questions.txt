@@ -5309,3 +5309,9 @@ Ans- You can use the @next/env package for loading environment variables in conf
 Ans- loadEnvConfig loads environment variables from .env files into the process environment for use in the application.
 
 (-------------------------------------------------------------------------)
+
+884- How does Next.js handle environment variables in Vercel deployments?
+
+Ans- In Vercel, environment variables are configured in Project Settings and are not automatically pulled from .env files.
+
+(-------------------------------------------------------------------------)
