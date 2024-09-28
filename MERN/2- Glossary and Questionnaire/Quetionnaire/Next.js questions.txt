@@ -5154,3 +5154,8 @@ Ans- You can choose between "Strict" and "Base" configurations during setup.
 
 (-------------------------------------------------------------------------)
 
+859- What is the next lint command?
+
+Ans- It runs ESLint in a Next.js application, checking for code quality and style issues.
+
+(-------------------------------------------------------------------------)
