@@ -5201,3 +5201,10 @@ Ans- They are performance metrics that can be enforced through the next/core-web
 Ans- By extending the configuration with "next/typescript" to include TypeScript-specific linting rules.
 
 (-------------------------------------------------------------------------)
+
+866- What is the benefit of using eslint-config-prettier?
+
+Ans- It disables ESLint rules that may conflict with Prettier, allowing for seamless code formatting.
+
+(-------------------------------------------------------------------------)
+
