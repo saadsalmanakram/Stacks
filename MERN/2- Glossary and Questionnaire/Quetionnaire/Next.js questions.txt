@@ -4829,3 +4829,10 @@ Ans- It adds a Google Maps embed to your page, utilizing lazy loading by default
 Ans- Required: apiKey, mode.
 
 (--------------------------------------------------------------------------)
+
+805- What optional properties can be specified for GoogleMapsEmbed?
+
+Ans- Height, Width, Style, Allowfullscreen, Loading, Query (q), Center, Zoom, Maptype, Language, and Region.
+
+(--------------------------------------------------------------------------)
+
