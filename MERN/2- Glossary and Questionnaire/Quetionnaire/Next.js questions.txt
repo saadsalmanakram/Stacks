@@ -3954,3 +3954,9 @@ Ans- Variable fonts offer flexibility and improve performance by combining multi
 
 (----------------------------------------------------------------------)
 
+648- What is the advantage of using local fonts in Next.js?
+
+Ans- Local fonts eliminate external requests, offering faster load times and better control over font hosting.
+
+(----------------------------------------------------------------------)
+
