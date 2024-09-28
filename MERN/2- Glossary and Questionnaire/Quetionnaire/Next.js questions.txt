@@ -4662,3 +4662,9 @@ Ans- Set the environment variable NEXT_OTEL_FETCH_DISABLED=1 to disable fetch re
 
 (----------------------------------------------------------------------)
 
+777- How does OpenTelemetry handle deployment in Vercel vs self-hosted environments?
+
+Ans- On Vercel, OpenTelemetry works out-of-the-box, while self-hosting requires setting up your own OpenTelemetry Collector.
+
+(----------------------------------------------------------------------)
+
