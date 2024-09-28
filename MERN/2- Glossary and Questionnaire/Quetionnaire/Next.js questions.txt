@@ -5503,3 +5503,10 @@ Ans- Place an MDX file within the /app directory, using the .mdx or .md extensio
 Ans- Frontmatter is used to store metadata about a page, such as the author or publication date.
 
 (-------------------------------------------------------------------------)
+
+915- How can you dynamically import an MDX file?
+
+Ans- Use the import syntax in a page component, allowing for the MDX content to be rendered as a React component.
+
+(-------------------------------------------------------------------------)
+
