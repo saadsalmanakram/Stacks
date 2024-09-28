@@ -5321,3 +5321,9 @@ Ans- In Vercel, environment variables are configured in Project Settings and are
 Ans- NODE_ENV can be set to development, production, or test, influencing which .env files are loaded.
 
 (-------------------------------------------------------------------------)
+
+886- How can you ensure consistent environment variables across test runs?
+
+Ans- Next.js ignores .env.local in the testing environment to ensure uniform results.
+
+(-------------------------------------------------------------------------)
