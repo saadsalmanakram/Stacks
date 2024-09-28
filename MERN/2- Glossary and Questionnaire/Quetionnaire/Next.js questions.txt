@@ -5497,3 +5497,9 @@ Ans- It defines global MDX components to customize how MDX content is rendered.
 Ans- Place an MDX file within the /app directory, using the .mdx or .md extension.
 
 (-------------------------------------------------------------------------)
+
+914- What is the purpose of Frontmatter in MDX?
+
+Ans- Frontmatter is used to store metadata about a page, such as the author or publication date.
+
+(-------------------------------------------------------------------------)
