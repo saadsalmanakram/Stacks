@@ -4979,3 +4979,9 @@ Ans- Send a SIGUSR2 signal to the process while it's running with --experimental
 Ans- While it improves build speed, it also increases memory usage to store cached data.
 
 (--------------------------------------------------------------------------)
+
+830- What is TypeScript?
+
+Ans- TypeScript is a superset of JavaScript that adds static typing and other features to enhance code quality and developer productivity.
+
+(--------------------------------------------------------------------------)
