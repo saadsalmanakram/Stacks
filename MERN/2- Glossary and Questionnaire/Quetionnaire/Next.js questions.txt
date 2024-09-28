@@ -6361,3 +6361,9 @@ Ans- The test verifies that clicking the "About" link navigates to the About pag
 Ans- Set the baseURL in the playwright.config.ts file, allowing you to use page.goto("/").
 
 (-------------------------------------------------------------------------)
+
+1057- What command runs Playwright tests after building a Next.js app?
+
+Ans- Use npx playwright test after running npm run build and npm run start.
+
+(-------------------------------------------------------------------------)
