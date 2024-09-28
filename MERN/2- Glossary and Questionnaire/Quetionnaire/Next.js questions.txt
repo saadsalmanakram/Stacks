@@ -4139,3 +4139,9 @@ Ans- afterInteractive, which loads the script after some hydration on the page o
 Ans- It loads the script before any Next.js code or page hydration.
 
 (----------------------------------------------------------------------)
+
+680- When is the lazyOnload strategy useful?
+
+Ans- It loads the script later during browser idle time to improve performance.
+
+(----------------------------------------------------------------------)
