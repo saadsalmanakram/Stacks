@@ -5467,3 +5467,9 @@ Ans- MDX is a superset of Markdown that allows embedding JSX directly within Mar
 Ans- It enables dynamic interactivity by allowing React components to be used within Markdown content.
 
 (-------------------------------------------------------------------------)
+
+909- How can Next.js handle MDX files?
+
+Ans- Next.js can process local and remote MDX files, transforming them into HTML through the @next/mdx plugin.
+
+(-------------------------------------------------------------------------)
