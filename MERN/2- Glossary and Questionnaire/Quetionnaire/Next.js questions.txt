@@ -4542,3 +4542,9 @@ Ans- It should be placed at the root of the project or inside the src folder alo
 
 (----------------------------------------------------------------------)
 
+757- What should you do if you are using the pageExtensions config option in Next.js?
+
+Ans- Update the instrumentation filename to match the custom suffix defined in pageExtensions.
+
+(----------------------------------------------------------------------)
+
