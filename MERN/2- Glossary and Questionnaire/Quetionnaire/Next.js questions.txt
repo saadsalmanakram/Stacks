@@ -4931,3 +4931,10 @@ Ans- Typechecking and linting can consume significant memory, especially during 
 Ans- Set typescript.ignoreBuildErrors: true in the Next.js configuration to allow builds to proceed with type errors.
 
 (--------------------------------------------------------------------------)
+
+822- What are the risks of disabling ESLint during builds in Next.js?
+
+Ans- Ignoring ESLint can lead to faulty deployments due to unresolved linting issues.
+
+(--------------------------------------------------------------------------)
+
