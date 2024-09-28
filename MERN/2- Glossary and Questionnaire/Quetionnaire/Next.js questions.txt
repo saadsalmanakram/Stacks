@@ -3984,3 +3984,9 @@ Ans- Preloading ensures fonts are loaded before they are needed, reducing layout
 
 (----------------------------------------------------------------------)
 
+654- How does Next.js optimize font loading to reduce layout shift?
+
+Ans- It uses the size-adjust CSS property to match fallback font dimensions with the final font, minimizing layout shifts.
+
+(----------------------------------------------------------------------)
+
