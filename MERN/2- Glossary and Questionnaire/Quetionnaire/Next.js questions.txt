@@ -4092,3 +4092,8 @@ Ans- ttf, otf, and woff formats are supported.
 
 (----------------------------------------------------------------------)
 
+672- How can you validate JSON-LD structured data?
+
+Ans- Use Google's Rich Results Test or Schema Markup Validator.
+
+(----------------------------------------------------------------------)
