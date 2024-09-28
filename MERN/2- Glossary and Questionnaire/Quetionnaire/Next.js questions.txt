@@ -5857,3 +5857,9 @@ Ans- Developers can control the sources of scripts, stylesheets, images, fonts, 
 Ans- A nonce is a unique, one-time-use random string used to allow specific inline scripts or styles to execute under a strict CSP.
 
 (-------------------------------------------------------------------------)
+
+973- Why use nonces with CSP?
+
+Ans- Nonces allow legitimate inline scripts to run safely while still enforcing a strict CSP to block malicious scripts.
+
+(-------------------------------------------------------------------------)
