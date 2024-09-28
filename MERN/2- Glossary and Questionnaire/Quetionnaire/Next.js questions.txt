@@ -5425,3 +5425,9 @@ Ans- The @ symbol in module aliases serves as a prefix to indicate that the impo
 Ans- After configuring an alias, you can import a component like this: import Button from '@/components/button'.
 
 (-------------------------------------------------------------------------)
+
+902- Why is using absolute imports and path aliases beneficial?
+
+Ans- They reduce the complexity of import paths, making the code cleaner and easier to maintain, especially in large projects.
+
+(-------------------------------------------------------------------------)
