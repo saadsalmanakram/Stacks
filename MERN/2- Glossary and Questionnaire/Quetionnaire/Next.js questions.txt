@@ -6586,3 +6586,9 @@ Ans- It minimizes redundant database queries by storing previously fetched data 
 Ans- By calling functions like verifySession() to conditionally render components based on user roles.
 
 (-------------------------------------------------------------------------)
+
+1093- What considerations should you have when using Server Actions?
+
+Ans- They should be treated like API endpoints, requiring verification of user permissions before proceeding.
+
+(-------------------------------------------------------------------------)
