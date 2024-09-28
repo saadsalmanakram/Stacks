@@ -4644,3 +4644,9 @@ Ans- The feature is experimental and must be explicitly enabled by setting exper
 
 (----------------------------------------------------------------------)
 
+774- What is the OpenTelemetry Collector and how is it used in Next.js?
+
+Ans- The OpenTelemetry Collector receives, processes, and exports telemetry data from your Next.js app to a backend for analysis.
+
+(----------------------------------------------------------------------)
+
