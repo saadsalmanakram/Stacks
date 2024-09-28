@@ -3930,3 +3930,9 @@ Ans- Import the font from next/font/google as a function and use it in the compo
 
 (----------------------------------------------------------------------)
 
+644- What is the significance of specifying font subsets?
+
+Ans- Font subsets reduce the size of font files, improving load times by only downloading necessary characters.
+
+(----------------------------------------------------------------------)
+
