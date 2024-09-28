@@ -5743,3 +5743,9 @@ Ans- It allows Next.js to run behind an existing Node.js HTTP server.
 Ans- Set the turbo option to true when initializing the next function.
 
 (-------------------------------------------------------------------------)
+
+955- What is Draft Mode in Next.js?
+
+Ans- Draft Mode allows previewing draft content from your headless CMS by switching to dynamic rendering without rebuilding the site.
+
+(-------------------------------------------------------------------------)
