@@ -6892,3 +6892,9 @@ Ans- They require user authorization to ensure that actions are securely handled
 Ans- Keep sensitive variables in .env.* files and prefix public ones with NEXT_PUBLIC_.
 
 (-------------------------------------------------------------------------)
+
+1144- What is a Content Security Policy (CSP)?
+
+Ans- A security measure to protect against threats like XSS and code injection.
+
+(-------------------------------------------------------------------------)
