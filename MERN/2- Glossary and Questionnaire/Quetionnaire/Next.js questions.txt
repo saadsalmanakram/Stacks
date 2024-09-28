@@ -6730,3 +6730,9 @@ Ans- Version skew occurs when different versions of an app are served to users, 
 Ans- Disable buffering in your proxy settings, like setting X-Accel-Buffering to no in Nginx.
 
 (-------------------------------------------------------------------------)
+
+1117- What is Partial Prerendering?
+
+Ans- It allows certain pages to be prerendered while still being dynamic, working by default with Next.js deployments that aren't on a CDN.
+
+(-------------------------------------------------------------------------)
