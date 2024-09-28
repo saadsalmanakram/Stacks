@@ -6068,3 +6068,8 @@ Ans- This event allows you to prompt users to install your PWA on their device w
 
 (-------------------------------------------------------------------------)
 
+1008- What is the role of the sendNotification function in push notifications?
+
+Ans- This function sends a push notification payload to the user's device using the Web Push API.
+
+(-------------------------------------------------------------------------)
