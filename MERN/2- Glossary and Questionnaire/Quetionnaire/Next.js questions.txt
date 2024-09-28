@@ -6121,3 +6121,9 @@ Ans- Component testing focuses on testing React components by checking their ren
 Ans- Integration testing checks how multiple components, hooks, or functions work together in a React app.
 
 (-------------------------------------------------------------------------)
+
+1017- What is End-to-End (E2E) Testing in Next.js?
+
+Ans- E2E testing simulates real user interactions by testing user flows in a production-like environment, such as a browser.
+
+(-------------------------------------------------------------------------)
