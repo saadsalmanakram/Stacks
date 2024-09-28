@@ -4733,3 +4733,10 @@ Ans- Cache-Control: public, max-age=0.
 Ans- No, the folder must be named public and cannot be changed.
 
 (----------------------------------------------------------------------)
+
+789- What happens to files added to the public folder after build time?
+
+Ans- Files added after build time will not be served by Next.js.
+
+(----------------------------------------------------------------------)
+
