@@ -4841,3 +4841,9 @@ Ans- Height, Width, Style, Allowfullscreen, Loading, Query (q), Center, Zoom, Ma
 Ans- It loads and displays a YouTube video embed quickly using lite-youtube-embed.
 
 (--------------------------------------------------------------------------)
+
+807- What is the required prop for the YouTubeEmbed component?
+
+Ans- Required: videoid.
+
+(--------------------------------------------------------------------------)
