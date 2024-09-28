@@ -5479,3 +5479,9 @@ Ans- Next.js can process local and remote MDX files, transforming them into HTML
 Ans- npm install @next/mdx @mdx-js/loader @mdx-js/react @types/mdx.
 
 (-------------------------------------------------------------------------)
+
+911- How do you configure Next.js to support MDX?
+
+Ans- Update the next.config.mjs file to include MDX as a page extension and integrate it with the Next.js configuration.
+
+(-------------------------------------------------------------------------)
