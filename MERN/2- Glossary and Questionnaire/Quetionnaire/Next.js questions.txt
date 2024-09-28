@@ -4955,3 +4955,10 @@ Ans- The Webpack build worker is enabled by default, which helps decrease memory
 Ans- Ensuring static analysis completes helps prevent deploying faulty builds with unresolved errors.
 
 (--------------------------------------------------------------------------)
+
+826- How can you disable memory-consuming tasks during Next.js builds?
+
+Ans- Set eslint.ignoreDuringBuilds: true and typescript.ignoreBuildErrors: true in your Next.js config.
+
+(--------------------------------------------------------------------------)
+
