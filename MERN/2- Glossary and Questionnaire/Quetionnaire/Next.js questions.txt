@@ -4187,3 +4187,22 @@ Ans- onReady executes code after the script loads and every time the component m
 Ans- It handles the failure case when a script fails to load.
 
 (----------------------------------------------------------------------)
+
+688- Why should additional DOM attributes be forwarded to a <script> element in Next.js?
+
+Ans- Additional attributes like nonce or data-test are forwarded automatically to the final <script> element for optimization.
+
+(----------------------------------------------------------------------)
+
+689- What are the trade-offs of using the worker strategy for loading scripts?
+
+Ans- Some scripts may have limitations when executed in a web worker, and performance benefits vary by use case.
+
+(----------------------------------------------------------------------)
+
+690- What is package bundling in Next.js?
+
+Ans- Bundling refers to combining multiple packages and dependencies to improve the performance of an application.
+
+(----------------------------------------------------------------------)
+
