@@ -3762,3 +3762,8 @@ Ans- Automatically with static imports, manually by specifying width and height,
 
 (----------------------------------------------------------------------)
 
+616- What is the role of object-fit in the Image component with the fill prop?
+
+Ans- It controls how the image fits within the parent element, using values like cover, contain, or none.
+
+(----------------------------------------------------------------------)
