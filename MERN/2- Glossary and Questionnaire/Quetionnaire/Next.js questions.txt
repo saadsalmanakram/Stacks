@@ -5641,3 +5641,9 @@ Ans- Only use a custom server when Next.js's integrated router doesn't meet your
 Ans- Custom servers cannot be deployed on Vercel, and they lack performance optimizations like Automatic Static Optimization.
 
 (-------------------------------------------------------------------------)
+
+938- Can you use a custom server with standalone output mode in Next.js?
+
+Ans- No, standalone output mode does not trace custom server files and cannot be used with a custom server.
+
+(-------------------------------------------------------------------------)
