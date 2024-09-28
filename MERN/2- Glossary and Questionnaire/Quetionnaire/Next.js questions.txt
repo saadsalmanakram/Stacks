@@ -5449,3 +5449,15 @@ Ans- If neither baseUrl nor paths is configured, you would have to use relative 
 Ans- Markdown is a lightweight markup language that formats plain text into HTML.
 
 (-------------------------------------------------------------------------)
+
+906- How does Markdown transform text?
+
+Ans- It uses plain text syntax to convert text into structurally valid HTML elements.
+
+(-------------------------------------------------------------------------)
+
+907- What is MDX?
+
+Ans- MDX is a superset of Markdown that allows embedding JSX directly within Markdown files.
+
+(-------------------------------------------------------------------------)
