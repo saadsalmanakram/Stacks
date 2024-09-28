@@ -3947,3 +3947,10 @@ Ans- A warning is generated, as failing to specify subsets can lead to performan
 Ans- Multiple fonts can be imported in different components and applied using their respective className properties.
 
 (----------------------------------------------------------------------)
+
+647- What are variable fonts, and why are they recommended?
+
+Ans- Variable fonts offer flexibility and improve performance by combining multiple styles into a single file.
+
+(----------------------------------------------------------------------)
+
