@@ -4404,3 +4404,27 @@ Ans- You import it and call it in a component to handle metrics, optionally send
 
 (----------------------------------------------------------------------)
 
+724- Why does the useReportWebVitals hook require the 'use client' directive in Next.js?
+
+Ans- The 'use client' directive is required because Web Vitals metrics are client-side and need to be reported from the browser environment.
+
+(----------------------------------------------------------------------)
+
+725- What is the best practice for implementing useReportWebVitals in Next.js?
+
+Ans- Encapsulate the WebVitals component in a separate client-side component to keep the client-side boundary isolated for performance.
+
+(----------------------------------------------------------------------)
+
+726- How can you send Web Vitals results to an external endpoint? 
+
+Ans- Use the navigator.sendBeacon() method or fallback to fetch() to post metrics to an external server.
+
+(----------------------------------------------------------------------)
+
+727- How would you send Web Vitals data to Google Analytics in Next.js?
+
+Ans- You can use the window.gtag method to send metrics as events, including values for metrics like CLS or LCP.
+
+(----------------------------------------------------------------------)
+
