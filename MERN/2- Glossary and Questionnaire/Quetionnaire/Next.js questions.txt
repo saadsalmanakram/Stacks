@@ -5419,3 +5419,9 @@ Ans-
 Ans- The @ symbol in module aliases serves as a prefix to indicate that the import is an alias for a path defined in the paths option.
 
 (-------------------------------------------------------------------------)
+
+901- How do you import a component using an alias after configuring it?
+
+Ans- After configuring an alias, you can import a component like this: import Button from '@/components/button'.
+
+(-------------------------------------------------------------------------)
