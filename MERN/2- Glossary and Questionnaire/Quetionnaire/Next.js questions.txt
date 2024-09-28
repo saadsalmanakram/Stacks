@@ -3588,3 +3588,8 @@ Ans- To ensure styles are injected before any content that might depend on them,
 
 (----------------------------------------------------------------------)
 
+587- What is the function of StyleSheetManager in styled-components?
+
+Ans- It wraps components and ensures proper style injection during server rendering.
+
+(----------------------------------------------------------------------)
