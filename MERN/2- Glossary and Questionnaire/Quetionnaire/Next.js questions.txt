@@ -6916,3 +6916,9 @@ Ans- Images prepared for social sharing to improve engagement on platforms.
 Ans- They assist search engines in crawling and indexing your pages efficiently.
 
 (-------------------------------------------------------------------------)
+
+1148- Why should you use TypeScript with Next.js?
+
+Ans- TypeScript improves type safety, helping catch errors early in development.
+
+(-------------------------------------------------------------------------)
