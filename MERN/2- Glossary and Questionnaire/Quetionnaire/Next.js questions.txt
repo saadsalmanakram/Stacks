@@ -3714,3 +3714,9 @@ Ans- It uses the intrinsic size from imported local images and automatically adj
 
 (----------------------------------------------------------------------)
 
+608- How does Next.js improve image optimization for different screen sizes?
+
+Ans- It generates multiple URLs for the image, utilizing the srcset attribute to serve the right image size based on the viewport.
+
+(----------------------------------------------------------------------)
+
