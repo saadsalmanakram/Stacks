@@ -7066,3 +7066,15 @@ Ans- An error occurs, similar to setting the dynamic option to error in the root
 Ans- The out folder contains the generated static export files.
 
 (-------------------------------------------------------------------------)
+
+1173- How do you configure Nginx for a Next.js static export?
+
+Ans- Use try_files and rewrite directives in the Nginx configuration to serve the correct files.
+
+(-------------------------------------------------------------------------)
+
+1174- What are Multi-Zones in micro-frontends?
+
+Ans- Multi-Zones separate a large application into smaller Next.js applications that each serve a specific set of paths.
+
+(-------------------------------------------------------------------------)
