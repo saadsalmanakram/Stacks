@@ -4668,3 +4668,9 @@ Ans- On Vercel, OpenTelemetry works out-of-the-box, while self-hosting requires 
 
 (----------------------------------------------------------------------)
 
+778- What is the purpose of NEXT_RUNTIME === 'nodejs' in OpenTelemetry manual setup?
+
+Ans- It ensures that Node-specific OpenTelemetry packages are only imported in Node.js runtime environments.
+
+(----------------------------------------------------------------------)
+
