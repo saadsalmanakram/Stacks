@@ -4103,3 +4103,10 @@ Ans- Use Google's Rich Results Test or Schema Markup Validator.
 Ans- Basic CSS properties like flexbox are supported, while advanced layouts (e.g., grid) are not.
 
 (----------------------------------------------------------------------)
+
+674- What happens if no metadata is defined for a page in Next.js?
+
+Ans- The default charset and viewport meta tags are still added automatically.
+
+(----------------------------------------------------------------------)
+
