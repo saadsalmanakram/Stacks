@@ -6037,3 +6037,9 @@ Ans- These files define the app's metadata (name, icons, start URL) used to enab
 Ans- Service workers enable offline capabilities, background sync, and push notifications, enhancing user engagement and app performance.
 
 (-------------------------------------------------------------------------)
+
+1003- How do push notifications work in a Next.js PWA?
+
+Ans- Push notifications are managed via service workers and Web Push APIs, enabling re-engagement with users even when the app isn't active.
+
+(-------------------------------------------------------------------------)
