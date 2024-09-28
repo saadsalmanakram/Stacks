@@ -5815,3 +5815,9 @@ Ans- Data is fetched at request time from the draft environment if Draft Mode is
 Ans- Draft Mode is enabled, a cookie is set, and the browser redirects to the specified slug.
 
 (-------------------------------------------------------------------------)
+
+967- How do you preview draft content using Draft Mode?
+
+Ans- By accessing the draft URL from the headless CMS or manually with the correct token and slug, you can preview draft content.
+
+(-------------------------------------------------------------------------)
