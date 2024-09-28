@@ -5345,3 +5345,9 @@ Ans- You can access runtime environment variables using server-side functions li
 Ans- You should create an API to provide the runtime environment values to the client.
 
 (-------------------------------------------------------------------------)
+
+890- What is a recommended practice for managing environment variables in version control?
+
+Ans- Default .env files should be committed, while sensitive values should be excluded or kept in a secure location.
+
+(-------------------------------------------------------------------------)
