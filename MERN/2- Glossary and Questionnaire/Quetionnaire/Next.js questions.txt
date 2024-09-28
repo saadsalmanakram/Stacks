@@ -5261,3 +5261,9 @@ Ans- Overriding default settings in a way that conflicts with Next.js or using m
 Ans- Environment variables are key-value pairs used to configure applications, allowing dynamic behavior based on the environment.
 
 (-------------------------------------------------------------------------)
+
+876- How do you load environment variables in Next.js?
+
+Ans- You can load environment variables from .env files into process.env automatically.
+
+(-------------------------------------------------------------------------)
