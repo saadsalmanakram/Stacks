@@ -3527,3 +3527,9 @@ Ans- In Client Components, styled-jsx collects and injects CSS rules during serv
 Ans- It allows injecting CSS rules before rendering content that depends on them during server-side rendering.
 
 (----------------------------------------------------------------------)
+
+577- How do you configure styled-jsx in Next.js for Server Components?
+
+Ans- Create a style registry and wrap the root layout with it, injecting styles using useServerInsertedHTML.
+
+(----------------------------------------------------------------------)
