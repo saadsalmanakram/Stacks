@@ -4626,4 +4626,10 @@ Ans- @vercel/otel automates the setup, while manual configuration provides more 
 
 (----------------------------------------------------------------------)
 
+771- How can you enable verbose tracing in Next.js with OpenTelemetry?
+
+Ans- Set the environment variable NEXT_OTEL_VERBOSE=1 to see more detailed spans in your traces.
+
+(----------------------------------------------------------------------)
+
 
