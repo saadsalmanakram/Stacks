@@ -6580,3 +6580,9 @@ Ans- It ensures only the necessary data is exposed, reducing the risk of sensiti
 Ans- It minimizes redundant database queries by storing previously fetched data during a render pass.
 
 (-------------------------------------------------------------------------)
+
+1092- How do you perform authorization checks in Server Components?
+
+Ans- By calling functions like verifySession() to conditionally render components based on user roles.
+
+(-------------------------------------------------------------------------)
