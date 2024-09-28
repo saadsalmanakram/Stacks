@@ -3924,3 +3924,9 @@ Ans- It ensures text remains visible during font loading by showing a fallback f
 
 (----------------------------------------------------------------------)
 
+643- How do you import a Google Font in Next.js using next/font?
+
+Ans- Import the font from next/font/google as a function and use it in the component.
+
+(----------------------------------------------------------------------)
+
