@@ -6271,3 +6271,16 @@ Ans- Use moduleNameMapper in jest.config.js to match paths defined in tsconfig.j
 Ans- It allows you to import custom matchers and setup scripts before each test runs.
 
 (-------------------------------------------------------------------------)
+
+1042- How do you create your first test in a Next.js application using Jest?
+
+Ans- Create a folder named __tests__ and write your tests in files like page.test.jsx.
+
+(-------------------------------------------------------------------------)
+
+1043- What is a simple test case for checking if a heading renders in a component?
+
+Ans- Use expect(screen.getByRole('heading', { level:1 })).toBeInTheDocument() in your test.
+
+(-------------------------------------------------------------------------)
+
