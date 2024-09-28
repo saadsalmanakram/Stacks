@@ -6170,3 +6170,8 @@ Ans- npx create-next-app@latest --example with-vitest with-vitest-app.
 
 (-------------------------------------------------------------------------)
 
+1025- Which packages need to be installed as dev dependencies for Vitest?
+
+Ans- vitest, @vitejs/plugin-react, jsdom, @testing-library/react, and @testing-library/dom.
+
+(-------------------------------------------------------------------------)
