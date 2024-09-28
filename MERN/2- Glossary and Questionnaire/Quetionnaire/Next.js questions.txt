@@ -6379,3 +6379,9 @@ Ans- It simulates user navigation through the application in headless mode acros
 Ans- Ensure Playwright runs in headless mode and install all dependencies with npx playwright install-deps.
 
 (-------------------------------------------------------------------------)
+
+1060- Why is it recommended to run tests against production code?
+
+Ans- Running tests against production code closely resembles how the application behaves in real-world scenarios.
+
+(-------------------------------------------------------------------------)
