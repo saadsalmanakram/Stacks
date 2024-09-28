@@ -4692,3 +4692,9 @@ Ans- By collecting traces and metrics, it helps monitor application behavior, de
 
 (----------------------------------------------------------------------)
 
+782- What is the purpose of the public folder in Next.js?
+
+Ans- The public folder is used to serve static files like images, which can be accessed via the base URL (/).
+
+(----------------------------------------------------------------------)
+
