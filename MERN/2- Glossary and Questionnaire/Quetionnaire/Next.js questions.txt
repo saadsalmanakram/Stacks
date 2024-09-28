@@ -3330,3 +3330,8 @@ Ans- Prefer CSS Modules, import styles consistently, and avoid using automatic i
 
 (-----------------------------------------------------------------------)
 
+544- How does Next.js optimize CSS during production builds?
+
+Ans- By merging stylesheets and bundling them into minified .css files to reduce network requests.
+
+(-----------------------------------------------------------------------)
