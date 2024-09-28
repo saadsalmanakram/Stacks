@@ -6670,3 +6670,9 @@ Ans- Include "dev": "next dev", "build": "next build", and "start": "next start"
 Ans- Build your Docker image with docker build -t nextjs-docker . and run it using docker run -p 3000:3000 nextjs-docker.
 
 (-------------------------------------------------------------------------)
+
+1107- What are the limitations of static HTML export in Next.js?
+
+Ans- It does not support features that require a server.
+
+(-------------------------------------------------------------------------)
