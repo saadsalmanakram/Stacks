@@ -6551,3 +6551,8 @@ Ans- Middleware centralizes session checks and can redirect users based on their
 
 (-------------------------------------------------------------------------)
 
+1087- How can you prevent unauthorized access using middleware?
+
+Ans- By checking if the session exists and redirecting to the login page if not.
+
+(-------------------------------------------------------------------------)
