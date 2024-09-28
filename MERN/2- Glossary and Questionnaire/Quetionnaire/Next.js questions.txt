@@ -6241,3 +6241,9 @@ Ans- Use end-to-end (E2E) testing for async components.
 Ans- Use npx create-next-app@latest --example with-jest to create a new app with Jest configured.
 
 (-------------------------------------------------------------------------)
+
+1037- What command installs Jest and the necessary testing libraries for a Next.js app?
+
+Ans- npm install -D jest jest-environment-jsdom @testing-library/react @testing-library/dom @testing-library/jest-dom.
+
+(-------------------------------------------------------------------------)
