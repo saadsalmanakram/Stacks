@@ -5444,3 +5444,8 @@ Ans- If neither baseUrl nor paths is configured, you would have to use relative 
 
 (-------------------------------------------------------------------------)
 
+905- What is Markdown?
+
+Ans- Markdown is a lightweight markup language that formats plain text into HTML.
+
+(-------------------------------------------------------------------------)
