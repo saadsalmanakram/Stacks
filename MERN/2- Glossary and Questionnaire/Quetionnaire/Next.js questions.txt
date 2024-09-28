@@ -5786,9 +5786,16 @@ Ans- The request fails with a 401 error, indicating an invalid token or slug.
 
 (-------------------------------------------------------------------------)
 
+962- How do you handle redirection after enabling Draft Mode?
 
+Ans- Redirect the user to the slug path using the redirect() function after verifying the token and slug.
 
+(-------------------------------------------------------------------------)
 
+963- What is checked before enabling Draft Mode in the route handler?
 
+Ans- The route handler checks if the secret token matches and if the slug exists in the CMS.
+
+(-------------------------------------------------------------------------)
 
 
