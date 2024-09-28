@@ -6308,3 +6308,9 @@ Ans- Add import '@testing-library/jest-dom' to your jest.setup.ts file.
 
 (-------------------------------------------------------------------------)
 
+1048- What are some automatic configurations that next/jest provides?
+
+Ans- It sets up transformations, mocks for styles, loads environment variables, and ignores certain folders like node_modules and .next.
+
+(-------------------------------------------------------------------------)
+
