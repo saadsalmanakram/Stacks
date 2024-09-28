@@ -5869,3 +5869,9 @@ Ans- Nonces allow legitimate inline scripts to run safely while still enforcing 
 Ans- Nonces are dynamically generated in Next.js using Middleware, creating a fresh nonce for each page request.
 
 (-------------------------------------------------------------------------)
+
+975- What is the role of Middleware in CSP implementation?
+
+Ans- Middleware can be used to add headers and generate nonces before a page renders, ensuring CSP is applied dynamically.
+
+(-------------------------------------------------------------------------)
