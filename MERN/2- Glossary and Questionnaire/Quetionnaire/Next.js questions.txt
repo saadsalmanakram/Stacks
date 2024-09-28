@@ -6503,3 +6503,9 @@ Ans- Since async Server Components are not supported in component testing, E2E t
 
 (-------------------------------------------------------------------------)
 
+1079- What is session management in web applications?
+
+Ans- It is the process of maintaining a user's session state across multiple requests.
+
+(-------------------------------------------------------------------------)
+
