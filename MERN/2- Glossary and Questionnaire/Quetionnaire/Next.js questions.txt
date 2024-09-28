@@ -3377,3 +3377,9 @@ Ans- Use npm install -D tailwindcss postcss autoprefixer and initialize with npx
 Ans- npx tailwindcss init -p generates the tailwind.config.js and postcss.config.js files.
 
 (-----------------------------------------------------------------------)
+
+552- What is the purpose of the tailwind.config.js file?
+
+Ans- It configures Tailwind, specifying content paths and customizing themes.
+
+(-----------------------------------------------------------------------)
