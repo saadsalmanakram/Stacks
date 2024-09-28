@@ -4656,3 +4656,9 @@ Ans- It represents the root span for each incoming request to track HTTP method,
 
 (----------------------------------------------------------------------)
 
+776- How can you disable automatic span collection for fetch requests in Next.js?
+
+Ans- Set the environment variable NEXT_OTEL_FETCH_DISABLED=1 to disable fetch request spans.
+
+(----------------------------------------------------------------------)
+
