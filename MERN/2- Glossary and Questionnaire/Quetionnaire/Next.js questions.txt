@@ -4368,3 +4368,8 @@ Ans- It helps optimize the client-side bundle by loading components only when ne
 
 (----------------------------------------------------------------------)
 
+718- What is the difference between lazy loading Server and Client Components?
+
+Ans- Lazy loading applies only to Client Components, while Server Components handle their own SSR.
+
+(----------------------------------------------------------------------)
