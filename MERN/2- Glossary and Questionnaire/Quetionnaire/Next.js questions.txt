@@ -6778,3 +6778,9 @@ Ans- Prefetching loads a route in the background as it enters the user's viewpor
 Ans- Static rendering generates HTML at build time, improving performance by serving cached results.
 
 (-------------------------------------------------------------------------)
+
+1125- How does caching work in Next.js?
+
+Ans- Next.js caches data requests and rendered components to minimize network requests.
+
+(-------------------------------------------------------------------------)
