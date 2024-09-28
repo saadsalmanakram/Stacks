@@ -4343,3 +4343,10 @@ Ans- Only its Client Component children will be lazy-loaded.
 Ans- By using the import() function, such as importing fuse.js for fuzzy search.
 
 (----------------------------------------------------------------------)
+
+714- How do you add a custom loading component with next/dynamic?
+
+Ans- Pass a loading component as an option in next/dynamic().
+
+(----------------------------------------------------------------------)
+
