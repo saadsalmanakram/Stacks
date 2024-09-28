@@ -4584,3 +4584,33 @@ Ans- OpenTelemetry provides insights into application behavior by collecting met
 
 (----------------------------------------------------------------------)
 
+764- How is OpenTelemetry integrated into Next.js?
+
+Ans- Next.js supports OpenTelemetry out-of-the-box, automatically wrapping server-side code like getStaticProps in spans for tracing.
+
+(----------------------------------------------------------------------)
+
+765- What is a span in OpenTelemetry?
+
+Ans- A span represents a unit of work in a trace, tracking operations like HTTP requests and database calls.
+
+(----------------------------------------------------------------------)
+
+766- What role does the @vercel/otel package play in Next.js applications?
+
+Ans- The @vercel/otel package simplifies OpenTelemetry setup in Next.js, automating instrumentation and enabling easy observability.
+
+(----------------------------------------------------------------------)
+
+767- How do you add custom spans in OpenTelemetry?
+
+Ans- Custom spans can be added using OpenTelemetry’s trace.getTracer API to track specific application operations.
+
+(----------------------------------------------------------------------)
+
+768- What are the common attributes added to spans in Next.js?
+
+Ans- Common attributes include http.method, http.status_code, next.route, and next.span_type to provide context about operations.
+
+(----------------------------------------------------------------------)
+
