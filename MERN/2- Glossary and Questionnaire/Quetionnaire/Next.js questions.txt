@@ -6097,3 +6097,10 @@ Ans- Security headers like X-Content-Type-Options, X-Frame-Options, and Referrer
 Ans- It prevents browsers from interpreting files as a different MIME type, reducing exposure to certain types of attacks.
 
 (-------------------------------------------------------------------------)
+
+1013- What is the importance of caching strategies in PWAs?
+
+Ans- Caching strategies help PWAs load quickly, reduce data usage, and ensure the app works offline by caching important resources.
+
+(-------------------------------------------------------------------------)
+
