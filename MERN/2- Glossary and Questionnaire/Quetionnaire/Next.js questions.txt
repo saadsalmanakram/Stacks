@@ -5431,3 +5431,9 @@ Ans- After configuring an alias, you can import a component like this: import Bu
 Ans- They reduce the complexity of import paths, making the code cleaner and easier to maintain, especially in large projects.
 
 (-------------------------------------------------------------------------)
+
+903- Can you configure baseUrl to a subdirectory instead of the project root?
+
+Ans- Yes, you can set baseUrl to any subdirectory, allowing you to resolve imports relative to that specific directory.
+
+(-------------------------------------------------------------------------)
