@@ -5545,3 +5545,10 @@ Ans- MDX files can be treated as routes, allowing for navigation directly to MDX
 Ans- Fetching and executing MDX from untrusted sources can lead to remote code execution vulnerabilities.
 
 (-------------------------------------------------------------------------)
+
+922- Can you use React components in MDX?
+
+Ans- Yes, MDX allows importing and using React components directly within the Markdown content.
+
+(-------------------------------------------------------------------------)
+
