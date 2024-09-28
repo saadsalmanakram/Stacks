@@ -4913,3 +4913,10 @@ Ans- Run the build command with NODE_OPTIONS=--inspect and use Chrome DevTools t
 Ans- It allows Webpack compilations to run in a separate Node.js worker, reducing overall memory usage during builds.
 
 (--------------------------------------------------------------------------)
+
+819- How can you disable Webpack caching in a Next.js application?
+
+Ans- Modify the Webpack configuration to set config.cache = Object.freeze({ type: 'memory' }) for non-development builds.
+
+(--------------------------------------------------------------------------)
+
