@@ -4025,3 +4025,22 @@ Ans- By exporting a Metadata object from layout.tsx or page.tsx.
 Ans- The generateMetadata function.
 
 (----------------------------------------------------------------------)
+
+661- How does dynamic metadata differ from static metadata?
+
+Ans- Dynamic metadata fetches data or uses dynamic values, while static metadata is hardcoded.
+
+(----------------------------------------------------------------------)
+
+662- What is the behavior of metadata when both file-based and config-based metadata are present?
+
+Ans- What is the behavior of metadata when both file-based and config-based metadata are present?
+
+(----------------------------------------------------------------------)
+
+663- What are the default meta tags added by Next.js?
+
+Ans- <meta charset="utf-8" /> and <meta name="viewport" content="width=device-width, initial-scale=1" />.
+
+(----------------------------------------------------------------------)
+
