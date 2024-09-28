@@ -5171,3 +5171,10 @@ Ans- ESLint will automatically run during each build (next build), failing the b
 Ans- It's the default ESLint configuration provided by Next.js, optimizing linting for Next.js applications.
 
 (-------------------------------------------------------------------------)
+
+861- What rules are enforced by eslint-plugin-next?
+
+Ans- It includes rules to catch common issues specific to Next.js applications, such as preventing usage of certain HTML elements.
+
+(-------------------------------------------------------------------------)
+
