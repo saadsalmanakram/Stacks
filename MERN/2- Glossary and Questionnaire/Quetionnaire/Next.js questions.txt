@@ -4260,3 +4260,9 @@ Ans- Use the serverExternalPackages option in next.config.js with the package na
 
 (----------------------------------------------------------------------)
 
+700- Why is it important to periodically evaluate your application’s bundles?
+
+Ans- Regular bundle evaluation helps maintain optimal application performance over time.
+
+(----------------------------------------------------------------------)
+
