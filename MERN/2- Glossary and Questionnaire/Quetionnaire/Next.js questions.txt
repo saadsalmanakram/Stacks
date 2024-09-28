@@ -4055,3 +4055,10 @@ Ans- Metadata is evaluated in order, from root to the closest page.js segment.
 Ans- They are shallowly merged, with later segments overwriting earlier ones.
 
 (----------------------------------------------------------------------)
+
+666- What is the role of the ImageResponse constructor?
+
+Ans- It generates dynamic images, such as Open Graph images, using JSX and CSS.
+
+(----------------------------------------------------------------------)
+
