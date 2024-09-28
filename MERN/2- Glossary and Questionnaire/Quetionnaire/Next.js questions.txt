@@ -7114,3 +7114,15 @@ Ans- basePath prevents conflicts with pages and static files in other zones by p
 Ans- assetPrefix is used to serve Next.js assets under a unique path prefix when zones don't share a common path prefix.
 
 (-------------------------------------------------------------------------)
+
+1181- How do you route requests to the correct zone in Multi-Zones?
+
+Ans- You can use rewrites in Next.js to map specific paths to the corresponding zone's domain.
+
+(-------------------------------------------------------------------------)
+
+1182- What is the format for defining rewrites in next.config.js?
+
+Ans- Rewrites are defined as an array of objects specifying source and destination URLs.
+
+(-------------------------------------------------------------------------)
