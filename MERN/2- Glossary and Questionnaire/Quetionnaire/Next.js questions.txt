@@ -4067,3 +4067,10 @@ Ans- It generates dynamic images, such as Open Graph images, using JSX and CSS.
 Ans- JSON-LD is a format for structured data that helps search engines understand content, typically rendered as a <script> tag.
 
 (----------------------------------------------------------------------)
+
+668- Can metadata be inherited between segments?
+
+Ans- Yes, nested metadata can inherit fields from parent segments.
+
+(----------------------------------------------------------------------)
+
