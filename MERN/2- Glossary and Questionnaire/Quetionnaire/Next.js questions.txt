@@ -3858,3 +3858,9 @@ Ans- It applies additional restrictions on the content within the iframe for sec
 
 (----------------------------------------------------------------------)
 
+632- How can CDNs improve video performance in Next.js?
+
+Ans- CDNs enhance video delivery speed and manage high traffic by caching content closer to users.
+
+(----------------------------------------------------------------------)
+
