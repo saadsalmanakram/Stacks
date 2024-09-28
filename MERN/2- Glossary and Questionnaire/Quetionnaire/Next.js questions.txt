@@ -6574,3 +6574,9 @@ Ans- It centralizes data requests and authorization logic to enhance security an
 Ans- It ensures only the necessary data is exposed, reducing the risk of sensitive data leakage.
 
 (-------------------------------------------------------------------------)
+
+1091- How does caching improve performance in DAL?
+
+Ans- It minimizes redundant database queries by storing previously fetched data during a render pass.
+
+(-------------------------------------------------------------------------)
