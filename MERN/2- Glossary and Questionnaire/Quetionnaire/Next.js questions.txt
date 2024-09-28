@@ -4452,4 +4452,10 @@ Ans- LCP measures how long it takes for the largest content element to load and 
 
 (----------------------------------------------------------------------)
 
+732- How can navigator.sendBeacon improve performance when sending Web Vitals?
+
+Ans- It sends data asynchronously without blocking the main thread, improving efficiency for reporting metrics.
+
+(----------------------------------------------------------------------)
+
 
