@@ -3317,3 +3317,10 @@ Ans- Yes, external stylesheets from npm packages can be imported anywhere in the
 Ans- CSS order is determined by the order of imports, and stylesheets are chunked during production builds.
 
 (-----------------------------------------------------------------------)
+
+542- What should you do to maintain predictable CSS ordering?
+
+Ans- Import each CSS file in a single JS/TS file and follow a consistent import order.
+
+(-----------------------------------------------------------------------)
+
