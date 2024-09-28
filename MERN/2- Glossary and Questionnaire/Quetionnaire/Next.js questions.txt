@@ -5767,3 +5767,19 @@ Ans- Draft Mode triggers dynamic rendering for static pages, showing draft chang
 Ans- This cookie is used to enable Draft Mode and ensure subsequent requests are served with draft content.
 
 (-------------------------------------------------------------------------)
+
+959- How can a headless CMS securely trigger Draft Mode?
+
+Ans- Use a custom URL containing a secret token and the desired page slug to enable Draft Mode from the headless CMS.
+
+(-------------------------------------------------------------------------)
+
+
+
+
+
+
+
+
+
+
