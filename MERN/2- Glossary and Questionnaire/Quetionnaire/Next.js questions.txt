@@ -5666,3 +5666,8 @@ Ans- Update the package.json scripts: "dev": "node server.js", and "start": "NOD
 
 (-------------------------------------------------------------------------)
 
+942- What does the next import function do in a custom server?
+
+Ans- It initializes a Next.js app by receiving an object with various options like dev, conf, dir, and others.
+
+(-------------------------------------------------------------------------)
