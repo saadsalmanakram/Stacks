@@ -5809,3 +5809,9 @@ Ans- When enabled, the data is fetched dynamically from the draft source instead
 Ans- Data is fetched at request time from the draft environment if Draft Mode is enabled, otherwise from the production environment.
 
 (-------------------------------------------------------------------------)
+
+966- What happens when you visit the /api/draft endpoint with valid parameters?
+
+Ans- Draft Mode is enabled, a cookie is set, and the browser redirects to the specified slug.
+
+(-------------------------------------------------------------------------)
