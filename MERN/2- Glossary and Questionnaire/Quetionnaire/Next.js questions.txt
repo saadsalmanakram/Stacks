@@ -6766,3 +6766,9 @@ Ans- Server Components run on the server and don't affect client-side JavaScript
 Ans- It automatically splits code by route segments, optimizing loading times.
 
 (-------------------------------------------------------------------------)
+
+1123- What is prefetching in Next.js?
+
+Ans- Prefetching loads a route in the background as it enters the user's viewport for instant navigation.
+
+(-------------------------------------------------------------------------)
