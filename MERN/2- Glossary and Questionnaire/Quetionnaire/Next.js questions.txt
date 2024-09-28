@@ -5225,3 +5225,9 @@ Ans- Caching stores information about processed files, speeding up subsequent li
 Ans- By using the dirs option in the eslint configuration of next.config.js.
 
 (-------------------------------------------------------------------------)
+
+870- What command disables the cache in ESLint?
+
+Ans- Using next lint --no-cache disables caching for that linting session.
+
+(-------------------------------------------------------------------------)
