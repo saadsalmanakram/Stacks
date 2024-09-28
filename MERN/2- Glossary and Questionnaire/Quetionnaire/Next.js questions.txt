@@ -4560,3 +4560,15 @@ Ans- Use the NEXT_RUNTIME environment variable to check if the current environme
 
 (----------------------------------------------------------------------)
 
+760- What is the purpose of importing runtime-specific code in instrumentation?
+
+Ans- To ensure compatibility with different environments like Node.js or Edge, preventing runtime errors.
+
+(----------------------------------------------------------------------)
+
+761- Why should side effects be handled inside the register function rather than globally?
+
+Ans- This minimizes the risk of unintended consequences from global imports and keeps code organized.
+
+(----------------------------------------------------------------------)
+
