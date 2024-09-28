@@ -4866,3 +4866,9 @@ Ans- It allows for more control over the tagging scripts and can enhance perform
 
 (--------------------------------------------------------------------------)
 
+811- What is the impact of increased dependencies on memory usage in Next.js applications?
+
+Ans- More dependencies lead to higher memory consumption during development and production builds.
+
+(--------------------------------------------------------------------------)
+
