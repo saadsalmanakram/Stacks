@@ -6868,3 +6868,9 @@ Ans- It optimizes images, prevents layout shifts, and serves them in modern form
 Ans- It defers third-party scripts, preventing them from blocking the main thread.
 
 (-------------------------------------------------------------------------)
+
+1140- Why should you use ESLint for accessibility?
+
+Ans- It helps catch accessibility issues early in the development process.
+
+(-------------------------------------------------------------------------)
