@@ -6742,3 +6742,9 @@ Ans- It allows certain pages to be prerendered while still being dynamic, workin
 Ans- Use getServerSideProps or incrementally adopt the App Router for safe access to environment variables.
 
 (-------------------------------------------------------------------------)
+
+1119- How do you ensure consistency in cache when deploying with multiple containers?
+
+Ans- Implement a custom cache handler to manage the cache storage outside of in-memory options.
+
+(-------------------------------------------------------------------------)
