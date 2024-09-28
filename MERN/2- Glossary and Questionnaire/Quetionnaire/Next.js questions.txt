@@ -5756,3 +5756,14 @@ Ans- Create a route handler and use the draftMode().enable() method to enable Dr
 
 (-------------------------------------------------------------------------)
 
+957- How does Draft Mode modify the behavior of static pages?
+
+Ans- Draft Mode triggers dynamic rendering for static pages, showing draft changes without requiring a site rebuild.
+
+(-------------------------------------------------------------------------)
+
+958- What is the significance of the __prerender_bypass cookie in Draft Mode?
+
+Ans- This cookie is used to enable Draft Mode and ensure subsequent requests are served with draft content.
+
+(-------------------------------------------------------------------------)
