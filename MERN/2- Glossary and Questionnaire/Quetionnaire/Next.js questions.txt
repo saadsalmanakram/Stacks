@@ -3677,3 +3677,9 @@ Ans- It calculates the intrinsic width and height to maintain the aspect ratio, 
 Ans- Images are only loaded when they enter the viewport, improving performance.
 
 (----------------------------------------------------------------------)
+
+602- How does the priority property affect image loading in Next.js?
+
+Ans- It prioritizes the loading of the Largest Contentful Paint (LCP) element, boosting performance.
+
+(----------------------------------------------------------------------)
