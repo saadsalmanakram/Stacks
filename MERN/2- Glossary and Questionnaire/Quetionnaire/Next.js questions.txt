@@ -4967,3 +4967,10 @@ Ans- Set eslint.ignoreDuringBuilds: true and typescript.ignoreBuildErrors: true 
 Ans- It breaks before any user code starts, allowing for a detailed inspection of memory usage from the beginning.
 
 (--------------------------------------------------------------------------)
+
+828- How can you trigger a heap snapshot while running a Next.js build?
+
+Ans- Send a SIGUSR2 signal to the process while it's running with --experimental-debug-memory-usage enabled.
+
+(--------------------------------------------------------------------------)
+
