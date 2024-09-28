@@ -3821,3 +3821,10 @@ Ans- Use the <track> tag inside the <video> element to link to a subtitle file.
 Ans- It specifies how the video is preloaded: none, metadata, or auto.
 
 (----------------------------------------------------------------------)
+
+626- What are best practices when embedding videos using <iframe>?
+
+Ans- Ensure the video is responsive, use lazy loading (loading="lazy"), and include accessible controls.
+
+(----------------------------------------------------------------------)
+
