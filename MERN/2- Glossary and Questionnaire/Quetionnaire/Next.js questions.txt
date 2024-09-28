@@ -4079,3 +4079,10 @@ Ans- Yes, nested metadata can inherit fields from parent segments.
 Ans- Fields defined in a later segment will replace those from earlier segments.
 
 (----------------------------------------------------------------------)
+
+670- What is the size limit for the bundle used in ImageResponse?
+
+Ans- The maximum bundle size is 500KB.
+
+(----------------------------------------------------------------------)
+
