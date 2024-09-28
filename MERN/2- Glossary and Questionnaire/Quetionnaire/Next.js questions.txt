@@ -5629,3 +5629,10 @@ Ans- It helps in clearly separating application logic from configuration, improv
 Ans- A custom server in Next.js allows you to programmatically start a server when the default integrated router cannot meet your app's requirements.
 
 (-------------------------------------------------------------------------)
+
+936- When should you consider using a custom server in Next.js?
+
+Ans- Only use a custom server when Next.js's integrated router doesn't meet your app's needs, as it removes certain performance optimizations.
+
+(-------------------------------------------------------------------------)
+
