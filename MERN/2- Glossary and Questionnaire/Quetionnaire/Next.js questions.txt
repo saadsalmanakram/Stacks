@@ -3611,3 +3611,16 @@ Ans- Next.js provides built-in optimizations like image lazy loading, prefetchin
 Ans- Core Web Vitals are metrics that assess user experience through loading speed, interactivity, and visual stability.
 
 (----------------------------------------------------------------------)
+
+591- What does the Next.js Image Component do?
+
+Ans- The Image Component optimizes image performance by lazy loading and resizing images based on device size.
+
+(----------------------------------------------------------------------)
+
+592- What is the purpose of the Next.js Link Component?
+
+Ans- The Link Component prefetches pages for faster page transitions and smoother navigation.
+
+(----------------------------------------------------------------------)
+
