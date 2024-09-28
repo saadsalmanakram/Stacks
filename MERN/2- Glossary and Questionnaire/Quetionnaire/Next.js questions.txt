@@ -6599,3 +6599,8 @@ Ans- By checking the user's role against required permissions before executing a
 
 (-------------------------------------------------------------------------)
 
+1095- What is a recommended strategy for structuring authorization logic?
+
+Ans- Centralizing logic in a DAL and using DTOs to limit the data exposed to the client.
+
+(-------------------------------------------------------------------------)
