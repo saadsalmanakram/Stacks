@@ -6676,3 +6676,9 @@ Ans- Build your Docker image with docker build -t nextjs-docker . and run it usi
 Ans- It does not support features that require a server.
 
 (-------------------------------------------------------------------------)
+
+1108- How does Next.js handle image optimization?
+
+Ans- It uses the next/image component for runtime image optimization with zero configuration on self-hosted deployments.
+
+(-------------------------------------------------------------------------)
