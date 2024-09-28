@@ -6367,3 +6367,9 @@ Ans- Set the baseURL in the playwright.config.ts file, allowing you to use page.
 Ans- Use npx playwright test after running npm run build and npm run start.
 
 (-------------------------------------------------------------------------)
+
+1058- What does Playwright simulate when running tests?
+
+Ans- It simulates user navigation through the application in headless mode across multiple browsers.
+
+(-------------------------------------------------------------------------)
