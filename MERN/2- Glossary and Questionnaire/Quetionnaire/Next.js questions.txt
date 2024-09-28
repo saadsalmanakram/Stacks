@@ -3485,3 +3485,10 @@ Ans- Add variables using the additionalData property under sassOptions in next.c
 Ans- Use the implementation property in next.config.js to define the Sass implementation, e.g., sass-embedded.
 
 (----------------------------------------------------------------------)
+
+570- How can you use Sass variables in your Next.js components?
+
+Ans- Export Sass variables from CSS Modules using :export and import them in your components.
+
+(----------------------------------------------------------------------)
+
