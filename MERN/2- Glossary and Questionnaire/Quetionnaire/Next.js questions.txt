@@ -7012,3 +7012,9 @@ Ans- By setting the distDir option in next.config.js.
 Ans- Server Components run during build time and generate static HTML for the initial page load.
 
 (-------------------------------------------------------------------------)
+
+1164- How can you perform client-side data fetching in a Client Component?
+
+Ans- Use SWR in a Client Component to fetch and cache data on the client-side.
+
+(-------------------------------------------------------------------------)
