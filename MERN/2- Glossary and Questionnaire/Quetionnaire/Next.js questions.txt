@@ -4824,3 +4824,8 @@ Ans- It adds a Google Maps embed to your page, utilizing lazy loading by default
 
 (--------------------------------------------------------------------------)
 
+804- What are the required props for the GoogleMapsEmbed component?
+
+Ans- Required: apiKey, mode.
+
+(--------------------------------------------------------------------------)
