@@ -7060,3 +7060,9 @@ Ans- Dynamic routes, server-side cookies, redirects, middleware, and any Node.js
 Ans- An error occurs, similar to setting the dynamic option to error in the root layout.
 
 (-------------------------------------------------------------------------)
+
+1172- What folder contains the static export files after running next build?
+
+Ans- The out folder contains the generated static export files.
+
+(-------------------------------------------------------------------------)
