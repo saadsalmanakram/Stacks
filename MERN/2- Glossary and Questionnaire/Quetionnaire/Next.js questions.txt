@@ -5983,3 +5983,10 @@ Ans- It allows running both the Node.js application and browser debugging simult
 Ans- Use the cross-env package to handle environment variables consistently across platforms.
 
 (-------------------------------------------------------------------------)
+
+994- Why should Windows Defender be disabled when developing with Next.js?
+
+Ans- It can significantly slow down Fast Refresh during development.
+
+(-------------------------------------------------------------------------)
+
