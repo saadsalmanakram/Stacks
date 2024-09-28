@@ -5671,3 +5671,9 @@ Ans- Update the package.json scripts: "dev": "node server.js", and "start": "NOD
 Ans- It initializes a Next.js app by receiving an object with various options like dev, conf, dir, and others.
 
 (-------------------------------------------------------------------------)
+
+943- What is the purpose of the app.prepare() method in a custom server setup?
+
+Ans- It ensures Next.js is ready before starting the custom server.
+
+(-------------------------------------------------------------------------)
