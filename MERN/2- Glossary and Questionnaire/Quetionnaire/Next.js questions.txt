@@ -6982,3 +6982,9 @@ Ans- Static export generates static HTML files for each route, allowing for fast
 Ans- By running next build, Next.js creates an HTML file per route in the out folder for deployment.
 
 (-------------------------------------------------------------------------)
+
+1159- Can Next.js be deployed on any server?
+
+Ans- Yes, Next.js static exports can be hosted on any web server that serves HTML/CSS/JS static assets.
+
+(-------------------------------------------------------------------------)
