@@ -3683,3 +3683,9 @@ Ans- Images are only loaded when they enter the viewport, improving performance.
 Ans- It prioritizes the loading of the Largest Contentful Paint (LCP) element, boosting performance.
 
 (----------------------------------------------------------------------)
+
+603- What are remotePatterns in Next.js?
+
+Ans- They define allowed URL patterns for optimizing remote images, providing security against malicious usage.
+
+(----------------------------------------------------------------------)
