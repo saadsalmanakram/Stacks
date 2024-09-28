@@ -4229,3 +4229,10 @@ Ans- You can install it using npm, yarn, or pnpm by running the appropriate comm
 Ans- Add the bundle analyzer settings in next.config.js and run ANALYZE=true npm run build.
 
 (----------------------------------------------------------------------)
+
+695- How can bundle analysis help improve performance?
+
+Ans- It allows you to identify large dependencies, split code, or lazy-load components to reduce bundle size.
+
+(----------------------------------------------------------------------)
+
