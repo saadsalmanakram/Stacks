@@ -5414,3 +5414,8 @@ Ans-
 
 (-------------------------------------------------------------------------)
 
+900- What does the @ symbol indicate in module aliases?
+
+Ans- The @ symbol in module aliases serves as a prefix to indicate that the import is an alias for a path defined in the paths option.
+
+(-------------------------------------------------------------------------)
