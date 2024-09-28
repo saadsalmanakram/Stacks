@@ -6526,3 +6526,9 @@ Ans- Optimistic checks use stored session data for quick decisions, while secure
 Ans- By inserting session data into a database and storing an encrypted session ID in cookies.
 
 (-------------------------------------------------------------------------)
+
+1083- What does the deleteSession() function do?
+
+Ans- It removes the user's session from storage, effectively logging them out.
+
+(-------------------------------------------------------------------------)
