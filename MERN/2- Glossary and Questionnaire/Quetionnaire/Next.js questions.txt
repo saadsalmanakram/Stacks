@@ -3972,3 +3972,9 @@ Ans- Call the font loader function in a shared file, export it as a constant, an
 
 (----------------------------------------------------------------------)
 
+652- Can you use Next.js font optimization with Tailwind CSS?
+
+Ans- Yes, by using CSS variables and configuring the Tailwind CSS config to reference those variables.
+
+(----------------------------------------------------------------------)
+
