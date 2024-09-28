@@ -5918,3 +5918,14 @@ Ans- You can set the CSP header directly in the next.config.js file for applicat
 
 (-------------------------------------------------------------------------)
 
+983- What is debugging in Next.js?
+
+Ans- Debugging in Next.js involves troubleshooting both frontend and backend code using source maps and tools like VS Code or Chrome DevTools.
+
+(-------------------------------------------------------------------------)
+
+984- Which debuggers are commonly used with Next.js?
+
+Ans- VS Code debugger, Chrome DevTools, and JetBrains WebStorm.
+
+(-------------------------------------------------------------------------)
