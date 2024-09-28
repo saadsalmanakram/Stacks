@@ -6320,3 +6320,8 @@ Ans- Manually load them in a separate setup script or within jest.config.ts.
 
 (-------------------------------------------------------------------------)
 
+1050- What is Playwright?
+
+Ans- Playwright is a testing framework for automating browsers like Chromium, Firefox, and WebKit using a single API for End-to-End (E2E) testing.
+
+(-------------------------------------------------------------------------)
