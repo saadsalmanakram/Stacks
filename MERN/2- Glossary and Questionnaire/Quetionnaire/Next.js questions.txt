@@ -5273,3 +5273,9 @@ Ans- You can load environment variables from .env files into process.env automat
 Ans- Environment variables must be prefixed with NEXT_PUBLIC_ to be accessible in the browser.
 
 (-------------------------------------------------------------------------)
+
+878- Can you use multiline values in .env files?
+
+Ans- Yes, multiline values can be included using line breaks or \n within double quotes.
+
+(-------------------------------------------------------------------------)
