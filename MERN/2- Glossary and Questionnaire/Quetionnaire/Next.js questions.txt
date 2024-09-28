@@ -4284,3 +4284,9 @@ Ans- It ensures only the necessary parts of a package are included, reducing the
 
 (----------------------------------------------------------------------)
 
+704- What command do you use to generate a bundle analysis report?
+
+Ans- Use ANALYZE=true npm run build (or equivalent yarn/pnpm commands) to generate the report.
+
+(----------------------------------------------------------------------)
+
