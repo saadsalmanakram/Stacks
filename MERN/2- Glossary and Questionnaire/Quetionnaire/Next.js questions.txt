@@ -4524,3 +4524,9 @@ Ans- It initializes monitoring tools, such as OpenTelemetry, when a new server i
 
 (----------------------------------------------------------------------)
 
+744- What is OpenTelemetry and how is it used with Next.js?
+
+Ans- OpenTelemetry is an observability framework that is integrated into Next.js for tracing, using tools like @vercel/otel in the instrumentation.ts file.
+
+(----------------------------------------------------------------------)
+
