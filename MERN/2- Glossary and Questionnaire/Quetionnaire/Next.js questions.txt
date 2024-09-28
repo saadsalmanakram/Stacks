@@ -4020,3 +4020,8 @@ Ans- By exporting a Metadata object from layout.tsx or page.tsx.
 
 (----------------------------------------------------------------------)
 
+660- What function is used to generate dynamic metadata?
+
+Ans- The generateMetadata function.
+
+(----------------------------------------------------------------------)
