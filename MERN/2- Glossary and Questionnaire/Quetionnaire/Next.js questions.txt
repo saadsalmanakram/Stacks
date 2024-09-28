@@ -6802,3 +6802,9 @@ Ans- It facilitates client-side navigation and prefetches linked routes.
 Ans- Custom error pages should be created to gracefully handle errors like 404s.
 
 (-------------------------------------------------------------------------)
+
+1129- What are composition patterns in Next.js?
+
+Ans- They guide the use of Server and Client Components to optimize JavaScript bundle sizes.
+
+(-------------------------------------------------------------------------)
