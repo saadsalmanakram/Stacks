@@ -3696,3 +3696,8 @@ Ans- It makes the image expand to fill its parent element.
 
 (----------------------------------------------------------------------)
 
+605- What are loaders in the context of Next.js Image component?
+
+Ans- Loaders are functions that generate URLs for the image and manage resizing for different screen sizes.
+
+(----------------------------------------------------------------------)
