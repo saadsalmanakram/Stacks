@@ -5034,3 +5034,8 @@ Ans- Async Server Components enable asynchronous data fetching while maintaining
 
 (-------------------------------------------------------------------------)
 
+839- How can you ignore TypeScript errors in a production build?
+
+Ans- You can set ignoreBuildErrors: true in the typescript configuration section of next.config.ts, but it’s risky as it allows builds with type errors.
+
+(-------------------------------------------------------------------------)
