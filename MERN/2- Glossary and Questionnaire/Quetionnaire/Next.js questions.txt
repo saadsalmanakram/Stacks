@@ -6760,3 +6760,9 @@ Ans- It generates a consistent build ID across different environments, essential
 Ans- Server Components run on the server and don't affect client-side JavaScript bundle size.
 
 (-------------------------------------------------------------------------)
+
+1122- How does Next.js handle code-splitting?
+
+Ans- It automatically splits code by route segments, optimizing loading times.
+
+(-------------------------------------------------------------------------)
