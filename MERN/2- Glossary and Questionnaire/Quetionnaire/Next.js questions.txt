@@ -3516,3 +3516,8 @@ Ans- Libraries such as styled-components, chakra-ui, and ant-design are supporte
 
 (----------------------------------------------------------------------)
 
+575- How does styled-jsx work in Client Components?
+
+Ans- In Client Components, styled-jsx collects and injects CSS rules during server-side rendering using a style registry.
+
+(----------------------------------------------------------------------)
