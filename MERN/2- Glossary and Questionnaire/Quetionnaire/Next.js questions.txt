@@ -5737,3 +5737,9 @@ Ans- Requests are handled by the app.getRequestHandler() method, which routes th
 Ans- It allows Next.js to run behind an existing Node.js HTTP server.
 
 (-------------------------------------------------------------------------)
+
+954- How can you enable Turbopack in a custom server configuration?
+
+Ans- Set the turbo option to true when initializing the next function.
+
+(-------------------------------------------------------------------------)
