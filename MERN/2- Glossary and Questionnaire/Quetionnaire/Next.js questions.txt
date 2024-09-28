@@ -6451,3 +6451,10 @@ Ans- You can use Cypress commands like cy.visit('/'), cy.get('a[href*="about"]')
 Ans- Running tests against production code helps simulate real user interactions and verifies how the application behaves in a live environment.
 
 (-------------------------------------------------------------------------)
+
+1072- What is the difference between E2E testing and component testing in Cypress?
+
+Ans- E2E testing simulates user behavior across the entire application, while component testing focuses on individual components in isolation.
+
+(-------------------------------------------------------------------------)
+
