@@ -4943,3 +4943,15 @@ Ans- Ignoring ESLint can lead to faulty deployments due to unresolved linting is
 Ans- It reduces memory consumption during builds since generating source maps requires additional resources.
 
 (--------------------------------------------------------------------------)
+
+824- What happens if you run next build without custom Webpack configuration?
+
+Ans- The Webpack build worker is enabled by default, which helps decrease memory usage during builds.
+
+(--------------------------------------------------------------------------)
+
+825- Why is it recommended to run builds after completing static analysis?
+
+Ans- Ensuring static analysis completes helps prevent deploying faulty builds with unresolved errors.
+
+(--------------------------------------------------------------------------)
