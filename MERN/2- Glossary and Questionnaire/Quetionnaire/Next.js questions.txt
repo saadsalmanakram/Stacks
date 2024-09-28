@@ -4758,3 +4758,9 @@ Ans- Use the <Image> component with the src starting from the base URL, like /av
 
 (----------------------------------------------------------------------)
 
+793- What happens if a file is not present in the public folder during build time?
+
+Ans- It will not be available for serving in production.
+
+(----------------------------------------------------------------------)
+
