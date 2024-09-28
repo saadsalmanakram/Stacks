@@ -6152,3 +6152,8 @@ Ans- Use snapshot testing to detect unexpected changes in the rendered output of
 
 (-------------------------------------------------------------------------)
 
+1022- How does Integration Testing differ from Unit Testing?
+
+Ans- Integration testing checks how multiple components work together, while unit testing focuses on testing individual components or functions in isolation.
+
+(-------------------------------------------------------------------------)
