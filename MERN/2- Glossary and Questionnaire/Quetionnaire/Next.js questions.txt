@@ -4548,3 +4548,9 @@ Ans- Update the instrumentation filename to match the custom suffix defined in p
 
 (----------------------------------------------------------------------)
 
+758- Why is it recommended to import files with side effects within the register function?
+
+Ans- To centralize side effects in one place and prevent unintended global imports that could cause issues.
+
+(----------------------------------------------------------------------)
+
