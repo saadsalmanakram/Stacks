@@ -3936,3 +3936,8 @@ Ans- Font subsets reduce the size of font files, improving load times by only do
 
 (----------------------------------------------------------------------)
 
+645- What happens if no font subsets are specified in Next.js?
+
+Ans- A warning is generated, as failing to specify subsets can lead to performance inefficiencies.
+
+(----------------------------------------------------------------------)
