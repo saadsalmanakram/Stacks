@@ -3431,3 +3431,9 @@ Ans- <h1 className="text-3xl font-bold underline">Hello, Next.js!</h1>.
 Ans- It serves as the global stylesheet where Tailwind's directives are imported.
 
 (----------------------------------------------------------------------)
+
+561- How can you extend Tailwind’s functionality?
+
+Ans- You can extend it by adding custom plugins in the plugins array of tailwind.config.js.
+
+(----------------------------------------------------------------------)
