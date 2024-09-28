@@ -4619,3 +4619,11 @@ Ans- Common attributes include http.method, http.status_code, next.route, and ne
 Ans- An exporter is responsible for sending telemetry data (e.g., traces or metrics) from your app to a backend or monitoring system.
 
 (----------------------------------------------------------------------)
+
+770- What is the difference between using @vercel/otel and manual OpenTelemetry configuration?
+
+Ans- @vercel/otel automates the setup, while manual configuration provides more control and flexibility for advanced use cases.
+
+(----------------------------------------------------------------------)
+
+
