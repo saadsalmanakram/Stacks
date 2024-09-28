@@ -6844,3 +6844,9 @@ Ans- It fetches data concurrently to reduce network delays.
 Ans- Use the public directory for caching static assets like images.
 
 (-------------------------------------------------------------------------)
+
+1136- What role do Server Actions play in forms?
+
+Ans- They handle form submissions and server-side validation seamlessly.
+
+(-------------------------------------------------------------------------)
