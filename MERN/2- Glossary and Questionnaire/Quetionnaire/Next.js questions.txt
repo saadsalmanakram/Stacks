@@ -6019,3 +6019,15 @@ Ans- PWAs automatically update without needing app store approval, providing ins
 Ans- The Web App Manifest defines how the PWA appears on the user's device, including the app name, icons, and splash screen.
 
 (-------------------------------------------------------------------------)
+
+1000- How does Next.js support PWA creation?
+
+Ans- Next.js provides tools to generate a Web App Manifest, configure service workers, and implement features like push notifications for PWAs.
+
+(-------------------------------------------------------------------------)
+
+1001- What is a manifest.ts or manifest.json in Next.js?
+
+Ans- These files define the app's metadata (name, icons, start URL) used to enable home screen installation for PWAs.
+
+(-------------------------------------------------------------------------)
