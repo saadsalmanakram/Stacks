@@ -3744,3 +3744,9 @@ Ans- Caching behavior for optimized images can be configured in next.config.js.
 
 (----------------------------------------------------------------------)
 
+613- What is the default image optimization API used by Next.js?
+
+Ans- The built-in Next.js Image Optimization API handles automatic optimization and serves images from the Next.js server.
+
+(----------------------------------------------------------------------)
+
