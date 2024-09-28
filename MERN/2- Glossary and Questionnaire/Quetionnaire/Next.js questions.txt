@@ -5552,3 +5552,8 @@ Ans- Yes, MDX allows importing and using React components directly within the Ma
 
 (-------------------------------------------------------------------------)
 
+923- What is the role of the unified library in transforming Markdown?
+
+Ans- The unified library orchestrates the parsing and transformation of Markdown into HTML using plugins.
+
+(-------------------------------------------------------------------------)
