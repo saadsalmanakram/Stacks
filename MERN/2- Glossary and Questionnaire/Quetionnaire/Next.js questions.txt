@@ -3708,3 +3708,9 @@ Ans- You risk layout shift because Next.js can’t infer the aspect ratio withou
 
 (----------------------------------------------------------------------)
 
+607- How does Next.js handle image sizing automatically?
+
+Ans- It uses the intrinsic size from imported local images and automatically adjusts for the aspect ratio.
+
+(----------------------------------------------------------------------)
+
