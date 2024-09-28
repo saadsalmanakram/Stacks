@@ -5942,3 +5942,8 @@ Ans- Run npm run dev or equivalent (yarn dev, pnpm dev).
 
 (-------------------------------------------------------------------------)
 
+987- How do you change the port for debugging in Next.js?
+
+Ans- Replace localhost:3000 in the configuration with the desired port.
+
+(-------------------------------------------------------------------------)
