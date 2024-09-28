@@ -3347,3 +3347,10 @@ Ans- In development mode, Fast Refresh instantly reflects changes to local style
 Ans- Styles will still be loaded, but JavaScript is required for development features like Fast Refresh.
 
 (-----------------------------------------------------------------------)
+
+547- What is Tailwind CSS?
+
+Ans- Tailwind CSS is a utility-first CSS framework for rapidly building custom designs.
+
+(-----------------------------------------------------------------------)
+
