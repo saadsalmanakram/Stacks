@@ -3402,4 +3402,12 @@ Ans- Add them to a global stylesheet like globals.css.
 
 (-----------------------------------------------------------------------)
 
+556- What are the Tailwind CSS directives for injecting styles?
+
+Ans- @tailwind base;, @tailwind components;, and @tailwind utilities;.
+
+(-----------------------------------------------------------------------)
+
+
+
 
