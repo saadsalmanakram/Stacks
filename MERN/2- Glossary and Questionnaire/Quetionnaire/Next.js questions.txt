@@ -7126,3 +7126,21 @@ Ans- You can use rewrites in Next.js to map specific paths to the corresponding 
 Ans- Rewrites are defined as an array of objects specifying source and destination URLs.
 
 (-------------------------------------------------------------------------)
+
+1183- Why should links to paths in a different zone use an <a> tag instead of the Next.js <Link> component?
+
+Ans- The <Link> component prefetches and attempts to soft navigate, which doesn't work across different zones.
+
+(-------------------------------------------------------------------------)
+
+1184- How can you share code between different zones?
+
+Ans- Code can be shared using a monorepo or by publishing packages to a public or private NPM repository.
+
+(-------------------------------------------------------------------------)
+
+1185- What are feature flags, and why are they useful in Multi-Zones?
+
+Ans- Feature flags allow for enabling or disabling features across different zones, accommodating staggered releases.
+
+(-------------------------------------------------------------------------)
