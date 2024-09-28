@@ -6235,3 +6235,9 @@ Ans- Async Server Components are new in React, and Vitest has not yet implemente
 Ans- Use end-to-end (E2E) testing for async components.
 
 (-------------------------------------------------------------------------)
+
+1036- How do you quickly set up Jest in a Next.js project?
+
+Ans- Use npx create-next-app@latest --example with-jest to create a new app with Jest configured.
+
+(-------------------------------------------------------------------------)
