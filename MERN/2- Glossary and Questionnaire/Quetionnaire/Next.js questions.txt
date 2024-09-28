@@ -4764,3 +4764,15 @@ Ans- It will not be available for serving in production.
 
 (----------------------------------------------------------------------)
 
+794- What is the purpose of the @next/third-parties library?
+
+Ans- It provides optimized components and utilities for integrating popular third-party libraries in Next.js applications.
+
+(--------------------------------------------------------------------------)
+
+795- How can you install the @next/third-parties library?
+
+Ans- Use the command: npm install @next/third-parties@latest next@latest.
+
+(--------------------------------------------------------------------------)
+
