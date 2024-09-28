@@ -6031,3 +6031,9 @@ Ans- Next.js provides tools to generate a Web App Manifest, configure service wo
 Ans- These files define the app's metadata (name, icons, start URL) used to enable home screen installation for PWAs.
 
 (-------------------------------------------------------------------------)
+
+1002- What is the importance of service workers in PWAs?
+
+Ans- Service workers enable offline capabilities, background sync, and push notifications, enhancing user engagement and app performance.
+
+(-------------------------------------------------------------------------)
