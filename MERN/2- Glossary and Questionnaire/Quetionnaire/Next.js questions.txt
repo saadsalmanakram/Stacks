@@ -4097,3 +4097,9 @@ Ans- ttf, otf, and woff formats are supported.
 Ans- Use Google's Rich Results Test or Schema Markup Validator.
 
 (----------------------------------------------------------------------)
+
+673- Which CSS properties are supported in the ImageResponse constructor?
+
+Ans- Basic CSS properties like flexbox are supported, while advanced layouts (e.g., grid) are not.
+
+(----------------------------------------------------------------------)
