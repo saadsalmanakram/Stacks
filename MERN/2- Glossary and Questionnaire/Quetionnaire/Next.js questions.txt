@@ -6013,3 +6013,9 @@ Ans- Users get faster load times, offline capabilities, and access to native app
 Ans- PWAs automatically update without needing app store approval, providing instant deployment of updates.
 
 (-------------------------------------------------------------------------)
+
+999- What is the role of the Web App Manifest in PWAs?
+
+Ans- The Web App Manifest defines how the PWA appears on the user's device, including the app name, icons, and splash screen.
+
+(-------------------------------------------------------------------------)
