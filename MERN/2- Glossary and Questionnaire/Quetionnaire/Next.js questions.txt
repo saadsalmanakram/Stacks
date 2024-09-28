@@ -4325,3 +4325,10 @@ Ans- It reduces the initial JavaScript sent to the client by loading components 
 Ans- It disables server-side rendering for Client Components.
 
 (----------------------------------------------------------------------)
+
+711- Can you use ssr: false in Server Components?
+
+Ans- No, it is not allowed with next/dynamic in Server Components.
+
+(----------------------------------------------------------------------)
+
