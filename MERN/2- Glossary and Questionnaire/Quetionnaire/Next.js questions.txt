@@ -6658,3 +6658,9 @@ Ans- Vercel offers managed infrastructure for Next.js, providing zero-configurat
 Ans- Yes, Next.js can be self-hosted on a Node.js server, Docker container, or through static HTML export.
 
 (-------------------------------------------------------------------------)
+
+1105- What scripts should be included in package.json for Node.js deployment?
+
+Ans- Include "dev": "next dev", "build": "next build", and "start": "next start".
+
+(-------------------------------------------------------------------------)
