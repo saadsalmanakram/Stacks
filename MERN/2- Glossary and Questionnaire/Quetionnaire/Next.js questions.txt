@@ -4806,3 +4806,15 @@ Ans- Import the GoogleAnalytics component and pass your measurement ID in your r
 
 (--------------------------------------------------------------------------)
 
+801- What does the sendGAEvent function do?
+
+Ans- It measures user interactions by sending event data to Google Analytics.
+
+(--------------------------------------------------------------------------)
+
+802- How does Google Analytics track pageviews in a Next.js application?
+
+Ans- It automatically tracks pageviews during client-side navigations based on browser history changes.
+
+(--------------------------------------------------------------------------)
+
