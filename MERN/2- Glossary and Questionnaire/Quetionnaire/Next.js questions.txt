@@ -3557,3 +3557,9 @@ Ans- ServerStyleSheet manages and collects styles generated during server render
 Ans- Styles are appended to a global registry and dynamically handled by styled-components after client-side hydration.
 
 (----------------------------------------------------------------------)
+
+582- What is the advantage of using a Client Component for styling in React Server Components?
+
+Ans- It prevents re-generating styles on subsequent renders and reduces the payload size sent to the client.
+
+(----------------------------------------------------------------------)
