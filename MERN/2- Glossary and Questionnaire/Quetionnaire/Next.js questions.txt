@@ -6652,3 +6652,9 @@ Ans- It generates an optimized production version of your application, creating 
 Ans- Vercel offers managed infrastructure for Next.js, providing zero-configuration deployments with enhanced scalability and performance.
 
 (-------------------------------------------------------------------------)
+
+1104- Can Next.js be self-hosted?
+
+Ans- Yes, Next.js can be self-hosted on a Node.js server, Docker container, or through static HTML export.
+
+(-------------------------------------------------------------------------)
