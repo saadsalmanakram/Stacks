@@ -5129,3 +5129,9 @@ Ans- It's a file (like .eslintrc.json) where you define your linting rules and s
 Ans- It allows you to use a set of predefined rules from another configuration.
 
 (-------------------------------------------------------------------------)
+
+855- What is the purpose of the rules section in ESLint?
+
+Ans- To specify custom rules, including enabling or disabling specific linting rules.
+
+(-------------------------------------------------------------------------)
