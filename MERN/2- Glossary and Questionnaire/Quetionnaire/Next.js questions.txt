@@ -5105,3 +5105,10 @@ Ans- ESLint is a static code analysis tool for identifying problematic patterns 
 Ans- To maintain code quality and consistency by catching syntax errors and enforcing coding standards.
 
 (-------------------------------------------------------------------------)
+
+851- How do you install ESLint in a project?
+
+Ans- By running npm install eslint --save-dev or yarn add eslint --dev.
+
+(-------------------------------------------------------------------------)
+
