@@ -5713,3 +5713,9 @@ Ans- Use the port option in the next function or specify it programmatically in 
 Ans- It is used to route all requests to Next.js to be handled appropriately by its routing system.
 
 (-------------------------------------------------------------------------)
+
+950- Can you deploy a custom server to Vercel?
+
+Ans- No, Vercel does not support custom servers; it only supports static and serverless deployments.
+
+(-------------------------------------------------------------------------)
