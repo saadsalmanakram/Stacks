@@ -3726,3 +3726,9 @@ Ans- It provides a blurred placeholder for images while they load.
 
 (----------------------------------------------------------------------)
 
+610- Can you use styled-jsx with the Next.js Image component?
+
+Ans- No, styled-jsx cannot be used unless it is marked as global.
+
+(----------------------------------------------------------------------)
+
