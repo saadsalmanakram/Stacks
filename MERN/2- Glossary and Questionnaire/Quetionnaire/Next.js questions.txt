@@ -7000,3 +7000,9 @@ Ans- Set output: 'export' in the next.config.js file.
 Ans- It changes URLs to end with a slash and emits .html files accordingly.
 
 (-------------------------------------------------------------------------)
+
+1162- How do you customize the output directory for static files?
+
+Ans- By setting the distDir option in next.config.js.
+
+(-------------------------------------------------------------------------)
