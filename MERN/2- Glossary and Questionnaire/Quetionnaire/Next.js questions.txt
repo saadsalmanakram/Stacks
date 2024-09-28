@@ -5515,3 +5515,9 @@ Ans- Use the import syntax in a page component, allowing for the MDX content to 
 Ans- Remark is used for processing Markdown, while rehype is for processing HTML, transforming and sanitizing content.
 
 (-------------------------------------------------------------------------)
+
+917- What is a common use case for fetching remote MDX content?
+
+Ans- Fetching content from a CMS or remote server to render dynamic content in your Next.js application.
+
+(-------------------------------------------------------------------------)
