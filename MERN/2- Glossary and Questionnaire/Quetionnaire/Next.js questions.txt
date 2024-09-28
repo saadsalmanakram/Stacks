@@ -3305,3 +3305,10 @@ Ans- CSS Modules ensure styles are scoped and avoid issues with React’s built-
 Ans- By importing the global stylesheet in the root layout file.
 
 (-----------------------------------------------------------------------)
+
+540- Can you use external stylesheets in Next.js?
+
+Ans- Yes, external stylesheets from npm packages can be imported anywhere in the app directory.
+
+(-----------------------------------------------------------------------)
+
