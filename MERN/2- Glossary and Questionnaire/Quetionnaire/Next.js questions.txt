@@ -4710,3 +4710,9 @@ Ans- The file would be available at /images/pic.jpg in the browser.
 
 (----------------------------------------------------------------------)
 
+785- How does Next.js handle caching for assets in the public folder?
+
+Ans- Next.js cannot safely cache assets in the public folder and applies the caching header Cache-Control: public, max-age=0.
+
+(----------------------------------------------------------------------)
+
