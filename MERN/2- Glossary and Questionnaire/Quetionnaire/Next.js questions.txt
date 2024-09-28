@@ -4470,4 +4470,9 @@ Ans- FID measures the time from when a user first interacts with the page to the
 
 (----------------------------------------------------------------------)
 
+735- What does 'Cumulative Layout Shift (CLS)' represent?
+
+Ans- CLS quantifies how much the layout of the web page shifts unexpectedly during the page’s lifecycle.
+
+(----------------------------------------------------------------------)
 
