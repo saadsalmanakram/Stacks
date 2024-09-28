@@ -4854,3 +4854,8 @@ Ans- Width, Height, Playlabel, Params.
 
 (--------------------------------------------------------------------------)
 
+809- What should you consider when using @next/third-parties?
+
+Ans- As it is experimental, keep an eye on updates and compatibility with future Next.js versions.
+
+(--------------------------------------------------------------------------)
