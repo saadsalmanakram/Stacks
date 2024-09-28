@@ -6410,3 +6410,14 @@ Ans- Cypress is an end-to-end testing framework that allows developers to write 
 
 (-------------------------------------------------------------------------)
 
+1065- How do you create a new Next.js app with Cypress included?
+
+Ans- Use the command: npx create-next-app@latest --example with-cypress with-cypress-app.
+
+(-------------------------------------------------------------------------)
+
+1066- What command is used to install Cypress as a development dependency?
+
+Ans- You can use npm install -D cypress, yarn add -D cypress, or pnpm install -D cypress.
+
+(-------------------------------------------------------------------------)
