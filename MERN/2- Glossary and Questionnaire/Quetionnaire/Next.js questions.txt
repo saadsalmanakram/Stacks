@@ -4248,3 +4248,9 @@ Ans- Packages like icon libraries that export a large number of modules.
 
 (----------------------------------------------------------------------)
 
+698- What is the purpose of the serverExternalPackages option in Next.js?
+
+Ans- It allows you to opt specific packages out of bundling in Server Components and Route Handlers.
+
+(----------------------------------------------------------------------)
+
