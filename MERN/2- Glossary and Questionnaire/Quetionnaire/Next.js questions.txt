@@ -6385,3 +6385,9 @@ Ans- Ensure Playwright runs in headless mode and install all dependencies with n
 Ans- Running tests against production code closely resembles how the application behaves in real-world scenarios.
 
 (-------------------------------------------------------------------------)
+
+1061- What command allows Playwright to start the development server?
+
+Ans- You can configure Playwright to use the webServer feature for automatic server startup.
+
+(-------------------------------------------------------------------------)
