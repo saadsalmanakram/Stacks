@@ -5533,3 +5533,9 @@ Ans- By defining custom components in the mdx-components.tsx file that override 
 Ans- It provides a set of prose classes for adding typographic styles to Markdown content using Tailwind CSS.
 
 (-------------------------------------------------------------------------)
+
+920- How does Next.js's file-based routing work with MDX?
+
+Ans- MDX files can be treated as routes, allowing for navigation directly to MDX content like standard pages.
+
+(-------------------------------------------------------------------------)
