@@ -3767,3 +3767,10 @@ Ans- Automatically with static imports, manually by specifying width and height,
 Ans- It controls how the image fits within the parent element, using values like cover, contain, or none.
 
 (----------------------------------------------------------------------)
+
+617- How does Next.js handle remote image optimization?
+
+Ans- By allowing remote image URLs and manually setting width and height to avoid layout shifts.
+
+(----------------------------------------------------------------------)
+
