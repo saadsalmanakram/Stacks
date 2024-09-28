@@ -4212,3 +4212,9 @@ Ans- Next.js automatically bundles packages imported inside Server Components an
 
 (----------------------------------------------------------------------)
 
+692- What is the purpose of the @next/bundle-analyzer plugin?
+
+Ans- The plugin helps analyze and visualize the size of application bundles to optimize their performance.
+
+(----------------------------------------------------------------------)
+
