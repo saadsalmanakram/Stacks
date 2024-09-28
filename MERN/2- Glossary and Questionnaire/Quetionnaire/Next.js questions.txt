@@ -3425,3 +3425,9 @@ Ans- Use Tailwind's utility classes directly in the className attribute of JSX e
 Ans- <h1 className="text-3xl font-bold underline">Hello, Next.js!</h1>.
 
 (----------------------------------------------------------------------)
+
+560- What is the role of the globals.css file in a Next.js project using Tailwind CSS?
+
+Ans- It serves as the global stylesheet where Tailwind's directives are imported.
+
+(----------------------------------------------------------------------)
