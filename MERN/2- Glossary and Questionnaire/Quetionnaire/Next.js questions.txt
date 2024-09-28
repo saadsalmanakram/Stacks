@@ -6175,3 +6175,9 @@ Ans- npx create-next-app@latest --example with-vitest with-vitest-app.
 Ans- vitest, @vitejs/plugin-react, jsdom, @testing-library/react, and @testing-library/dom.
 
 (-------------------------------------------------------------------------)
+
+1026- What file is created for Vitest configuration in a Next.js project?
+
+Ans- vitest.config.ts or vitest.config.js.
+
+(-------------------------------------------------------------------------)
