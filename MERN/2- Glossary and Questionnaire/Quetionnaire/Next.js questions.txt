@@ -6784,3 +6784,9 @@ Ans- Static rendering generates HTML at build time, improving performance by ser
 Ans- Next.js caches data requests and rendered components to minimize network requests.
 
 (-------------------------------------------------------------------------)
+
+1126- Why are layouts important in Next.js?
+
+Ans- They allow UI sharing across pages and enable partial rendering on navigation.
+
+(-------------------------------------------------------------------------)
