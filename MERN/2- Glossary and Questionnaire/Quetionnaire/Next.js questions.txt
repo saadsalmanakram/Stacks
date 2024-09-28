@@ -6007,3 +6007,9 @@ Ans- PWAs can be installed on a device, work offline, and offer push notificatio
 Ans- Users get faster load times, offline capabilities, and access to native app features without downloading from app stores.
 
 (-------------------------------------------------------------------------)
+
+998- How do PWAs handle updates compared to native apps?
+
+Ans- PWAs automatically update without needing app store approval, providing instant deployment of updates.
+
+(-------------------------------------------------------------------------)
