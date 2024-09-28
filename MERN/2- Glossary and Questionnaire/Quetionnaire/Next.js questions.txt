@@ -4350,3 +4350,8 @@ Ans- Pass a loading component as an option in next/dynamic().
 
 (----------------------------------------------------------------------)
 
+715- Can named exports be dynamically imported?
+
+Ans- Yes, by returning the named export from the import() Promise.
+
+(----------------------------------------------------------------------)
