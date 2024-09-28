@@ -3581,3 +3581,10 @@ Ans- Enable it by setting styledComponents: true in the next.config.js file.
 Ans- By collecting and injecting styles only once using lazy initialization, improving efficiency and reducing redundant styling operations.
 
 (----------------------------------------------------------------------)
+
+586- Why are styles extracted to a global registry during server rendering?
+
+Ans- To ensure styles are injected before any content that might depend on them, avoiding content layout shifts.
+
+(----------------------------------------------------------------------)
+
