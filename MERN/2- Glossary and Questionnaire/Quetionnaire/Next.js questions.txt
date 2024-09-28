@@ -3390,3 +3390,8 @@ Ans- In the content array inside tailwind.config.js.
 
 (-----------------------------------------------------------------------)
 
+554- How would you configure Tailwind to scan files in the src directory?
+
+Ans- Add './src/**/*.{js,ts,jsx,tsx,mdx}' to the content array in tailwind.config.js.
+
+(-----------------------------------------------------------------------)
