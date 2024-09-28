@@ -6850,3 +6850,9 @@ Ans- Use the public directory for caching static assets like images.
 Ans- They handle form submissions and server-side validation seamlessly.
 
 (-------------------------------------------------------------------------)
+
+1137- How does the Font Module optimize font loading?
+
+Ans- It hosts fonts with static assets, reducing layout shifts.
+
+(-------------------------------------------------------------------------)
