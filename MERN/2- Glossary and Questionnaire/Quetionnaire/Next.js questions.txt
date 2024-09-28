@@ -6592,3 +6592,10 @@ Ans- By calling functions like verifySession() to conditionally render component
 Ans- They should be treated like API endpoints, requiring verification of user permissions before proceeding.
 
 (-------------------------------------------------------------------------)
+
+1094- How do you ensure user roles dictate access to specific actions?
+
+Ans- By checking the user's role against required permissions before executing an action.
+
+(-------------------------------------------------------------------------)
+
