@@ -6988,3 +6988,9 @@ Ans- By running next build, Next.js creates an HTML file per route in the out fo
 Ans- Yes, Next.js static exports can be hosted on any web server that serves HTML/CSS/JS static assets.
 
 (-------------------------------------------------------------------------)
+
+1160- How do you enable static export in Next.js?
+
+Ans- Set output: 'export' in the next.config.js file.
+
+(-------------------------------------------------------------------------)
