@@ -4836,3 +4836,8 @@ Ans- Height, Width, Style, Allowfullscreen, Loading, Query (q), Center, Zoom, Ma
 
 (--------------------------------------------------------------------------)
 
+806- What is the functionality of the YouTubeEmbed component?
+
+Ans- It loads and displays a YouTube video embed quickly using lite-youtube-embed.
+
+(--------------------------------------------------------------------------)
