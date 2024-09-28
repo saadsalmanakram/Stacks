@@ -6199,3 +6199,9 @@ Ans- Add "test": "vitest" under the "scripts" section.
 Ans- Use expect(screen.getByRole('heading', { level: 1, name: 'Home' })).toBeDefined().
 
 (-------------------------------------------------------------------------)
+
+1030- What does the render function from @testing-library/react do?
+
+Ans- It mounts the component in a virtual DOM for testing.
+
+(-------------------------------------------------------------------------)
