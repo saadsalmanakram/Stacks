@@ -3960,3 +3960,8 @@ Ans- Local fonts eliminate external requests, offering faster load times and bet
 
 (----------------------------------------------------------------------)
 
+649- How does Next.js handle font preloading across different routes?
+
+Ans- Fonts are preloaded only on routes where they are used, either on specific pages or layouts.
+
+(----------------------------------------------------------------------)
