@@ -5009,3 +5009,9 @@ Ans- The TypeScript plugin enhances type-checking and auto-completion in code ed
 Ans- You can enforce type checking by using JSDoc comments with @ts-check and specifying the type of the config object.
 
 (-------------------------------------------------------------------------)
+
+835- What is the difference between next.config.js and next.config.ts?
+
+Ans- next.config.ts allows for TypeScript features and type imports, providing better type inference compared to the JavaScript configuration file.
+
+(-------------------------------------------------------------------------)
