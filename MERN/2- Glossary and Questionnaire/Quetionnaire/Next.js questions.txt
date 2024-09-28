@@ -4434,4 +4434,16 @@ Ans- The id is unique to the page load and can help construct metric distributio
 
 (----------------------------------------------------------------------)
 
+729- What is the purpose of using non_interaction: true when sending metrics to Google Analytics?
+
+Ans- It prevents Web Vitals events from affecting the bounce rate in analytics.
+
+(----------------------------------------------------------------------)
+
+730- How do you handle different types of Web Vitals metrics in useReportWebVitals?
+
+Ans- You can use a switch-case block on the metric.name property to handle results for each specific Web Vitals metric.
+
+(----------------------------------------------------------------------)
+
 
