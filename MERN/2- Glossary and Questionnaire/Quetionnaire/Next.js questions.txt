@@ -4727,3 +4727,9 @@ Ans- Because assets in the public folder might change, making them unsafe to cac
 Ans- Cache-Control: public, max-age=0.
 
 (----------------------------------------------------------------------)
+
+788- Can you change the name of the public folder in Next.js?
+
+Ans- No, the folder must be named public and cannot be changed.
+
+(----------------------------------------------------------------------)
