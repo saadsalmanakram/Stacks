@@ -4392,3 +4392,9 @@ Ans- The main metrics are Time to First Byte (TTFB), First Contentful Paint (FCP
 
 (----------------------------------------------------------------------)
 
+722- How does Next.js support Web Vitals reporting?
+
+Ans- Next.js provides the useReportWebVitals hook to manage Web Vitals reporting, or Vercel's managed service can automatically handle and visualize metrics.
+
+(----------------------------------------------------------------------)
+
