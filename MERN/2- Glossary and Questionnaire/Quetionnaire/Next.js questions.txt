@@ -6509,3 +6509,8 @@ Ans- It is the process of maintaining a user's session state across multiple req
 
 (-------------------------------------------------------------------------)
 
+1080- Why is session ID encryption important?
+
+Ans- It helps secure user sessions by preventing session hijacking and tampering.
+
+(-------------------------------------------------------------------------)
