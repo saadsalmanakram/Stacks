@@ -5701,3 +5701,10 @@ Ans- Setting customServer: false indicates that the server was created by Next.j
 Ans- It determines whether Next.js is running in development mode.
 
 (-------------------------------------------------------------------------)
+
+948- How can you control which port the custom server listens on in Next.js?
+
+Ans- Use the port option in the next function or specify it programmatically in the createServer function.
+
+(-------------------------------------------------------------------------)
+
