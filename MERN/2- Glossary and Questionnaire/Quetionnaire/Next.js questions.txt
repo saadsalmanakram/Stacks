@@ -3354,3 +3354,9 @@ Ans- Tailwind CSS is a utility-first CSS framework for rapidly building custom d
 
 (-----------------------------------------------------------------------)
 
+548- How does Tailwind CSS differ from traditional CSS frameworks like Bootstrap?
+
+Ans- Tailwind provides utility classes instead of predefined components, giving more flexibility.
+
+(-----------------------------------------------------------------------)
+
