@@ -6043,3 +6043,9 @@ Ans- Service workers enable offline capabilities, background sync, and push noti
 Ans- Push notifications are managed via service workers and Web Push APIs, enabling re-engagement with users even when the app isn't active.
 
 (-------------------------------------------------------------------------)
+
+1004- What is VAPID in the context of Web Push Notifications?
+
+Ans- VAPID (Voluntary Application Server Identification) keys authenticate your push notifications and allow browsers to verify their origin.
+
+(-------------------------------------------------------------------------)
