@@ -5875,3 +5875,26 @@ Ans- Nonces are dynamically generated in Next.js using Middleware, creating a fr
 Ans- Middleware can be used to add headers and generate nonces before a page renders, ensuring CSP is applied dynamically.
 
 (-------------------------------------------------------------------------)
+
+976- How does Middleware enhance security in Next.js?
+
+Ans- Middleware dynamically adds CSP headers, improving security by generating fresh nonces for each request.
+
+(-------------------------------------------------------------------------)
+
+977- How do you add a nonce in Middleware for CSP?
+
+Ans- You can add a nonce by generating a random string and including it in the CSP header through Middleware.
+
+(-------------------------------------------------------------------------)
+
+978- What does the Content-Security-Policy header do? 
+
+Ans- It defines security policies for web content, specifying which resources are allowed to be loaded on a page.
+
+(-------------------------------------------------------------------------)
+
+
+
+
+
