@@ -7036,3 +7036,21 @@ Ans- By defining a custom image loader in next.config.js and using next/image.
 Ans- They render static responses for GET requests, enabling static HTML, JSON, or TXT files during the build.
 
 (-------------------------------------------------------------------------)
+
+1168- What limitation exists for Route Handlers in static exports?
+
+Ans- They can only support the GET HTTP verb and cannot read dynamic values from requests.
+
+(-------------------------------------------------------------------------)
+
+1169- How should you access browser-specific APIs in Client Components?
+
+Ans- Use effects or conditional checks to ensure code runs only in the browser environment.
+
+(-------------------------------------------------------------------------)
+
+1170- What features are unsupported in static exports?
+
+Ans- Dynamic routes, server-side cookies, redirects, middleware, and any Node.js-dependent logic are not supported.
+
+(-------------------------------------------------------------------------)
