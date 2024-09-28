@@ -6862,3 +6862,9 @@ Ans- It hosts fonts with static assets, reducing layout shifts.
 Ans- It optimizes images, prevents layout shifts, and serves them in modern formats.
 
 (-------------------------------------------------------------------------)
+
+1139- How does the <Script> component enhance performance?
+
+Ans- It defers third-party scripts, preventing them from blocking the main thread.
+
+(-------------------------------------------------------------------------)
