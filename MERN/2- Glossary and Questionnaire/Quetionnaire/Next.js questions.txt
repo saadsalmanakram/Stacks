@@ -3366,3 +3366,9 @@ Ans- A utility-first framework provides low-level utility classes to build compl
 
 (-----------------------------------------------------------------------)
 
+550- How do you install Tailwind CSS in a Next.js project?
+
+Ans- Use npm install -D tailwindcss postcss autoprefixer and initialize with npx tailwindcss init -p.
+
+(-----------------------------------------------------------------------)
+
