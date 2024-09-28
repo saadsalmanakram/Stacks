@@ -4638,3 +4638,9 @@ Ans- OpenTelemetry abstracts the instrumentation from the observability provider
 
 (----------------------------------------------------------------------)
 
+773- Why is the OpenTelemetry instrumentation hook considered experimental in Next.js?
+
+Ans- The feature is experimental and must be explicitly enabled by setting experimental.instrumentationHook = true in the next.config.js.
+
+(----------------------------------------------------------------------)
+
