@@ -5015,3 +5015,9 @@ Ans- You can enforce type checking by using JSDoc comments with @ts-check and sp
 Ans- next.config.ts allows for TypeScript features and type imports, providing better type inference compared to the JavaScript configuration file.
 
 (-------------------------------------------------------------------------)
+
+836- What are statically typed links in Next.js?
+
+Ans- Statically typed links provide compile-time checks for routes used in next/link, helping to prevent typos and navigation errors.
+
+(-------------------------------------------------------------------------)
