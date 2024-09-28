@@ -3869,3 +3869,10 @@ Ans- CDNs enhance video delivery speed and manage high traffic by caching conten
 Ans- MP4 is widely compatible, while WebM is optimized for the web.
 
 (----------------------------------------------------------------------)
+
+634- How does Next.js handle externally hosted video embeds using Server Components?
+
+Ans- It fetches the video source URL server-side, then embeds it using an <iframe>.
+
+(----------------------------------------------------------------------)
+
