@@ -6772,3 +6772,9 @@ Ans- It automatically splits code by route segments, optimizing loading times.
 Ans- Prefetching loads a route in the background as it enters the user's viewport for instant navigation.
 
 (-------------------------------------------------------------------------)
+
+1124- What is static rendering?
+
+Ans- Static rendering generates HTML at build time, improving performance by serving cached results.
+
+(-------------------------------------------------------------------------)
