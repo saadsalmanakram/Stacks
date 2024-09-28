@@ -3312,3 +3312,8 @@ Ans- Yes, external stylesheets from npm packages can be imported anywhere in the
 
 (-----------------------------------------------------------------------)
 
+541- How are CSS styles ordered and merged in Next.js?
+
+Ans- CSS order is determined by the order of imports, and stylesheets are chunked during production builds.
+
+(-----------------------------------------------------------------------)
