@@ -4278,3 +4278,9 @@ Ans- Lazy-loading reduces initial load times by only loading the code when it’
 
 (----------------------------------------------------------------------)
 
+703- How does the optimizePackageImports option improve performance in production?
+
+Ans- It ensures only the necessary parts of a package are included, reducing the bundle size.
+
+(----------------------------------------------------------------------)
+
