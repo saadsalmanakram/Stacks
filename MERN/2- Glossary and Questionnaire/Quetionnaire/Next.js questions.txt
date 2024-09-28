@@ -6976,3 +6976,9 @@ Ans- They help debug issues and monitor application health after deployment.
 Ans- Static export generates static HTML files for each route, allowing for fast page loads and reduced JavaScript bundle size.
 
 (-------------------------------------------------------------------------)
+
+1158- How does Next.js handle static exports?
+
+Ans- By running next build, Next.js creates an HTML file per route in the out folder for deployment.
+
+(-------------------------------------------------------------------------)
