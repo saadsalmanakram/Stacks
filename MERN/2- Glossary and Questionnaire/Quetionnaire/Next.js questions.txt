@@ -4458,4 +4458,16 @@ Ans- It sends data asynchronously without blocking the main thread, improving ef
 
 (----------------------------------------------------------------------)
 
+733- What is the role of fetch() in Web Vitals reporting?
+
+Ans- fetch() is a fallback method for sending data when navigator.sendBeacon() is unavailable.
+
+(----------------------------------------------------------------------)
+
+734- What does 'First Input Delay (FID)' measure?
+
+Ans- FID measures the time from when a user first interacts with the page to the time when the browser responds to that interaction.
+
+(----------------------------------------------------------------------)
+
 
