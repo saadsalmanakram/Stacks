@@ -4290,3 +4290,9 @@ Ans- Use ANALYZE=true npm run build (or equivalent yarn/pnpm commands) to genera
 
 (----------------------------------------------------------------------)
 
+705- What is lazy loading in Next.js?
+
+Ans- Lazy loading improves initial loading performance by loading JavaScript only when needed.
+
+(----------------------------------------------------------------------)
+
