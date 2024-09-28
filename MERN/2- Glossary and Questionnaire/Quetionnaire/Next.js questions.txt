@@ -4266,3 +4266,9 @@ Ans- Regular bundle evaluation helps maintain optimal application performance ov
 
 (----------------------------------------------------------------------)
 
+701- Does Next.js automatically optimize any libraries without configuration?
+
+Ans- Yes, some libraries are automatically optimized by Next.js without needing to be included in the optimizePackageImports list.
+
+(----------------------------------------------------------------------)
+
