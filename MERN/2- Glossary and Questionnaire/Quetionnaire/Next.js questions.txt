@@ -4314,3 +4314,9 @@ Ans- It is a composite of React.lazy() and Suspense used for dynamic imports.
 
 (----------------------------------------------------------------------)
 
+709- How does lazy loading improve the performance of Next.js applications?
+
+Ans- It reduces the initial JavaScript sent to the client by loading components on demand.
+
+(----------------------------------------------------------------------)
+
