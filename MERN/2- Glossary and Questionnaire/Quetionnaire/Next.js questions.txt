@@ -6109,3 +6109,9 @@ Ans- Caching strategies help PWAs load quickly, reduce data usage, and ensure th
 Ans- Unit testing involves testing individual functions, hooks, or components in isolation.
 
 (-------------------------------------------------------------------------)
+
+1015- What is Component Testing in React?
+
+Ans- Component testing focuses on testing React components by checking their rendering, props, and behavior.
+
+(-------------------------------------------------------------------------)
