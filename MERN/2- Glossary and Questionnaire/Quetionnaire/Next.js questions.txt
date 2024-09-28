@@ -5696,3 +5696,8 @@ Ans- Setting customServer: false indicates that the server was created by Next.j
 
 (-------------------------------------------------------------------------)
 
+947- What does the dev option do in the next function for a custom server?
+
+Ans- It determines whether Next.js is running in development mode.
+
+(-------------------------------------------------------------------------)
