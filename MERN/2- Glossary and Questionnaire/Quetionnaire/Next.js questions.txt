@@ -5972,3 +5972,8 @@ Ans- Pass the --inspect flag to Node.js, then open Chrome’s chrome://inspect a
 
 (-------------------------------------------------------------------------)
 
+992- How does WebStorm assist with debugging Next.js applications?
+
+Ans- It allows running both the Node.js application and browser debugging simultaneously using custom runtime configurations.
+
+(-------------------------------------------------------------------------)
