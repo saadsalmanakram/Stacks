@@ -4074,3 +4074,8 @@ Ans- Yes, nested metadata can inherit fields from parent segments.
 
 (----------------------------------------------------------------------)
 
+669- How does the merging of openGraph fields work between segments?
+
+Ans- Fields defined in a later segment will replace those from earlier segments.
+
+(----------------------------------------------------------------------)
