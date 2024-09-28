@@ -6139,3 +6139,16 @@ Ans- Snapshot testing captures a component's output and compares it with a saved
 Ans- E2E testing is recommended for async Server Components as current tools do not fully support unit testing for them.
 
 (-------------------------------------------------------------------------)
+
+1020- Which types of tests are essential for verifying user interaction in React?
+
+Ans- Component testing and End-to-End testing are essential for verifying user interactions.
+
+(-------------------------------------------------------------------------)
+
+1021- When should you use Snapshot Testing in React?
+
+Ans- Use snapshot testing to detect unexpected changes in the rendered output of components.
+
+(-------------------------------------------------------------------------)
+
