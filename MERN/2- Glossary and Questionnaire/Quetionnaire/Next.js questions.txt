@@ -4818,3 +4818,9 @@ Ans- It automatically tracks pageviews during client-side navigations based on b
 
 (--------------------------------------------------------------------------)
 
+803- What is the purpose of the GoogleMapsEmbed component?
+
+Ans- It adds a Google Maps embed to your page, utilizing lazy loading by default.
+
+(--------------------------------------------------------------------------)
+
