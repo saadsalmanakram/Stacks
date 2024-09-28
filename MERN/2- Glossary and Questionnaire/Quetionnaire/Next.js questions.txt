@@ -3780,3 +3780,9 @@ Ans- Local images automatically infer size, while remote images require manual s
 
 (----------------------------------------------------------------------)
 
+619- What are the benefits of using the <video> tag for embedding videos?
+
+Ans- It allows full control over video playback and appearance, suitable for self-hosted videos.
+
+(----------------------------------------------------------------------)
+
