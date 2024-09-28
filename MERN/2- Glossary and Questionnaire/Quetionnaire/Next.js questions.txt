@@ -5249,3 +5249,9 @@ Ans- Use the settings property to specify the rootDir for the Next.js applicatio
 Ans- To ensure code quality and prevent problematic code from being merged or deployed.
 
 (-------------------------------------------------------------------------)
+
+874- What are some common mistakes when configuring ESLint?
+
+Ans- Overriding default settings in a way that conflicts with Next.js or using multiple conflicting plugins.
+
+(-------------------------------------------------------------------------)
