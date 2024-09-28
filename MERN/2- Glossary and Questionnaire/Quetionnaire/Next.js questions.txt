@@ -5112,3 +5112,20 @@ Ans- By running npm install eslint --save-dev or yarn add eslint --dev.
 
 (-------------------------------------------------------------------------)
 
+852- What are ESLint plugins?
+
+Ans- Plugins extend ESLint's capabilities by adding additional rules and configurations.
+
+(-------------------------------------------------------------------------)
+
+853- What is an ESLint configuration file?
+
+Ans- It's a file (like .eslintrc.json) where you define your linting rules and settings.
+
+(-------------------------------------------------------------------------)
+
+854- What does the extends property do in ESLint?
+
+Ans- It allows you to use a set of predefined rules from another configuration.
+
+(-------------------------------------------------------------------------)
