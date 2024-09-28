@@ -6060,4 +6060,11 @@ Ans- A service worker is registered using the navigator.serviceWorker.register m
 
 Ans- Use the pushManager.subscribe method to subscribe users and send their push subscription to the server for managing notifications.
 
-(--------------------------------------------------------------------
+(-------------------------------------------------------------------------)
+
+1007- What is the purpose of the beforeinstallprompt event in PWAs?
+
+Ans- This event allows you to prompt users to install your PWA on their device when certain conditions are met.
+
+(-------------------------------------------------------------------------)
+
