@@ -3630,3 +3630,8 @@ Ans- The Script Component controls third-party script loading and execution to i
 
 (----------------------------------------------------------------------)
 
+594- How does metadata improve SEO in Next.js?
+
+Ans- Metadata helps search engines understand content better, improving search engine rankings and visibility.
+
+(----------------------------------------------------------------------)
