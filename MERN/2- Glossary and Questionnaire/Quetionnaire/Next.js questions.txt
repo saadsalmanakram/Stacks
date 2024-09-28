@@ -6946,3 +6946,15 @@ Ans- It assesses site performance and identifies areas for improvement through s
 Ans- Using the useReportWebVitals hook to integrate with analytics tools.
 
 (-------------------------------------------------------------------------)
+
+1153- What is the purpose of @next/bundle-analyzer?
+
+Ans- It helps analyze JavaScript bundle sizes and identifies performance impacts.
+
+(-------------------------------------------------------------------------)
+
+1154- What analytics features does Vercel provide?
+
+Ans- A dashboard for tracking traffic metrics like unique visitors and page views.
+
+(-------------------------------------------------------------------------)
