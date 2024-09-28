@@ -3605,3 +3605,9 @@ Ans- Styles from each chunk are dynamically collected and appended as chunks are
 Ans- Next.js provides built-in optimizations like image lazy loading, prefetching links, and script control to improve speed and Core Web Vitals.
 
 (----------------------------------------------------------------------)
+
+590- What are Core Web Vitals?
+
+Ans- Core Web Vitals are metrics that assess user experience through loading speed, interactivity, and visual stability.
+
+(----------------------------------------------------------------------)
