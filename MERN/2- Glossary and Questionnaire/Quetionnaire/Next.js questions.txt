@@ -5527,3 +5527,9 @@ Ans- Fetching content from a CMS or remote server to render dynamic content in y
 Ans- By defining custom components in the mdx-components.tsx file that override default HTML element styles.
 
 (-------------------------------------------------------------------------)
+
+919- What does the Tailwind typography plugin do in MDX?
+
+Ans- It provides a set of prose classes for adding typographic styles to Markdown content using Tailwind CSS.
+
+(-------------------------------------------------------------------------)
