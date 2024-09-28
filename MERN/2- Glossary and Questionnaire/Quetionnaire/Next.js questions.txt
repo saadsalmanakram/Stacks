@@ -3593,3 +3593,9 @@ Ans- To ensure styles are injected before any content that might depend on them,
 Ans- It wraps components and ensures proper style injection during server rendering.
 
 (----------------------------------------------------------------------)
+
+588- How does streaming impact style management in CSS-in-JS libraries?
+
+Ans- Styles from each chunk are dynamically collected and appended as chunks are streamed to the client.
+
+(----------------------------------------------------------------------)
