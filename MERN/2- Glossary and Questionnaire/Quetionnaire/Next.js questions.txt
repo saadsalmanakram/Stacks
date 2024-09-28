@@ -5995,3 +5995,10 @@ Ans- It can significantly slow down Fast Refresh during development.
 Ans- A PWA is a web application that delivers a native app-like experience on the web with features like offline access, push notifications, and home screen installation.
 
 (-------------------------------------------------------------------------)
+
+996- What makes PWAs different from traditional web applications?
+
+Ans- PWAs can be installed on a device, work offline, and offer push notifications, unlike traditional web apps that require continuous internet access.
+
+(-------------------------------------------------------------------------)
+
