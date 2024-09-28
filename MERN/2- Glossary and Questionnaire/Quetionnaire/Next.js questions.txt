@@ -5027,3 +5027,10 @@ Ans- Statically typed links provide compile-time checks for routes used in next/
 Ans- Server Components allow for direct data fetching without serialization, enhancing type safety and improving data flow between components.
 
 (-------------------------------------------------------------------------)
+
+838- What is the role of async Server Components in TypeScript?
+
+Ans- Async Server Components enable asynchronous data fetching while maintaining type safety, provided you are using the correct versions of TypeScript and React types.
+
+(-------------------------------------------------------------------------)
+
