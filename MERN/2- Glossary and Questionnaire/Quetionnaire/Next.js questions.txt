@@ -3551,3 +3551,9 @@ Ans- Styled-components collect styles in a global registry and inject them into 
 Ans- ServerStyleSheet manages and collects styles generated during server rendering for styled-components.
 
 (----------------------------------------------------------------------)
+
+581- How do styled-components handle styles during streaming in React?
+
+Ans- Styles are appended to a global registry and dynamically handled by styled-components after client-side hydration.
+
+(----------------------------------------------------------------------)
