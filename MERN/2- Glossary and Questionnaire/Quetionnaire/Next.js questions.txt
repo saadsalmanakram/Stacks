@@ -5521,3 +5521,9 @@ Ans- Remark is used for processing Markdown, while rehype is for processing HTML
 Ans- Fetching content from a CMS or remote server to render dynamic content in your Next.js application.
 
 (-------------------------------------------------------------------------)
+
+918- How do you implement custom styles for MDX components?
+
+Ans- By defining custom components in the mdx-components.tsx file that override default HTML element styles.
+
+(-------------------------------------------------------------------------)
