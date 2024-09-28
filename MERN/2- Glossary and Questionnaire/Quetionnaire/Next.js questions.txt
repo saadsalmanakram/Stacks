@@ -3809,3 +3809,15 @@ Ans- Many browsers require videos to be muted for autoplay functionality due to 
 Ans- It enables videos to play inline on iOS devices, rather than opening in full-screen.
 
 (----------------------------------------------------------------------)
+
+624- How can you add subtitles to a video in Next.js?
+
+Ans- Use the <track> tag inside the <video> element to link to a subtitle file.
+
+(----------------------------------------------------------------------)
+
+625- What is the purpose of the preload attribute in the <video> tag?
+
+Ans- It specifies how the video is preloaded: none, metadata, or auto.
+
+(----------------------------------------------------------------------)
