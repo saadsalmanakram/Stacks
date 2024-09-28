@@ -5237,3 +5237,9 @@ Ans- Using next lint --no-cache disables caching for that linting session.
 Ans- By extending from plugin:@next/next/recommended in your ESLint configuration file.
 
 (-------------------------------------------------------------------------)
+
+872- What is the best practice for configuring ESLint in a monorepo?
+
+Ans- Use the settings property to specify the rootDir for the Next.js application.
+
+(-------------------------------------------------------------------------)
