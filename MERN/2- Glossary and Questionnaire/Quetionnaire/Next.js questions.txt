@@ -6284,3 +6284,15 @@ Ans- Use expect(screen.getByRole('heading', { level:1 })).toBeInTheDocument() in
 
 (-------------------------------------------------------------------------)
 
+1044- How can you add a snapshot test in Jest?
+
+Ans- Use expect(container).toMatchSnapshot() after rendering the component.
+
+(-------------------------------------------------------------------------)
+
+1045- How do you run tests in a Next.js project with Jest?
+
+Ans- Execute npm run test to run all tests defined in the project.
+
+(-------------------------------------------------------------------------)
+
