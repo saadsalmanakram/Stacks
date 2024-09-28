@@ -6397,3 +6397,16 @@ Ans- You can configure Playwright to use the webServer feature for automatic ser
 Ans- The expect function allows for easy assertions on the page state, such as URL checks and element content validation.
 
 (-------------------------------------------------------------------------)
+
+1063- What should you do before running Playwright tests?
+
+Ans- Ensure that your Next.js server is running by building and starting the app.
+
+(-------------------------------------------------------------------------)
+
+1064- What is Cypress?
+
+Ans- Cypress is an end-to-end testing framework that allows developers to write tests for web applications.
+
+(-------------------------------------------------------------------------)
+
