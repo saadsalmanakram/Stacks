@@ -3383,3 +3383,10 @@ Ans- npx tailwindcss init -p generates the tailwind.config.js and postcss.config
 Ans- It configures Tailwind, specifying content paths and customizing themes.
 
 (-----------------------------------------------------------------------)
+
+553- Where do you define the files that will use Tailwind class names?
+
+Ans- In the content array inside tailwind.config.js.
+
+(-----------------------------------------------------------------------)
+
