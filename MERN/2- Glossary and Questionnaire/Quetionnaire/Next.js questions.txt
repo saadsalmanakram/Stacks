@@ -6433,3 +6433,9 @@ Ans- Run the command: npm run cypress:open.
 Ans- A cypress.config.js (or cypress.config.ts) file is created in your project.
 
 (-------------------------------------------------------------------------)
+
+1069- What is the purpose of the cypress/e2e/app.cy.js file?
+
+Ans- This file contains tests for verifying the navigation functionality of your Next.js application.
+
+(-------------------------------------------------------------------------)
