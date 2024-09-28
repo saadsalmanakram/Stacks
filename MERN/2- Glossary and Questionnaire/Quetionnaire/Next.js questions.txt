@@ -3437,3 +3437,9 @@ Ans- It serves as the global stylesheet where Tailwind's directives are imported
 Ans- You can extend it by adding custom plugins in the plugins array of tailwind.config.js.
 
 (----------------------------------------------------------------------)
+
+562- Do you need to modify postcss.config.js when configuring Tailwind?
+
+Ans- No, it is not necessary to modify postcss.config.js for basic Tailwind setup.
+
+(----------------------------------------------------------------------)
