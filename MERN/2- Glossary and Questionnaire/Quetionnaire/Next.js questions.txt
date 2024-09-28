@@ -3720,3 +3720,9 @@ Ans- It generates multiple URLs for the image, utilizing the srcset attribute to
 
 (----------------------------------------------------------------------)
 
+609- What is the role of the blurDataURL in Next.js Image component?
+
+Ans- It provides a blurred placeholder for images while they load.
+
+(----------------------------------------------------------------------)
+
