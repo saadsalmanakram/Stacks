@@ -6055,3 +6055,9 @@ Ans- VAPID (Voluntary Application Server Identification) keys authenticate your 
 Ans- A service worker is registered using the navigator.serviceWorker.register method in the client-side JavaScript code.
 
 (-------------------------------------------------------------------------)
+
+1006- How can you subscribe users to push notifications in Next.js?
+
+Ans- Use the pushManager.subscribe method to subscribe users and send their push subscription to the server for managing notifications.
+
+(--------------------------------------------------------------------
