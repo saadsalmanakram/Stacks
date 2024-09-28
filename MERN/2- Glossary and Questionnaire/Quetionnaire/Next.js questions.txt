@@ -6634,3 +6634,9 @@ Ans- Using databases like Redis for faster access or consolidating requests to r
 Ans- By implementing try-catch blocks and returning null or default values in case of a failure.
 
 (-------------------------------------------------------------------------)
+
+1101- What is the process to deploy a Next.js application?
+
+Ans- You can deploy using Vercel, a Node.js server, Docker, or as static HTML files.
+
+(-------------------------------------------------------------------------)
