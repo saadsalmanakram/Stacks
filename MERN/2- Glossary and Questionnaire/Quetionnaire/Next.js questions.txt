@@ -6325,3 +6325,16 @@ Ans- Manually load them in a separate setup script or within jest.config.ts.
 Ans- Playwright is a testing framework for automating browsers like Chromium, Firefox, and WebKit using a single API for End-to-End (E2E) testing.
 
 (-------------------------------------------------------------------------)
+
+1051- How do you quickly set up Playwright with a Next.js project?
+
+Ans- You can set it up using the command: npx create-next-app@latest --example with-playwright with-playwright-app.
+
+(-------------------------------------------------------------------------)
+
+1052- What command installs Playwright in a Next.js project?
+
+Ans- Use npm init playwright, yarn create playwright, or pnpm create playwright.
+
+(-------------------------------------------------------------------------)
+
