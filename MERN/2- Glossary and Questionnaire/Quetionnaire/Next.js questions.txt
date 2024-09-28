@@ -6458,3 +6458,24 @@ Ans- E2E testing simulates user behavior across the entire application, while co
 
 (-------------------------------------------------------------------------)
 
+1073- What is the configuration for enabling component testing with Next.js?
+
+Ans- Update cypress.config.js with:
+
+     module.exports = defineConfig({
+       component: {
+         devServer: {
+           framework: 'next',
+           bundler: 'webpack',
+         },
+       },
+     });
+
+(-------------------------------------------------------------------------)
+
+1074- What do you need to do before mounting a component in a test?
+
+Ans- Use cy.mount(<Component />) to mount the React component before asserting its output.
+
+(-------------------------------------------------------------------------)
+
