@@ -4518,3 +4518,9 @@ Ans- Create an instrumentation.ts|js file and export a register function that is
 
 (----------------------------------------------------------------------)
 
+743- What is the role of the register function in instrumentation?
+
+Ans- It initializes monitoring tools, such as OpenTelemetry, when a new server instance is created.
+
+(----------------------------------------------------------------------)
+
