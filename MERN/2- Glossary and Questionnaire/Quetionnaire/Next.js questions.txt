@@ -6427,3 +6427,9 @@ Ans- You can use npm install -D cypress, yarn add -D cypress, or pnpm install -D
 Ans- Run the command: npm run cypress:open.
 
 (-------------------------------------------------------------------------)
+
+1068- What configuration file is created when you set up Cypress?
+
+Ans- A cypress.config.js (or cypress.config.ts) file is created in your project.
+
+(-------------------------------------------------------------------------)
