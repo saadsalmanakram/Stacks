@@ -4926,3 +4926,8 @@ Ans- Typechecking and linting can consume significant memory, especially during 
 
 (--------------------------------------------------------------------------)
 
+821- How can you ignore TypeScript errors during the Next.js production build?
+
+Ans- Set typescript.ignoreBuildErrors: true in the Next.js configuration to allow builds to proceed with type errors.
+
+(--------------------------------------------------------------------------)
