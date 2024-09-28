@@ -6664,3 +6664,9 @@ Ans- Yes, Next.js can be self-hosted on a Node.js server, Docker container, or t
 Ans- Include "dev": "next dev", "build": "next build", and "start": "next start".
 
 (-------------------------------------------------------------------------)
+
+1106- How do you deploy a Next.js application using Docker?
+
+Ans- Build your Docker image with docker build -t nextjs-docker . and run it using docker run -p 3000:3000 nextjs-docker.
+
+(-------------------------------------------------------------------------)
