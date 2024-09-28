@@ -4907,3 +4907,9 @@ Ans- Start your build with node --heap-prof node_modules/next/dist/bin/next buil
 Ans- Run the build command with NODE_OPTIONS=--inspect and use Chrome DevTools to connect and analyze memory usage.
 
 (--------------------------------------------------------------------------)
+
+818- What is the function of the Webpack build worker in Next.js?
+
+Ans- It allows Webpack compilations to run in a separate Node.js worker, reducing overall memory usage during builds.
+
+(--------------------------------------------------------------------------)
