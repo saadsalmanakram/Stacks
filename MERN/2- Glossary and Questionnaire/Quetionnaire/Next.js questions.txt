@@ -5279,3 +5279,9 @@ Ans- Environment variables must be prefixed with NEXT_PUBLIC_ to be accessible i
 Ans- Yes, multiline values can be included using line breaks or \n within double quotes.
 
 (-------------------------------------------------------------------------)
+
+879- Where should the .env files be placed in a Next.js project?
+
+Ans- .env files should be placed in the root of the project, not within the /src folder.
+
+(-------------------------------------------------------------------------)
