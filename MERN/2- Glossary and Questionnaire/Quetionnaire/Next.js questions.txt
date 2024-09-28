@@ -3539,3 +3539,15 @@ Ans- Create a style registry and wrap the root layout with it, injecting styles 
 Ans- Use a style registry, useServerInsertedHTML, and a Client Component to manage styles during server-side rendering.
 
 (----------------------------------------------------------------------)
+
+579- How do styled-components handle styles during server-side rendering?
+
+Ans- Styled-components collect styles in a global registry and inject them into the <head> tag during server-side rendering.
+
+(----------------------------------------------------------------------)
+
+580- What is the role of ServerStyleSheet in styled-components?
+
+Ans- ServerStyleSheet manages and collects styles generated during server rendering for styled-components.
+
+(----------------------------------------------------------------------)
