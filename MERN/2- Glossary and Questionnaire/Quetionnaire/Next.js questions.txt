@@ -4572,3 +4572,15 @@ Ans- This minimizes the risk of unintended consequences from global imports and 
 
 (----------------------------------------------------------------------)
 
+762- What is OpenTelemetry?
+
+Ans- OpenTelemetry is an open-source observability framework for generating, collecting, and exporting telemetry data such as traces, metrics, and logs.
+
+(----------------------------------------------------------------------)
+
+763- How does OpenTelemetry improve application performance?
+
+Ans- OpenTelemetry provides insights into application behavior by collecting metrics and traces, helping developers identify and optimize performance bottlenecks.
+
+(----------------------------------------------------------------------)
+
