@@ -3882,3 +3882,9 @@ Ans- To provide alternative content for browsers that do not support the <video>
 
 (----------------------------------------------------------------------)
 
+636- How can lazy loading improve video performance in Next.js?
+
+Ans- It defers video loading until the video is needed, reducing initial load times.
+
+(----------------------------------------------------------------------)
+
