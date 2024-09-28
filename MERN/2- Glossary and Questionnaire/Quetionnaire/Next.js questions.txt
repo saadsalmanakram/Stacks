@@ -5929,3 +5929,16 @@ Ans- Debugging in Next.js involves troubleshooting both frontend and backend cod
 Ans- VS Code debugger, Chrome DevTools, and JetBrains WebStorm.
 
 (-------------------------------------------------------------------------)
+
+985- How do you configure VS Code for debugging Next.js server-side code?
+
+Ans- Create a .vscode/launch.json file with server-side debugging configuration.
+
+(-------------------------------------------------------------------------)
+
+986- What is the command to start the Next.js application in development mode for debugging?
+
+Ans- Run npm run dev or equivalent (yarn dev, pnpm dev).
+
+(-------------------------------------------------------------------------)
+
