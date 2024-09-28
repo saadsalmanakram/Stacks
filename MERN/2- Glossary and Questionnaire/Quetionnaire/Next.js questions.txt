@@ -5659,3 +5659,10 @@ Ans- By creating a server.js (or server.ts for TypeScript) file, using the next 
 Ans- server.js runs outside Next.js's build process, so it must be compatible with your current Node.js version.
 
 (-------------------------------------------------------------------------)
+
+941- How do you run a custom server in development and production modes?
+
+Ans- Update the package.json scripts: "dev": "node server.js", and "start": "NODE_ENV=production node server.js".
+
+(-------------------------------------------------------------------------)
+
