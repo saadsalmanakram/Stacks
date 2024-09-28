@@ -4428,3 +4428,10 @@ Ans- You can use the window.gtag method to send metrics as events, including val
 
 (----------------------------------------------------------------------)
 
+728- Why should you use the id value when sending Web Vitals to Google Analytics?
+
+Ans- The id is unique to the page load and can help construct metric distributions for calculating performance percentiles.
+
+(----------------------------------------------------------------------)
+
+
