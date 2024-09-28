@@ -6544,3 +6544,10 @@ Ans- It allows tracking of user activity, supports scalability, and provides bet
 Ans- By setting an expiration date on the session stored in cookies and in the database.
 
 (-------------------------------------------------------------------------)
+
+1086- What is the purpose of middleware in session management?
+
+Ans- Middleware centralizes session checks and can redirect users based on their authentication status.
+
+(-------------------------------------------------------------------------)
+
