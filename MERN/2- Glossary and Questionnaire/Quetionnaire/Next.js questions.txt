@@ -5557,3 +5557,9 @@ Ans- Yes, MDX allows importing and using React components directly within the Ma
 Ans- The unified library orchestrates the parsing and transformation of Markdown into HTML using plugins.
 
 (-------------------------------------------------------------------------)
+
+924- How do you customize the rendering of built-in MDX components?
+
+Ans- By returning customized components within the useMDXComponents function in mdx-components.tsx.
+
+(-------------------------------------------------------------------------)
