@@ -5636,3 +5636,8 @@ Ans- Only use a custom server when Next.js's integrated router doesn't meet your
 
 (-------------------------------------------------------------------------)
 
+937- What are some limitations of using a custom server in Next.js?
+
+Ans- Custom servers cannot be deployed on Vercel, and they lack performance optimizations like Automatic Static Optimization.
+
+(-------------------------------------------------------------------------)
