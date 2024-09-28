@@ -4236,3 +4236,8 @@ Ans- It allows you to identify large dependencies, split code, or lazy-load comp
 
 (----------------------------------------------------------------------)
 
+696- How can you optimize package imports in Next.js?
+
+Ans- By using the optimizePackageImports option in next.config.js to only load the modules actually used.
+
+(----------------------------------------------------------------------)
