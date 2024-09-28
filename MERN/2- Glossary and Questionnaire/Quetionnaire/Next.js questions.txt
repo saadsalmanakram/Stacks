@@ -3300,3 +3300,8 @@ Ans- CSS Modules ensure styles are scoped and avoid issues with React’s built-
 
 (-----------------------------------------------------------------------)
 
+539- How do you apply global styles in Next.js?
+
+Ans- By importing the global stylesheet in the root layout file.
+
+(-----------------------------------------------------------------------)
