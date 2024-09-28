@@ -4128,3 +4128,8 @@ Ans- Include the script in the root layout, ensuring it loads once for the entir
 
 (----------------------------------------------------------------------)
 
+678- What is the default script loading strategy in Next.js?
+
+Ans- afterInteractive, which loads the script after some hydration on the page occurs.
+
+(----------------------------------------------------------------------)
