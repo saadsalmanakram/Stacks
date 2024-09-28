@@ -6622,3 +6622,9 @@ Ans- By using encryption for session data, implementing secure cookie practices,
 Ans- Perform checks in the DAL to ensure consistent authorization across components rather than relying solely on layout checks.
 
 (-------------------------------------------------------------------------)
+
+1099- What are some options for optimizing session data retrieval?
+
+Ans- Using databases like Redis for faster access or consolidating requests to reduce the number of database calls.
+
+(-------------------------------------------------------------------------)
