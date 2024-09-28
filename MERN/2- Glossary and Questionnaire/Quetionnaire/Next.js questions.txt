@@ -6934,3 +6934,15 @@ Ans- It builds the application locally to catch any potential build errors.
 Ans- By running next start to test the application in a production-like environment.
 
 (-------------------------------------------------------------------------)
+
+1151- What is Lighthouse used for?
+
+Ans- It assesses site performance and identifies areas for improvement through simulated tests.
+
+(-------------------------------------------------------------------------)
+
+1152- How can you send Core Web Vitals data?
+
+Ans- Using the useReportWebVitals hook to integrate with analytics tools.
+
+(-------------------------------------------------------------------------)
