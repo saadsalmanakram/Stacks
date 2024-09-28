@@ -3876,3 +3876,9 @@ Ans- It fetches the video source URL server-side, then embeds it using an <ifram
 
 (----------------------------------------------------------------------)
 
+635- Why should you include fallback content in <video> elements?
+
+Ans- To provide alternative content for browsers that do not support the <video> tag.
+
+(----------------------------------------------------------------------)
+
