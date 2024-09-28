@@ -4890,3 +4890,8 @@ Ans- Run next build --experimental-debug-memory-usage to get continuous memory u
 
 (--------------------------------------------------------------------------)
 
+815- What is the purpose of recording a heap profile in Next.js?
+
+Ans- It helps identify memory leaks by analyzing memory usage through Node.js and Chrome DevTools.
+
+(--------------------------------------------------------------------------)
