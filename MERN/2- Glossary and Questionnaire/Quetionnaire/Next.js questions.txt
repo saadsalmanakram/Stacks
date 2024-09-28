@@ -6296,3 +6296,9 @@ Ans- Execute npm run test to run all tests defined in the project.
 
 (-------------------------------------------------------------------------)
 
+1046- Why should you be cautious when testing async Server Components with Jest?
+
+Ans- Jest currently does not support async Server Components; E2E tests are recommended instead.
+
+(-------------------------------------------------------------------------)
+
