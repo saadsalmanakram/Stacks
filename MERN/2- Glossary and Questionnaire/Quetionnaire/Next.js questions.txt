@@ -4650,3 +4650,9 @@ Ans- The OpenTelemetry Collector receives, processes, and exports telemetry data
 
 (----------------------------------------------------------------------)
 
+775- What is the significance of next.span_type: BaseServer.handleRequest in Next.js spans?
+
+Ans- It represents the root span for each incoming request to track HTTP method, route, and status code.
+
+(----------------------------------------------------------------------)
+
