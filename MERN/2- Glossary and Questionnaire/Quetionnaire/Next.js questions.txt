@@ -4722,3 +4722,8 @@ Ans- Because assets in the public folder might change, making them unsafe to cac
 
 (----------------------------------------------------------------------)
 
+787- What caching headers does Next.js apply to assets in the public folder?
+
+Ans- Cache-Control: public, max-age=0.
+
+(----------------------------------------------------------------------)
