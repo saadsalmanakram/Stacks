@@ -6373,3 +6373,9 @@ Ans- Use npx playwright test after running npm run build and npm run start.
 Ans- It simulates user navigation through the application in headless mode across multiple browsers.
 
 (-------------------------------------------------------------------------)
+
+1059- How can you set up Playwright to run tests in Continuous Integration (CI)?
+
+Ans- Ensure Playwright runs in headless mode and install all dependencies with npx playwright install-deps.
+
+(-------------------------------------------------------------------------)
