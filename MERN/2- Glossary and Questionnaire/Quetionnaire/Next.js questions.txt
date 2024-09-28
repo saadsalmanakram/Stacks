@@ -3905,3 +3905,10 @@ Ans- To improve user experience by showing a placeholder while the video is bein
 Ans- Next.js font optimization removes external requests and self-hosts fonts for better performance and privacy.
 
 (----------------------------------------------------------------------)
+
+640- What is the benefit of using next/font?
+
+Ans- It optimizes loading by self-hosting fonts, reducing layout shift, and eliminating external network requests.
+
+(----------------------------------------------------------------------)
+
