@@ -5339,3 +5339,9 @@ Ans- Environment variables are checked in the order: process.env, .env.$(NODE_EN
 Ans- You can access runtime environment variables using server-side functions like getServerSideProps or during dynamic rendering.
 
 (-------------------------------------------------------------------------)
+
+889- What should you do if you need to use runtime environment variables on the client-side?
+
+Ans- You should create an API to provide the runtime environment values to the client.
+
+(-------------------------------------------------------------------------)
