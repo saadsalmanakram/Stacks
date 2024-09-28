@@ -6538,3 +6538,9 @@ Ans- It removes the user's session from storage, effectively logging them out.
 Ans- It allows tracking of user activity, supports scalability, and provides better security.
 
 (-------------------------------------------------------------------------)
+
+1085- How do you handle session expiration in Next.js?
+
+Ans- By setting an expiration date on the session stored in cookies and in the database.
+
+(-------------------------------------------------------------------------)
