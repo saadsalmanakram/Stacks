@@ -4488,3 +4488,15 @@ Ans- Web Vitals help identify and optimize the performance bottlenecks that impa
 
 (----------------------------------------------------------------------)
 
+738- Can you give an example of handling the First Contentful Paint (FCP) metric in Next.js?
+
+Ans- Using the useReportWebVitals hook, you can add logic within the switch-case block for FCP to handle its results.
+
+(----------------------------------------------------------------------)
+
+739- What is the benefit of measuring Time to First Byte (TTFB)?
+
+Ans- TTFB helps assess the server's responsiveness and overall network latency for loading the initial page content.
+
+(----------------------------------------------------------------------)
+
