@@ -3791,3 +3791,16 @@ Ans- It allows full control over video playback and appearance, suitable for sel
 Ans- <iframe> is used for embedding externally hosted videos (e.g., YouTube), whereas <video> embeds self-hosted files.
 
 (----------------------------------------------------------------------)
+
+621- What is the purpose of the controls attribute in the <video> tag?
+
+Ans- It displays the default video playback controls like play, pause, and volume.
+
+(----------------------------------------------------------------------)
+
+622- Why is the muted attribute often used with the autoPlay attribute in videos?
+
+Ans- Many browsers require videos to be muted for autoplay functionality due to autoplay policies.
+
+(----------------------------------------------------------------------)
+
