@@ -5611,3 +5611,16 @@ Ans- Middleware should be placed inside the src directory.
 Ans- Add the /src prefix to the content section of the tailwind.config.js file.
 
 (-------------------------------------------------------------------------)
+
+933- What changes are necessary for TypeScript paths in tsconfig.json when using the src directory?
+
+Ans- The paths object in tsconfig.json should be updated to include src/ for TypeScript path imports.
+
+(-------------------------------------------------------------------------)
+
+934- What is the benefit of organizing your Next.js project with the src directory?
+
+Ans- It helps in clearly separating application logic from configuration, improving code structure and maintainability.
+
+(-------------------------------------------------------------------------)
+
