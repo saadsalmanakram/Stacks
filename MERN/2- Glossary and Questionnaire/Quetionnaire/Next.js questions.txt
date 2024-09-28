@@ -5219,3 +5219,9 @@ Ans- By configuring .lintstagedrc.js to run ESLint on staged files before commit
 Ans- Caching stores information about processed files, speeding up subsequent linting operations.
 
 (-------------------------------------------------------------------------)
+
+869- How do you specify custom directories for ESLint in Next.js?
+
+Ans- By using the dirs option in the eslint configuration of next.config.js.
+
+(-------------------------------------------------------------------------)
