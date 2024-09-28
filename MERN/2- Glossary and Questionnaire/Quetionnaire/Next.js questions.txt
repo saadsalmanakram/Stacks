@@ -7102,3 +7102,9 @@ Ans- Soft navigation occurs within the same zone without a page reload, while ha
 Ans- A zone is defined as a normal Next.js application configured with a basePath in next.config.js.
 
 (-------------------------------------------------------------------------)
+
+1179- What is the purpose of basePath in Multi-Zones?
+
+Ans- basePath prevents conflicts with pages and static files in other zones by providing a unique path prefix.
+
+(-------------------------------------------------------------------------)
