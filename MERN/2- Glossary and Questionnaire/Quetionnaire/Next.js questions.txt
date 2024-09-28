@@ -6115,3 +6115,9 @@ Ans- Unit testing involves testing individual functions, hooks, or components in
 Ans- Component testing focuses on testing React components by checking their rendering, props, and behavior.
 
 (-------------------------------------------------------------------------)
+
+1016- What is Integration Testing in React?
+
+Ans- Integration testing checks how multiple components, hooks, or functions work together in a React app.
+
+(-------------------------------------------------------------------------)
