@@ -3990,3 +3990,8 @@ Ans- It uses the size-adjust CSS property to match fallback font dimensions with
 
 (----------------------------------------------------------------------)
 
+655- What is the purpose of the Metadata API in Next.js?
+
+Ans- It allows you to define metadata like meta and link tags for SEO and web shareability.
+
+(----------------------------------------------------------------------)
