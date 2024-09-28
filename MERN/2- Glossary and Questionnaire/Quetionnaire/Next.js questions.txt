@@ -6247,3 +6247,9 @@ Ans- Use npx create-next-app@latest --example with-jest to create a new app with
 Ans- npm install -D jest jest-environment-jsdom @testing-library/react @testing-library/dom @testing-library/jest-dom.
 
 (-------------------------------------------------------------------------)
+
+1038- What command generates a basic Jest configuration file?
+
+Ans- Run npm init jest@latest to create a jest.config.ts|js file.
+
+(-------------------------------------------------------------------------)
