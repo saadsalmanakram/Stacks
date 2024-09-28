@@ -5165,3 +5165,9 @@ Ans- It runs ESLint in a Next.js application, checking for code quality and styl
 Ans- ESLint will automatically run during each build (next build), failing the build on errors.
 
 (-------------------------------------------------------------------------)
+
+860- What is eslint-config-next?
+
+Ans- It's the default ESLint configuration provided by Next.js, optimizing linting for Next.js applications.
+
+(-------------------------------------------------------------------------)
