@@ -5285,3 +5285,9 @@ Ans- Yes, multiline values can be included using line breaks or \n within double
 Ans- .env files should be placed in the root of the project, not within the /src folder.
 
 (-------------------------------------------------------------------------)
+
+880- What happens to NEXT_PUBLIC_ variables after the build process?
+
+Ans- After the build, NEXT_PUBLIC_ variables are inlined into the JavaScript bundle and do not change at runtime.
+
+(-------------------------------------------------------------------------)
