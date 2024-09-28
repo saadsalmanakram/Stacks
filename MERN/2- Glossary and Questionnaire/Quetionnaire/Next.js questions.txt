@@ -4895,3 +4895,15 @@ Ans- Run next build --experimental-debug-memory-usage to get continuous memory u
 Ans- It helps identify memory leaks by analyzing memory usage through Node.js and Chrome DevTools.
 
 (--------------------------------------------------------------------------)
+
+816- How do you record a heap profile when building a Next.js application?
+
+Ans- Start your build with node --heap-prof node_modules/next/dist/bin/next build to generate a .heapprofile file.
+
+(--------------------------------------------------------------------------)
+
+817- How can you analyze heap snapshots in Next.js?
+
+Ans- Run the build command with NODE_OPTIONS=--inspect and use Chrome DevTools to connect and analyze memory usage.
+
+(--------------------------------------------------------------------------)
