@@ -4272,3 +4272,9 @@ Ans- Yes, some libraries are automatically optimized by Next.js without needing 
 
 (----------------------------------------------------------------------)
 
+702- What are the benefits of lazy-loading code in Next.js?
+
+Ans- Lazy-loading reduces initial load times by only loading the code when it’s needed.
+
+(----------------------------------------------------------------------)
+
