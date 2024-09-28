@@ -4992,3 +4992,8 @@ Ans- You can enable TypeScript by renaming files to .ts or .tsx and running next
 
 (--------------------------------------------------------------------------)
 
+832- What is a tsconfig.json file?
+
+Ans- It is a configuration file for TypeScript that specifies compiler options and the files to include or exclude during the compilation process.
+
+(--------------------------------------------------------------------------)
