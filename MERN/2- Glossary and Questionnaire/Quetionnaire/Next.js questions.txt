@@ -6181,3 +6181,21 @@ Ans- vitest, @vitejs/plugin-react, jsdom, @testing-library/react, and @testing-l
 Ans- vitest.config.ts or vitest.config.js.
 
 (-------------------------------------------------------------------------)
+
+1027- Which environment should be set in the Vitest configuration for Next.js?
+
+Ans- The environment should be set to 'jsdom'.
+
+(-------------------------------------------------------------------------)
+
+1028- How do you add a test script to the package.json for Vitest?
+
+Ans- Add "test": "vitest" under the "scripts" section.
+
+(-------------------------------------------------------------------------)
+
+1029- How do you verify if a component renders a specific heading using Vitest?
+
+Ans- Use expect(screen.getByRole('heading', { level: 1, name: 'Home' })).toBeDefined().
+
+(-------------------------------------------------------------------------)
