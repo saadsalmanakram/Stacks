@@ -5147,3 +5147,10 @@ Ans- Next.js provides an integrated ESLint experience out of the box, enabling l
 Ans- By adding a script in package.json like "lint": "next lint" and running npm run lint or yarn lint.
 
 (-------------------------------------------------------------------------)
+
+858- What are the configuration options available when setting up ESLint in Next.js?
+
+Ans- You can choose between "Strict" and "Base" configurations during setup.
+
+(-------------------------------------------------------------------------)
+
