@@ -6265,3 +6265,9 @@ Ans- It configures Jest to work seamlessly with Next.js, handling styles, images
 Ans- Use moduleNameMapper in jest.config.js to match paths defined in tsconfig.json or jsconfig.json.
 
 (-------------------------------------------------------------------------)
+
+1041- What is the significance of setupFilesAfterEnv in Jest configuration?
+
+Ans- It allows you to import custom matchers and setup scripts before each test runs.
+
+(-------------------------------------------------------------------------)
