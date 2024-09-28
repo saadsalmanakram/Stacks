@@ -3258,3 +3258,9 @@ Ans- Router Cache applies to Next.js and Server Components, while bfcache is a b
 
 (-----------------------------------------------------------------------)
 
+532- What are CSS Modules in Next.js?
+
+Ans- CSS Modules locally scope CSS by creating unique class names, ideal for component-level styling.
+
+(-----------------------------------------------------------------------)
+
