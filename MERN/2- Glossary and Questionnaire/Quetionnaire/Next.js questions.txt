@@ -5021,3 +5021,9 @@ Ans- next.config.ts allows for TypeScript features and type imports, providing b
 Ans- Statically typed links provide compile-time checks for routes used in next/link, helping to prevent typos and navigation errors.
 
 (-------------------------------------------------------------------------)
+
+837- What are the benefits of using Server Components in Next.js?
+
+Ans- Server Components allow for direct data fetching without serialization, enhancing type safety and improving data flow between components.
+
+(-------------------------------------------------------------------------)
