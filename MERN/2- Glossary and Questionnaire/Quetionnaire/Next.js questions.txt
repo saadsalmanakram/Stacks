@@ -4206,3 +4206,9 @@ Ans- Bundling refers to combining multiple packages and dependencies to improve 
 
 (----------------------------------------------------------------------)
 
+691- How does Next.js handle bundling for Server Components and Route Handlers?
+
+Ans- Next.js automatically bundles packages imported inside Server Components and Route Handlers.
+
+(----------------------------------------------------------------------)
+
