@@ -4938,3 +4938,8 @@ Ans- Ignoring ESLint can lead to faulty deployments due to unresolved linting is
 
 (--------------------------------------------------------------------------)
 
+823- How does disabling source maps affect memory usage in Next.js?
+
+Ans- It reduces memory consumption during builds since generating source maps requires additional resources.
+
+(--------------------------------------------------------------------------)
