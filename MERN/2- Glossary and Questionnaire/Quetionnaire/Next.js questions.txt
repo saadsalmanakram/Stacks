@@ -5213,3 +5213,9 @@ Ans- It disables ESLint rules that may conflict with Prettier, allowing for seam
 Ans- By configuring .lintstagedrc.js to run ESLint on staged files before committing.
 
 (-------------------------------------------------------------------------)
+
+868- What is caching in ESLint and how does it improve performance?
+
+Ans- Caching stores information about processed files, speeding up subsequent linting operations.
+
+(-------------------------------------------------------------------------)
