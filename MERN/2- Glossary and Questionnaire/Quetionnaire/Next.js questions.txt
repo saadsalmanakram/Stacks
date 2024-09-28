@@ -4632,4 +4632,9 @@ Ans- Set the environment variable NEXT_OTEL_VERBOSE=1 to see more detailed spans
 
 (----------------------------------------------------------------------)
 
+772- How does OpenTelemetry support changing observability providers without changing code?
+
+Ans- OpenTelemetry abstracts the instrumentation from the observability provider, allowing you to swap providers without altering your application code.
+
+(----------------------------------------------------------------------)
 
