@@ -5803,3 +5803,9 @@ Ans- The route handler checks if the secret token matches and if the slug exists
 Ans- When enabled, the data is fetched dynamically from the draft source instead of the production source.
 
 (-------------------------------------------------------------------------)
+
+965- How does Draft Mode affect the data fetching process?
+
+Ans- Data is fetched at request time from the draft environment if Draft Mode is enabled, otherwise from the production environment.
+
+(-------------------------------------------------------------------------)
