@@ -7018,3 +7018,9 @@ Ans- Server Components run during build time and generate static HTML for the in
 Ans- Use SWR in a Client Component to fetch and cache data on the client-side.
 
 (-------------------------------------------------------------------------)
+
+1165- What is the difference between static and client-side data fetching?
+
+Ans- Static data fetching occurs at build time, while client-side fetching happens in the browser after the page loads.
+
+(-------------------------------------------------------------------------)
