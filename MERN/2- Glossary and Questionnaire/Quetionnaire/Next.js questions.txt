@@ -3282,3 +3282,15 @@ Ans- CSS Modules are concatenated into minified, code-split .css files to ensure
 
 (-----------------------------------------------------------------------)
 
+536- What are global styles in Next.js?
+
+Ans- Global styles apply to the entire application and can be imported into layouts or components.
+
+(-----------------------------------------------------------------------)
+
+537- Where can global styles be imported in Next.js?
+
+Ans- They can be imported anywhere in the app directory but must be truly global for the entire app.
+
+(-----------------------------------------------------------------------)
+
