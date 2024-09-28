@@ -3965,3 +3965,10 @@ Ans- Local fonts eliminate external requests, offering faster load times and bet
 Ans- Fonts are preloaded only on routes where they are used, either on specific pages or layouts.
 
 (----------------------------------------------------------------------)
+
+650- What is the recommended way to avoid loading multiple instances of the same font in Next.js?
+
+Ans- Call the font loader function in a shared file, export it as a constant, and reuse it across components.
+
+(----------------------------------------------------------------------)
+
