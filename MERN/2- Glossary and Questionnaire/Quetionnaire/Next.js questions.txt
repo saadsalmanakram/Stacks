@@ -5900,6 +5900,9 @@ Ans- Yes, Middleware can be configured to run on specific paths by using a match
 
 (-------------------------------------------------------------------------)
 
+980- How can you read a nonce in a Next.js Server Component?
 
+Ans- You can read the nonce from a server component using the headers().get('x-nonce') method.
 
+(-------------------------------------------------------------------------)
 
