@@ -3834,3 +3834,9 @@ Ans- It helps display fallback content (e.g., loading skeleton) while the video 
 
 (----------------------------------------------------------------------)
 
+628- What is a benefit of self-hosting videos in Next.js?
+
+Ans- Self-hosting offers full control over playback, appearance, and performance optimizations.
+
+(----------------------------------------------------------------------)
+
