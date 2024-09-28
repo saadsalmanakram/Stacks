@@ -6628,3 +6628,9 @@ Ans- Perform checks in the DAL to ensure consistent authorization across compone
 Ans- Using databases like Redis for faster access or consolidating requests to reduce the number of database calls.
 
 (-------------------------------------------------------------------------)
+
+1100- How do you handle errors during user data fetching?
+
+Ans- By implementing try-catch blocks and returning null or default values in case of a failure.
+
+(-------------------------------------------------------------------------)
