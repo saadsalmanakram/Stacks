@@ -6562,3 +6562,9 @@ Ans- By checking if the session exists and redirecting to the login page if not.
 Ans- API routes, static assets, and any routes that don't require authentication.
 
 (-------------------------------------------------------------------------)
+
+1089- What is a Data Access Layer (DAL)?
+
+Ans- It centralizes data requests and authorization logic to enhance security and maintainability.
+
+(-------------------------------------------------------------------------)
