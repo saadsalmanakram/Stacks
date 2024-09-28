@@ -3912,3 +3912,9 @@ Ans- It optimizes loading by self-hosting fonts, reducing layout shift, and elim
 
 (----------------------------------------------------------------------)
 
+641- How does next/font handle Google Fonts?
+
+Ans- Google Fonts are self-hosted, downloaded at build time, and served from the same domain to improve privacy and performance.
+
+(----------------------------------------------------------------------)
+
