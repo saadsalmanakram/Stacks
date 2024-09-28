@@ -3510,3 +3510,9 @@ Ans- CSS-in-JS is a technique for writing CSS directly within JavaScript, often 
 
 (----------------------------------------------------------------------)
 
+574- What CSS-in-JS libraries are supported in Client Components?
+
+Ans- Libraries such as styled-components, chakra-ui, and ant-design are supported in Client Components of the app directory.
+
+(----------------------------------------------------------------------)
+
