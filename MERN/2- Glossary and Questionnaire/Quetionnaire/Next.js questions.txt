@@ -6314,3 +6314,9 @@ Ans- It sets up transformations, mocks for styles, loads environment variables, 
 
 (-------------------------------------------------------------------------)
 
+1049- What should you do if you need to test environment variables in Jest?
+
+Ans- Manually load them in a separate setup script or within jest.config.ts.
+
+(-------------------------------------------------------------------------)
+
