@@ -6754,3 +6754,9 @@ Ans- Implement a custom cache handler to manage the cache storage outside of in-
 Ans- It generates a consistent build ID across different environments, essential for preventing version mismatches.
 
 (-------------------------------------------------------------------------)
+
+1121- What are Server Components in Next.js?
+
+Ans- Server Components run on the server and don't affect client-side JavaScript bundle size.
+
+(-------------------------------------------------------------------------)
