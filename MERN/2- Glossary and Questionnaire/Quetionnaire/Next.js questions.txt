@@ -5510,3 +5510,8 @@ Ans- Use the import syntax in a page component, allowing for the MDX content to 
 
 (-------------------------------------------------------------------------)
 
+916- What are remark and rehype used for?
+
+Ans- Remark is used for processing Markdown, while rehype is for processing HTML, transforming and sanitizing content.
+
+(-------------------------------------------------------------------------)
