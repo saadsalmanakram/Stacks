@@ -3918,3 +3918,9 @@ Ans- Google Fonts are self-hosted, downloaded at build time, and served from the
 
 (----------------------------------------------------------------------)
 
+642- What does the display: swap property do in font optimization?
+
+Ans- It ensures text remains visible during font loading by showing a fallback font until the custom font loads.
+
+(----------------------------------------------------------------------)
+
