@@ -5069,3 +5069,9 @@ Ans- Next.js supports the paths and baseUrl options in tsconfig.json to create e
 Ans- To achieve full type safety, both your database or content provider and the data fetching methods must support TypeScript.
 
 (-------------------------------------------------------------------------)
+
+845- What error occurs if you use an async Server Component with an outdated TypeScript version?
+
+Ans- You may encounter a 'Promise<Element>' is not a valid JSX element type error if using outdated versions of TypeScript and React types.
+
+(-------------------------------------------------------------------------)
