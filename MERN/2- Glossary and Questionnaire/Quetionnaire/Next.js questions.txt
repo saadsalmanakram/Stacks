@@ -3533,3 +3533,9 @@ Ans- It allows injecting CSS rules before rendering content that depends on them
 Ans- Create a style registry and wrap the root layout with it, injecting styles using useServerInsertedHTML.
 
 (----------------------------------------------------------------------)
+
+578- What steps are involved in configuring CSS-in-JS for Server Components?
+
+Ans- Use a style registry, useServerInsertedHTML, and a Client Component to manage styles during server-side rendering.
+
+(----------------------------------------------------------------------)
