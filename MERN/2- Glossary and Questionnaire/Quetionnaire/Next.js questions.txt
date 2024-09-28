@@ -6808,3 +6808,9 @@ Ans- Custom error pages should be created to gracefully handle errors like 404s.
 Ans- They guide the use of Server and Client Components to optimize JavaScript bundle sizes.
 
 (-------------------------------------------------------------------------)
+
+1130- What should you know about dynamic functions in Next.js?
+
+Ans- Dynamic functions can make entire routes dynamic; wrap them in <Suspense> boundaries if needed.
+
+(-------------------------------------------------------------------------)
