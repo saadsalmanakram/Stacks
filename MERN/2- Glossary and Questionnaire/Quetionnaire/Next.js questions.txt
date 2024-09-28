@@ -4224,3 +4224,8 @@ Ans- You can install it using npm, yarn, or pnpm by running the appropriate comm
 
 (----------------------------------------------------------------------)
 
+694- How do you enable bundle analysis in Next.js?
+
+Ans- Add the bundle analyzer settings in next.config.js and run ANALYZE=true npm run build.
+
+(----------------------------------------------------------------------)
