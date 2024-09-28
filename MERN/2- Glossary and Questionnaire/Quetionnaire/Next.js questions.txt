@@ -5243,3 +5243,9 @@ Ans- By extending from plugin:@next/next/recommended in your ESLint configuratio
 Ans- Use the settings property to specify the rootDir for the Next.js application.
 
 (-------------------------------------------------------------------------)
+
+873- Why is it important to run ESLint in CI/CD pipelines?
+
+Ans- To ensure code quality and prevent problematic code from being merged or deployed.
+
+(-------------------------------------------------------------------------)
