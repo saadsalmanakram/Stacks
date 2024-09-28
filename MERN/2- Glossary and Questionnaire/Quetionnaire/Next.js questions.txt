@@ -3270,3 +3270,9 @@ Ans- By using the .module.css or .module.sass extensions.
 
 (-----------------------------------------------------------------------)
 
+534- What is the advantage of using CSS Modules?
+
+Ans- It prevents class name collisions, allowing the same class names to be used in different files.
+
+(-----------------------------------------------------------------------)
+
