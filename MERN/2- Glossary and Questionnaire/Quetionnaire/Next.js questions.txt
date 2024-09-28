@@ -3569,3 +3569,9 @@ Ans- It prevents re-generating styles on subsequent renders and reduces the payl
 Ans- These tools output static CSS files, which are compatible with Server Components without requiring runtime JavaScript.
 
 (----------------------------------------------------------------------)
+
+584- How can you enable styled-components in a Next.js project?
+
+Ans- Enable it by setting styledComponents: true in the next.config.js file.
+
+(----------------------------------------------------------------------)
