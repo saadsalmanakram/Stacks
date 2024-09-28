@@ -5473,3 +5473,9 @@ Ans- It enables dynamic interactivity by allowing React components to be used wi
 Ans- Next.js can process local and remote MDX files, transforming them into HTML through the @next/mdx plugin.
 
 (-------------------------------------------------------------------------)
+
+910- What command is used to install MDX-related dependencies in Next.js?
+
+Ans- npm install @next/mdx @mdx-js/loader @mdx-js/react @types/mdx.
+
+(-------------------------------------------------------------------------)
