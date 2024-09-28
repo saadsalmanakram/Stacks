@@ -4001,3 +4001,10 @@ Ans- It allows you to define metadata like meta and link tags for SEO and web sh
 Ans- Config-based Metadata and File-based Metadata.
 
 (----------------------------------------------------------------------)
+
+657- What does Config-based Metadata do?
+
+Ans- It defines metadata through a static object or dynamic function in layout.js or page.js.
+
+(----------------------------------------------------------------------)
+
