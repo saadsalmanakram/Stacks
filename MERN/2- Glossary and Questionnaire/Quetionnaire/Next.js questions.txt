@@ -3624,3 +3624,9 @@ Ans- The Link Component prefetches pages for faster page transitions and smoothe
 
 (----------------------------------------------------------------------)
 
+593- How does the Next.js Script Component enhance performance?
+
+Ans- The Script Component controls third-party script loading and execution to improve performance.
+
+(----------------------------------------------------------------------)
+
