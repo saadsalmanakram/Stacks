@@ -6338,3 +6338,9 @@ Ans- Use npm init playwright, yarn create playwright, or pnpm create playwright.
 
 (-------------------------------------------------------------------------)
 
+1053- What configuration file is created during Playwright setup?
+
+Ans- The setup process creates a playwright.config.ts file.
+
+(-------------------------------------------------------------------------)
+
