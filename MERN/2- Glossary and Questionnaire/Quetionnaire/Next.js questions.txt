@@ -4307,3 +4307,10 @@ Ans- It defers the loading of Client Components to reduce the client bundle size
 Ans- Using next/dynamic and React.lazy() with Suspense.
 
 (----------------------------------------------------------------------)
+
+708- What is next/dynamic in Next.js?
+
+Ans- It is a composite of React.lazy() and Suspense used for dynamic imports.
+
+(----------------------------------------------------------------------)
+
