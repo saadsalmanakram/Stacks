@@ -6994,3 +6994,9 @@ Ans- Yes, Next.js static exports can be hosted on any web server that serves HTM
 Ans- Set output: 'export' in the next.config.js file.
 
 (-------------------------------------------------------------------------)
+
+1161- What does the trailingSlash option do?
+
+Ans- It changes URLs to end with a slash and emits .html files accordingly.
+
+(-------------------------------------------------------------------------)
