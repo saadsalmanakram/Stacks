@@ -5093,3 +5093,9 @@ Ans- It simplifies data flow between components, making it easier to type and re
 Ans- It initializes a new Next.js project with TypeScript set up by default, along with the necessary configurations and dependencies.
 
 (-------------------------------------------------------------------------)
+
+849- What is ESLint?
+
+Ans- ESLint is a static code analysis tool for identifying problematic patterns in JavaScript code.
+
+(-------------------------------------------------------------------------)
