@@ -5851,3 +5851,9 @@ Ans- CSP guards Next.js applications against common security risks, enhancing ov
 Ans- Developers can control the sources of scripts, stylesheets, images, fonts, media, iframes, and more using CSP.
 
 (-------------------------------------------------------------------------)
+
+972- What is a nonce in CSP?
+
+Ans- A nonce is a unique, one-time-use random string used to allow specific inline scripts or styles to execute under a strict CSP.
+
+(-------------------------------------------------------------------------)
