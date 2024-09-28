@@ -4962,3 +4962,8 @@ Ans- Set eslint.ignoreDuringBuilds: true and typescript.ignoreBuildErrors: true 
 
 (--------------------------------------------------------------------------)
 
+827- What is the --inspect-brk option used for during the Next.js build process?
+
+Ans- It breaks before any user code starts, allowing for a detailed inspection of memory usage from the beginning.
+
+(--------------------------------------------------------------------------)
