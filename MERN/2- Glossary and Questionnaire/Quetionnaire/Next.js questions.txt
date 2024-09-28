@@ -5208,3 +5208,8 @@ Ans- It disables ESLint rules that may conflict with Prettier, allowing for seam
 
 (-------------------------------------------------------------------------)
 
+867- How can you use ESLint with lint-staged?
+
+Ans- By configuring .lintstagedrc.js to run ESLint on staged files before committing.
+
+(-------------------------------------------------------------------------)
