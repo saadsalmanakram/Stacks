@@ -3635,3 +3635,10 @@ Ans- The Script Component controls third-party script loading and execution to i
 Ans- Metadata helps search engines understand content better, improving search engine rankings and visibility.
 
 (----------------------------------------------------------------------)
+
+595- What are the two ways to configure metadata in Next.js?
+
+Ans- Metadata can be configured using config-based metadata objects or file-based metadata in Next.js.
+
+(----------------------------------------------------------------------)
+
