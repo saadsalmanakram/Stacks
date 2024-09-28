@@ -6439,3 +6439,15 @@ Ans- A cypress.config.js (or cypress.config.ts) file is created in your project.
 Ans- This file contains tests for verifying the navigation functionality of your Next.js application.
 
 (-------------------------------------------------------------------------)
+
+1070- How do you check if the navigation to the about page is working?
+
+Ans- You can use Cypress commands like cy.visit('/'), cy.get('a[href*="about"]').click(), and cy.url().should('include', '/about').
+
+(-------------------------------------------------------------------------)
+
+1071- Why is it recommended to run tests against production code?
+
+Ans- Running tests against production code helps simulate real user interactions and verifies how the application behaves in a live environment.
+
+(-------------------------------------------------------------------------)
