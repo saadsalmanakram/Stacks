@@ -4482,3 +4482,9 @@ Ans- You can send Web Vitals metrics to external services, track the data, and u
 
 (----------------------------------------------------------------------)
 
+737- Why is it important to report Web Vitals for user experience?
+
+Ans- Web Vitals help identify and optimize the performance bottlenecks that impact the overall user experience.
+
+(----------------------------------------------------------------------)
+
