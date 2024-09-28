@@ -6205,3 +6205,9 @@ Ans- Use expect(screen.getByRole('heading', { level: 1, name: 'Home' })).toBeDef
 Ans- It mounts the component in a virtual DOM for testing.
 
 (-------------------------------------------------------------------------)
+
+1031- Where can test files be located in a Next.js project?
+
+Ans- Test files can be in the __tests__ directory or colocated with components.
+
+(-------------------------------------------------------------------------)
