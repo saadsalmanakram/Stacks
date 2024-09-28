@@ -3978,3 +3978,9 @@ Ans- Yes, by using CSS variables and configuring the Tailwind CSS config to refe
 
 (----------------------------------------------------------------------)
 
+653- What is the purpose of preloading fonts in Next.js?
+
+Ans- Preloading ensures fonts are loaded before they are needed, reducing layout shifts and improving user experience.
+
+(----------------------------------------------------------------------)
+
