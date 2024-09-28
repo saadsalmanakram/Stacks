@@ -3473,3 +3473,9 @@ Ans- Use the .module.scss or .module.sass extension for component-level Sass in 
 Ans- Use the sassOptions property in next.config.js or next.config.ts to configure Sass options.
 
 (----------------------------------------------------------------------)
+
+568- How can you add global variables to all Sass files in Next.js?
+
+Ans- Add variables using the additionalData property under sassOptions in next.config.js.
+
+(----------------------------------------------------------------------)
