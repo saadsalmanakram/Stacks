@@ -3575,3 +3575,9 @@ Ans- These tools output static CSS files, which are compatible with Server Compo
 Ans- Enable it by setting styledComponents: true in the next.config.js file.
 
 (----------------------------------------------------------------------)
+
+585- How do CSS-in-JS solutions optimize performance in server-side rendering?
+
+Ans- By collecting and injecting styles only once using lazy initialization, improving efficiency and reducing redundant styling operations.
+
+(----------------------------------------------------------------------)
