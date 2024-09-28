@@ -4158,3 +4158,8 @@ Ans- Enable nextScriptWorkers in next.config.js and install Partytown.
 
 (----------------------------------------------------------------------)
 
+683- How do inline scripts work with the Script component?
+
+Ans- Inline scripts can be included directly with curly braces or by using dangerouslySetInnerHTML.
+
+(----------------------------------------------------------------------)
