@@ -4151,3 +4151,10 @@ Ans- It loads the script later during browser idle time to improve performance.
 Ans- It offloads scripts to a web worker using Partytown, improving performance by freeing the main thread.
 
 (----------------------------------------------------------------------)
+
+682- What is required to use the worker strategy in Next.js?
+
+Ans- Enable nextScriptWorkers in next.config.js and install Partytown.
+
+(----------------------------------------------------------------------)
+
