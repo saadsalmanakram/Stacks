@@ -5387,3 +5387,15 @@ Ans- Absolute imports allow you to import modules using a path that is relative 
 Ans- You can configure absolute imports by setting the baseUrl option in the tsconfig.json or jsconfig.json file to "." (the root of your project).
 
 (-------------------------------------------------------------------------)
+
+897- What is the purpose of the baseUrl option in TypeScript configuration?
+
+Ans- The baseUrl option allows you to specify a root directory for resolving non-relative module names, enabling easier imports.
+
+(-------------------------------------------------------------------------)
+
+898- How can you alias module paths in Next.js?
+
+Ans- You can alias module paths by using the paths option in the tsconfig.json or jsconfig.json file to map aliases to actual paths.
+
+(-------------------------------------------------------------------------)
