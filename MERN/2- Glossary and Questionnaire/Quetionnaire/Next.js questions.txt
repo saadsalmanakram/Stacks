@@ -4380,3 +4380,15 @@ Ans- To avoid unnecessary server-side rendering for components that are client-s
 
 (----------------------------------------------------------------------)
 
+720- What is the purpose of Web Vitals in Next.js?
+
+Ans- Web Vitals capture key user experience metrics such as page loading and interactivity performance.
+
+(----------------------------------------------------------------------)
+
+721- What metrics are included in Web Vitals?
+
+Ans- The main metrics are Time to First Byte (TTFB), First Contentful Paint (FCP), Largest Contentful Paint (LCP), First Input Delay (FID), Cumulative Layout Shift (CLS), and Interaction to Next Paint (INP).
+
+(----------------------------------------------------------------------)
+
