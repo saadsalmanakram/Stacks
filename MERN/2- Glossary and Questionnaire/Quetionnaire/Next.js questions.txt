@@ -6479,3 +6479,9 @@ Ans- Use cy.mount(<Component />) to mount the React component before asserting i
 
 (-------------------------------------------------------------------------)
 
+1075- How do you run Cypress in a CI environment?
+
+Ans- Use the command cypress run for headless testing suited for CI environments.
+
+(-------------------------------------------------------------------------)
+
