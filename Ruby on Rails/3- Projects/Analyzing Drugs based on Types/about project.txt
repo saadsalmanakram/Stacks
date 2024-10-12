@@ -1,0 +1,5 @@
+Analyzing Drugs based on Types	
+
+Tools used: Ruby on Rails, Kafka
+
+Database: PostgreSQL
