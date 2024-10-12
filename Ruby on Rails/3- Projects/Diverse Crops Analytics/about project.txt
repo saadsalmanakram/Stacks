@@ -1,0 +1,5 @@
+Diverse Crops Analytics	
+
+Tools used: Ruby on Rails, Kafka
+
+Database: PostgreSQL
