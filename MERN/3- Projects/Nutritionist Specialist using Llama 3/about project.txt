@@ -1,0 +1,5 @@
+Nutritionist Specialist using Llama 3
+
+Tools used: Next.js(React), Llama 3
+
+Database: Weaviate
