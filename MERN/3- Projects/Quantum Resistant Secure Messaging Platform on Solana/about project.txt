@@ -1,0 +1,5 @@
+Quantum Resistant Secure Messaging Platform on Solana	
+
+Tools used: Anchor Framework, Next.js(React)
+
+Database: Weaviate
