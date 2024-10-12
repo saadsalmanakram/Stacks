@@ -1,0 +1,3 @@
+Medical Prescriptionist using Llama 3
+
+Tools used: MEVN Stack
