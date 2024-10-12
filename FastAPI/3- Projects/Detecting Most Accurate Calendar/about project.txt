@@ -1,0 +1,5 @@
+Detecting Most Accurate Calendar
+
+Tools used: Fastapi Stack
+
+Database: Cassandra
