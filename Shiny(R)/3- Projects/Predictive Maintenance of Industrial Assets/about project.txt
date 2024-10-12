@@ -1,0 +1,5 @@
+Predictive Maintenance of Industrial Assets	
+
+Tools used: Shiny(R), Statistics
+
+Database: SQLite
