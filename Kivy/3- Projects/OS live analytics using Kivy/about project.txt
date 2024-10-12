@@ -1,0 +1,5 @@
+OS live analytics using Kivy	
+
+Tools Used: Kivy
+
+Database: SQLite 
