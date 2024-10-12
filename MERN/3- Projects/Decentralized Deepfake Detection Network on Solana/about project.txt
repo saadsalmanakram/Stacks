@@ -1,0 +1,5 @@
+Decentralized Deepfake Detection Network on Solana	
+
+Tools used: Anchor Framework, Next.js(React)
+
+Database: Weaviate
