@@ -183,3 +183,9 @@ Ans- ObjectId is a 12-byte identifier used as the primary key for MongoDB docume
 Ans- It provides detailed statistics about a collection, including document count, index size, etc.
 
 (-------------------------------------------------------------------------)
+
+32- What is the drop() method used for?
+
+Ans- The drop() method deletes a collection or database.
+
+(-------------------------------------------------------------------------)
