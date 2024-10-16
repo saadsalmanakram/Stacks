@@ -171,3 +171,15 @@ Ans- A cursor is an object that points to the result set of a query, allowing it
 Ans- Projection is used to specify which fields should be included or excluded in the query result.
 
 (-------------------------------------------------------------------------)
+
+30- What is the purpose of ObjectId in MongoDB?
+
+Ans- ObjectId is a 12-byte identifier used as the primary key for MongoDB documents.
+
+(-------------------------------------------------------------------------)
+
+31- What is db.collection.stats() used for?
+
+Ans- It provides detailed statistics about a collection, including document count, index size, etc.
+
+(-------------------------------------------------------------------------)
