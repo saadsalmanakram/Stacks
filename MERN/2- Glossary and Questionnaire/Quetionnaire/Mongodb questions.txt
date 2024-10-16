@@ -10,3 +10,8 @@ Ans- Key features include document-based storage, high performance, scalability,
 
 (-------------------------------------------------------------------------)
 
+3- What is a document in MongoDB?
+
+Ans- A document is a record in MongoDB, stored in BSON (binary JSON) format.
+
+(-------------------------------------------------------------------------)
