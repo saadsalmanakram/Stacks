@@ -75,3 +75,9 @@ Ans- A capped collection is a fixed-size collection that maintains insertion ord
 Ans- MongoDB uses a flexible schema with documents (objects) that allow for deeply nested structures.
 
 (-------------------------------------------------------------------------)
+
+14- What is GridFS in MongoDB?
+
+Ans- GridFS is a specification for storing and retrieving large files, such as images or videos, in MongoDB.
+
+(-------------------------------------------------------------------------)
