@@ -117,3 +117,9 @@ Ans- $lookup performs left outer joins to join documents from different collecti
 Ans- $match filters documents to pass only those that meet the specified criteria.
 
 (-------------------------------------------------------------------------)
+
+21- What is the use of $group in MongoDB?
+
+Ans- $group groups documents by a specified key and performs aggregations, similar to SQL's GROUP BY.
+
+(-------------------------------------------------------------------------)
