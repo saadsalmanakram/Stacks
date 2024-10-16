@@ -1,0 +1,6 @@
+1- What is MongoDB?
+
+Ans- MongoDB is a NoSQL, document-oriented database designed for high availability and scalability.
+
+(-------------------------------------------------------------------------)
+
