@@ -111,3 +111,9 @@ Ans- Secondary nodes replicate data from the primary node and can handle read op
 Ans- $lookup performs left outer joins to join documents from different collections.
 
 (-------------------------------------------------------------------------)
+
+20- What is the use of $match in MongoDB?
+
+Ans- $match filters documents to pass only those that meet the specified criteria.
+
+(-------------------------------------------------------------------------)
