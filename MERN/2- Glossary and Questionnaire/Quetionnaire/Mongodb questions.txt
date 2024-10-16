@@ -87,3 +87,9 @@ Ans- GridFS is a specification for storing and retrieving large files, such as i
 Ans- MongoDB Atlas is a cloud-based, fully-managed version of MongoDB.
 
 (-------------------------------------------------------------------------)
+
+16- What are MongoDB transactions?
+
+Ans- Transactions in MongoDB allow multiple operations to be grouped into a single ACID-compliant transaction.
+
+(-------------------------------------------------------------------------)
