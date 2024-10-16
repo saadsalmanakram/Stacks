@@ -195,3 +195,9 @@ Ans- The drop() method deletes a collection or database.
 Ans- The save() method either inserts a new document or updates an existing one if _id exists.
 
 (-------------------------------------------------------------------------)
+
+34- What is the difference between updateOne() and updateMany()?
+
+Ans- updateOne() modifies one document, while updateMany() modifies multiple documents.
+
+(-------------------------------------------------------------------------)
