@@ -21,3 +21,9 @@ Ans- A document is a record in MongoDB, stored in BSON (binary JSON) format.
 Ans- A collection is a group of MongoDB documents, similar to tables in relational databases.
 
 (-------------------------------------------------------------------------)
+
+5- What is BSON?
+
+Ans- BSON is Binary JSON, a binary representation used by MongoDB to store documents.
+
+(-------------------------------------------------------------------------)
