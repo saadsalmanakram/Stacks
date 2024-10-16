@@ -285,3 +285,9 @@ Ans- MongoDB operations on a single document are atomic, meaning they complete e
 Ans- A text index supports searching for strings in text-based fields using text search.
 
 (------------------------------------------------------------------------)
+
+49- What is $in operator in MongoDB?
+
+Ans- $in matches any of the values specified in an array for a field.
+
+(------------------------------------------------------------------------)
