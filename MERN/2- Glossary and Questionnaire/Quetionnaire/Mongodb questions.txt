@@ -159,3 +159,9 @@ Ans- The update() method modifies existing documents in a collection.
 Ans- findOne() returns the first matching document, while find() returns all matching documents.
 
 (-------------------------------------------------------------------------)
+
+28- What is a cursor in MongoDB?
+
+Ans- A cursor is an object that points to the result set of a query, allowing iteration over documents.
+
+(-------------------------------------------------------------------------)
