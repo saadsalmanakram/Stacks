@@ -225,3 +225,9 @@ Ans- explain() provides details on how MongoDB executes a query, including index
 Ans- $unwind deconstructs an array field into multiple documents, each containing a single element of the array.
 
 (-------------------------------------------------------------------------)
+
+39- What is the $sort stage in MongoDB?
+
+Ans- $sort sorts the documents in the aggregation pipeline by the specified field(s).
+
+(-------------------------------------------------------------------------)
