@@ -63,3 +63,9 @@ Ans- The Aggregation Framework processes data and returns computed results, simi
 Ans- MongoDB primarily supports WiredTiger and MMAPv1 as storage engines.
 
 (-------------------------------------------------------------------------)
+
+12- What is a capped collection?
+
+Ans- A capped collection is a fixed-size collection that maintains insertion order and automatically removes the oldest documents when the limit is reached.
+
+(-------------------------------------------------------------------------)
