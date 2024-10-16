@@ -255,3 +255,9 @@ Ans- MongoDB handles relationships using embedded documents (denormalization) or
 Ans- $regex is used for pattern matching in string queries.
 
 (-------------------------------------------------------------------------)
+
+44- What is $inc operator in MongoDB?
+
+Ans- $inc increments the value of a field by a specified amount.
+
+(-------------------------------------------------------------------------)
