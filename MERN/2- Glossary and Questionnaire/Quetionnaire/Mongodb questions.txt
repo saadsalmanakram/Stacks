@@ -237,3 +237,9 @@ Ans- $sort sorts the documents in the aggregation pipeline by the specified fiel
 Ans- MongoDB achieves consistency through replica sets, write concerns, and read preferences.
 
 (-------------------------------------------------------------------------)
+
+41- What is a compound index in MongoDB?
+
+Ans- A compound index is an index on multiple fields of a document.
+
+(-------------------------------------------------------------------------)
