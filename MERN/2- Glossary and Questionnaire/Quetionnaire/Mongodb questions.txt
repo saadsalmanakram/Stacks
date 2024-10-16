@@ -165,3 +165,9 @@ Ans- findOne() returns the first matching document, while find() returns all mat
 Ans- A cursor is an object that points to the result set of a query, allowing iteration over documents.
 
 (-------------------------------------------------------------------------)
+
+29- What is a projection in MongoDB?
+
+Ans- Projection is used to specify which fields should be included or excluded in the query result.
+
+(-------------------------------------------------------------------------)
