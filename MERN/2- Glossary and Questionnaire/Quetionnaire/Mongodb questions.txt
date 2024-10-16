@@ -69,3 +69,9 @@ Ans- MongoDB primarily supports WiredTiger and MMAPv1 as storage engines.
 Ans- A capped collection is a fixed-size collection that maintains insertion order and automatically removes the oldest documents when the limit is reached.
 
 (-------------------------------------------------------------------------)
+
+13- How is data modeled in MongoDB?
+
+Ans- MongoDB uses a flexible schema with documents (objects) that allow for deeply nested structures.
+
+(-------------------------------------------------------------------------)
