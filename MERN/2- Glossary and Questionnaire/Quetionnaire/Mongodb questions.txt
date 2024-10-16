@@ -27,3 +27,9 @@ Ans- A collection is a group of MongoDB documents, similar to tables in relation
 Ans- BSON is Binary JSON, a binary representation used by MongoDB to store documents.
 
 (-------------------------------------------------------------------------)
+
+6- What is a replica set in MongoDB?
+
+Ans- A replica set is a group of MongoDB instances that maintain the same data for redundancy and high availability.
+
+(-------------------------------------------------------------------------)
