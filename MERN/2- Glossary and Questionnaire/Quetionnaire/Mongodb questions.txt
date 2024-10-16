@@ -201,3 +201,9 @@ Ans- The save() method either inserts a new document or updates an existing one 
 Ans- updateOne() modifies one document, while updateMany() modifies multiple documents.
 
 (-------------------------------------------------------------------------)
+
+35- What is the difference between insertOne() and insertMany()?
+
+Ans- insertOne() inserts a single document, while insertMany() inserts multiple documents.
+
+(-------------------------------------------------------------------------)
