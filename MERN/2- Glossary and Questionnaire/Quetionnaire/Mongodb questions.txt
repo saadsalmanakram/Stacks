@@ -135,3 +135,9 @@ Ans- The MongoDB shell is an interactive JavaScript interface to interact with M
 Ans- Collections are created implicitly when you insert a document or explicitly using the createCollection method.
 
 (-------------------------------------------------------------------------)
+
+24- What is the find() method in MongoDB?
+
+Ans- The find() method retrieves documents from a collection based on a query.
+
+(-------------------------------------------------------------------------)
