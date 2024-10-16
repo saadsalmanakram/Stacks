@@ -147,3 +147,15 @@ Ans- The find() method retrieves documents from a collection based on a query.
 Ans- writeConcern specifies the level of acknowledgment requested from MongoDB for write operations.
 
 (-------------------------------------------------------------------------)
+
+26- What is the update() method in MongoDB?
+
+Ans- The update() method modifies existing documents in a collection.
+
+(-------------------------------------------------------------------------)
+
+27- What is the difference between findOne() and find()?
+
+Ans- findOne() returns the first matching document, while find() returns all matching documents.
+
+(-------------------------------------------------------------------------)
