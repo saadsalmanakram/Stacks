@@ -231,3 +231,9 @@ Ans- $unwind deconstructs an array field into multiple documents, each containin
 Ans- $sort sorts the documents in the aggregation pipeline by the specified field(s).
 
 (-------------------------------------------------------------------------)
+
+40- How does MongoDB achieve consistency in a distributed environment?
+
+Ans- MongoDB achieves consistency through replica sets, write concerns, and read preferences.
+
+(-------------------------------------------------------------------------)
