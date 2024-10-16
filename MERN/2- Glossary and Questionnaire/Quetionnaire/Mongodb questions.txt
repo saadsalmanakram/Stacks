@@ -261,3 +261,9 @@ Ans- $regex is used for pattern matching in string queries.
 Ans- $inc increments the value of a field by a specified amount.
 
 (-------------------------------------------------------------------------)
+
+45- What is $set operator in MongoDB?
+
+Ans- $set updates the value of a field in a document.
+
+(-------------------------------------------------------------------------)
