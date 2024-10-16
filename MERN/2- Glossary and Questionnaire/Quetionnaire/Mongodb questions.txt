@@ -189,3 +189,9 @@ Ans- It provides detailed statistics about a collection, including document coun
 Ans- The drop() method deletes a collection or database.
 
 (-------------------------------------------------------------------------)
+
+33- What is the save() method in MongoDB?
+
+Ans- The save() method either inserts a new document or updates an existing one if _id exists.
+
+(-------------------------------------------------------------------------)
