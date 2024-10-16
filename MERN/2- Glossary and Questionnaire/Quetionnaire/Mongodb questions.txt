@@ -39,3 +39,9 @@ Ans- A replica set is a group of MongoDB instances that maintain the same data f
 Ans- Sharding is a method of distributing data across multiple machines for horizontal scaling.
 
 (-------------------------------------------------------------------------)
+
+8- How does MongoDB differ from a relational database?
+
+Ans- MongoDB stores data in flexible, schema-less documents rather than structured tables.
+
+(-------------------------------------------------------------------------)
