@@ -207,3 +207,9 @@ Ans- updateOne() modifies one document, while updateMany() modifies multiple doc
 Ans- insertOne() inserts a single document, while insertMany() inserts multiple documents.
 
 (-------------------------------------------------------------------------)
+
+36- What are the different data types supported by MongoDB?
+
+Ans- MongoDB supports data types like string, integer, boolean, double, array, object, and more.
+
+(-------------------------------------------------------------------------)
