@@ -51,3 +51,9 @@ Ans- MongoDB stores data in flexible, schema-less documents rather than structur
 Ans- An index in MongoDB is a structure that improves query performance by speeding up the search process.
 
 (-------------------------------------------------------------------------)
+
+10- What is the Aggregation Framework in MongoDB?
+
+Ans- The Aggregation Framework processes data and returns computed results, similar to SQL GROUP BY.
+
+(-------------------------------------------------------------------------)
