@@ -57,3 +57,9 @@ Ans- An index in MongoDB is a structure that improves query performance by speed
 Ans- The Aggregation Framework processes data and returns computed results, similar to SQL GROUP BY.
 
 (-------------------------------------------------------------------------)
+
+11- What are MongoDB’s storage engines?
+
+Ans- MongoDB primarily supports WiredTiger and MMAPv1 as storage engines.
+
+(-------------------------------------------------------------------------)
