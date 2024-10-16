@@ -45,3 +45,9 @@ Ans- Sharding is a method of distributing data across multiple machines for hori
 Ans- MongoDB stores data in flexible, schema-less documents rather than structured tables.
 
 (-------------------------------------------------------------------------)
+
+9- What is a MongoDB index?
+
+Ans- An index in MongoDB is a structure that improves query performance by speeding up the search process.
+
+(-------------------------------------------------------------------------)
