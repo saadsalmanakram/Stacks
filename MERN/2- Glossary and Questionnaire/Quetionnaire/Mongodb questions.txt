@@ -267,3 +267,9 @@ Ans- $inc increments the value of a field by a specified amount.
 Ans- $set updates the value of a field in a document.
 
 (-------------------------------------------------------------------------)
+
+46- How can you ensure uniqueness in MongoDB?
+
+Ans- By creating a unique index on a field, MongoDB ensures all values are distinct.
+
+(-------------------------------------------------------------------------)
