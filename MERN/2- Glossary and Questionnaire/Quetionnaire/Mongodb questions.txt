@@ -105,3 +105,9 @@ Ans- The primary node in a replica set is the only node that can accept write op
 Ans- Secondary nodes replicate data from the primary node and can handle read operations.
 
 (-------------------------------------------------------------------------)
+
+19- What is the use of $lookup in MongoDB?
+
+Ans- $lookup performs left outer joins to join documents from different collections.
+
+(-------------------------------------------------------------------------)
