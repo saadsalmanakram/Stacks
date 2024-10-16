@@ -33,3 +33,9 @@ Ans- BSON is Binary JSON, a binary representation used by MongoDB to store docum
 Ans- A replica set is a group of MongoDB instances that maintain the same data for redundancy and high availability.
 
 (-------------------------------------------------------------------------)
+
+7- What is sharding in MongoDB?
+
+Ans- Sharding is a method of distributing data across multiple machines for horizontal scaling.
+
+(-------------------------------------------------------------------------)
