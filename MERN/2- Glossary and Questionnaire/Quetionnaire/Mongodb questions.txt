@@ -129,3 +129,9 @@ Ans- $group groups documents by a specified key and performs aggregations, simil
 Ans- The MongoDB shell is an interactive JavaScript interface to interact with MongoDB databases.
 
 (-------------------------------------------------------------------------)
+
+23- How do you create a collection in MongoDB?
+
+Ans- Collections are created implicitly when you insert a document or explicitly using the createCollection method.
+
+(-------------------------------------------------------------------------)
