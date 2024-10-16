@@ -4,3 +4,9 @@ Ans- MongoDB is a NoSQL, document-oriented database designed for high availabili
 
 (-------------------------------------------------------------------------)
 
+2- What are the key features of MongoDB?
+
+Ans- Key features include document-based storage, high performance, scalability, replication, and indexing.
+
+(-------------------------------------------------------------------------)
+
