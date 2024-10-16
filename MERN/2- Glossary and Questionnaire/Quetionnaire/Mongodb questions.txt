@@ -249,3 +249,9 @@ Ans- A compound index is an index on multiple fields of a document.
 Ans- MongoDB handles relationships using embedded documents (denormalization) or referencing documents across collections.
 
 (-------------------------------------------------------------------------)
+
+43- What is $regex in MongoDB?
+
+Ans- $regex is used for pattern matching in string queries.
+
+(-------------------------------------------------------------------------)
