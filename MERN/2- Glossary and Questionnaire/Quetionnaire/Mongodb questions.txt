@@ -81,3 +81,9 @@ Ans- MongoDB uses a flexible schema with documents (objects) that allow for deep
 Ans- GridFS is a specification for storing and retrieving large files, such as images or videos, in MongoDB.
 
 (-------------------------------------------------------------------------)
+
+15- What is a MongoDB Atlas?
+
+Ans- MongoDB Atlas is a cloud-based, fully-managed version of MongoDB.
+
+(-------------------------------------------------------------------------)
