@@ -273,3 +273,15 @@ Ans- $set updates the value of a field in a document.
 Ans- By creating a unique index on a field, MongoDB ensures all values are distinct.
 
 (-------------------------------------------------------------------------)
+
+47- What are the atomic operations in MongoDB?
+
+Ans- MongoDB operations on a single document are atomic, meaning they complete entirely or not at all.
+
+(------------------------------------------------------------------------)
+
+48- What is a text index in MongoDB?
+
+Ans- A text index supports searching for strings in text-based fields using text search.
+
+(------------------------------------------------------------------------)
