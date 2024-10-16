@@ -99,3 +99,9 @@ Ans- Transactions in MongoDB allow multiple operations to be grouped into a sing
 Ans- The primary node in a replica set is the only node that can accept write operations.
 
 (-------------------------------------------------------------------------)
+
+18- What is a secondary node in MongoDB?
+
+Ans- Secondary nodes replicate data from the primary node and can handle read operations.
+
+(-------------------------------------------------------------------------)
