@@ -123,3 +123,9 @@ Ans- $match filters documents to pass only those that meet the specified criteri
 Ans- $group groups documents by a specified key and performs aggregations, similar to SQL's GROUP BY.
 
 (-------------------------------------------------------------------------)
+
+22- What is the MongoDB shell?
+
+Ans- The MongoDB shell is an interactive JavaScript interface to interact with MongoDB databases.
+
+(-------------------------------------------------------------------------)
