@@ -93,3 +93,9 @@ Ans- MongoDB Atlas is a cloud-based, fully-managed version of MongoDB.
 Ans- Transactions in MongoDB allow multiple operations to be grouped into a single ACID-compliant transaction.
 
 (-------------------------------------------------------------------------)
+
+17- What is a primary node in MongoDB?
+
+Ans- The primary node in a replica set is the only node that can accept write operations.
+
+(-------------------------------------------------------------------------)
