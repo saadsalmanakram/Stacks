@@ -141,3 +141,9 @@ Ans- Collections are created implicitly when you insert a document or explicitly
 Ans- The find() method retrieves documents from a collection based on a query.
 
 (-------------------------------------------------------------------------)
+
+25- What is a writeConcern in MongoDB?
+
+Ans- writeConcern specifies the level of acknowledgment requested from MongoDB for write operations.
+
+(-------------------------------------------------------------------------)
