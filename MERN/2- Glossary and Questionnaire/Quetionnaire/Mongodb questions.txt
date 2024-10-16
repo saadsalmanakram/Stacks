@@ -213,3 +213,9 @@ Ans- insertOne() inserts a single document, while insertMany() inserts multiple 
 Ans- MongoDB supports data types like string, integer, boolean, double, array, object, and more.
 
 (-------------------------------------------------------------------------)
+
+37- What is the explain() method in MongoDB?
+
+Ans- explain() provides details on how MongoDB executes a query, including index usage.
+
+(-------------------------------------------------------------------------)
