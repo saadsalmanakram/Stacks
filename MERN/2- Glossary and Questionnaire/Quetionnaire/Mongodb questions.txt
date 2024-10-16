@@ -219,3 +219,9 @@ Ans- MongoDB supports data types like string, integer, boolean, double, array, o
 Ans- explain() provides details on how MongoDB executes a query, including index usage.
 
 (-------------------------------------------------------------------------)
+
+38- What is the $unwind stage in the aggregation pipeline?
+
+Ans- $unwind deconstructs an array field into multiple documents, each containing a single element of the array.
+
+(-------------------------------------------------------------------------)
