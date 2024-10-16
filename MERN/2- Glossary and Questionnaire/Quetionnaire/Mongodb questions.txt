@@ -243,3 +243,9 @@ Ans- MongoDB achieves consistency through replica sets, write concerns, and read
 Ans- A compound index is an index on multiple fields of a document.
 
 (-------------------------------------------------------------------------)
+
+42- How does MongoDB handle relationships between documents?
+
+Ans- MongoDB handles relationships using embedded documents (denormalization) or referencing documents across collections.
+
+(-------------------------------------------------------------------------)
