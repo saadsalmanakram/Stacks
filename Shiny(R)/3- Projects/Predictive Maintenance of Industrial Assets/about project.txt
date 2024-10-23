@@ -1,5 +1,18 @@
-Predictive Maintenance of Industrial Assets	
+# Predictive Maintenance of Industrial Assets
 
-Tools used: Shiny(R), Statistics
+## Overview
+This Shiny app is designed to help industries monitor and predict maintenance needs for their assets using real-time sensor data. The application provides asset health monitoring, maintenance prediction, and failure forecasting.
+
+## Features
+- **Asset Overview:** See metrics like temperature, vibration, and pressure for industrial assets.
+- **Health Monitoring:** View sensor data trends for different assets over time.
+- **Failure Prediction:** Get maintenance predictions and forecasts for potential asset failures.
+
+## Getting Started
+
+### 1. Install Required Packages
+You will need the following R packages:
+```r
+install.packages(c('shiny', 'shinydashboard', 'dplyr', 'ggplot2', 'plotly', 'randomForest', 'DT'))
 
 Database: SQLite
