@@ -1,17 +1,17 @@
-research_task:
+create_content_task:
   description: >
-    Conduct a thorough research about {topic}
-    Make sure you find any interesting and relevant information given
-    the current year is 2024.
+    Generate an engaging LinkedIn post focused on relevant industry topics and trending hashtags.
   expected_output: >
-    A list with 10 bullet points of the most relevant information about {topic}
-  agent: researcher
+    A LinkedIn post draft, optimized for maximum engagement.
 
-reporting_task:
+engage_audience_task:
   description: >
-    Review the context you got and expand each topic into a full section for a report.
-    Make sure the report is detailed and contains any and all relevant information.
+    Engage with LinkedIn followers by liking and commenting on relevant posts and responding to comments on recent posts.
   expected_output: >
-    A fully fledge reports with the mains topics, each with a full section of information.
-    Formatted as markdown without '```'
-  agent: reporting_analyst
+    A summary of all engagement activities completed, including any new followers or connections.
+
+analyze_growth_task:
+  description: >
+    Analyze engagement metrics, such as views, likes, and follower growth, and save insights to Weaviate.
+  expected_output: >
+    A detailed report on LinkedIn engagement performance with actionable recommendations.
