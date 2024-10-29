@@ -1,51 +1,38 @@
-from crewai import Agent, Crew, Process, Task
-from crewai.project import CrewBase, agent, crew, task
+from crewai import Agent, Task, Crew, Process
+from tools.linkedin_api_tool import linkedin_api_tool
+from tools.weaviate_tool import save_to_weaviate
 
-# Uncomment the following line to use an example of a custom tool
-# from linkedin_growth_manager.tools.custom_tool import MyCustomTool
+# Define the agent
+linkedin_growth_agent = Agent(
+    role="LinkedIn Growth Specialist",
+    goal="Grow LinkedIn followers and engagement",
+    tools=[linkedin_api_tool, save_to_weaviate]
+)
 
-# Check our tools documentations for more information on how to use them
-# from crewai_tools import SerperDevTool
+# Define tasks
+create_content_task = Task(
+    description="Generate LinkedIn post draft.",
+    expected_output="Draft of LinkedIn post.",
+    agent=linkedin_growth_agent
+)
 
-@CrewBase
-class LinkedinGrowthManagerCrew():
-	"""LinkedinGrowthManager crew"""
+engage_audience_task = Task(
+    description="Engage with followers on LinkedIn.",
+    expected_output="Summary of engagement activities.",
+    agent=linkedin_growth_agent
+)
 
-	@agent
-	def researcher(self) -> Agent:
-		return Agent(
-			config=self.agents_config['researcher'],
-			# tools=[MyCustomTool()], # Example of custom tool, loaded on the beginning of file
-			verbose=True
-		)
+analyze_growth_task = Task(
+    description="Analyze LinkedIn engagement and save data to Weaviate.",
+    expected_output="Detailed LinkedIn performance report.",
+    agent=linkedin_growth_agent
+)
 
-	@agent
-	def reporting_analyst(self) -> Agent:
-		return Agent(
-			config=self.agents_config['reporting_analyst'],
-			verbose=True
-		)
+# Define Crew and process
+crew = Crew(
+    agents=[linkedin_growth_agent],
+    tasks=[create_content_task, engage_audience_task, analyze_growth_task],
+    process=Process.sequential
+)
 
-	@task
-	def research_task(self) -> Task:
-		return Task(
-			config=self.tasks_config['research_task'],
-		)
-
-	@task
-	def reporting_task(self) -> Task:
-		return Task(
-			config=self.tasks_config['reporting_task'],
-			output_file='report.md'
-		)
-
-	@crew
-	def crew(self) -> Crew:
-		"""Creates the LinkedinGrowthManager crew"""
-		return Crew(
-			agents=self.agents, # Automatically created by the @agent decorator
-			tasks=self.tasks, # Automatically created by the @task decorator
-			process=Process.sequential,
-			verbose=True,
-			# process=Process.hierarchical, # In case you wanna use that instead https://docs.crewai.com/how-to/Hierarchical/
-		)
+crew.kickoff()
