@@ -1,12 +1,12 @@
 [package]
-name = "my-genomic-project"
+name = "anchor-end"
 version = "0.1.0"
 description = "Created with Anchor"
 edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "lib"]
-name = "my_genomic_project"
+name = "anchor_end"
 
 [features]
 default = []

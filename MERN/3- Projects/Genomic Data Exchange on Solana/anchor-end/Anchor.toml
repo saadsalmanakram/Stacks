@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-my_genomic_project = "FdNNaw1D3xqxLa6eJ3Wc1Ah1gU9txRg4Dup68Ene77R8"
+anchor_end = "QWtuDBJZXhvPJx6JKNSA5bY998s1cfxE8C6wYgVH5bn"
 
 [registry]
 url = "https://api.apr.dev"
