@@ -42,6 +42,7 @@ INSTALLED_APPS = [
 # External third-party apps
 EXTERNAL_APPS = [
     'home',
+    'vege'
 ]
 
 INSTALLED_APPS = INSTALLED_APPS + EXTERNAL_APPS
