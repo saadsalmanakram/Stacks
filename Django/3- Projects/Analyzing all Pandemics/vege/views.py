@@ -5,8 +5,8 @@ from .models import *
 
 def receipes(request):
     if request.method == "POST":
-
         data = request.POST
+
         receipe_image = request.FILES.get('receipe_image')
         receipe_name = data.get('receipe_name')
         receipe_description = data.get('receipe_description')
@@ -17,7 +17,9 @@ def receipes(request):
             receipe_description = receipe_description,
         )
 
-        return redirect('/')
+        return redirect('/receipes/')
 
-    return render(request, 'receipes.html')
+    queryset = Receipe.objects.all()
+    context = {'receipes' : queryset}
+    return render(request, 'receipes.html', context)
 

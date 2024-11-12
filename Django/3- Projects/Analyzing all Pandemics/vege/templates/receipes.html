@@ -4,25 +4,28 @@
 <div class="container mt-5">
 
     <form class="col-6 mx-auto card p-3 shadow-lg" method="post" enctype="multipart/form-data">
-        {% csrf_token %}
-        <h2>Add Receipe</h2>
-        <hr>
-        <div class="col-md-6">
-          <label for="exampleInputEmail" class="form-label">Receipe Name</label>
-          <input name="receipe_name" required ="text" class="form-control">
-        </div>
-        <div class="col-md-6">
-          <label for="exampleInputPassword1" class="form-label">Receipe Decsription</label>
-          <textarea class="form-control" name="receipe_description" required></textarea>
-        </div>
-        <div class="col-md-6">
-          <label for="exampleInputPassword1" class="form-label">Receipe Image</label>
-          <input name="receipe_image" type="file" class="form-control">
-        </div>
-        <div class="col-12">
-          <button type="submit" class="btn btn-success">Add Receipe</button>
-        </div>
       </form>
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Receipe name</th>
+            <th scope="col">Receipe Desc</th>
+            <th scope="col">Image</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for receipe in receipes %}
+          <tr>
+            <th scope="row">{{forloop.counter}}</th>
+            <td>{{receipe.receipe_name}}</td>
+            <td>{{receipe.receipe_description}}</td>
+            <td>{{receipe.receipe_image}}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+
 </div>
 
 {% endblock %}
