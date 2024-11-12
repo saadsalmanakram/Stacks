@@ -20,7 +20,8 @@
             <th scope="row">{{forloop.counter}}</th>
             <td>{{receipe.receipe_name}}</td>
             <td>{{receipe.receipe_description}}</td>
-            <td>{{receipe.receipe_image}}</td>
+            <td>
+              <img src="/media/{{receipe.receipe_image}}" style="height: 100px"> </td>
           </tr>
           {% endfor %}
         </tbody>
