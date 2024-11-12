@@ -6,7 +6,7 @@ def receipes(request):
     if request.method == "POST":
 
         data = request.POST
-        receipe_image = request.FILES['receipe_image']
+        receipe_image = request.FILES.get('receipe_image')
         receipe_name = data.get('receipe_name')
         receipe_description = data.get('receipe_description')
 
