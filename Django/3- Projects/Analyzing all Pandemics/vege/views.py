@@ -1,4 +1,5 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
+from .models import *
 
 # Create your views here.
 
@@ -10,8 +11,13 @@ def receipes(request):
         receipe_name = data.get('receipe_name')
         receipe_description = data.get('receipe_description')
 
-        print(receipe_description)
-        print(receipe_name)
+        Receipe.objects.create(
+            receipe_image = receipe_image,
+            receipe_name = receipe_name,
+            receipe_description = receipe_description,
+        )
+
+        return redirect('/')
 
     return render(request, 'receipes.html')
 
