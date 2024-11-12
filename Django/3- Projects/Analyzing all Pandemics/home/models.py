@@ -8,6 +8,9 @@ class Student(models.Model):
     email = models.EmailField(null=True, blank=True)
     address = models.TextField(null=True, blank=True)
 
+class Car(models.Model):
+    car_names = models.CharField(max_length=500)
+    speed = models.IntegerField(default=50)
 
-class Product(models.Model):
-    pass
+    def __str__(self) -> str:
+        return self.car_names
