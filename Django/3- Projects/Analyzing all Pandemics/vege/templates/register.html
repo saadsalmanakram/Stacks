@@ -5,7 +5,7 @@
 
     <form class="col-6 mx-auto card p-3 shadow-lg" method="post" enctype="multipart/form-data">
       {% csrf_token %}
-      <h2>Login</h2>
+      <h2>Register</h2>
       <hr>
 
         <div class="form-group">
@@ -17,7 +17,9 @@
           <label for="exampleInputPassword1">Password</label>
           <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
         </div>
-        
+
+        <p> Already have account <a href="/login/">Login</a></p>
+
         <button type="submit" class="btn btn-primary">Submit</button>
 
 
