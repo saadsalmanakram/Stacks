@@ -50,3 +50,6 @@ def update_receipe(request, id):
 
     context = {'receipes': queryset}
     return render(request, 'update_receipes.html', context)
+
+def login_page(request):
+    return render(request, 'login.html')
