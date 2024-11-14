@@ -28,11 +28,13 @@ def receipes(request):
     context = {'receipes' : queryset}
     return render(request, 'receipes.html', context)
 
+@login_required(login_url="/login/")
 def delete_receipe(request, id):
     queryset = Receipe.objects.get(id = id)
     queryset.delete()
     return redirect('/receipes/')
 
+@login_required(login_url="/login/")
 def update_receipe(request, id):
     queryset = Receipe.objects.get(id = id)
     
