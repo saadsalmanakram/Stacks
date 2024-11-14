@@ -2,7 +2,7 @@ from django.shortcuts import render, redirect
 from .models import *
 from django.http import HttpResponse
 from django.contrib.auth.models import User
-
+from django.contrib import messages
 # Create your views here.
 
 def receipes(request):
@@ -64,8 +64,13 @@ def register(request):
         username = request.POST.get('username')
         password = request.POST.get('password')
 
+        user = User.objects.filter(username=username)
 
-        user = User.object.create(
+        if user.exists():
+            messages.info(request, "Username already taken")
+            return redirect('/register/')
+ 
+        user = User.objects.create(
             first_name = first_name,
             last_name =  last_name,
             username = username
@@ -73,10 +78,11 @@ def register(request):
 
         # to encrypt and save password in python
 
-        user.set.password(password)
+        user.set_password(password)
         user.save()
+        messages.info(request, 'Account created Successfully')
 
-
+        return redirect('/register/')
 
 
 
