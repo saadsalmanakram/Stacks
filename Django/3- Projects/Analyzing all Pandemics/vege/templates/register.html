@@ -1,6 +1,9 @@
 {% extends "base.html" %}
 {% block start %}
 
+{{request.user}}
+{{request.user.first_name}}
+
 <div class="container mt-5">
 
     <form class="col-6 mx-auto card p-3 shadow-lg" method="post" enctype="multipart/form-data">
