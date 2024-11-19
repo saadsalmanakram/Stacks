@@ -32,9 +32,9 @@
             <div class="hidden sm:ml-6 sm:block">
             <div class="flex space-x-4">
                 <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-                <a href="/" class="{{ request() -> is('/') ? "bg-gray-900 text-white":"text-gray-300 hover:bg-gray-700 hover:text-white"}}rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white" aria-current="page">Home</a>
-                <a href="/about" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">About</a>
-                <a href="/contact" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Contact</a>
+                <x-nav-link href="/" :active="request()->is('/')">Home</x-nav-link>
+                <x-nav-link href="/about" :active="request()->is('about')">About</x-nav-link>
+                <x-nav-link href="/contact" :active="request()->is('contact')">Contact</x-nav-link>
             </div>
             </div>
         </div>
@@ -66,9 +66,9 @@
     <div class="sm:hidden" id="mobile-menu">
         <div class="space-y-1 px-2 pb-3 pt-2">
         <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-        <a href="/" class="block rounded-md bg-gray-900 px-3 py-2 text-base font-medium text-white" aria-current="page">Home</a>
-        <a href="/about" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white">About</a>
-        <a href="/contact" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Contact</a>
+            <x-nav-link href="/" class="{{ request() -> is('/') ? 'bg-gray-900 text-white':'text-gray-300 hover:bg-gray-700 hover:text-white'}} rounded-md px-3 py-2 text-sm font-medium" aria-current="page">Home</x-nav-link>
+            <x-nav-link href="/about" class="{{ request() -> is('about') ? 'bg-gray-900 text-white':'text-gray-300 hover:bg-gray-700 hover:text-white'}} rounded-md px-3 py-2 text-sm font-medium ">About</x-nav-link>
+            <x-nav-link href="/contact" class="{{ request() -> is('contact') ? 'bg-gray-900 text-white':'text-gray-300 hover:bg-gray-700 hover:text-white'}} rounded-md px-3 py-2 text-sm font-medium">Contact</x-nav-link>
         </div>
     </div>
     </nav>
