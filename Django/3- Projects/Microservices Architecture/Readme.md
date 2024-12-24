@@ -148,3 +148,145 @@ Contains resources that are common across all services.
 4. **Development Speed**: Teams can work on services independently.
 
 This structure ensures modularity, maintainability, and ease of deployment for large-scale applications. Let me know if you’d like specific implementation examples or further details!
+
+
+
+
+
+
+
+### **If someone want to use it with react**
+
+# FullStackMonolithApp
+
+A full-stack monolithic application using Django (backend) and React (frontend). This repository serves as a guide and starting point for building a modern web application that integrates a Django REST API with a React frontend.
+
+## Prerequisites
+
+Ensure you have the following installed:
+
+- Python (>= 3.10)
+- Node.js (>= 18.x) and npm
+- Django (>= 4.2)
+
+## Setup Steps
+
+### Backend Setup
+
+1. **Install Django REST Framework**
+
+   ```bash
+   pip install djangorestframework
+   ```
+
+   Purpose: Adds powerful tools for building RESTful APIs in Django.
+
+2. **Create a New Django App**
+
+   ```bash
+   django-admin startapp frontend
+   ```
+
+   Purpose: Sets up a new Django app to serve the React frontend.
+
+### Frontend Setup
+
+1. **Initialize a New Node.js Project**
+
+   Navigate to the `frontend` directory and run:
+
+   ```bash
+   npm init -y
+   ```
+
+   Purpose: Creates a new `package.json` file to manage frontend dependencies.
+
+2. **Install Webpack and Webpack CLI**
+
+   ```bash
+   npm i webpack webpack-cli --save-dev
+   ```
+
+   Purpose: Bundles the JavaScript files for the React app.
+
+3. **Install Babel for Transpiling JavaScript**
+
+   ```bash
+   npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
+   ```
+
+   Purpose: Transforms modern JavaScript and JSX into browser-compatible code.
+
+4. **Install React and React DOM**
+
+   ```bash
+   npm i react react-dom --save-dev
+   ```
+
+   Purpose: Provides the core libraries for building a React application.
+
+5. **Install Tailwind CSS**
+
+   ```bash
+   npm install -D tailwindcss
+   ```
+
+   Purpose: Enables modern utility-first CSS styling for the frontend.
+
+6. **Optional: Install Babel Plugin for Class Properties**
+
+   ```bash
+   npm install @babel/plugin-proposal-class-properties
+   ```
+
+   Purpose: Adds support for the modern ES6 class properties syntax.
+
+7. **Install React Router DOM**
+
+   ```bash
+   npm install react-router-dom
+   ```
+
+   Purpose: Enables client-side routing in the React app.
+
+### Known Issues and Fixes
+
+- If you encounter dependency issues with `@material-ui/icons`, resolve the conflict using:
+
+  ```bash
+  npm install @material-ui/icons --legacy-peer-deps
+  ```
+
+## Running the Project
+
+1. Start the Django development server:
+
+   ```bash
+   python manage.py runserver
+   ```
+
+2. Start the Webpack development server (if applicable):
+
+   ```bash
+   npm run dev
+   ```
+
+## Project Structure
+
+```
+FullStackMonolithApp/
+|-- backend/
+|   |-- manage.py
+|   |-- app/
+|-- frontend/
+|   |-- src/
+|   |-- package.json
+```
+
+## Contributing
+
+Feel free to fork this repository and submit pull requests for improvements.
+
+## License
+
+This project is licensed under the MIT License.
