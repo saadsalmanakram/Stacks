@@ -1,1 +1,0 @@
-Let's make things simple, to complete any kind of web app. The three main components required are: Client side, Server side, and Database
