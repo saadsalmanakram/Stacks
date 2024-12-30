@@ -1,0 +1,1 @@
+Build a platform that uses AI to recommend products based on user preferences and browsing habits. Enhance personalization for a seamless shopping experience.
