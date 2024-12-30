@@ -1,0 +1,1 @@
+Create a subscription box service that curates products based on customer preferences. Use AI to refine the selections and provide a personalized unboxing experience.
