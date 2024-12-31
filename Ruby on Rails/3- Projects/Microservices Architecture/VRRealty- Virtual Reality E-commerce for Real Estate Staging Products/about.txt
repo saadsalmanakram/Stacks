@@ -1,0 +1,1 @@
+Create an e-commerce platform for purchasing furniture and décor for real estate staging with VR previews powered by microservices for 3D rendering, inventory, and order management.
