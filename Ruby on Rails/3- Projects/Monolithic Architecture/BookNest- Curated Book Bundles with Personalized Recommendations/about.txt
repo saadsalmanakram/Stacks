@@ -1,0 +1,1 @@
+An e-commerce store for books that offers pre-curated bundles, custom bundles based on preferences, and subscription options for monthly deliveries.
