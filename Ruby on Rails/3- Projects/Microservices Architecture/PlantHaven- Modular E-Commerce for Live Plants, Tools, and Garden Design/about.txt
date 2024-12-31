@@ -1,0 +1,1 @@
+A microservices-based platform offering live plants, gardening tools, and a garden design simulator with personalized plant care reminders.
