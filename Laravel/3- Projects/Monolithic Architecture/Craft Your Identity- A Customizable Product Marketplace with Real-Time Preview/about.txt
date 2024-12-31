@@ -1,0 +1,1 @@
+Build an e-commerce platform where users can design their products in real-time, leveraging interactive tools for text, images, and graphics. Include order tracking and an admin dashboard for inventory management.
