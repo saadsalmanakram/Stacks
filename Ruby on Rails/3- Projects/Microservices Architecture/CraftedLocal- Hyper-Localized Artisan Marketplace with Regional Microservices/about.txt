@@ -1,0 +1,1 @@
+Build a marketplace with microservices tailored for regional languages, payment systems, and logistics, showcasing local artisans’ work globally.
