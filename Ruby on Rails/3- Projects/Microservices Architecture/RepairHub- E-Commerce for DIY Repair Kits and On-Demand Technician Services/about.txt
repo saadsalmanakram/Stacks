@@ -1,0 +1,1 @@
+A platform offering DIY repair kits for electronics and appliances, with microservices for video tutorials, spare parts inventory, and booking technicians.
