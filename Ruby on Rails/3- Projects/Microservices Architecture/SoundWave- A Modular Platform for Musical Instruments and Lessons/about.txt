@@ -1,0 +1,1 @@
+An e-commerce platform where users can buy or rent musical instruments and book lessons, with separate microservices for inventory, lesson scheduling, and payments.
