@@ -1,0 +1,1 @@
+Build a microservices-based platform where personalization, payment, and inventory management run as independent services, ensuring scalability and modularity.
