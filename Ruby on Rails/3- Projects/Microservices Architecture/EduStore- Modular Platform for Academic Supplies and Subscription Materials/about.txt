@@ -1,0 +1,1 @@
+Build a marketplace for academic resources, including books, lab kits, and software subscriptions, using microservices for subscription management and delivery tracking.
