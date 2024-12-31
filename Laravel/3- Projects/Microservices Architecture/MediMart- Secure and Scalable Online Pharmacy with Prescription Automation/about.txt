@@ -1,0 +1,1 @@
+Develop an online pharmacy where prescriptions are verified through OCR and fulfillment is handled via secure, scalable microservices.
