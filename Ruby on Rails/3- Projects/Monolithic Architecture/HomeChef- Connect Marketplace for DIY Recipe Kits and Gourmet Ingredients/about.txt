@@ -1,0 +1,1 @@
+Build a store that connects local chefs and suppliers to customers who can purchase DIY recipe kits or single gourmet ingredients. Features include video tutorials and live chats with chefs.
