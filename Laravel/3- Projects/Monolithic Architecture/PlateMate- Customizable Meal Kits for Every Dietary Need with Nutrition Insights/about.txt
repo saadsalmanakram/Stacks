@@ -1,0 +1,1 @@
+Develop an e-commerce site for meal kits, featuring a drag-and-drop menu builder, real-time nutrition tracking, and AI-driven dietary suggestions.
