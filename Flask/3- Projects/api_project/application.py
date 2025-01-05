@@ -5,4 +5,8 @@ app = Flask(__name__)
 def index():
 	return 'Hello!'
 
+@app.route('/drinks')
+def get_drinks():
+	return drinks
 
+	
