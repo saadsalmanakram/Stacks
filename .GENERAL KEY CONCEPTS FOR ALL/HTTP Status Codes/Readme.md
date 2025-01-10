@@ -81,4 +81,5 @@ These codes indicate that something went wrong on the server side.
 | 404             | Not Found                 | The resource could not be found                  |
 | 500             | Server Error              | An error occurred on the server                  |
 
-Let me know if you'd like examples in **Python** or **Postman** to see these status codes in action! 😊
+For more detailed explanation, visit:
+https://www.restapitutorial.com/httpstatuscodes
