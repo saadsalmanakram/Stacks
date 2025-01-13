@@ -1,15 +1,20 @@
 const express = require('express')
+const cookieParser = require('cookie-parser')
+const cookieValidator = require('./cookieValidator')
+
 const app = express()
 
-const myLogger = function (req, res, next) {
-  console.log('LOGGED')
+async function validationCookies (req, res, next) {
+  await cookieValidator(req.cookies)
   next()
 }
 
-app.use(myLogger)
+app.use(cookieParser())
 
-app.get('/', (req, res) => {
-  res.send('Hello World!')
+app.use(validateCookies)
+
+app.use((err, req, res, next) => {
+  res.status(400).send(err.message)
 })
 
 app.listen(3000)
