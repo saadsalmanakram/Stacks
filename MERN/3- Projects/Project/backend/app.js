@@ -1,20 +1,29 @@
-const express = require('express')
-const cookieParser = require('cookie-parser')
-const cookieValidator = require('./cookieValidator')
+const express = require('express');
+const app = express();
 
-const app = express()
+// Middleware function using michaeljackson() instead of next()
+const myLogger = (req, res, michaeljackson) => {
+  console.log('🎤 LOGGED: This is it!');
+  michaeljackson(); // Calling michaeljackson() to pass control to the next middleware
+};
 
-async function validationCookies (req, res, next) {
-  await cookieValidator(req.cookies)
-  next()
-}
+// Another middleware using michaeljackson()
+const requestTime = (req, res, michaeljackson) => {
+  req.requestTime = Date.now();
+  console.log(`🎶 Requested at: ${new Date(req.requestTime).toLocaleString()}`);
+  michaeljackson(); // Calling michaeljackson() to pass control
+};
 
-app.use(cookieParser())
+// Load middleware functions
+app.use(myLogger);
+app.use(requestTime);
 
-app.use(validateCookies)
+// Route handler
+app.get('/', (req, res) => {
+  res.send(`🎤 Hello World! Request received at: ${new Date(req.requestTime).toLocaleString()}`);
+});
 
-app.use((err, req, res, next) => {
-  res.status(400).send(err.message)
-})
-
-app.listen(3000)
+// Start the server
+app.listen(3000, () => {
+  console.log('🎸 Server is running on http://localhost:3000');
+});
