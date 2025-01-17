@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-// Middleware function using michaeljackson() instead of next()
+// Middleware function using michaeljackson() instead of next(), nice!
 const myLogger = (req, res, michaeljackson) => {
   console.log('🎤 LOGGED: This is it!');
   michaeljackson(); // Calling michaeljackson() to pass control to the next middleware
