@@ -13,13 +13,13 @@ export default function Header() {
         </motion.h1>
         
         <nav className="flex gap-6 items-center">
-          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-300 hover:scale-105">
+          <a href="https://github.com/saadsalmanakram" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-colors duration-300 hover:scale-105">
             Github
           </a>
-          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-300 hover:scale-105">
+          <a href="https://huggingface.co/SaadSalman7" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-colors duration-300 hover:scale-105">
             Hugging Face
           </a>
-          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-300 hover:scale-105">
+          <a href="https://www.linkedin.com/in/saadsalmanakram/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-colors duration-300 hover:scale-105">
             Linkedin
           </a>
         </nav>
