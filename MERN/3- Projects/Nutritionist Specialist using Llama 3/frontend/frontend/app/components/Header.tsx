@@ -14,13 +14,13 @@ export default function Header() {
         
         <nav className="flex gap-6 items-center">
           <a href="#" className="text-gray-300 hover:text-white transition-colors duration-300 hover:scale-105">
-            Home
+            Github
           </a>
           <a href="#" className="text-gray-300 hover:text-white transition-colors duration-300 hover:scale-105">
-            Features
+            Hugging Face
           </a>
           <a href="#" className="text-gray-300 hover:text-white transition-colors duration-300 hover:scale-105">
-            About
+            Linkedin
           </a>
         </nav>
       </div>
