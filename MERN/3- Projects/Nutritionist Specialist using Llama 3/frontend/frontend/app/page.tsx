@@ -53,7 +53,7 @@ export default function ChatBot() {
       <Header />
       
       <main className="flex-1 flex items-center justify-center p-4 md:p-8 relative">
-        <div className="max-w-6xl w-full bg-black/30 backdrop-blur-xl rounded-2xl border border-white/20 shadow-xl p-6 h-[70vh] flex flex-col">
+        <div className="max-w-10xl w-full bg-black/30 backdrop-blur-xl rounded-2xl border border-white/20 shadow-xl p-6 h-[70vh] flex flex-col">
           <div className="flex-1 overflow-y-auto mb-4 space-y-6">
             {messages.map((message) => (
               <ChatMessage
