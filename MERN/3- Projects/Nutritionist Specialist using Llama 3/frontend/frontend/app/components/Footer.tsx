@@ -2,8 +2,8 @@ import { motion } from 'framer-motion';
 
 export default function Footer() {
   return (
-    <footer className="fixed bottom-0 left-0 right-0 bg-gradient-to-r from-purple-900 to-blue-900">
-      <div className="max-w-4xl mx-auto px-4 h-16 flex items-center justify-between">
+    <footer className="fixed bottom-0 left-0 right-0 bg-gradient-to-r from-purple-900 to-blue-900 h-20">
+      <div className="max-w-4xl mx-auto px-4 h-full flex items-center justify-between">
         <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
@@ -16,22 +16,21 @@ export default function Footer() {
         </motion.div>
 
         <div className="flex items-center gap-6">
-          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-300">
+          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-300 hover:scale-105">
             About
           </a>
-          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-300">
+          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-300 hover:scale-105">
             Resources
           </a>
-          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-300">
+          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-300 hover:scale-105">
             Legal
           </a>
-          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-300">
+          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-300 hover:scale-105">
             Social Media
           </a>
         </div>
 
-        {/* Add some shine to the footer */}
-        <div className="absolute inset-0 bg-gradient-to-t from-white/10 to-transparent/0" />
+        <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 mix-blend-soft-light opacity-20"></div>
       </div>
     </footer>
   );

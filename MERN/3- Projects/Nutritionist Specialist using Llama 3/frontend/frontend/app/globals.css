@@ -13,13 +13,16 @@
   --primary-gradient: linear-gradient(45deg, #6366f1, #8b5cf6);
   --secondary-gradient: linear-gradient(135deg, #8b5cf6, #6366f1);
   --glass-effect: rgba(255, 255, 255, 0.05);
+  --neon-pink: #ff69b4;
+  --neon-cyan: #00ffff;
 }
 
 body {
   font-family: 'Inter', 'Arial', sans-serif;
-  background: linear-gradient(to bottom right, #231533, #311c5b);
+  background: linear-gradient(to right, #231533, #311c5b);
   color: #ffffff;
   line-height: 1.6;
+  overflow-x: hidden;
 }
 
 /* Custom animations */
@@ -37,21 +40,6 @@ body {
 @keyframes hover-scale {
   from { transform: scale(1); }
   to { transform: scale(1.02); }
-}
-
-/* Global styles for forms */
-input, textarea {
-  border: none;
-  border-radius: 12px;
-  padding: 12px;
-  background: var(--glass-effect);
-  backdrop-filter: blur(8px);
-  transition: all 0.3s ease;
-}
-
-input:focus, textarea:focus {
-  outline: none;
-  box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.2);
 }
 
 /* Chat message styling */
@@ -86,6 +74,20 @@ input:focus, textarea:focus {
 /* Smooth scroll behavior */
 html {
   scroll-behavior: smooth;
+}
+
+/* Neon text effect */
+.neon-text {
+  background: linear-gradient(45deg, #6366f1, #8b5cf6);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: neonPulse 1.5s ease-in-out infinite;
+}
+
+@keyframes neonPulse {
+  0%, 100% { text-shadow: 0 0 5px #6366f1, 0 0 10px #8b5cf6; }
+  50% { text-shadow: 0 0 10px #6366f1, 0 0 20px #8b5cf6; }
 }
 
 /* Media queries for responsiveness */
