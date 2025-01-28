@@ -2,20 +2,99 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+:root {
+  --primary-gradient: linear-gradient(45deg, #6366f1, #8b5cf6);
+  --secondary-gradient: linear-gradient(135deg, #8b5cf6, #6366f1);
+  --glass-effect: rgba(255, 255, 255, 0.05);
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Inter', 'Arial', sans-serif;
+  background: linear-gradient(to bottom right, #231533, #311c5b);
+  color: #ffffff;
+  line-height: 1.6;
+}
+
+/* Custom animations */
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-20px); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes hover-scale {
+  from { transform: scale(1); }
+  to { transform: scale(1.02); }
+}
+
+/* Global styles for forms */
+input, textarea {
+  border: none;
+  border-radius: 12px;
+  padding: 12px;
+  background: var(--glass-effect);
+  backdrop-filter: blur(8px);
+  transition: all 0.3s ease;
+}
+
+input:focus, textarea:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.2);
+}
+
+/* Chat message styling */
+.message-container {
+  animation: fadeIn 0.5s ease-out;
+  transition: transform 0.3s ease;
+}
+
+.message-container:hover {
+  animation: hover-scale 0.3s ease;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--glass-effect);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+  body {
+    padding: 1rem;
+  }
+  
+  .nav-links {
+    gap: 8px;
+  }
 }
