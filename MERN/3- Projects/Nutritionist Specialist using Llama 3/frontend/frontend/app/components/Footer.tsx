@@ -11,7 +11,7 @@ export default function Footer() {
         >
           <div className="flex flex-col items-center gap-2">
             <span className="text-2xl font-bold text-white opacity-90">NutriChat</span>
-            <p className="text-sm text-gray-300">Connecting the future, one message at a time</p>
+            <p className="text-sm text-gray-300">Empowering healthier tomorrows, one message at a time</p>
           </div>
         </motion.div>
 
