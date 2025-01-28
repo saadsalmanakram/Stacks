@@ -1,4 +1,4 @@
-# 🔄 **Promises in JavaScript (Detailed Guide)**
+# 🔄 **Promises in JavaScript**
 
 Promises are an **essential feature of modern JavaScript** used to handle **asynchronous operations**. They allow developers to avoid the traditional **callback hell** by providing a cleaner, more structured way to manage asynchronous code like **API requests**, **file handling**, and **timers**.
 
