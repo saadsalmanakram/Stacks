@@ -1,5 +1,0 @@
-Social Media Agents using CrewAI.
-
-Tools used: CrewAI, Next.js(React)
-
-Database used: Weaviate
