@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
 * {
   margin: 0;
   padding: 0;
@@ -88,6 +87,32 @@ html {
 @keyframes neonPulse {
   0%, 100% { text-shadow: 0 0 5px #6366f1, 0 0 10px #8b5cf6; }
   50% { text-shadow: 0 0 10px #6366f1, 0 0 20px #8b5cf6; }
+}
+
+/* Glowing Send Button */
+.send-button {
+  background: linear-gradient(45deg, #6366f1, #8b5cf6);
+  padding: 1rem 2rem;
+  border-radius: 0.75rem;
+  color: white;
+  font-weight: 600;
+  box-shadow: 0 0 10px rgba(99, 102, 241, 0.5), 0 0 20px rgba(139, 92, 246, 0.5);
+  transition: all 0.3s ease;
+  animation: glow 1.5s infinite alternate;
+}
+
+.send-button:hover {
+  box-shadow: 0 0 20px rgba(99, 102, 241, 0.8), 0 0 30px rgba(139, 92, 246, 0.8);
+  transform: scale(1.05);
+}
+
+@keyframes glow {
+  0% {
+    box-shadow: 0 0 10px rgba(99, 102, 241, 0.5), 0 0 20px rgba(139, 92, 246, 0.5);
+  }
+  100% {
+    box-shadow: 0 0 20px rgba(99, 102, 241, 0.8), 0 0 30px rgba(139, 92, 246, 0.8);
+  }
 }
 
 /* Media queries for responsiveness */

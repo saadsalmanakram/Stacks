@@ -92,7 +92,7 @@ export default function ChatBot() {
               />
               <button
                 onClick={handleSendMessage}
-                className="bg-gradient-to-r from-blue-500 to-purple-500 px-8 py-4 rounded-xl text-white font-semibold shadow-lg hover:shadow-xl transition-shadow duration-300"
+                className="send-button"
               >
                 Send
               </button>
