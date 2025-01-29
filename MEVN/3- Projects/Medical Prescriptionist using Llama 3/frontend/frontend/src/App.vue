@@ -11,7 +11,7 @@
   <main>
     <div class="chat-container">
       <div class="chat-header">
-        <h2>AI Assistant</h2>
+        <h2>PharmaGenie Bot</h2>
         <div class="ai-logo">AI</div>
         <div class="floating-elements">
           <div class="floating circ" style="--i:0;"></div>
