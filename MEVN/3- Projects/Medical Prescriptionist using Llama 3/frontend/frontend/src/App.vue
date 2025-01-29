@@ -20,7 +20,7 @@
         </div>
       </div>
 
-      <div class="messages-container">
+      <div class="messages-container" ref="messagesContainer">
         <div v-for="(message, index) in messages" :key="index" 
              :class="['message', message.sender]">
           <p class="message-text">{{ message.text }}</p>
@@ -32,7 +32,7 @@
         <input type="text" 
                placeholder="Type your message here..." 
                v-model="inputMessage">
-        <button class="send-btn">
+        <button class="send-btn" @click="sendMessage">
           <span class="btn-icon">AI</span>
         </button>
         <div class="floating-elements">
@@ -50,7 +50,7 @@
 </template>
 
 <script>
-import { ref } from 'vue';
+import { ref, nextTick } from 'vue';
 
 export default {
   data() {
@@ -65,22 +65,42 @@ export default {
   methods: {
     sendMessage() {
       if (this.inputMessage.trim()) {
+        // Add user message
         this.messages.push({
           text: this.inputMessage,
           sender: 'user',
           timestamp: 'Now'
         });
-        this.inputMessage = '';
         
+        // Clear input
+        this.inputMessage = '';
+
+        // Scroll to bottom after adding message
+        nextTick(() => {
+          this.scrollToBottom();
+        });
+
         // AI response simulation
         setTimeout(() => {
+          // Add AI response
           this.messages.push({
             text: "Analyzing your data, please wait a moment...",
             sender: 'AI',
             timestamp: 'Now'
           });
+
+          // Scroll to bottom after adding response
+          nextTick(() => {
+            this.scrollToBottom();
+          });
         }, 1000);
       }
+    },
+    scrollToBottom() {
+      // Get the messages container
+      const container = this.$refs.messagesContainer;
+      // Scroll to bottom
+      container.scrollTop = container.scrollHeight;
     }
   },
   mounted() {
