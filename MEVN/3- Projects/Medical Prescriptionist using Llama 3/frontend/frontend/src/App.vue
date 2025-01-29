@@ -1,30 +1,31 @@
-<script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
-  <div>
-    <a href="https://vite.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
-  </div>
-  <HelloWorld msg="Vite + Vue" />
+  <header>
+    <h1 class="app-title">PharmaGenie</h1>
+    <nav>
+      <a href="https://github.com/saadsalmanakram" class="nav-link">Github</a>
+      <a href="https://huggingface.co/SaadSalman7" class="nav-link">HuggingFace</a>
+      <a href="https://www.linkedin.com/in/saadsalmanakram/" class="nav-link">Linkedin</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="content">
+      <h2>Welcome to My Vue App</h2>
+      <p>This is a beautiful Vue.js application with vibrant colors and smooth animations!</p>
+    </div>
+    <FloatingShapes />
+  </main>
+
+  <footer>
+    <div class="social-links">
+      <a href="#" class="social-link">Facebook</a>
+      <a href="#" class="social-link">Twitter</a>
+      <a href="#" class="social-link">Instagram</a>
+    </div>
+    <p>&copy; 2023 My Vue App. All rights reserved.</p>
+  </footer>
 </template>
 
-<style scoped>
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
-}
-</style>
+<script>
+
+</script>

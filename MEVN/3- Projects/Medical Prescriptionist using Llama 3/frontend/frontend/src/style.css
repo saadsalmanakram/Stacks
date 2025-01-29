@@ -2,3 +2,94 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0a0a0a;
+  font-family: 'Arial', sans-serif;
+  color: white;
+  overflow-x: hidden;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 2rem;
+  background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
+  backdrop-filter: blur(10px);
+  z-index: 1000;
+}
+
+.app-title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.nav-link:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+main {
+  padding: 10rem 2rem 4rem;
+  min-height: calc(100vh - 200px);
+}
+
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 2rem;
+  background: linear-gradient(45deg, #4ecdc4, #45b7d1);
+  color: white;
+  text-align: center;
+  backdrop-filter: blur(10px);
+}
+
+.social-links {
+  margin-bottom: 1rem;
+}
+
+.social-link {
+  color: white;
+  text-decoration: none;
+  margin: 0 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+}
+
+.social-link:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+/* Floating shapes styles */
+.floating-shapes .shape {
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+}
