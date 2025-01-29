@@ -9,20 +9,11 @@
   </header>
 
   <main>
-    <div class="content">
-      <h2>Welcome to My Vue App</h2>
-      <p>This is a beautiful Vue.js application with vibrant colors and smooth animations!</p>
-    </div>
-    <FloatingShapes />
+
   </main>
 
   <footer>
-    <div class="social-links">
-      <a href="#" class="social-link">Facebook</a>
-      <a href="#" class="social-link">Twitter</a>
-      <a href="#" class="social-link">Instagram</a>
-    </div>
-    <p>&copy; 2023 My Vue App. All rights reserved.</p>
+    <p>&copy; 2025 PharmaGenie. All rights reserved.</p>
   </footer>
 </template>
 
