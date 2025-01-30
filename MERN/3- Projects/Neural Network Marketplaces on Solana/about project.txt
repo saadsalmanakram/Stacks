@@ -1,5 +1,0 @@
-Neural Network Marketplaces on Solana	
-
-Tools used: Anchor Framework, Next.js(React)
-
-Database: Weaviate
