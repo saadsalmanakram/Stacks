@@ -1,5 +1,0 @@
-Species Toxonomy Breakdown	
-
-Tools used: Laravel Stack, JS Web libraries(D3.js etc)
-
-Database: MySQL
