@@ -1,5 +1,0 @@
-Recognizing-humans-based-on-posture	
-
-Tools used: Laravel Stack, Vision Transformers
-
-Database: MySQL
