@@ -1,135 +1,122 @@
+# Complete OS Report
+
+## Overview
+**Complete OS Report** is a desktop application built using the Kivy framework that integrates the **Hugging Face Inference API** to provide system/OS analytics based on user prompts. The application gathers detailed system information (such as CPU usage, memory usage, disk usage, and network statistics) and uses a language model to generate responses to user queries about the system's performance.
+
+This project is ideal for users who want to quickly analyze their system's performance and get insights in a conversational manner. It combines system analytics with the power of natural language processing (NLP) to make system monitoring more intuitive and user-friendly.
 
 ---
 
-# **OS Live Analytics Using Kivy**
-
-## **Introduction**
-
-The **OS Live Analytics Using Kivy** project aims to provide real-time analytics and monitoring of operating system metrics through an interactive graphical interface. Utilizing the **Kivy** framework for the user interface and **SQLite** for data storage, this application allows users to visualize system performance metrics such as CPU usage, memory consumption, disk activity, and network statistics.
-
-### **Purpose of This Repository**
-
-The primary goals of this project are to:
-- **Monitor System Metrics**: Provide real-time monitoring of critical OS metrics.
-- **Visualize Data**: Enable users to visualize performance data through graphs and charts.
-- **Support System Administration**: Serve as a valuable tool for system administrators and enthusiasts to analyze and troubleshoot system performance.
+## Features
+- **System Information Gathering**: Collects detailed system metrics using `psutil` and `platform` libraries.
+- **Hugging Face Integration**: Queries a language model (e.g., GPT-2) to generate responses based on system data and user prompts.
+- **User-Friendly Interface**: Built with Kivy, the application provides a simple and intuitive UI for entering queries and viewing results.
+- **Customizable**: Easily extendable to include additional system metrics or integrate with other NLP models.
 
 ---
 
-## **Table of Contents**
+## Installation
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-  - [Kivy](#kivy)
-  - [SQLite](#sqlite)
-- [Architecture](#architecture)
-  - [Overview](#overview)
-  - [System Components](#system-components)
-- [Setup and Installation](#setup-and-installation)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the Project](#running-the-project)
-- [Usage](#usage)
-  - [Monitor System Metrics](#monitor-system-metrics)
-  - [Data Visualization](#data-visualization)
-- [Contributing](#contributing)
-- [License](#license)
+### Step 1: Install Required Libraries
+Make sure you have the following libraries installed:
+```bash
+pip install kivy requests psutil
+```
 
----
+### Step 2: Clone the Repository
+Clone this repository to your local machine:
+```bash
+git clone https://github.com/your-username/complete-os-report.git
+cd complete-os-report
+```
 
-## **Features**
-
-- **Real-Time Monitoring**: Display live metrics for CPU, memory, disk, and network usage.
-- **Interactive Graphs**: Visualize performance data using interactive graphs and charts.
-- **Historical Data Logging**: Store system metrics in an SQLite database for historical analysis.
-- **User-Friendly Interface**: Built with **Kivy** for an engaging and responsive user experience.
+### Step 3: Replace the Hugging Face API Token
+Replace `"your_huggingface_api_token"` in the script with your actual Hugging Face API token. You can get this token by:
+1. Creating an account on [Hugging Face](https://huggingface.co/).
+2. Navigating to your profile → Settings → API Tokens.
+3. Generating a new token.
 
 ---
 
-## **Tech Stack**
+## Usage
 
-### **Kivy**
+### Step 1: Run the Application
+Run the script:
+```bash
+python your_script_name.py
+```
 
-- A Python framework for developing multitouch applications. It provides a flexible and powerful interface for building the graphical user interface of this application.
+### Step 2: Enter a Query
+1. Enter a prompt in the text input field, such as:
+   - "What is my current CPU usage?"
+   - "Summarize my system's performance."
+   - "How much memory is being used?"
+2. Click the **"Analyze"** button.
 
-### **SQLite**
-
-- A lightweight, serverless, self-contained SQL database engine used to store system metrics and historical data efficiently.
-
----
-
-## **Architecture**
-
-### **Overview**
-
-The **OS Live Analytics Using Kivy** project follows a client-side architecture where the Kivy application interacts with the operating system to gather metrics and store them in an SQLite database for visualization and analysis.
-
-### **System Components**
-
-- **Kivy**: Manages the user interface and handles real-time updates of system metrics.
-- **SQLite**: Stores historical performance data for analysis and retrieval.
-- **Python**: The programming language used for both the backend data collection and the frontend application logic.
+### Step 3: View Results
+The application will display the system information and the language model's response in the results section.
 
 ---
 
-## **Setup and Installation**
-
-### **Prerequisites**
-
-To run this project, you will need:
-- **Python** (>= 3.6) and **pip** for managing dependencies.
-- Basic knowledge of Python programming.
-- A compatible operating system (Windows, macOS, Linux) for running Kivy applications.
-
-### **Installation**
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/os-live-analytics-kivy.git
-   cd os-live-analytics-kivy
-   ```
-
-2. **Install Dependencies**:
-   - Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### **Running the Project**
-
-1. **Run the Kivy Application**:
-   ```bash
-   python main.py
-   ```
+## Example Output
+If the system info is:
+```json
+{
+  "OS": "Windows",
+  "OS Version": "10.0.19041",
+  "CPU Usage (%)": 25.6,
+  "Memory Usage (%)": 45.3,
+  "Disk Usage (%)": 60.1,
+  "Network Info": {
+    "Bytes Sent": 123456789,
+    "Bytes Received": 987654321
+  }
+}
+```
+And the user prompt is:
+```
+"What is my current CPU usage?"
+```
+The language model might respond:
+```
+Your current CPU usage is 25.6%.
+```
 
 ---
 
-## **Usage**
-
-### **Monitor System Metrics**
-
-- Upon launching the application, users will see live metrics displayed on the interface, including CPU usage, memory consumption, disk activity, and network statistics.
-
-### **Data Visualization**
-
-- Users can interact with graphical representations of the data, allowing for a better understanding of system performance trends over time.
+## Enhancements
+Here are some ideas to improve the application:
+1. **Add More System Metrics**: Use `psutil` to gather additional details like CPU cores, disk partitions, etc.
+2. **Improve UI**: Use Kivy's `kv` language to design a more polished interface.
+3. **Error Handling**: Add better error handling for API calls and system information retrieval.
+4. **Save Reports**: Allow users to save system reports as text files.
 
 ---
 
-## **Contributing**
-
-We welcome contributions to the **OS Live Analytics Using Kivy** project! If you’d like to help:
+## Contributing
+Contributions are welcome! If you'd like to contribute, please follow these steps:
 1. Fork the repository.
-2. Create a branch (`git checkout -b feature/new-feature`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/new-feature`).
-5. Submit a Pull Request for review.
+2. Create a new branch for your feature or bugfix.
+3. Commit your changes and push to the branch.
+4. Submit a pull request.
 
 ---
 
-## **License**
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-This project is open to everyone. No licenses—just have fun and learn!
+---
+
+## Acknowledgments
+- [Kivy](https://kivy.org/) for the GUI framework.
+- [Hugging Face](https://huggingface.co/) for the Inference API and language models.
+- [psutil](https://github.com/giampaolo/psutil) for system information gathering.
+
+---
+
+## Contact
+For questions or feedback, feel free to reach out:
+- **Email**: saadsalmanakram1@example.com
+- **GitHub**: [saadsalman](https://github.com/saadsalmanakram)
 
 ---

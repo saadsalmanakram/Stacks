@@ -1,0 +1,38 @@
+<MDChip>
+    size_hint_y: None
+    height: "32dp"
+    adaptive_width: True
+    radius:
+        16 \
+        if self.radius == [0, 0, 0, 0] else \
+        (max(self.radius) if max(self.radius) < self.height / 2 else 16)
+    md_bg_color:
+        ( \
+        ( \
+        app.theme_cls.bg_darkest \
+        if app.theme_cls.theme_style == "Light" else \
+        app.theme_cls.bg_light \
+        ) \
+        if not self._origin_md_bg_color else \
+        self._origin_md_bg_color
+        ) \
+        if not self.disabled else app.theme_cls.disabled_primary_color
+    line_color:
+        app.theme_cls.disabled_hint_text_color \
+        if self.disabled else ( \
+        self._origin_line_color \
+        if self._origin_line_color else \
+        self.line_color \
+        )
+
+    LeadingIconContainer:
+        id: leading_icon_container
+        adaptive_width: True
+
+    LabelTextContainer:
+        id: label_container
+        adaptive_width: True
+
+    TrailingIconContainer:
+        id: trailing_icon_container
+        adaptive_width: True
