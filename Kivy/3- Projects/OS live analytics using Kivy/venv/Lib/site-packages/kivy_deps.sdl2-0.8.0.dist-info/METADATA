@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: kivy_deps.sdl2
+Version: 0.8.0
+Summary: Repackaged binary dependency of Kivy.
+Home-page: http://kivy.org/
+Author: Kivy Team and other contributors
+Author-email: kivy-dev@googlegroups.com
+License: zlib
+
