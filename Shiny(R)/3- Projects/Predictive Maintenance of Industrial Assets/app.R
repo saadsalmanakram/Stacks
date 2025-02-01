@@ -1,103 +1,72 @@
-# Load required libraries
+# Load libraries
 library(shiny)
-library(shinydashboard)
-library(dplyr)
-library(ggplot2)
-library(plotly)
+library(tidyverse)
+library(caret)
 library(randomForest)
-library(DT)
+library(plotly)
 
-# Sample sensor data (replace this with actual data from 'data/sensor_data.csv')
-sensor_data <- data.frame(
-  asset_id = rep(1:5, each = 100),
-  date = seq.Date(from = as.Date("2023-01-01"), by = "day", length.out = 500),
-  temperature = runif(500, min = 60, max = 100),
-  vibration = runif(500, min = 0.1, max = 2),
-  pressure = runif(500, min = 10, max = 50)
-)
+# Load data (example: sensor data and maintenance logs)
+sensor_data <- read.csv("data/sensor_data.csv")
+maintenance_logs <- read.csv("data/maintenance_logs.csv")
 
-# UI Layout
-ui <- dashboardPage(
-  dashboardHeader(title = "Predictive Maintenance Dashboard"),
-  dashboardSidebar(
-    sidebarMenu(
-      menuItem("Asset Overview", tabName = "overview", icon = icon("dashboard")),
-      menuItem("Health Monitoring", tabName = "health", icon = icon("heartbeat")),
-      menuItem("Failure Prediction", tabName = "prediction", icon = icon("exclamation-triangle"))
-    )
-  ),
-  dashboardBody(
-    tabItems(
-      # Asset Overview Tab
-      tabItem(tabName = "overview",
-              fluidRow(
-                box(plotlyOutput("asset_health"), width = 12)
-              ),
-              fluidRow(
-                box(DTOutput("asset_table"), width = 12)
-              )
-      ),
-      
-      # Health Monitoring Tab
-      tabItem(tabName = "health",
-              fluidRow(
-                box(plotOutput("sensor_trend"), width = 12)
-              )
-      ),
-      
-      # Failure Prediction Tab
-      tabItem(tabName = "prediction",
-              fluidRow(
-                box(plotlyOutput("failure_forecast"), width = 12)
-              )
-      )
+# Data preprocessing (example: merge datasets and create features)
+merged_data <- sensor_data %>%
+  left_join(maintenance_logs, by = "asset_id") %>%
+  mutate(
+    failure = ifelse(is.na(maintenance_date), 0, 1),  # Binary target variable
+    timestamp = as.POSIXct(timestamp, format = "%Y-%m-%d %H:%M:%S")
+  )
+
+# Train a predictive model (example: Random Forest)
+set.seed(123)
+model <- randomForest(failure ~ ., data = merged_data, ntree = 100)
+
+# Define UI
+ui <- fluidPage(
+  titlePanel("Predictive Maintenance Dashboard"),
+  sidebarLayout(
+    sidebarPanel(
+      selectInput("asset_id", "Select Asset ID:", choices = unique(merged_data$asset_id)),
+      dateRangeInput("date_range", "Select Date Range:", start = min(merged_data$timestamp), end = max(merged_data$timestamp)),
+      actionButton("predict", "Predict Failure")
+    ),
+    mainPanel(
+      plotlyOutput("sensor_plot"),
+      verbatimTextOutput("prediction_result")
     )
   )
 )
 
-# Server Logic
+# Define server logic
 server <- function(input, output) {
-  # Preprocess and aggregate data for asset health
-  asset_summary <- sensor_data %>%
-    group_by(asset_id) %>%
-    summarise(temperature_avg = mean(temperature),
-              vibration_avg = mean(vibration),
-              pressure_avg = mean(pressure))
-
-  # Asset Health Overview
-  output$asset_health <- renderPlotly({
-    ggplotly(
-      ggplot(asset_summary, aes(x = factor(asset_id), y = temperature_avg, fill = factor(asset_id))) +
-        geom_bar(stat = "identity") +
-        labs(title = "Average Temperature per Asset", x = "Asset ID", y = "Avg Temperature")
-    )
+  # Reactive data for selected asset and date range
+  filtered_data <- reactive({
+    merged_data %>%
+      filter(asset_id == input$asset_id,
+             timestamp >= input$date_range[1],
+             timestamp <= input$date_range[2])
   })
 
-  # Asset Table
-  output$asset_table <- renderDT({
-    datatable(asset_summary, options = list(pageLength = 5))
+  # Plot sensor data
+  output$sensor_plot <- renderPlotly({
+    data <- filtered_data()
+    plot_ly(data, x = ~timestamp, y = ~sensor_value, type = "scatter", mode = "lines") %>%
+      layout(title = "Sensor Data Over Time", xaxis = list(title = "Time"), yaxis = list(title = "Sensor Value"))
   })
 
-  # Sensor Trend Plot (Temperature over time)
-  output$sensor_trend <- renderPlot({
-    ggplot(sensor_data, aes(x = date, y = temperature, color = factor(asset_id))) +
-      geom_line() +
-      labs(title = "Temperature Trend Over Time", x = "Date", y = "Temperature")
-  })
-
-  # Placeholder for Failure Prediction Model
-  output$failure_forecast <- renderPlotly({
-    forecast_data <- sensor_data %>%
-      group_by(date) %>%
-      summarise(failure_risk = runif(1, min = 0, max = 1))
-    
-    ggplotly(
-      ggplot(forecast_data, aes(x = date, y = failure_risk)) +
-        geom_line(color = "red") +
-        labs(title = "Failure Risk Forecast", x = "Date", y = "Risk Probability")
-    )
+  # Predict failure
+  observeEvent(input$predict, {
+    data <- filtered_data()
+    prediction <- predict(model, newdata = data, type = "response")
+    output$prediction_result <- renderPrint({
+      if (any(prediction == 1)) {
+        "Warning: High probability of failure detected!"
+      } else {
+        "No failure predicted."
+      }
+    })
   })
 }
 
-# Run the App
+# Run the app
 shinyApp(ui = ui, server = server)
