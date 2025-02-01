@@ -1,4 +1,0 @@
-Movie Emotion Analyzer using Vision Transformers	
-
-Tools used: MEVN Stack, Vision Transformers
-
