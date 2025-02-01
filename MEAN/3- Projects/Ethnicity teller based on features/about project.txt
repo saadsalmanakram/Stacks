@@ -1,3 +1,0 @@
-Ethnicity teller based on features	
-
-Tools used: MEVN Stack, CNN
