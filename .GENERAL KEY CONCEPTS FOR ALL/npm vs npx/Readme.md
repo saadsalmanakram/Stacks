@@ -95,4 +95,4 @@ In short:
 - Use **`npm`** to **install packages**.  
 - Use **`npx`** to **run packages on the fly**.  
 
-👉 **Pro Tip:** For one-time use tools or CLI utilities, prefer `npx` to avoid unnecessary global installations!! 😊
+👉 **Pro Tip:** For one-time use tools or CLI utilities, prefer `npx` to avoid unnecessary global installations! 😊
