@@ -266,4 +266,4 @@ fetch("https://jsonplaceholder.typicode.com/posts")
 
 Promises are a powerful tool in JavaScript for handling asynchronous operations. They help make code more readable and maintainable by avoiding callback hell. With methods like **`.then()`**, **`.catch()`**, and **`.finally()`**, and modern tools like **`async/await`**, promises are essential for any JavaScript developer to master.
 
-Would you like a more specific use case with **React**, **Node.js**, or **API integrations**? Let me know! 😊
+Would you like a more specific use case with **React**, **Node.js**, or **API integrations**? Let me know!! 😊
