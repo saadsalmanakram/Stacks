@@ -173,6 +173,6 @@ Contributions are welcome! If you'd like to add more stacks or improve the curre
 
 ## **License**
 
-There is no license on this, the idea is to learn, feel free to do whatever you guys like!!!
+There is no license on this, the idea is to learn, feel free to do whatever you guys like!
 
 ---
