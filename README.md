@@ -3,6 +3,8 @@
 
 # **Stacks - A Comprehensive Guide**
 
+![](https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png)
+
 ## **Introduction**
 
 This repository provides a deep dive into understanding various technology stacks, focusing on how different components of the backend, frontend, and runtime environments work together. Whether you're building a full-stack application or exploring how different technologies fit into the modern development ecosystem, this guide will help you navigate through backend, frontend, and runtime components.
