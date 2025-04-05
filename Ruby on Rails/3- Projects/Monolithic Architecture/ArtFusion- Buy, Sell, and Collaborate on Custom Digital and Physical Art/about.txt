@@ -1,1 +1,0 @@
-Create a platform for artists to sell digital and physical art pieces while allowing customers to collaborate with artists to create custom designs. Features include artist portfolios, collaboration tools, and secure payments.

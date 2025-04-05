@@ -1,1 +1,0 @@
-Develop an e-commerce system for renting high-end items like fashion, watches, and cars, with microservices for booking management, payments, and user reviews.

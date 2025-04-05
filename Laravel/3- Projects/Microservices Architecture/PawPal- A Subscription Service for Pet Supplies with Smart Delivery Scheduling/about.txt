@@ -1,1 +1,0 @@
-Build a microservices-based pet supply platform offering recurring orders, AI-driven product recommendations, and inventory tracking for seamless customer experience.

@@ -1,1 +1,0 @@
-Develop an e-commerce site where users can search for vehicle parts with microservices for compatibility checks, inventory tracking, and mechanic booking.

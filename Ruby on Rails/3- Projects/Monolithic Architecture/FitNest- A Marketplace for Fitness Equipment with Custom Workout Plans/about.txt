@@ -1,1 +1,0 @@
-Build a store for fitness gear that offers personalized workout plans based on purchased equipment, user fitness goals, and progress tracking.

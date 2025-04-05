@@ -1,3 +1,0 @@
-Unified Cancer Detection System	
-
-Tools used: MERN Stack, CNN

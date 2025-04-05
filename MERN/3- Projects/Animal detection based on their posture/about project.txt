@@ -1,4 +1,0 @@
-Animal Detection Based on their Postures	
-
-Tools used: MERN Stack, YOLO
-

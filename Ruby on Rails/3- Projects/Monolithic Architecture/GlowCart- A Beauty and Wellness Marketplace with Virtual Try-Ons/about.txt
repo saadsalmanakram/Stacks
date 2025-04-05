@@ -1,1 +1,0 @@
-Develop an e-commerce platform for beauty products that incorporates virtual try-on technology for makeup and skincare products.

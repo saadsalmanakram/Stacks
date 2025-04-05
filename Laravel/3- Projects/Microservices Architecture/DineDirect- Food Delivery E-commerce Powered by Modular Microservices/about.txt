@@ -1,1 +1,0 @@
-Use microservices to manage restaurant menus, real-time order tracking, and payment processing for a scalable food delivery platform.

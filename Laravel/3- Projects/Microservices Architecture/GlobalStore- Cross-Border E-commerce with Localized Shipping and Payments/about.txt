@@ -1,1 +1,0 @@
-Build a global marketplace with microservices for currency conversion, language localization, and international shipping options.

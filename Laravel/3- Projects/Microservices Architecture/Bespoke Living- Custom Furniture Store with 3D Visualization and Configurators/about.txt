@@ -1,1 +1,0 @@
-Develop a platform where users can design furniture with 3D previews, using microservices for order processing, visualization, and fulfillment tracking.

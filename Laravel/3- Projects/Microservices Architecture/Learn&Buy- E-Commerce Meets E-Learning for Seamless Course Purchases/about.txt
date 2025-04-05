@@ -1,1 +1,0 @@
-Integrate microservices for course browsing, subscriptions, and user progress tracking, allowing educators to sell content and students to buy personalized learning paths.

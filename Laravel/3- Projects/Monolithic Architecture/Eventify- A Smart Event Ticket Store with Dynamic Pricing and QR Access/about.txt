@@ -1,1 +1,0 @@
-An e-commerce platform focused on event tickets, with real-time seat availability, secure payment systems, and QR codes for seamless entry.

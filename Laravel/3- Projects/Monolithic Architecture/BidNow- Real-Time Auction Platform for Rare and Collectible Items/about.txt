@@ -1,1 +1,0 @@
-Create an auction-based platform with features for bidding notifications, competitive leaderboards, and historical analytics for users to track trends.

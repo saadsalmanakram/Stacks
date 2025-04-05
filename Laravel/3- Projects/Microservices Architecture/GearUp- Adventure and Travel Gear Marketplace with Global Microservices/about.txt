@@ -1,1 +1,0 @@
-A travel gear e-commerce system with independent services for location-based pricing, inventory management, and customer support.

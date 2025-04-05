@@ -1,1 +1,0 @@
-An AI-powered clothing store that offers virtual styling advice with microservices for image processing, recommendations, and order management.

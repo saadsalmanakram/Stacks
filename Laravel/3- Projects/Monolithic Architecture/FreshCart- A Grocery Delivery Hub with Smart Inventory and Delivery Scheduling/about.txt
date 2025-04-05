@@ -1,1 +1,0 @@
-Create a system for local stores to manage real-time inventories and offer delivery slots. Incorporate features for automatic restocking reminders and customer loyalty programs.

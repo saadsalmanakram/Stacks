@@ -1,1 +1,0 @@
-Create a platform for cycling enthusiasts with microservices handling inventory for bikes and gear, a booking system for maintenance services, and a marketplace for pre-owned bicycles.
