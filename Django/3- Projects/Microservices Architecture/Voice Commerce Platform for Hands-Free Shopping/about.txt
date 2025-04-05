@@ -1,1 +1,0 @@
-Integrate with voice assistants to allow users to shop using voice commands. Offer compatibility with devices like Alexa and Google Assistant.

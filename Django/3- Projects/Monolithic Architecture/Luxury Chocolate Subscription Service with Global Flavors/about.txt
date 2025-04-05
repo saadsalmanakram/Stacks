@@ -1,2 +1,0 @@
-Provide a subscription service for premium chocolates from around the world. Include tasting notes and pairing suggestions.
-

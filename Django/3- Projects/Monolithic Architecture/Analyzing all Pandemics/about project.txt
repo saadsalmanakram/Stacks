@@ -1,5 +1,0 @@
-Analyzing all Pandemics	
-
-Tools Used: Django Stack, Statistics
-
-Database: PostgreSQL
