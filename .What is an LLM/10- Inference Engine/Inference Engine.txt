@@ -1,0 +1,1 @@
+Inference Engine refers to the system or component responsible for executing the trained model to make predictions or generate outputs based on new input data. This process is known as "inference.

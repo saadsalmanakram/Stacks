@@ -1,0 +1,70 @@
+Tokenizers** are a crucial part of Natural Language Processing (NLP) pipelines. They convert text into numerical data, which models can process. Here’s a simplified explanation with code examples:
+
+>> 1. Word-based Tokenization
+   - Concept: Splits text into words, assigning each word a unique ID. 
+   - Example:
+       ```python code```
+
+       '''
+       tokenized_text = "Jim Henson was a puppeteer".split()
+       print(tokenized_text)
+       '''
+
+       # Output: ['Jim', 'Henson', 'was', 'a', 'puppeteer']
+
+   - Pros: Simple and often effective.
+   - Cons: Creates large vocabularies and doesn't recognize word similarities (e.g., "dog" vs. "dogs").
+
+>> 2. Character-based Tokenization
+   - Concept: Splits text into individual characters.
+   - Pros: Smaller vocabulary size and fewer unknown tokens.
+  - Cons: Less meaningful representation as each character alone doesn't convey much information.
+
+>> 3. Subword Tokenization
+   - Concept: Combines the benefits of word and character tokenization by splitting rare words into subwords while keeping common words intact.
+   - Example: 
+       - "Annoyingly" might be split into "annoying" and "ly".
+       - "Tokenization" could be split into "token" and "ization".
+   - Pros: Efficient with a small vocabulary and meaningful representation.
+
+>> 4. Loading and Saving Tokenizers
+   - You can easily load and save tokenizers with pre-trained models.
+
+   - Loading a BERT Tokenizer:
+       ```python code```
+
+       '''
+       from transformers import BertTokenizer
+
+       tokenizer = BertTokenizer.from_pretrained("bert-base-cased")
+       '''
+
+
+   - Using AutoTokenizer:
+       ```python code```
+
+       '''
+       from transformers import AutoTokenizer
+
+       tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
+       tokenizer_output = tokenizer("Using a Transformer network is simple")
+       print(tokenizer_output)
+       '''
+
+       '''
+       # Output:
+       # {'input_ids': [101, 7993, 170, 11303, 1200, 2443, 1110, 3014, 102],
+       #  'token_type_ids': [0, 0, 0, 0, 0, 0, 0, 0, 0],
+       #  'attention_mask': [1, 1, 1, 1, 1, 1, 1, 1, 1]}
+       '''
+
+
+   - Saving a Tokenizer:
+       ```python code```
+       
+       '''
+       tokenizer.save_pretrained("directory_on_my_computer")
+       '''
+
+Conclusion
+Tokenizers transform text into a format that NLP models can understand, making them a vital step in preparing data for text analysis and processing.

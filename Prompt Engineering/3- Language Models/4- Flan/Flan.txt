@@ -1,0 +1,38 @@
+Scaling Instruction-Finetuned Language Models
+ 
+This paper discusses how scaling up instruction finetuning can enhance the performance of various language models like PaLM and T5. It examines different prompting methods (like zero-shot and few-shot learning) and evaluates their effectiveness using benchmarks like MMLU and TyDiQA. Key areas of focus include:
+
+- Increasing the number of tasks to 1,800
+- Expanding model size
+- Finetuning using chain-of-thought (CoT) data from nine different datasets
+
+Finetuning Process  
+The model was finetuned using 1,800 tasks, framed as instructions. This process involved different approaches, both with examples and without, as well as incorporating CoT methods.
+
+Key Findings 
+
+1. Scaling Benefits: Instruction finetuning works better as you increase the number of tasks and the size of the model. This indicates that further scaling could yield even better results.
+  
+2. CoT Data: Including CoT datasets during finetuning helps improve performance on reasoning tasks.
+
+3. Multilingual Improvements: Flan-PaLM shows enhanced capabilities in multiple languages, achieving a 14.9% improvement on one-shot TyDiQA and an 8.1% improvement in arithmetic reasoning for under-represented languages.
+
+4. Open-ended Generation: Flan-PaLM also performs well on open-ended questions, indicating better usability.
+
+5. Responsible AI Performance: It shows improvements across responsible AI benchmarks.
+
+6. Few-shot Capabilities: The instruction-tuned Flan-T5 models demonstrate strong few-shot learning capabilities, outperforming public versions like T5.
+
+7. Scaling Observations: Increasing the number of finetuning tasks and model size is expected to continue enhancing performance, but adding too many tasks may lead to diminishing returns.
+
+CoT and Non-CoT Data:  
+Finetuning the model using both non-CoT and CoT data together enhances performance on evaluations compared to using either type alone.
+
+Self-Consistency:  
+Combining self-consistency with CoT achieves state-of-the-art results on several benchmarks, especially those involving math problems.
+
+Zero-shot Reasoning:  
+Finetuning with CoT enables zero-shot reasoning when using the phrase "let's think step-by-step" on BIG-Bench tasks. In general, zero-shot CoT with Flan-PaLM outperforms zero-shot CoT with PaLM that hasn't been finetuned.
+
+Examples and Demonstrations:  
+The paper includes demonstrations showcasing zero-shot CoT capabilities of both PaLM and Flan-PaLM on unseen tasks. It highlights how Flan-PaLM handles complex open-ended questions better than PaLM, which often struggles with repetitive responses and instructions in zero-shot situations. Additionally, few-shot examples can help reduce these errors.

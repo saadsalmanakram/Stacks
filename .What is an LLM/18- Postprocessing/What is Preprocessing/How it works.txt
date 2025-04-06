@@ -1,0 +1,46 @@
+>> What is postprocessing
+
+   Postprocessing involves converting the raw model outputs into a human-readable format.
+
+In our example
+
+   1- Logits to Probabilities The raw logits need to be converted into probabilities using the SoftMax function
+
+python code:
+
+'''
+import torch
+
+predictions = torch.nn.functional.softmax(outputs.logits, dim=-1)
+print(predictions)
+'''
+
+Example output
+
+python code
+
+'''
+tensor([[4.0195e-02, 9.5980e-01],
+        [9.9946e-01, 5.4418e-04]])
+'''
+
+   2- Label Mapping We convert the model’s output into readable labels. For this, we inspect the id2label mapping
+
+python code:
+
+'''
+print(model.config.id2label)
+'''
+
+Example output
+
+python code:
+
+'''
+{0 'NEGATIVE', 1 'POSITIVE'}
+'''
+
+Based on the probabilities, we can conclude
+
+- For the first sentence NEGATIVE 0.0402, POSITIVE 0.9598
+- For the second sentence NEGATIVE 0.9995, POSITIVE 0.0005

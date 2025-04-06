@@ -1,0 +1,1 @@
+Regularization techniques are methods used to prevent overfitting and improve the generalization of a model. Overfitting occurs when a model performs well on training data but poorly on unseen data. Regularization helps to address this issue by introducing constraints or penalties that encourage the model to generalize better.

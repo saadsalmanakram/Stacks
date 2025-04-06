@@ -1,0 +1,9 @@
+Model size generally refers to the total number of parameters or the amount of memory required by the model. Here’s a more detailed breakdown:
+
+- Number of Parameters: This is the primary measure of model size. Parameters are the weights and biases in the model that are learned during training. For instance, a language model with billions of parameters is considered to be large-scale.
+
+- Memory Footprint: Model size also includes the amount of storage needed to save the model weights, which can be substantial for large models. This is often measured in bytes, kilobytes, megabytes, gigabytes, etc.
+
+- Computational Requirements: Larger models typically require more computational resources for training and inference, including more powerful GPUs or TPUs, more memory, and longer training times.
+
+- Architectural Complexity: The model size can also be influenced by the complexity of the model architecture, such as the number of layers, the size of hidden layers, and the type of connections between them.

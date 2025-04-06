@@ -1,0 +1,91 @@
+Gemma Overview
+Google DeepMind has launched Gemma, a set of open language models inspired by the research behind the Gemini models. Gemma includes two versions: the 2B model, trained on 2 trillion tokens, and the 7B model, trained on 6 trillion tokens. Both models can handle up to 8,192 tokens of context and typically perform better than Llama 2 7B and Mistral 7B models on various benchmarks.
+
+Model Architecture
+Gemma uses a transformer decoder architecture, featuring enhancements like:
+- Multi-query attention (for the 2B model)
+- Multi-head attention (for the 7B model)
+- RoPE embeddings
+- GeGLU activations
+
+Training Data
+The models were trained primarily on web documents, math content, and code. However, unlike Gemini, they do not support multilingual or multimodal capabilities. The vocabulary includes 256,000 tokens, with a focus on English and a subset of the SentencePiece tokenizer.
+
+Instruction-Tuning
+The instruction-tuned models utilize supervised fine-tuning with both synthetic and human-generated prompts, as well as reinforcement learning from human feedback (RLHF). All datasets are in English. The models employ specific formatting control tokens to manage conversation flow.
+
+Performance Results
+The Gemma 7B model excels in math, science, and coding tasks, outperforming both Llama 2 7B and Mistral 7B in various academic benchmarks, especially in HumanEval, GSM8K, MATH, and AGIEval. It also shows improved performance in reasoning and dialogue tasks.
+
+Safety Measures
+Gemma has been assessed against safety benchmarks and incorporates debiasing techniques and red-teaming strategies to reduce risks associated with large language models (LLMs). More details about responsible development can be found in the model card and the Responsible Generative AI toolkit.
+
+Prompting with Gemma 7B
+Gemma’s base models can be prompted flexibly without a specific format, while the instruction-tuned model follows this format:
+
+```
+<start_of_turn>user
+Generate a Python function that multiplies two numbers<end_of_turn>
+<start_of_turn>model
+```
+
+Here’s a summary of relevant formatting tokens for interactions with Gemma:
+
+| Context                        | Token         |
+|--------------------------------|---------------|
+| User turn                      | user          |
+| Model turn                     | model         |
+| Start of conversation turn      | <start_of_turn> |
+| End of conversation turn        | <end_of_turn> |
+
+Example of Multi-Turn Interaction:
+
+```
+<start_of_turn>user
+What is a good place for travel in the US?<end_of_turn>
+<start_of_turn>model
+California.<end_of_turn>
+<start_of_turn>user
+What can I do in California?<end_of_turn>
+<start_of_turn>model
+```
+
+Effective Prompting Techniques
+Zero-Shot Prompting:  
+You can ask questions directly without prior context, like this:
+
+```
+<start_of_turn>user
+Explain why the sky is blue<end_of_turn>
+<start_of_turn>model
+```
+
+Adding Instructions: 
+Including additional instructions helps guide the model's responses:
+
+```
+<start_of_turn>user
+Answer the following question in a concise and informative manner:
+Explain why the sky is blue<end_of_turn>
+<start_of_turn>model
+```
+
+Role-Playing:  
+You can simulate specific roles for personalized responses:
+
+```
+<start_of_turn>user
+You are a helpful 2nd-grade teacher. Help a 2nd grader to answer questions in a short and clear manner.
+Explain why the sky is blue<end_of_turn>
+<start_of_turn>model
+```
+
+Reasoning Tasks:  
+To engage the model's reasoning abilities, use prompts that encourage step-by-step thinking:
+
+```
+<start_of_turn>user
+Think and write your step-by-step reasoning before responding.
+Explain why the sky is blue.<end_of_turn>
+<start_of_turn>model
+```

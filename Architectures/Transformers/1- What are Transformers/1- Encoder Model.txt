@@ -1,0 +1,13 @@
+Encoder models focus only on the encoder part of a Transformer model. They look at the entire sentence at once, understanding it from both directions (left to right and right to left). This is why they’re often called “bi-directional” models or auto-encoding models.
+
+These models are usually pretrained by taking a sentence, messing it up a bit (like by hiding some words), and then training the model to guess or reconstruct the original sentence.
+
+Encoder models work best for tasks where understanding the full sentence is important, such as classifying sentences, identifying specific entities in a text (like names or places), and finding specific answers within a text.
+
+Examples of encoder models include:
+
+- ALBERT
+- BERT
+- DistilBERT
+- ELECTRA
+- RoBERTa

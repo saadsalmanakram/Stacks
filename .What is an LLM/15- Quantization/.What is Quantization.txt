@@ -1,0 +1,10 @@
+Quantization refers to the process of reducing the precision of the numerical values used to represent model parameters, activations, or gradients. The goal of quantization is to decrease the computational resources required for running a model while maintaining acceptable performance levels.
+
+Key Aspects of Quantization:
+- Precision Reduction: Typically, models use 32-bit floating-point numbers (FP32) for computations. Quantization reduces these to lower-bit representations, such as 16-bit floating-point (FP16), 8-bit integers (INT8), or even lower precision formats.
+
+- Storage Efficiency: By using fewer bits per number, the model's size on disk and in memory is significantly reduced. This can lead to more efficient storage and faster data transfer.
+
+- Computation Speed: Lower precision arithmetic can be executed more quickly on hardware that supports it. This can lead to faster inference times and reduced energy consumption.
+
+- Trade-offs: While quantization reduces computational and storage requirements, it can also introduce quantization errors that might affect the model's accuracy. Techniques such as quantization-aware training (QAT) help mitigate these effects by incorporating quantization effects into the training process.

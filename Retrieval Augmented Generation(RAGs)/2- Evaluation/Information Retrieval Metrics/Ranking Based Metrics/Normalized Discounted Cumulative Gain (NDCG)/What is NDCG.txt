@@ -1,0 +1,1 @@
+Accounts for both the relevance and the rank of all retrieved documents.

@@ -1,0 +1,1 @@
+A system that retrieves existing content (blogs, social media posts, podcasts) and generates new formats such as articles, infographics, or email campaigns, enabling efficient content repurposing across different channels.

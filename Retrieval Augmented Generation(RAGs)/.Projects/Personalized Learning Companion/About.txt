@@ -1,0 +1,1 @@
+A RAG system that retrieves and generates personalized learning materials (articles, exercises, summaries) based on a student's learning progress. The system adapts by pulling data from online educational resources (e.g., textbooks, research papers, video tutorials).

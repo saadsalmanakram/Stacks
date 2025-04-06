@@ -1,0 +1,1 @@
+Optimization Algorithm refers to a method or process used to adjust the parameters of a model to minimize the loss function during training. The loss function measures how well the model's predictions match the actual outcomes, and optimization algorithms seek to find the best set of parameters that reduce this error.

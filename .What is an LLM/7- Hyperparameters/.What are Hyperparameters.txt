@@ -1,0 +1,1 @@
+Hyperparameters are the configuration settings or parameters set before the training process begins. Unlike the model's internal parameters, which are learned from the data during training (such as weights and biases), hyperparameters are manually set and control various aspects of the training and architecture of the model.

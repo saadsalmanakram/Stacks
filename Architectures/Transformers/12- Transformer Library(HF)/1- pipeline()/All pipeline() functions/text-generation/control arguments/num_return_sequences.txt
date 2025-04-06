@@ -1,0 +1,19 @@
+With this statement we can control how many different sequences are generated 
+
+for example, we can limit to generating to 2 sequences
+
+python code:
+
+'''
+
+from transformers import pipeline
+
+generator = pipeline("text-generation", model="distilgpt2")
+generator(
+    "In this course, we will teach you how to",
+    max_length=30,
+    num_return_sequences=2,
+)
+
+
+'''

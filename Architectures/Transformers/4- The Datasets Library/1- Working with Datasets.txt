@@ -1,0 +1,62 @@
+How to Work with Datasets Not on the Hugging Face Hub
+
+>> Working with Local and Remote Datasets
+
+   If your dataset isn't on the Hugging Face Hub, don't worry! You can still use the `🤗 Datasets` library to load data from your computer or a remote server.
+
+>> Loading Local Datasets
+
+   Here's how you can load a local dataset using different formats:
+
+   - CSV & TSV: Use `load_dataset("csv", data_files="my_file.csv")`
+   - Text Files: Use `load_dataset("text", data_files="my_file.txt")`
+   - JSON & JSON Lines: Use `load_dataset("json", data_files="my_file.json")`
+   - Pickled DataFrames: Use `load_dataset("pandas", data_files="my_dataframe.pkl")`
+
+For example, if you have a dataset in JSON format, you can load it like this:
+
+python code
+
+'''
+from datasets import load_dataset
+
+squad_it_dataset = load_dataset("json", data_files="SQuAD_it-train.json", field="data")
+'''
+
+This code will load the training data from a file named `SQuAD_it-train.json`. The result is a `DatasetDict` object that contains a "train" split with all the data.
+
+If you want to load both training and test data at once, you can pass a dictionary to the `data_files` argument:
+
+python code
+
+'''
+data_files = {"train": "SQuAD_it-train.json", "test": "SQuAD_it-test.json"}
+squad_it_dataset = load_dataset("json", data_files=data_files, field="data")
+'''
+
+This way, you have both splits in one object, making it easy to work with the entire dataset.
+
+>> Loading Remote Datasets
+
+   If your dataset is stored online, you can load it just as easily. Instead of using local file paths, provide the URLs directly:
+
+python code
+
+'''
+url = "https://github.com/crux82/squad-it/raw/master/"
+data_files = {
+    "train": url + "SQuAD_it-train.json.gz",
+    "test": url + "SQuAD_it-test.json.gz",
+}
+squad_it_dataset = load_dataset("json", data_files=data_files, field="data")
+'''
+
+This code downloads the data from the provided URLs and loads it into the same `DatasetDict` format.
+
+>> Key Points to Remember
+
+   - You can load datasets in various formats like CSV, JSON, and more.
+   - You can load data from local files or directly from URLs.
+   - The `load_dataset()` function handles everything, including automatic decompression of files like `.gz` or `.zip`.
+  
+Once your dataset is loaded, you're ready to start processing and analyzing it!

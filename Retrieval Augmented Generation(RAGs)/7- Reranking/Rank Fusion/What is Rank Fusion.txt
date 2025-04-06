@@ -1,0 +1,17 @@
+Rank fusion is a helpful method for combining search results from multiple sources in Retrieval-Augmented Generation (RAG) systems. It provides a faster alternative to reranking, which can be slow, while still improving the relevance of the information retrieved. This technique helps the system capture more relevant content, offering a wider set of useful results for the language model to process, leading to more accurate and informative answers.
+
+How it works:
+
+1. Retrieve from Multiple Sources: The system gathers information from different sources, each potentially using its own retrieval methods or focusing on different parts of the data.
+2. Identify Unique Documents: The results from all the sources are combined, and duplicates or redundant documents are identified.
+3. Aggregate Ranks: For each unique document, the system calculates a combined or "fused" rank, which can be done by averaging ranks, taking the highest rank, or using a weighted combination of ranks from each source.
+4. Order by Fused Rank: The unique documents are sorted based on their combined rank, with the most relevant ones at the top.
+5. Select Top-N: The top documents are chosen as the final results.
+
+Benefits of Rank Fusion:
+
+- Faster Processing: It's quicker than reranking with a cross-encoder, especially when handling a large number of documents from multiple sources.
+- Better Recall: By pulling results from multiple sources, it improves the chances of retrieving all relevant information.
+- Flexibility: Rank fusion allows you to adjust how ranks are combined, enabling you to give more weight to certain sources or methods based on what you need.
+
+This method helps streamline the process while maintaining strong retrieval performance.

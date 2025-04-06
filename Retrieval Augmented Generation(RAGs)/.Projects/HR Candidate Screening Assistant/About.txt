@@ -1,0 +1,1 @@
+An AI tool for HR departments that retrieves resumes, cover letters, and job descriptions, generating a ranked list of potential candidates along with brief summaries of how well each matches the job requirements.

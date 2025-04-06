@@ -1,0 +1,88 @@
+This guide introduces the Gemini models, explaining how to use them effectively. It covers their capabilities, practical tips, applications, limitations, relevant research papers, and additional reading materials.
+
+What is Gemini?
+
+Gemini is Google's latest AI model from DeepMind, designed to handle various types of data, including text, images, video, audio, and code. It excels in connecting information across these different formats.
+
+There are three versions of Gemini:
+
+- Ultra: The most advanced model, ideal for complex tasks.
+- Pro: Best for a wide range of applications.
+- Nano: Lightweight models for devices with limited memory, available in two sizes: 1.8B (Nano-1) and 3.25B (Nano-2) parameters. These models are based on larger Gemini versions but are simplified and optimized.
+
+Gemini has outperformed expectations, achieving top scores in 30 out of 32 benchmarks, including tasks related to language, coding, and reasoning. Notably, it is the first model to match human expert performance on the MMLU benchmark, scoring 90.0% on it and 62.4% on the more challenging MMMU benchmark, which tests college-level knowledge.
+
+The models can process long contexts (up to 32,000 tokens) and are based on efficient Transformer technology, allowing them to handle text, audio, and visual inputs together.
+
+Gemini's Training and Results
+
+Gemini has been trained using a wide variety of data, including text from websites, books, code, images, audio, and video. This comprehensive training enables strong reasoning abilities across different types of data.
+
+Key Findings
+
+- Gemini Ultra improves its MMLU performance significantly (from 84.0% to 90.0%) by using a method that combines different reasoning techniques (like chain-of-thought prompting).
+- It achieves 94.4% accuracy on the GSM8K grade-school math benchmark and correctly solves 74.4% of coding tasks from the HumanEval dataset.
+- The Nano models excel in tasks involving factual information, reasoning, STEM, coding, and multiple languages.
+
+The models are particularly effective at retrieving accurate information, boasting a 98% accuracy rate when asked to extract details from lengthy contexts, making them suitable for new applications like document retrieval and understanding videos.
+
+Multimodal Reasoning with Gemini
+
+Gemini's training allows it to understand and combine different types of data. This includes extracting information from tables, charts, and other visual formats. The model excels in tasks like recognizing objects in images and generating descriptions in various languages.
+
+Example Tasks
+
+1. Text Summarization: Gemini can summarize complex texts in simple language.
+   - Prompt: Summarize this abstract: "Antibiotics are medications that treat bacterial infections... They are ineffective against viruses."
+   - Output: "Antibiotics are medicines used to kill or stop the growth of bacteria causing infections, but they don't work against viruses."
+
+2. Information Extraction: The model can pull out specific details from research papers.
+   - Prompt: Extract model names from this text: "Large Language Models (LLMs), such as ChatGPT and GPT-4..."
+   - Output: `["LLMs", "ChatGPT", "GPT-4"]`
+
+3. Visual Question Answering: Gemini can answer questions about images.
+   - Prompt: What is the title of the website shown in the image?
+   - Output: "The title of the website is 'Prompt Engineering Guide.'"
+
+Additional Capabilities
+
+- Problem-Solving: Gemini can solve physics problems and explain errors in reasoning.
+- Code Generation: It can generate code for specific tasks, such as rearranging figures in a plot.
+- Video Analysis: The model can analyze videos, offering feedback on actions depicted.
+
+Getting Started with Code
+
+To use Gemini in your projects, install the required library and obtain an API key from Google AI Studio. Here’s a simple example for extracting information using the Gemini API:
+
+```bash
+# Install the library
+$ pip install google-generativeai
+```
+
+```python
+import google.generativeai as genai
+
+# Configure the API key
+genai.configure(api_key="YOUR_API_KEY")
+
+# Set up model parameters
+generation_config = {
+    "temperature": 0,
+    "top_p": 1,
+    "top_k": 1,
+    "max_output_tokens": 2048,
+}
+
+# Create a model instance
+model = genai.GenerativeModel(model_name="gemini-pro",
+                              generation_config=generation_config)
+
+# Prompt for the model
+prompt = "Your task is to extract model names from machine learning paper abstracts..."
+
+# Run the model
+response = model.generate(prompt)
+print(response)
+```
+
+This guide should help you understand and start using the Gemini models effectively!

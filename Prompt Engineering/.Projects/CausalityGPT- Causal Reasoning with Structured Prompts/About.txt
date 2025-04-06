@@ -1,0 +1,1 @@
+Create a prompt system that helps LLMs perform causal reasoning, analyzing cause-effect relationships in data and explaining the outcomes in simple, actionable language.

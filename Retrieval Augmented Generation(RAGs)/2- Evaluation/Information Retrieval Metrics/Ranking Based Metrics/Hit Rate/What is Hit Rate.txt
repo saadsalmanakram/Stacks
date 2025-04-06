@@ -1,0 +1,1 @@
+Measures whether at least one relevant document was retrieved.

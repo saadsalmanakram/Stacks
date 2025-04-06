@@ -1,0 +1,1 @@
+Develop an AI email assistant that understands and generates responses based on context and previous interactions, utilizing prompt engineering for personalized communication.

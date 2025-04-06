@@ -1,0 +1,16 @@
+In working with language models, the quality of your results heavily relies on how you craft your prompts. A well-structured prompt provides the model with clear instructions, context, and examples, allowing it to generate more accurate and relevant responses. For instance, instead of asking a vague question, you can specify what kind of information you’re looking for.
+
+Example Prompt
+
+Prompt: 
+What are some fun activities to do on a rainy day?
+
+Output:
+Here are a few enjoyable activities you can try when it's raining:  
+1. **Reading a book** - Find a cozy spot, grab a blanket, and immerse yourself in a good story.  
+2. **Cooking or baking** - Try out new recipes or bake your favorite treats.  
+3. **Watching movies** - Have a movie marathon with your favorite films or series.  
+4. **Indoor games** - Play board games or card games with family or friends.  
+5. **Crafting** - Get creative with some DIY projects or arts and crafts.
+
+This prompt clearly asks for specific information, leading to a well-rounded response that directly addresses the question. By being precise in your instructions, you help the model understand exactly what you want, which improves the quality of the output. 

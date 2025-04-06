@@ -1,0 +1,116 @@
+>> Easy Breakdown of the Concepts and Code
+
+   Introduction
+   - When working with data, it often needs cleaning before training models. The 🤗 Datasets library provides tools to help clean and manipulate datasets.
+
+>> Slicing and Dicing Our Data
+   - Similar to Pandas: 🤗 Datasets offers several functions to manipulate data.
+   - Dataset Used: Drug Review Dataset from UC Irvine Machine Learning Repository, which contains patient reviews, the condition being treated, and a 10-star rating of satisfaction.
+
+>> Step-by-Step Code Breakdown
+
+1. Download and Extract Data:
+   - Use `wget` to download and `unzip` to extract the dataset.
+   
+   python code
+   
+   '''
+   !wget "https://archive.ics.uci.edu/ml/machine-learning-databases/00462/drugsCom_raw.zip"
+   !unzip drugsCom_raw.zip
+   '''
+
+2. Load the Dataset:
+   - Load the dataset using the `load_dataset()` function from the 🤗 Datasets library.
+
+   python code
+
+   '''
+   from datasets import load_dataset
+
+   data_files = {"train": "drugsComTrain_raw.tsv", "test": "drugsComTest_raw.tsv"}
+   drug_dataset = load_dataset("csv", data_files=data_files, delimiter="\t")
+   '''
+
+3. Create a Random Sample:
+   - Use `Dataset.shuffle()` and `Dataset.select()` to shuffle the data and select a small sample.
+
+   python code
+
+   '''
+   drug_sample = drug_dataset["train"].shuffle(seed=42).select(range(1000))
+   drug_sample[:3]
+   '''
+
+4. Investigate and Clean Data:
+   - Check for Unique IDs: Verify if the `Unnamed: 0` column is unique for each entry.
+
+   python code
+
+   '''
+   for split in drug_dataset.keys():
+       assert len(drug_dataset[split]) == len(drug_dataset[split].unique("Unnamed: 0"))
+   '''
+
+   - Rename a Column: Rename the `Unnamed: 0` column to `patient_id`.
+   
+   python code
+
+   '''
+   drug_dataset = drug_dataset.rename_column("Unnamed: 0", "patient_id")
+   
+
+5. Normalize Condition Labels:
+   - Function to Lowercase: Define a function to lowercase all entries in the `condition` column.
+
+   python code
+
+   '''
+   def lowercase_condition(example):
+       return {"condition": example["condition"].lower()}
+
+   drug_dataset = drug_dataset.map(lowercase_condition)
+   '''
+
+   - Handle Missing Values: Filter out rows where `condition` is `None`.
+
+   python code
+
+   '''
+   drug_dataset = drug_dataset.filter(lambda x: x["condition"] is not None)
+   '''
+
+6. Create New Columns:
+   - Count Words in Reviews: Define a function to count the number of words in each review.
+
+   python code
+
+   '''
+   def compute_review_length(example):
+       return {"review_length": len(example["review"].split())}
+
+   drug_dataset = drug_dataset.map(compute_review_length)
+   '''
+
+   - Filter Short Reviews: Remove reviews with fewer than 30 words.
+   
+   python code
+
+   '''
+   drug_dataset = drug_dataset.filter(lambda x: x["review_length"] > 30)
+   '''
+
+7. Clean Up Reviews:
+   - Handle HTML Characters: Use Python’s `html` module to unescape HTML characters in the reviews.
+
+   python code
+
+   '''
+   import html
+   drug_dataset = drug_dataset.map(lambda x: {"review": html.unescape(x["review"])})
+   '''
+
+8. Optimize Data Processing:
+   - Batch Processing with `map()`: Use the `map()` method's `batched` argument for faster processing by handling multiple examples at once.
+   
+Conclusion
+- The `map()` function in 🤗 Datasets is powerful for processing and cleaning datasets, and can be customized in many ways to suit your needs.

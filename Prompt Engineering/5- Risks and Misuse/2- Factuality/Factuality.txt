@@ -1,0 +1,27 @@
+Factual Accuracy in LLMs
+
+Large Language Models (LLMs) can sometimes produce responses that sound convincing but aren't always accurate. By improving the way we ask questions (prompts), we can help the model give more factual answers and avoid making things up.
+
+Here are a few ways to improve this:
+
+- Include reliable information (like a relevant paragraph from an article or Wikipedia) in the prompt to help the model stick to the facts.
+- Adjust the model's settings to make it give fewer creative responses, and encourage it to say "I don't know" when it's unsure.
+- Use a mix of questions in the prompt, showing both things it might know and things it might not, to guide it better.
+
+For example:
+
+Prompt:
+- Q: What is an atom?
+- A: An atom is a tiny particle that makes up everything.
+- Q: Who is Alvan Muntz?
+- A: ?
+- Q: What is Kozar-09?
+- A: ?
+- Q: How many moons does Mars have?
+- A: Two, Phobos and Deimos.
+- Q: Who is Neto Beto Roberto?
+
+Output:
+- A: ?
+
+Since "Neto Beto Roberto" is a made-up name, the model correctly responds with "?" here. You can experiment with different questions to see how the model reacts. Based on what you've learned so far, you can find even more ways to improve the responses.

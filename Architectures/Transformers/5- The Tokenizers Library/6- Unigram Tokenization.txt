@@ -1,0 +1,110 @@
+>> What is Unigram Tokenization?
+
+   Unigram tokenization is a technique used to break down text into smaller pieces called tokens. It’s used in popular language models like ALBERT, T5, and XLNet. The basic idea is to start with a large set of possible tokens and gradually remove the least important ones until you reach the desired number of tokens.
+
+>> How Does the Unigram Algorithm Work?
+
+   - Starting Point: The algorithm starts with a big vocabulary of possible tokens. This vocabulary might include common substrings found in pre-tokenized words.
+  
+   - Training Steps:
+     1. Loss Calculation: At each step, the algorithm calculates a loss value based on how well the current vocabulary tokenizes the training corpus (a collection of text).
+     2. Token Removal: For each token, the algorithm estimates how much the loss would increase if that token were removed. The tokens that cause the smallest increase in loss are the least important and can be removed.
+     3. Repeat: This process is repeated until the vocabulary is reduced to the desired size.
+  
+   - Key Point: Base characters (like letters) are never removed to ensure that any word can still be tokenized.
+
+>> Tokenization Example
+
+   Imagine we start with the words `("hug", 10)`, `("pug", 5)`, `("pun", 12)`, `("bun", 4)`, `("hugs", 5)` and the initial vocabulary:
+
+python code
+
+'''
+["h", "u", "g", "hu", "ug", "p", "pu", "n", "un", "b", "bu", "s", "hug", "gs", "ugs"]
+'''
+
+We then calculate the frequency of each token in this vocabulary.
+
+>> Token Frequency Calculation (Code Example)
+
+python code
+
+'''
+# Example corpus
+corpus = [
+    "This is the Hugging Face Course.",
+    "This chapter is about tokenization.",
+    "This section shows several tokenizer algorithms.",
+    "Hopefully, you will be able to understand how they are trained and generate tokens.",
+]
+
+from transformers import AutoTokenizer
+from collections import defaultdict
+
+# Use a pre-trained tokenizer
+tokenizer = AutoTokenizer.from_pretrained("xlnet-base-cased")
+
+# Count the frequency of each word
+word_freqs = defaultdict(int)
+for text in corpus:
+    words_with_offsets = tokenizer.backend_tokenizer.pre_tokenizer.pre_tokenize_str(text)
+    new_words = [word for word, offset in words_with_offsets]
+    for word in new_words:
+        word_freqs[word] += 1
+
+# Count character and subword frequencies
+char_freqs = defaultdict(int)
+subwords_freqs = defaultdict(int)
+for word, freq in word_freqs.items():
+    for i in range(len(word)):
+        char_freqs[word[i]] += freq
+        for j in range(i + 2, len(word) + 1):
+            subwords_freqs[word[i:j]] += freq
+
+# Sort subwords by frequency
+sorted_subwords = sorted(subwords_freqs.items(), key=lambda x: x[1], reverse=True)
+
+# Display frequencies
+print("Character frequencies:", dict(char_freqs))
+print("Subword frequencies:", dict(subwords_freqs))
+'''
+
+>> Tokenization Algorithm
+
+   The tokenization process involves segmenting a word into possible tokens and calculating the probability of each segmentation. The probability of a token is based on its frequency in the corpus.
+
+   For example:
+   - If we want to tokenize the word "pug", the algorithm might consider the tokenizations `["p", "u", "g"]` or `["pu", "g"]`.
+   - The algorithm calculates the probability of each tokenization and selects the one with the highest probability.
+
+>> Probability Calculation Example
+
+   Given the vocabulary:
+
+python code
+
+'''
+("h", 15), ("u", 36), ("g", 20), ("hu", 15), ("ug", 20), ("p", 17), ("pu", 17), ("n", 16), ("un", 16), ("b", 4), ("bu", 4), ("s", 5), ("hug", 15), ("gs", 5), ("ugs", 5)
+'''
+
+The total frequency is 210, so the probability of "ug" would be `20/210`.
+
+You can compute probabilities and select the best tokenization using a similar approach in code:
+
+python code
+
+# Example token and its frequency
+token_freq = 20
+total_freq = 210
+
+# Probability of the token
+prob = token_freq / total_freq
+print(f"Probability of 'ug': {prob}")
+'''
+
+>> Summary
+
+   - Training: Unigram starts with a large set of possible tokens and removes the least important ones based on their impact on tokenization quality.
+   - Tokenization: The algorithm selects the tokenization that results in the highest probability, aiming for the most efficient breakdown of words into tokens.
+
+This understanding and example code should help you grasp the Unigram tokenization process more clearly.

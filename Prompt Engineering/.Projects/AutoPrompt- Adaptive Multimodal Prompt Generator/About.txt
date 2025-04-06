@@ -1,0 +1,1 @@
+Automatically generate optimized prompts for models that handle different data types (text, images, audio) to analyze them together (e.g., image-text pairing for news or product descriptions).

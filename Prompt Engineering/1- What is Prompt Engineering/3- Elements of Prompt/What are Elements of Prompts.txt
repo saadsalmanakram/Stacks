@@ -1,0 +1,28 @@
+> Key Parts of a Prompt (Simplified)
+
+As you dive into prompt engineering, you'll notice that prompts often have certain key components that help guide AI models in performing tasks. These are the typical elements
+
+1. Instruction – This is the specific task you want the model to do.
+2. Context – Any background information or extra details to guide the model.
+3. Input Data – The question or data you're seeking a response for.
+4. Output Indicator – The format or type of answer you're expecting.
+
+> Example of Prompt Components
+
+Let’s break this down with a simple example where we want to classify a piece of text
+
+Prompt
+
+Classify the text as neutral, negative, or positive.
+
+Text I think the food was okay.
+
+Sentiment
+
+- Instruction Classify the text as neutral, negative, or positive – This tells the model exactly what to do.
+- Input Data I think the food was okay. – This is the actual text we're working with.
+- Output Indicator Sentiment – This shows the expected type of response (a sentiment classification).
+
+In this case, we didn’t use context, but you could add it to improve results. For example, if you give the model some examples of positive and negative statements, it might get better at classifying the text.
+
+You don't always need all four elements. The structure depends on the task you're trying to complete, and we'll explore more examples as we continue.

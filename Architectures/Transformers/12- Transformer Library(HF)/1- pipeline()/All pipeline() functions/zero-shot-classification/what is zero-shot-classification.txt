@@ -1,0 +1,23 @@
+The zero-shot-classification function classifies text into user-specified categories without requiring any prior training on those specific labels.
+
+python code:
+
+'''
+
+from transformers import pipeline
+
+classifier = pipeline("zero-shot-classification")
+classifier(
+    "This is a course about the Transformers library",
+    candidate_labels=["education", "politics", "business"],
+)
+
+'''
+
+Output:
+'''
+{'sequence': 'This is a course about the Transformers library',
+ 'labels': ['education', 'business', 'politics'],
+ 'scores': [0.8445963859558105, 0.111976258456707, 0.043427448719739914]}
+
+'''

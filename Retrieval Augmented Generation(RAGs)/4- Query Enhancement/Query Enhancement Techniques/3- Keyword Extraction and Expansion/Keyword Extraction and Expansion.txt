@@ -1,0 +1,4 @@
+Keyword Extraction and Expansion:
+
+Enhancing Domain Specificity: This involves identifying and enhancing important keywords and phrases to improve retrieval accuracy, especially for domain-specific knowledge.
+Example: Adding keywords like "logging metrics," "experiment tracking," and "W&B usage" to the query "How do I log metrics?" helps the system find more relevant information.

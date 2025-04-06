@@ -1,0 +1,12 @@
+Encoder-decoder models, also known as sequence-to-sequence models, use both the encoder and decoder parts of the Transformer architecture. The encoder looks at the whole sentence at once, while the decoder looks at the sentence word by word, only considering the words that come before it.
+
+These models are pretrained using methods similar to either encoder or decoder models, but often with more complex tasks. For example, T5 is pretrained by replacing random parts of a sentence with a special mask word, and the model’s goal is to predict the original text that was masked.
+
+Sequence-to-sequence models are best for tasks that involve generating new sentences based on some input, like summarization, translation, or answering questions with detailed sentences.
+
+Examples of these models include:
+
+- BART
+- mBART
+- Marian
+- T5

@@ -1,0 +1,1 @@
+Develop domain-specific prompts for healthcare applications, where medical language precision is critical (e.g., generating accurate radiology or clinical reports).

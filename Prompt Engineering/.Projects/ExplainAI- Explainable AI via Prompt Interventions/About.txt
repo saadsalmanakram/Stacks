@@ -1,0 +1,1 @@
+Design prompts that help LLMs generate explainable outputs, making AI decisions more transparent and understandable for end-users (e.g., explaining a financial risk or a medical diagnosis).

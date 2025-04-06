@@ -1,0 +1,34 @@
+Retrieval with chain-of-thought reasoning is a powerful technique for handling complex QA tasks in RAG systems. It allows the system to perform step-by-step reasoning, guided by retrieved information, to arrive at a comprehensive and accurate answer. By exploring different variations and levels of complexity, you can tailor this approach to the specific requirements of your RAG application.
+
+For complex question-answering (QA) tasks, especially those that require multi-step reasoning or involve finding information from multiple sources, combining retrieval with chain-of-thought reasoning can be very effective.
+
+This technique differs from simple query decomposition in that the reasoning steps are not generated upfront. Instead, the system iteratively retrieves information and performs reasoning based on the retrieved context.
+
+Here's a typical process:
+
+- Initial Retrieval: The system first retrieves relevant documents or chunks based on the initial user query.
+- CoT Prompting: The LLM is then prompted with the query and the retrieved context, and it's instructed to generate a reasoning sentence (T1) that represents an intermediate step towards finding the answer.
+- Retrieval for Reasoning Step: The system retrieves new documents or chunks relevant to the reasoning sentence (T1).
+- Loop Continuation: Steps 2 and 3 are repeated, generating new reasoning sentences (T2, T3, etc.) and retrieving corresponding information until a termination condition is met.
+- Termination Condition: The loop typically terminates when the system finds the answer to the original query within the retrieved context. This could be determined by checking if the answer is a substring of the retrieved text or by using other criteria.
+
+
+Example:
+
+User Query: "What are the advantages of using Weights & Biases for experiment tracking compared to using a spreadsheet?"
+
+Steps:
+
+- Initial Retrieval: Retrieve documents related to Weights & Biases and experiment tracking.
+- T1 (Reasoning): "Weights & Biases offers automatic logging of experiment data, while spreadsheets require manual entry."
+- Retrieve for T1: Find documents about automatic logging and manual data entry.
+- T2 (Reasoning): "Automatic logging saves time and reduces errors compared to manual entry."
+- Retrieve for T2: Find documents discussing the benefits of automatic logging.
+- Termination: The retrieved documents likely contain information about the advantages of Weights & Biases (e.g., time-saving, error reduction), so the loop terminates.
+
+
+Complexities and Variations:
+
+- Number of Reasoning Steps: The complexity can be adjusted by controlling the number of reasoning steps allowed before termination.
+- Types of Reasoning: The reasoning steps can involve different types of logic or inference, depending on the task.
+- Retrieval Methods: Different retrieval methods (e.g., dense retrieval, keyword-based retrieval) can be used within the loop.

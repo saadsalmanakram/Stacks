@@ -1,0 +1,7 @@
+Grounding refers to the process of providing the RAG model with real, contextually relevant information from external sources to base its responses on. This ensures that the generated output is accurate and tied to factual data rather than purely relying on pre-trained model knowledge, which may be outdated or incomplete.
+
+Grounding ensures that the system’s responses are based on real, verifiable information from the knowledge base.
+
+> In Wandbot, we use strong grounding by:
+  - Linking to Documentation: Ensuring all answers directly reference official Weights & Biases documentation.
+  - Fact-Checking: Cross-referencing answers with the knowledge base to reduce errors or made-up information (hallucinations).

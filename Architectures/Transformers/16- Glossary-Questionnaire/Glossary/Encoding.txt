@@ -1,0 +1,61 @@
+Translating text to numbers is known as encoding. Encoding is done in a two-step process: the tokenization, followed by the conversion to input IDs.
+
+>> Encoding
+   Encoding is the process of turning text into numbers that a computer can work with. This is done in two steps:
+
+   1- Tokenization: This step splits the text into smaller parts called tokens. Tokens can be words, parts of words, punctuation marks, etc. Since different models have different rules for tokenization, you need to use the same rules that were used when the model was trained. This ensures that the model understands the text in the way it was designed to.
+
+   2- Converting Tokens to Numbers: Once the text is tokenized, each token is converted into a number. These numbers come from the model’s vocabulary, which is a list of all the tokens the model knows. These numbers are then organized into a tensor, which is the format the model needs to process the information.
+
+Tokenization Example in Code
+Here's how you can tokenize text using Python:
+
+python code
+
+'''
+from transformers import AutoTokenizer
+
+# Load the tokenizer associated with a specific model
+tokenizer = AutoTokenizer.from_pretrained("bert-base-cased")
+
+# Define a sentence
+sequence = "Using a Transformer network is simple"
+
+# Tokenize the sentence
+tokens = tokenizer.tokenize(sequence)
+
+# Print the tokens
+print(tokens)
+'''
+
+When you run this code, you'll get a list of tokens like this:
+
+python code
+'''
+['Using', 'a', 'transform', '##er', 'network', 'is', 'simple']
+'''
+
+In this example, the word "Transformer" is split into two tokens: "transform" and "##er" because the tokenizer is breaking down the word to match its vocabulary.
+
+From Tokens to Input IDs
+After tokenization, the tokens are converted into numbers using the following code:
+
+python code
+
+'''
+# Convert tokens to input IDs (numbers)
+ids = tokenizer.convert_tokens_to_ids(tokens)
+
+# Print the input IDs
+print(ids)
+'''
+
+This code will output something like this:
+
+python code
+
+'''
+[7993, 170, 11303, 1200, 2443, 1110, 3014]
+'''
+
+These numbers (input IDs) represent the tokens in a format the model can understand.

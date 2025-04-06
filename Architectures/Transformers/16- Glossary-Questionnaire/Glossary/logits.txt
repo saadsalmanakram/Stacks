@@ -1,0 +1,8 @@
+In the context of language models and machine learning, logits refer to the raw, unnormalized outputs produced by a model before applying a normalization function, such as the softmax function. Specifically:
+
+- Logits are the values output by the final layer of a neural network, often corresponding to the scores or activations for each class or token in classification tasks.
+- These values are typically used as input to a probability distribution function, such as the softmax function in multi-class classification problems, which transforms the logits into probabilities that sum to one.
+- Logits are important because they provide a direct measure of the model's confidence in each class or token, and their differences reflect the relative likelihoods of the different options before normalization.
+- In the training process, logits are used to compute the loss (e.g., cross-entropy loss) by comparing them to the true labels or targets.
+
+Overall, logits are a crucial intermediate representation that helps bridge the gap between the model's internal predictions and the interpretable probabilities used for decision-making and evaluation.

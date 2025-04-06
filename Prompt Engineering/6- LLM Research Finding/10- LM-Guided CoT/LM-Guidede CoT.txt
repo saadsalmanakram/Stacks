@@ -1,0 +1,15 @@
+LM-Guided Chain-of-Thought
+
+A recent paper by Lee et al. (2024) suggests a new way to enhance the reasoning abilities of large language models (LLMs) by using smaller language models (LMs).
+
+The process begins by teaching a small LM to create reasoning steps (called "rationales") using the knowledge from a larger LM. The idea is to close the gap in reasoning skills between the two models.
+
+In this method, the small LM generates the rationale, while the large LM, which is kept unchanged, is responsible for predicting the final answer. This strategy saves resources because it doesn't require modifying the large model and delegates reasoning to the smaller model.
+
+The small LM, trained through knowledge distillation, is then further improved using reinforcement learning, with rewards focused on generating better reasoning and achieving the task's goal.
+
+This framework was tested on complex question-answering tasks and outperformed other methods in predicting correct answers. The reinforcement learning step improves the quality of rationales, which boosts performance in answering questions.
+
+The LM-guided Chain-of-Thought (CoT) technique outperforms both regular prompting and CoT prompting methods. Using a technique called "self-consistency decoding" further enhances the results.
+
+This approach creatively leverages small LMs for generating rationales, a task usually handled by larger models. It highlights that not all tasks need large models. When fine-tuning, it's helpful to carefully decide what part of the process you want to optimize, and consider if a smaller model can handle that part for you.

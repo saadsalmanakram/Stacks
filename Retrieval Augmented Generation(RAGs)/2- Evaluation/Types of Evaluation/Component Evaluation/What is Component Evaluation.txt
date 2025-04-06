@@ -1,0 +1,2 @@
+What it is: RAG systems have multiple parts (e.g., retrieval, ranking, generation), and each part needs to be evaluated separately.
+Why it matters: This helps identify areas where improvements can be made. For instance, you can evaluate the retrieval system by comparing the retrieved context to a ground truth or see if the generation system's responses are based on the retrieved context.

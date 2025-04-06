@@ -1,0 +1,1 @@
+A RAG model that retrieves environmental data, corporate ESG reports, and sustainability goals, generating customized sustainability reports for companies that highlight current initiatives, areas of improvement, and benchmarks.

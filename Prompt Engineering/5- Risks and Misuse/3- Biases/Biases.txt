@@ -1,0 +1,66 @@
+Biases  
+Large Language Models (LLMs) can sometimes produce harmful outputs or show biases that affect how well they perform on other tasks. While you can reduce some of these issues by carefully crafting the prompts, more complex solutions like moderation or filtering might be needed.
+
+Exemplar Distribution 
+In few-shot learning, does the way we choose and distribute example sentences affect how the model behaves? Let’s check with a simple test:
+
+Prompt:
+
+Q: I just got the best news ever!  
+A: Positive  
+Q: We just got a raise at work!  
+A: Positive  
+Q: I'm so proud of what I accomplished today.  
+A: Positive  
+Q: I'm having the best day ever!  
+A: Positive  
+Q: I'm really looking forward to the weekend.  
+A: Positive  
+Q: I just got the best present ever!  
+A: Positive  
+Q: I'm so happy right now.  
+A: Positive  
+Q: I'm so blessed to have such an amazing family.  
+A: Positive  
+Q: The weather outside is so gloomy.  
+A: Negative  
+Q: I just got some terrible news.  
+A: Negative  
+Q: That left a sour taste.  
+A: _
+
+Output: Negative
+
+Here, the distribution of examples (positive and negative) doesn’t seem to bias the model. That’s a good sign! Now, let’s try something harder to classify:
+
+Prompt:
+
+Q: The food here is delicious!  
+A: Positive  
+Q: I'm so tired of this coursework.  
+A: Negative  
+Q: I can't believe I failed the exam.  
+A: Negative  
+Q: I had a great day today!  
+A: Positive  
+Q: I hate this job.  
+A: Negative  
+Q: The service here is terrible.  
+A: Negative  
+Q: I'm so frustrated with my life.  
+A: Negative  
+Q: I never get a break.  
+A: Negative  
+Q: This meal tastes awful.  
+A: Negative  
+Q: I can't stand my boss.  
+A: Negative  
+Q: I feel something.  
+A: _
+
+Output: Negative
+
+Even though the last sentence was vague, the model assumed it was negative. But, when I flipped the example distribution to use more positive sentences (8 positive, 2 negative) and tried the same vague sentence again, the model said "Positive." This shows that even though the model has strong knowledge of sentiment classification, it’s still important to keep a balanced number of positive and negative examples. For harder tasks, the model might show more bias if it lacks enough background knowledge.
+
+Order of Exemplars  
+Does the order of examples in few-shot learning affect the model's performance or bias? You can experiment by changing the order of the examples. For instance, avoid placing all positive examples first and all negative ones last, as this could create bias, especially if there’s an imbalance in the number of examples for each label. The recommendation is to shuffle the order randomly and experiment to reduce bias.

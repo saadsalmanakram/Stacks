@@ -1,0 +1,1 @@
+The frequency penalty discourages the model from repeating words. It adds a penalty to any word based on how often it has already been used in the response and prompt. The more significant the frequency penalty, the less likely it is for a word to appear again. This helps to make the model's responses less repetitive by making commonly used words face a larger penalty.

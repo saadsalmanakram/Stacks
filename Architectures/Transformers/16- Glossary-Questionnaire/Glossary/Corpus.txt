@@ -1,0 +1,1 @@
+a corpus is a large collection of text used for training and evaluating the model, helping it learn language patterns and vocabulary.

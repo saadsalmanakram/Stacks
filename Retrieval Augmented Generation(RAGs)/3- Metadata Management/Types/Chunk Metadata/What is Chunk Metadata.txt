@@ -1,0 +1,5 @@
+Chunk Metadata: This offers specific context to individual sections of text within a document, such as:
+
+Structural Information: Is the section a header, paragraph, or code block?
+Programming Language (for code chunks): The language used in a given block of code.
+Version-Specific Information: Whether the chunk is relevant to a specific version of a product or software.

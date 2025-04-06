@@ -1,0 +1,23 @@
+Mixtral 8x22B Overview
+
+Mixtral 8x22B is a new large language model (LLM) from Mistral AI. It's designed as a sparse mixture-of-experts model, meaning it uses only part of its total capacity—39 billion active parameters out of 141 billion in total.
+
+Key Features
+
+Mixtral 8x22B is built for efficiency and can handle a variety of tasks, such as:
+
+- Understanding multiple languages
+- Performing math reasoning
+- Generating code
+- Calling native functions
+- Producing outputs with specific constraints
+
+The model can also work with large documents, supporting a context window of **64,000 tokens** for better information retrieval.
+
+Mistral AI claims that Mixtral 8x22B offers one of the best performance-to-cost ratios among community models and is notably fast due to its sparse activation.
+
+Performance Results
+
+According to Mistral AI, Mixtral 8x22B outperforms other leading open models like Command R+ and Llama 2 70B in several reasoning and knowledge tests, including MMLU, HellaS, TriQA, and NaturalQA.
+
+In coding and math tasks, Mixtral 8x22B excels as well. For example, it scored 90% on the GSM8K benchmark for math problems, which is quite impressive.

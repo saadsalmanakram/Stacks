@@ -1,0 +1,164 @@
+Fast Tokenizers in the QA Pipeline
+
+We'll explore how to use the question-answering pipeline to find answers within a given context. This includes how to handle situations where the context is too long and gets cut off. You can skip this section if you're not interested in question-answering.
+
+>> Using the Question-Answering Pipeline
+
+   You can use the question-answering pipeline to get answers to questions based on a given context. Here’s an example:
+
+python code
+
+'''
+from transformers import pipeline
+
+question_answerer = pipeline("question-answering")
+context = """
+🤗 Transformers is supported by three major deep learning libraries — Jax, PyTorch, and TensorFlow. 
+It's easy to train your models with one and use them with another.
+"""
+question = "Which deep learning libraries back 🤗 Transformers?"
+answer = question_answerer(question=question, context=context)
+print(answer)
+'''
+
+This will output:
+
+python code
+
+'''
+{'score': 0.97773, 'start': 78, 'end': 105, 'answer': 'Jax, PyTorch and TensorFlow'}
+'''
+
+The question-answering pipeline can handle long contexts and still find the correct answer even if it's at the very end of the context.
+
+>> Handling Long Contexts
+ 
+   For contexts that are too long, the pipeline will automatically handle the context and provide the correct answer. Here's an example:
+
+python code
+
+'''
+long_context = """
+🤗 Transformers offers thousands of pretrained models for tasks like classification, 
+information extraction, question answering, summarization, translation, and more in over 100 languages.
+It aims to make state-of-the-art NLP easier for everyone.
+
+🤗 Transformers allows easy downloading and use of pretrained models on a given text, fine-tuning them on your datasets, 
+and sharing them with the community on our model hub.
+...
+
+🤗 Transformers is supported by three major deep learning libraries — Jax, PyTorch, and TensorFlow.
+"""
+answer = question_answerer(question=question, context=long_context)
+print(answer)
+'''
+
+This will give you:
+
+python code
+
+'''
+{'score': 0.97149, 'start': 1892, 'end': 1919, 'answer': 'Jax, PyTorch and TensorFlow'}
+'''
+
+>> Using a Model for Question Answering
+
+   To use a model for question answering, we first tokenize our input and then pass it through the model. Here’s how you can do that:
+
+python code
+
+'''
+from transformers import AutoTokenizer, AutoModelForQuestionAnswering
+
+model_checkpoint = "distilbert-base-cased-distilled-squad"
+tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
+model = AutoModelForQuestionAnswering.from_pretrained(model_checkpoint)
+
+inputs = tokenizer(question, context, return_tensors="pt")
+outputs = model(**inputs)
+'''
+
+In this process, we tokenize the question and context together.
+
+>> Processing the Model's Output
+
+   The model predicts where the answer starts and ends within the context. Here’s how to process that:
+
+python code
+
+'''
+start_logits = outputs.start_logits
+end_logits = outputs.end_logits
+'''
+
+You can convert these logits into probabilities using the `softmax` function:
+
+python code
+
+'''
+import torch
+
+start_probabilities = torch.nn.functional.softmax(start_logits, dim=-1)[0]
+end_probabilities = torch.nn.functional.softmax(end_logits, dim=-1)[0]
+'''
+
+To ensure that the start of the answer comes before the end, calculate the probability for each possible start and end:
+
+python code
+
+'''
+scores = start_probabilities[:, None] * end_probabilities[None, :]
+scores = torch.triu(scores)
+'''
+
+Then find the indices of the best answer:
+
+python code
+
+'''
+max_index = scores.argmax().item()
+start_index = max_index // scores.shape[1]
+end_index = max_index % scores.shape[1]
+'''
+
+Finally, convert these token indices back to character indices and extract the answer from the context:
+
+python code
+
+'''
+inputs_with_offsets = tokenizer(question, context, return_offsets_mapping=True)
+offsets = inputs_with_offsets["offset_mapping"]
+
+start_char, _ = offsets[start_index]
+_, end_char = offsets[end_index]
+answer = context[start_char:end_char]
+
+result = {
+    "answer": answer,
+    "start": start_char,
+    "end": end_char,
+    "score": scores[start_index, end_index],
+}
+print(result)
+'''
+
+This will give you:
+
+python code
+
+'''
+{'answer': 'Jax, PyTorch and TensorFlow', 'start': 78, 'end': 105, 'score': 0.97773}
+'''
+
+>> Handling Very Long Contexts
+
+   If your context is too long, you may need to truncate it. However, make sure not to truncate the part of the context containing the answer. Here's how to truncate only the context:
+
+python code
+
+'''
+inputs = tokenizer(question, long_context, max_length=384, truncation="only_second")
+print(tokenizer.decode(inputs["input_ids"]))
+'''
+
+This will help you handle cases where the context exceeds the model's maximum length while still retaining the necessary information to answer the question.

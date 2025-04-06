@@ -1,0 +1,7 @@
+Attention layers in Transformer models are like the model's way of "paying attention" to certain parts of the input data, such as specific words in a sentence. These layers help the model decide which words are important for understanding the meaning of a sentence and which ones can be less focused on.
+
+Imagine you're translating the sentence "The cat chased the mouse." The word "chased" might need to be translated differently depending on the subject "The cat." The attention layer in the model helps it focus on "The cat" while translating "chased." Similarly, when translating "mouse," the model needs to pay attention to "chased" to get the right meaning, as the action directly affects the object.
+
+This mechanism of focusing on certain words and ignoring less important ones allows the model to better understand the relationships between words in a sentence. This is useful not just for translation, but for any task where understanding the context and meaning of words is important.
+
+In short, attention layers allow the model to dynamically decide which words to pay attention to, helping it understand the context and make more accurate predictions or translations.

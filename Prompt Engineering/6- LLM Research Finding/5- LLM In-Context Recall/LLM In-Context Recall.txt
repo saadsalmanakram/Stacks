@@ -1,0 +1,9 @@
+LLM Recall Depends on the Prompt
+
+A new paper by Machlab and Battle (2024) looks at how well large language models (LLMs) remember facts based on different tests. It finds that LLMs recall information better or worse depending on how long or how deep the fact is placed in the prompt. Even small changes in the way you write the prompt can affect how much the model remembers.
+
+The paper also says that the quality of the model’s answers can get worse depending on the content of the prompt and how the model was trained. But you can improve a model’s memory by increasing its size, improving the attention mechanism, trying different training methods, or fine-tuning it.
+
+A key takeaway from the paper: keep testing and evaluating the model to choose the best one for your specific needs, as this will make it more useful and effective over time.
+
+In short, the paper highlights the importance of designing good prompts, continuously testing the model, and trying different ways to improve recall for better results.

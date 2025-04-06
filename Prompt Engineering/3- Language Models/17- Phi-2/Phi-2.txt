@@ -1,0 +1,77 @@
+Phi-2 Overview
+
+This guide introduces Phi-2, a language model with 2.7 billion parameters. We'll discuss how to use it, what it can do, its limitations, and provide useful tips, applications, and references for further reading.
+
+What is Phi-2?
+
+Phi-2 is the newest small language model (SLM) from Microsoft Research, following its predecessors, Phi-1 and Phi-1.5.
+
+- Phi-1: A 1.3 billion parameter model trained on high-quality data from the web (6 billion tokens) and synthetic textbooks created with GPT-3.5 (1 billion tokens). It excels at generating Python code.
+  
+- Phi-1.5: This model improved upon Phi-1, focusing on common sense reasoning and language understanding. It can handle complex tasks like basic math and coding, performing comparably to models five times its size.
+
+- Phi-2: With 2.7 billion parameters, Phi-2 further enhances reasoning and language comprehension, outperforming models up to 25 times larger. It is available under the MIT License for commercial use.
+
+Phi-2 Insights & Evaluation
+
+Researchers are interested in whether smaller models like Phi-2 can show similar advanced abilities as larger models and what training methods can help achieve this.
+
+Phi-2 was trained on 1.4 trillion tokens of high-quality data, including synthetic datasets to develop common sense reasoning and general knowledge. It took 14 days to train on 96 A100 GPUs without any special reinforcement learning techniques or additional instruction tuning.
+
+Phi-1.5's knowledge helps improve Phi-2's performance and speed across various tests. The following comparisons show how Phi-2 (2.7B parameters) stacks up against Phi-1.5 (1.3B parameters) in tasks related to common sense reasoning, math, code generation, and language understanding.
+
+Phi-2 Performance & Benchmarks
+
+Although Phi-2 wasn’t specifically aligned with techniques like reinforcement learning from human feedback (RLHF), it is considered safer and less biased compared to models like Llama2-7B. This improvement is attributed to careful data selection.
+
+Phi-2 Safety Performance
+
+Phi-2 has shown better performance than models like Mistral 7B and Llama 2 (13B) across several benchmarks, including multi-step reasoning tasks, even outperforming the larger Llama-2-70B model.
+
+Demonstrating Phi-2's Capabilities
+
+Here are examples that showcase what Phi-2 can do:
+
+1. Solving Physics Problems:
+Phi-2 can solve physics word problems effectively.
+
+2. Identifying Errors:
+It can also check student calculations and point out mistakes in physics word problems.
+
+How to Use Phi-2
+
+You can prompt Phi-2 in several formats: question-answering (QA), chat, and code.
+
+QA Format: This format is ideal for asking direct questions and receiving concise answers.
+
+Example:
+
+- Prompt: What is the difference between data and information?
+- Response: Data refers to raw facts and statistics, while information is data that has been processed to be meaningful and useful.
+
+Chat Format: The chat format is like a conversation.
+
+Example:
+
+- Human: Hello, who are you?
+- AI: Hello! I'm an AI research assistant. How can I assist you today?
+- Human: Can you explain how black holes are created?
+- AI: Black holes form when a massive star exhausts its fuel and collapses under its gravity, becoming so dense that it distorts space-time and pulls in everything nearby, even light.
+
+Code Format: This is for generating code.
+
+Example:
+
+- Prompt: `def multiply(a, b):`
+
+Keep in mind that Phi-2's coding abilities are limited as it has been trained on a smaller dataset of Python examples.
+
+Limitations of Phi-2
+
+Here are some of the known limitations of Phi-2:
+
+- Like other models, Phi-2 can produce incorrect code or statements.
+- It is not specifically tuned for instruction following and may struggle with complex commands.
+- The model mainly understands standard English, which might lead to challenges with slang and instructions in other languages.
+- There is a potential for generating biased or harmful content.
+- Phi-2 can sometimes provide overly long or irrelevant responses, likely due to its training on textbook data.

@@ -1,0 +1,1 @@
+Automate the process of generating optimal few-shot learning prompts for specific NLP tasks like summarization or classification, reducing human effort.

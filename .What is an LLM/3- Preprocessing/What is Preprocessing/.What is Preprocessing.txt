@@ -1,0 +1,1 @@
+Preprocessing refers to the initial steps and techniques applied to raw text data before it is fed into the model for training or inference. The goal of preprocessing is to clean, normalize, and prepare the text data in a way that enhances the model's ability to understand and generate text effectively

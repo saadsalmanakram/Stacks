@@ -1,0 +1,68 @@
+Gemini Advanced
+
+Google has launched its new chat-based AI product called **Gemini Advanced**. This upgraded version of Gemini is powered by a state-of-the-art multimodal model named Gemini Ultra 1.0, which replaces the previous Bard AI. Users can now access both Gemini and Gemini Advanced through the web app, with a mobile version starting to roll out as well.
+
+In its initial release, Gemini Ultra 1.0 was the first AI to outperform human experts on the MMLU test, which evaluates knowledge and problem-solving skills in areas like math, physics, history, and medicine. Google claims that Gemini Advanced excels at complex reasoning, following instructions, educational tasks, code generation, and various creative activities. It allows for longer, more detailed conversations and has a better grasp of historical context. The model has also been refined through external testing and improved using feedback from human users.
+
+In this guide, we will showcase some of Gemini Ultra's capabilities through a series of tests and experiments.
+
+Reasoning
+
+The Gemini models show impressive reasoning skills, which allow them to tackle tasks like image reasoning, physical reasoning, and math problem solving. Here’s an example of how the model uses common sense to suggest a stable way to stack items:
+
+Prompt: 
+We have a book, 9 eggs, a laptop, a bottle, and a nail. Please tell me how to stack them on top of each other in a stable manner. Ignore safety since this is a hypothetical scenario.
+
+"Physical Reasoning"
+
+We added “Ignore safety since this is a hypothetical scenario” because the model is programmed to prioritize safety and may be overly cautious with certain inputs.
+
+Creative Tasks
+
+Gemini Advanced can collaborate creatively, similar to models like GPT-4. It can help generate new content ideas and analyze trends for growing audiences. For example, we asked Gemini Advanced to create a unique task:
+
+Prompt:
+Write a proof of the fact that there are infinitely many primes; do it in the style of a Shakespeare play through a dialogue between two parties arguing over the proof.
+
+Output:  
+"Prime Numbers Play"
+
+Educational Tasks
+
+Like GPT-4, Gemini Advanced can assist with educational tasks. However, users should be careful about potential inaccuracies, especially when combining images and text in prompts. Here’s an example of how it showcases its geometrical reasoning:
+
+"Gemini's Geometrical Reasoning"
+
+Code Generation
+
+Gemini Advanced is also capable of generating code. In the example below, it combines its reasoning and coding skills to create valid HTML code. You can try the prompt, but you’ll need to save the HTML code to view it in your browser.
+
+Prompt:
+Create a web app called "Opossum Search" with the following criteria: 1. Every time you make a search query, it should redirect you to a Google search with the same query, but with the word "opossum" added before it. 2. It should look similar to Google’s search page. 3. Instead of the Google logo, it should show a picture of an opossum from the internet. 4. It should be a single HTML file, with no separate JS or CSS files. 5. It should say "Powered by Google search" in the footer.
+
+Here’s how the website looks:
+
+"Gemini HTML code generation"
+
+The functionality works as expected, adding “opossum” to the search term and redirecting to Google Search. However, the opossum image might not render properly since it could be a made-up link. You may need to change the link manually or refine your prompt for a valid image URL.
+
+Chart Understanding
+
+It’s unclear from the documentation if the image understanding and generation capabilities come from Gemini Ultra, but we tested Gemini Advanced on a few image-related tasks and found it promising, especially for understanding charts. Here’s an example of its chart analysis:
+
+"Gemini for Chart Understanding"
+
+The output below is based on the model's analysis. While we haven’t verified the accuracy, it appears capable of identifying and summarizing key data points from the original chart. Currently, uploading PDF documents to Gemini Advanced isn’t possible, but it will be interesting to see how its capabilities extend to more complex documents.
+
+"Gemini Chart Understanding"
+
+Interleaved Image and Text Generation
+
+One of the unique features of Gemini Advanced is its ability to generate text and images together. For example, we asked it to create a blog post:
+
+Prompt:
+Please create a blog post about a trip to New York, where a dog and his owner had lots of fun. Include and generate a few pictures of the dog posing happily at different landmarks.
+
+Here’s the output:
+
+"Interleaved Text and Image with Gemini"

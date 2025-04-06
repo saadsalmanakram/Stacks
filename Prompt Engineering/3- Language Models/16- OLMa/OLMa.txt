@@ -1,0 +1,44 @@
+OLMo Overview
+
+In this guide, we’ll give you a clear introduction to Open Language Model (OLMo), including how to use it, examples, and some helpful tips. We’ll also discuss its applications, limitations, relevant research papers, and further reading.
+
+What is OLMo?
+
+The Allen Institute for AI has developed a new open language model called OLMo. This initiative aims to make language model research easier by providing complete access to data, training codes, models, and evaluation tools.
+
+The first version includes four models with 7 billion parameters and one model with 1 billion parameters, all trained on a massive dataset of at least 2 trillion tokens. This is just the beginning, as a larger model with 65 billion parameters is planned for future release.
+
+Features of OLMo Models
+
+The released models come with:
+
+- Complete training data, including the code to create this data
+- All model weights, training codes, logs, performance metrics, and inference code
+- Several checkpoints for each model
+- Evaluation and fine-tuning code
+
+Everything is shared under the Apache 2.0 License, ensuring wide accessibility.
+
+OLMo-7B Details
+
+The OLMo-7B and OLMo-1B models are built using a decoder-only transformer design. They incorporate enhancements from models like PaLM and Llama, such as:
+
+- No biases
+- A layer normalization technique that doesn’t rely on parameters
+- The SwiGLU activation function
+- Rotary positional embeddings (RoPE)
+- A vocabulary size of 50,280 words
+
+Dolma Dataset
+
+Along with the models, a pre-training dataset called Dolma is also released. Dolma is a rich collection of 3 trillion tokens from 5 billion documents gathered from seven different sources. The creation process includes filtering for language quality, content, removing duplicates, mixing different sources, and tokenizing the text.
+
+The training dataset uses a sample of 2 trillion tokens from Dolma. Tokens are grouped into chunks of 2048 tokens, shuffled, and have a special end-of-sequence (EOS) token added to the end of each document.
+
+For more training details and the hardware needed to train the models, you can check the accompanying research paper.
+
+Evaluation Results
+
+The OLMo models are tested on various tasks using a framework called Catwalk. They are compared with other public models like Falcon and Llama 2, focusing on assessing their commonsense reasoning skills. The evaluation includes datasets like PIQA and HellaSwag. 
+
+The authors used a zero-shot evaluation method, ranking the model completions by their likelihood, and they reported accuracy. The OLMo-7B model outperforms all other models in two tasks and ranks in the top three for eight out of nine tasks. You can find a summary of these results in the chart below.

@@ -1,0 +1,93 @@
+In this section, we’ll explore how to create effective prompts for ChatGPT, along with practical tips, real-world uses, limitations, research papers, and additional resources.
+
+Topics:
+1. Introduction to ChatGPT
+2. Understanding the Conversation Task
+3. How to Have Conversations with ChatGPT
+
+What is ChatGPT?
+
+ChatGPT is a model by OpenAI designed to communicate like a person. It’s trained to follow instructions and provide answers in a conversational setting. You can ask it to do a variety of tasks like answering questions, suggesting recipes, writing song lyrics, or generating code.
+
+The model is improved through Reinforcement Learning from Human Feedback (RLHF). While it's more advanced than earlier versions, and better at avoiding harmful or false responses, it still has some limitations. Let's explore its strengths and weaknesses with examples.
+
+You can try ChatGPT using the OpenAI Playground, and for the examples below, we’ll use its chat mode.
+
+Understanding the Conversation Task
+
+Earlier, we discussed how to set up a conversation with ChatGPT using specific instructions. You can guide the chatbot to respond in a particular style, with a certain tone, or act as a specific character.
+
+Here’s an example of a basic prompt that instructs the chatbot to respond scientifically:
+
+Prompt:  
+This is a conversation with an AI research assistant. The assistant speaks in a technical and scientific tone.
+
+Example:  
+Human: Hello, who are you?  
+AI: Hello! I am an AI research assistant. How can I assist you today?
+
+From this, you can see two key parts:
+1. Intent: What is the AI’s role? (In this case, a research assistant).
+2. Tone/Style: How should it speak? (In a scientific tone).
+
+More recently, OpenAI released gpt-3.5-turbo, a faster and cheaper model specifically for chat tasks. This model is used in many applications, like Snap and Instacart, for personalized recommendations and chat-based shopping tools.
+
+Having Conversations with ChatGPT
+
+Multi-Turn Conversations:  
+To show ChatGPT's capabilities, we’ll use the research assistant example above and look at how it handles multiple questions in a conversation.
+
+Input:
+- SYSTEM: You are an AI research assistant. Use a technical and scientific tone.
+- USER: Hello, who are you?
+- ASSISTANT: Hello! I am an AI research assistant. How can I assist you today?
+- USER: Can you tell me how black holes are created?
+
+Output:
+- ASSISTANT: Certainly! Black holes form when a massive star runs out of fuel and collapses under its gravity. This collapse creates a dense core with gravity so strong that even light cannot escape...
+
+In this example, ChatGPT uses a specific input format and chat flow to generate responses. You can create this setup using OpenAI's API, like this:
+
+```python
+import openai
+
+openai.ChatCompletion.create(
+  model="gpt-3.5-turbo",
+  messages=[
+    {"role": "system", "content": "You are an AI research assistant. You use a technical and scientific tone."},
+    {"role": "user", "content": "Hello, who are you?"},
+    {"role": "assistant", "content": "Hello! I am an AI research assistant. How can I help you today?"},
+    {"role": "user", "content": "Can you explain black holes?"}
+  ]
+)
+```
+
+In the future, developers may use **Chat Markup Language (ChatML)** to interact with ChatGPT.
+
+Single-Turn Tasks:  
+Besides conversations, ChatGPT can handle simple, one-off tasks. For instance, it can answer questions like this:
+
+Input:
+- USER: Answer the question based on the information below. Keep your answer short. If you're unsure, respond with "Unsure about answer."
+
+Context: Teplizumab was first developed by Ortho Pharmaceutical in New Jersey. It started as a mouse-derived molecule known as OKT3. It was approved in 1986 to prevent kidney transplant rejection, making it the first therapeutic antibody for humans.
+
+Question: What was OKT3 originally sourced from?  
+Answer: Mice.
+
+You can also write this using the OpenAI API like this:
+
+```python
+response = openai.ChatCompletion.create(
+    model="gpt-3.5-turbo",
+    messages=[
+        {"role": "user", "content": "Answer the question based on the context below. Keep the answer short and concise. Respond \"Unsure about answer\" if not sure about the answer.\n\nContext: Teplizumab traces its roots to a New Jersey drug company called Ortho Pharmaceutical... What was OKT3 originally sourced from?"}
+    ]
+)
+```
+
+Giving Instructions to Chat Models
+
+OpenAI recommends putting instructions in the user’s message for models like gpt-3.5-turbo-0301. This means the best practices for guiding the model might change over time as new versions are released.
+
+In summary, prompt engineering is about structuring your input to get the most effective results from ChatGPT.

@@ -1,0 +1,1 @@
+A system that retrieves existing research papers, funding opportunities, and institutional guidelines, generating tailored research proposals for scientists, including literature reviews, methodologies, and budget estimates.

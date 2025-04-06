@@ -1,0 +1,18 @@
+In the context of large language models (LLMs), *truncating* refers to the practice of limiting the length of input text (prompt) or output text (generated response) to a specified number of tokens or characters. This is often done to manage computational resources, maintain performance, or adhere to input/output size limitations imposed by the model or its framework.
+
+Common Scenarios of Truncating:
+
+1. Input Truncation:
+   - When the input text exceeds the model's maximum token limit, it may be truncated to fit within this limit. For example, if a model can handle a maximum of 4096 tokens, but the input text has 5000 tokens, the text might be truncated to the first 4096 tokens.
+   - Truncation can also be used to remove less relevant information from the input to focus on the most important parts of the text.
+
+2. Output Truncation:
+   - When generating text, the model may be instructed to limit its output to a certain number of tokens or characters. This prevents the model from producing overly long responses that may be unnecessary or irrelevant.
+   - Output truncation is often used to ensure that the generated text remains concise and within a manageable size.
+
+Why Truncation Matters:
+- Resource Management: Truncating input and output helps in managing memory and computational resources, particularly when working with large models and datasets.
+- Efficiency: Truncating long texts can improve processing speed and reduce latency in real-time applications.
+- Adherence to Limits: Many language models have specific token limits, and truncation ensures that inputs and outputs remain within these constraints.
+
+In summary, truncating in the context of LLMs is about managing the length of text to optimize performance and adhere to model constraints.

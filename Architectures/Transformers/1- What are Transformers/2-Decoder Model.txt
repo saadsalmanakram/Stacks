@@ -1,0 +1,12 @@
+Decoder models focus only on the decoder part of a Transformer model. When processing a sentence, they look at each word one by one, only considering the words that come before it. This approach is why they’re often called “auto-regressive” models.
+
+These models are usually pretrained by learning to predict the next word in a sentence.
+
+Decoder models are ideal for tasks that involve generating text.
+
+Examples of decoder models include:
+
+- CTRL
+- GPT
+- GPT-2
+- Transformer XL

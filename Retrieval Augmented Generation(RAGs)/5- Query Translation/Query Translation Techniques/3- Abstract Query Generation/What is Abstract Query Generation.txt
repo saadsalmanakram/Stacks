@@ -1,0 +1,1 @@
+This method converts the original query into a more general or high-level query. The system retrieves information for this broader query, then combines it with detailed documents to form a final, accurate response. This is especially useful when precision and factual consistency are crucial.

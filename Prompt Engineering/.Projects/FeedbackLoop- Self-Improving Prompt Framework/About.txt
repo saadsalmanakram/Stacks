@@ -1,0 +1,1 @@
+Implement self-improvement prompts, where models critique and improve their outputs over iterations. Ideal for code generation, content refinement, or task-specific optimization.

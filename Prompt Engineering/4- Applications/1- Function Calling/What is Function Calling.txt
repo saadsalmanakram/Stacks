@@ -1,0 +1,136 @@
+Introduction to Function Calling with LLMs
+
+Function calling allows large language models (LLMs) to interact with external tools and services, making them more useful in real-world applications. 
+
+Models like GPT-4 and GPT-3.5 are designed to recognize when a specific function should be invoked. They generate structured data (in JSON format) that includes the necessary information for that function call. You can define multiple functions in a single request to extend the capabilities of your AI application.
+
+Function calling is essential for creating chatbots or intelligent agents that need to gather information or interact with various services by translating everyday language into API requests.
+
+What Can You Build with Function Calling?
+
+Function calling enables developers to create:
+
+1. Conversational Agents: These agents can efficiently utilize external tools to respond to inquiries. For instance, if a user asks, "What's the weather in Tokyo?", it might trigger a function call like `get_current_weather(city: string, unit: 'celsius' | 'fahrenheit')`.
+
+2. Data Extraction and Tagging: For example, extracting names from a news article or identifying key phrases in a document.
+
+3. Natural Language to API Calls: You can develop applications that take user queries in plain language and convert them into proper API requests or database queries.
+
+4. Knowledge Retrieval Systems: These systems can interact with a knowledge base to provide answers based on user queries.
+
+In this guide, we'll show how to prompt models like GPT-4 for function calling across various scenarios.
+
+Function Calling with GPT-4
+
+Let’s consider a simple example of asking about the weather in a specific city.
+
+An LLM alone cannot fetch live weather data because it operates based on pre-existing knowledge. To overcome this, we combine the LLM with an external function that can provide real-time data.
+
+Example Scenario
+
+Suppose a user wants to know:
+
+User: "What is the weather like in London?"
+
+To handle this request using function calling, we need to define a function that can fetch the weather details. Here’s how you can set it up using OpenAI's API:
+
+```python
+tools = [
+    {
+        "type": "function",
+        "function": {
+            "name": "get_current_weather",
+            "description": "Get the current weather in a given location",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "location": {
+                        "type": "string",
+                        "description": "The city and country, e.g. London, UK",
+                    },
+                    "unit": {
+                        "type": "string", 
+                        "enum": ["celsius", "fahrenheit"],
+                    },
+                },
+                "required": ["location"],
+            },
+        },   
+    }
+]
+```
+
+The `get_current_weather` function is designed to return the weather for a specified location. When we include this function definition in our request, the LLM generates a JSON object containing the necessary parameters for the function without actually executing it.
+
+Implementing the Function Call
+
+Next, you can create a function to interact with the LLM:
+
+```python
+def get_completion(messages, model="gpt-3.5-turbo", temperature=0, max_tokens=300, tools=None):
+    response = openai.chat.completions.create(
+        model=model,
+        messages=messages,
+        temperature=temperature,
+        max_tokens=max_tokens,
+        tools=tools
+    )
+    return response.choices[0].message
+```
+
+To form the user question, you can prepare the message as follows:
+
+```python
+messages = [
+    {
+        "role": "user",
+        "content": "What is the weather like in London?"
+    }
+]
+```
+
+Now, you can call the `get_completion` function, passing in the message and the tools:
+
+```python
+response = get_completion(messages, tools=tools)
+```
+
+The response will contain the function call details, including the necessary parameters:
+
+```python
+response = {
+    "content": None,
+    "role": "assistant",
+    "function_call": None,
+    "tool_calls": [
+        {
+            "id": "...",
+            "function": {
+                "arguments": '{"location":"London","unit":"celsius"}',
+                "name": "get_current_weather"
+            },
+            "type": "function"
+        }
+    ]
+}
+```
+
+The `arguments` object here contains the critical information extracted by the model, which will be needed to complete the request.
+
+Once you receive the weather data from the external API, you can send it back to the LLM for a final summary response based on the user’s original question.
+
+Additional Examples
+
+Here's how function calling can be beneficial in various scenarios:
+
+- Chatbots: Create a chatbot that can book tickets. For example, a user asks, "Book me a flight to New York," which can trigger a function like `book_flight(destination: string, date: string)`.
+
+- Data Extraction: An application could pull names from a document. For instance, a user types, "Extract names from this text," leading to a function call like `extract_names(text: string)`.
+
+- Math Solver: If a user inputs, "What is 25 multiplied by 8?", it could trigger `calculate_math(problem: string)`.
+
+- Information Retrieval: A query like "Find me articles about climate change" could call a function like `search_articles(topic: string)`.
+
+Conclusion
+
+Function calling expands the capabilities of LLMs, enabling them to interact with external services and perform a wide array of tasks, from retrieving real-time data to executing complex queries. By understanding how to effectively implement function calling, developers can create more intelligent and responsive applications.

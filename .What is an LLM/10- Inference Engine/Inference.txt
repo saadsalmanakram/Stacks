@@ -1,0 +1,1 @@
+Inference refers to the process of generating predictions or outputs based on an input.

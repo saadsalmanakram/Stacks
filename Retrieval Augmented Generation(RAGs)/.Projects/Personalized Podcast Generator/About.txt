@@ -1,0 +1,1 @@
+A RAG tool that retrieves topics from various news sources, blog posts, and user preferences, generating a personalized podcast script or audio episodes tailored to individual interests.
