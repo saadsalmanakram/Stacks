@@ -27,7 +27,7 @@ This repository is meant for educational purposes and follows an open-source phi
 
 ---
 
-### 📬 Connect With Me...
+### 📬 Connect With Me..
 - **GitHub:** [@saadsalmanakram](https://github.com/saadsalmanakram)
 - **LinkedIn:** [Saad Salman Akram](https://www.linkedin.com/in/saadsalmanakram/)
 - **Hugging Face:** [SaadSalman7](https://huggingface.co/SaadSalman7)
