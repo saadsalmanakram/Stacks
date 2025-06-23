@@ -1,4 +1,0 @@
-Conversation History Utilization:
-
-Giving the System a Memory: This technique allows the RAG system to remember previous interactions with the user.
-Example: If a user asks a follow-up question, the system can refer to the previous conversation to provide a more relevant response.

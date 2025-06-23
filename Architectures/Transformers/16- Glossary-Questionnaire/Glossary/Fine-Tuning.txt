@@ -1,6 +1,0 @@
-Fine-tuning is a process where you take a model that has already been trained on a large and general dataset (pretrained model) and then train it further on a smaller, specific dataset related to your particular task. 
-
-This is beneficial because:
-1. Leverages Existing Knowledge: The pretrained model already has a good understanding of the general data, so it doesn't need to learn everything from scratch. It can use this knowledge to better understand your specific task.
-2. Less Data Needed: Since the model has already seen a lot of data, fine-tuning requires less additional data to perform well on your task.
-3. Saves Time and Resources: Training a model from scratch can be very time-consuming and resource-intensive. Fine-tuning is quicker and requires fewer resources because the model has already done most of the heavy lifting during pretraining.

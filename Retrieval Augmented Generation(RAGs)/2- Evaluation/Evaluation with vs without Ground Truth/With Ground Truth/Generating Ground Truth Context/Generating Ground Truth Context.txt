@@ -1,9 +1,0 @@
-A method to establish a reliable context is to:
-
-- Cluster Similar Chunks: Organize similar text segments from your knowledge base into clusters based on their semantic similarities.
-- Generate Queries: For each cluster, design one or more queries that can be answered exclusively using the information contained within that specific group. This guarantees that the context relevant to those queries is clearly defined.
-
-
-
-
-

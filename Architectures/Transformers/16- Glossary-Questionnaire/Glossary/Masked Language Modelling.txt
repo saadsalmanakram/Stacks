@@ -1,5 +1,0 @@
-A masked language model (MLM) is a type of language model that is trained to predict missing words in a sequence. During training, some words in a sentence are randomly replaced with a special token (e.g., `[MASK]`), and the model learns to predict the original words based on the surrounding context. This process helps the model learn bidirectional context, meaning it can consider both the preceding and following words when making predictions.
-
-For example, if the original sentence is "The cat sat on the mat," a masked version might be "The cat sat on the [MASK]." The model's task is to predict that the `[MASK]` should be replaced with "mat."
-
-This approach allows the model to understand and leverage context from both sides of a missing word, leading to better performance on various NLP tasks compared to causal language models, which only use past context. Popular models like BERT (Bidirectional Encoder Representations from Transformers) use this masked language modeling technique.

@@ -1,1 +1,0 @@
-A tool that helps researchers by retrieving related works, citations, and statistical data, then generating constructive feedback on new research papers, pointing out strengths, potential improvements, and missing references.

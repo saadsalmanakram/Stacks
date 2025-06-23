@@ -1,1 +1,0 @@
-A system that retrieves relevant research papers, case studies, and treatment options for rare diseases, generating tailored medical summaries for healthcare providers or patients.

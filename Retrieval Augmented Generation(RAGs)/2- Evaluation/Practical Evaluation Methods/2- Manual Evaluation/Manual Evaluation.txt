@@ -1,4 +1,0 @@
-Manual Evaluation:
-
-- What it is: Hiring human evaluators (often experts) to manually assess the responses.
-- Why it matters: Although time-consuming and costly, this is one of the most reliable evaluation methods.

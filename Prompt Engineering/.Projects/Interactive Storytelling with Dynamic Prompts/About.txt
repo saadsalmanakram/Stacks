@@ -1,1 +1,0 @@
-Create an interactive storytelling platform where users can influence the narrative flow through prompts, with the AI dynamically adjusting the story based on user choices.

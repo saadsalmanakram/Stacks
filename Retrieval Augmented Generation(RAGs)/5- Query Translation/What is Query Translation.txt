@@ -1,5 +1,0 @@
-Query translation is the process of modifying or rephrasing a query to improve how well a system can understand and retrieve relevant information. This can involve rewriting, breaking down, or simplifying the query to enhance search accuracy and generate better results.
-
-When working with complex queries in Retrieval-Augmented Generation (RAG) systems, just searching for the exact words from a user's query often isn't enough to find all relevant information. That's where query translation techniques come in, providing ways to modify the query and improve how well the system retrieves useful data.
-
-The main goal of query translation is to boost recall, meaning increasing the chances of finding all the relevant documents or information, even if they don't use the exact words from the original query.

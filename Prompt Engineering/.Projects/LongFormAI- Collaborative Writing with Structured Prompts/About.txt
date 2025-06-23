@@ -1,1 +1,0 @@
-Enable co-creation of long-form content (e.g., articles, reports, or books) by guiding LLMs through structured, iterative prompts to maintain consistency, tone, and coherence.

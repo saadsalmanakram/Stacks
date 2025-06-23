@@ -1,1 +1,0 @@
-Loss function is a mathematical function used to quantify the difference between the predicted outputs of the model and the actual target values. It measures how well or poorly the model's predictions align with the true values.

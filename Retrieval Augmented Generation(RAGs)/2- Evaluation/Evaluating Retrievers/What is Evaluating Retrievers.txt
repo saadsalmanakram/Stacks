@@ -1,1 +1,0 @@
-Assessing retrievers requires measuring the alignment between the retrieved context and the ground truth using various ranking and prediction quality metrics from information retrieval. Platforms like Weaviate can help simplify and automate this evaluation process.

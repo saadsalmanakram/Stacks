@@ -1,1 +1,0 @@
-A RAG model that retrieves fashion trends, outfit ideas, and product reviews from e-commerce platforms and fashion blogs, generating personalized styling suggestions and links to relevant products.

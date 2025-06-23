@@ -1,1 +1,0 @@
-These metrics assess the effectiveness of the retriever in identifying relevant documents:

@@ -1,1 +1,0 @@
-This involves storing knowledge learned during training that can be applied across different tasks and queries. For instance, a model trained on diverse data should have long-term memory of facts, language structures, and patterns.

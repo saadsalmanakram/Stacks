@@ -1,8 +1,0 @@
-This approach involves breaking a complex query into smaller sub-queries. Each sub-query focuses on a part of the problem, making it easier to handle complicated questions involving multiple ideas or steps.
-
-Example of Query Decomposition (Subqueries)
-One way to use sub-queries is through sequential retrieval:
-
-- Identify Sub-Problems: An LLM breaks down the main query into smaller, intermediate questions that need to be answered first.
-- Sequential Retrieval and Response Generation: The system retrieves answers for each sub-problem, one at a time.
-- Combining Intermediate Answers: The individual answers are then combined to form a complete response to the original query.

@@ -1,9 +1,0 @@
-Researchers from ServiceNow recently published a paper on how to use RAG (Retrieval-Augmented Generation) for structured output tasks more effectively.
-
-"RAG Hallucination" Problem
-
-In this method, RAG combines a small language model with a small retriever (which finds relevant data). The key benefit of this approach is that it helps deploy powerful AI systems in environments with limited resources, while also reducing hallucination (when AI generates incorrect or misleading information) and making outputs more reliable.
-
-The paper explores a practical use case: converting natural language instructions into workflows, formatted in JSON. This can greatly boost productivity, but there is still room for improvement, like using speculative decoding or YAML (another format) instead of JSON.
-
-Overall, the paper offers valuable tips and insights on how to build RAG systems that work well in real-world applications.

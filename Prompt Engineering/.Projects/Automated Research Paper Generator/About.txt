@@ -1,1 +1,0 @@
-Create a system that helps researchers generate drafts of research papers by providing prompts based on specified topics and desired structures.

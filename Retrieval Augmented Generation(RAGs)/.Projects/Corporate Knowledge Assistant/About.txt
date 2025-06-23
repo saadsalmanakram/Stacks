@@ -1,1 +1,0 @@
-A RAG solution for large corporations to retrieve documents from internal wikis, emails, and reports, generating coherent answers to employee queries about company policies, historical decisions, and ongoing projects.

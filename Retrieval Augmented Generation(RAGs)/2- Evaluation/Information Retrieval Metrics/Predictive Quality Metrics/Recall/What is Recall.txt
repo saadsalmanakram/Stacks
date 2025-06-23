@@ -1,1 +1,0 @@
-Of all the relevant documents available, how many were successfully retrieved?

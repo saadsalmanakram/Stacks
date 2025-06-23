@@ -1,1 +1,0 @@
-Another LLM can be used as an evaluator to determine whether the retrieved context is relevant and accurately addresses the user's query.

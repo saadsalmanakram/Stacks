@@ -1,1 +1,0 @@
-These metrics emphasize the sequence in which relevant documents are retrieved

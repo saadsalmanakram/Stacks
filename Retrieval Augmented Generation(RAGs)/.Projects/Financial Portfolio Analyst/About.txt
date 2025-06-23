@@ -1,1 +1,0 @@
-A financial RAG tool that retrieves historical market data, news articles, and financial reports, generating custom portfolio analysis and investment recommendations based on the user’s risk profile and goals.

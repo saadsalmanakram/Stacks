@@ -1,1 +1,0 @@
-In the context of large language models (LLMs), **post-processing** refers to the steps taken after the model generates text to refine, clean, or adapt the output to make it more useful, accurate, or aligned with specific requirements. This may include tasks like correcting errors, formatting the text, filtering content, or adjusting the output to meet certain criteria.

@@ -1,1 +1,0 @@
-A harmonic mean that balances both precision and recall.

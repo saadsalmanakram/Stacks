@@ -1,1 +1,0 @@
-A travel assistant that retrieves information about destinations, local events, weather, and user preferences to generate personalized travel itineraries with accommodations, attractions, and local tips.

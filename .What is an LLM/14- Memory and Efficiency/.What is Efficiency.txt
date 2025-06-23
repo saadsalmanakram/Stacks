@@ -1,6 +1,0 @@
-Efficiency in language models refers to how well the model utilizes computational resources such as memory and processing power to achieve its tasks. It encompasses both computational efficiency and memory efficiency.
-
-Types:
- - Computational Efficiency: This involves the model’s ability to perform tasks with minimal computational resources, including faster training and inference times. Techniques such as model pruning, quantization, and using more efficient architectures help improve computational efficiency.
- 
- - Memory Efficiency: This refers to how well the model manages its memory usage. Efficient memory usage involves techniques like reducing the size of the model parameters, efficient data handling, and optimizing memory allocation during training and inference to avoid excessive memory consumption.

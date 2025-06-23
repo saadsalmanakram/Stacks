@@ -1,5 +1,0 @@
-Document Metadata: This refers to information about the entire document, such as:
-
-Title: The document's name or headline.
-Source: The origin of the document (e.g., a website, book, or internal documentation).
-Summary: A brief overview or abstract of the document’s content.

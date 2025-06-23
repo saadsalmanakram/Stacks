@@ -1,4 +1,0 @@
-Query Decomposition:
-
-Breaking Down Complexity: This technique breaks down complex, multi-part queries into simpler sub-queries that the system can process more effectively.
-Example: Decomposing the query "How do I log metrics?" into sub-queries about the steps involved, examples, and best practices allows the system to address all aspects of the question.

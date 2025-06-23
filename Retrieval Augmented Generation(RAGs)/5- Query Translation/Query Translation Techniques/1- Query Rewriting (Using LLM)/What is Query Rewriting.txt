@@ -1,1 +1,0 @@
-We can use a Large Language Model (LLM) to rephrase the original query in different ways, changing the wording slightly. This helps with situations where the user's query doesn’t match the language used in relevant documents. By creating variations, the system is more likely to find what’s needed.

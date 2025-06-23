@@ -1,1 +1,0 @@
-Hardware refers to the physical components and infrastructure used to run, train, and deploy these models.

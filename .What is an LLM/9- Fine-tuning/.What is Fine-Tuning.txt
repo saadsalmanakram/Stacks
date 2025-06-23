@@ -1,1 +1,0 @@
-Fine-tuning refers to the process of taking a pre-trained model and further training it on a specific dataset to adapt it to a particular task or domain.

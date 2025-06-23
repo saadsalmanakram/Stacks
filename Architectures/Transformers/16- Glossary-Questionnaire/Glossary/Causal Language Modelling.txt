@@ -1,3 +1,0 @@
-Causal language modeling is a type of language model where the goal is to predict the next word in a sequence based on the preceding words. In this approach, the model generates predictions by considering only the past and present words in the sequence, without looking ahead at future words. This is referred to as "causal" because the model's predictions are influenced only by the context that has already been observed, reflecting a causal relationship from past inputs to future outputs. 
-
-For example, if the model is given the sentence fragment "The cat sat on the," it uses the words "The cat sat on the" to predict the next word, such as "mat." The model does not have access to any subsequent words and relies solely on the information from the previous words.

@@ -1,1 +1,0 @@
-Of the documents retrieved, how many were truly relevant?

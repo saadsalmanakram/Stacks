@@ -1,1 +1,0 @@
-We assess the context retrieved by our system by comparing it to a predefined set of ground truth contexts, ranking the retrieved content according to its similarity to the true context.

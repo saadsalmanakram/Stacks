@@ -1,9 +1,0 @@
-In RAG, citation involves referencing the specific external sources or documents used to generate an answer. This adds transparency and allows users to trace the origin of the information provided, helping them assess the credibility of the output and verify the accuracy of the content.
-
-Citations give users clear references to where the information came from. This could include links to specific documents, page numbers, or sections. Citations let users easily check the source, boosting their confidence in the system's accuracy.
-
-
-
-
-
-

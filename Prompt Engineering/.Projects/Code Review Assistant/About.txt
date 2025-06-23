@@ -1,1 +1,0 @@
-Develop an AI tool that reviews code submissions and generates feedback using prompts to enhance code quality, suggest improvements, and ensure best practices.

@@ -1,4 +1,0 @@
-Intent Recognition:
-
-Understanding the "Why": This helps the system determine the user's goal or purpose behind the query.
-Example: Classifying a query like "How do I log metrics?" as related to "product features" guides the retrieval process toward relevant documentation.

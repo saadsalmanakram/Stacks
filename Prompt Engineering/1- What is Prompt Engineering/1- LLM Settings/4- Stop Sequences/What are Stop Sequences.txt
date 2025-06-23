@@ -1,1 +1,0 @@
-A stop sequence is a specific string that instructs the model to stop generating text. This helps you control the length and format of the model's responses. For example, if you want the model to generate a list of colors but limit it to 5 items, you could use "6" as a stop sequence. This way, the model will stop generating once it reaches the sixth item.

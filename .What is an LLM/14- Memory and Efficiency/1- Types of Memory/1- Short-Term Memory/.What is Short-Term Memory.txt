@@ -1,1 +1,0 @@
-This involves maintaining context within a single sequence or conversation. For example, a model needs to remember the context of a conversation to generate coherent responses.

@@ -1,1 +1,0 @@
-Evaluates the ranking position of the first relevant document.

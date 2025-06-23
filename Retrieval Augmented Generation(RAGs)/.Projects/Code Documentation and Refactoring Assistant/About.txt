@@ -1,1 +1,0 @@
-A system for software engineers that retrieves code snippets, documentation, and best practices from repositories and forums, generating detailed code explanations, refactoring suggestions, and documentation for legacy code.

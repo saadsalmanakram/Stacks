@@ -1,1 +1,0 @@
-An interactive fiction platform that retrieves data from a vast array of stories, characters, and settings, dynamically generating custom storylines based on user input, preferences, and chosen paths.

@@ -1,1 +1,0 @@
-A RAG model that assists legal professionals by retrieving similar past cases, laws, and rulings, and then generating concise legal summaries or potential arguments based on the context of a new case.

@@ -1,6 +1,0 @@
-Sometimes, you won’t have a clear "correct" answer to compare your system’s output with. In such cases, you can still evaluate it using other methods:
-
-1. Direct Evaluation:
-What it is: Assess specific aspects of the response, such as toxicity or bias. You can also check if the response is grounded in the retrieved source material (e.g., look for proper citations).
-2. Pairwise Evaluation:
-What it is: Compare two or more generated responses for the same query and evaluate them based on criteria like tone, coherence, and informativeness.

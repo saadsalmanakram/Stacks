@@ -1,4 +1,0 @@
-Eyeballing:
-
-- What it is: A quick check by simply looking at the responses to see if they seem reasonable.
-- Limitations: It's fast, but not always reliable, especially for catching edge cases.

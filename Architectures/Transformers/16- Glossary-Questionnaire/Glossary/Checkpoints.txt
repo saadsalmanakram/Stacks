@@ -1,1 +1,0 @@
-These are the weights that will be loaded in a given architecture.

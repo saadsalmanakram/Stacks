@@ -1,7 +1,0 @@
-Memory in language models refers to the capacity of the model to store and utilize information during its operation. This includes both the model’s ability to retain information about previous context within a single session (short-term memory) and its ability to learn and store information over multiple training sessions (long-term memory).
-
-Types:
-
- - Short-Term Memory: This involves maintaining context within a single sequence or conversation. For example, a model needs to remember the context of a conversation to generate coherent responses.
-
- - Long-Term Memory: This involves storing knowledge learned during training that can be applied across different tasks and queries. For instance, a model trained on diverse data should have long-term memory of facts, language structures, and patterns.

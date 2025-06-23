@@ -1,4 +1,0 @@
-Evaluation with Ground Truth (Reference Evaluation):
-
-1. What it is: When you have a "correct" answer, you can compare the system’s output to that gold standard.
-Why it matters: This is useful for evaluating if the structure and content of the response match expectations and contain the necessary information.
